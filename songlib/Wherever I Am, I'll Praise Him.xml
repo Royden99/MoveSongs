@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:50">
+  <properties>
+    <titles>
+      <title>Wherever I Am, I'll Praise Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wherever I am, I'll praise Him.<br/>Whenever I can, I'll praise Him<br/>For His love surrounds me like the sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll praise the name of Jesus,<br/>Lift up the name of Jesus,<br/>For the name of Jesus lifted me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Donde quiera que esté, le alabo,<br/>Todo el tiempo le alabo<br/>Su amor me rodea como la mar.<br/>Alabo el nombre de Cristo <br/>Levanto el nombre de Cristo<br/>Porque Cristo me levantó a mí.</lines>
+    </verse>
+  </lyrics>
+</song>

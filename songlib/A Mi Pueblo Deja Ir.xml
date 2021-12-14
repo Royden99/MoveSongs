@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:45">
+  <properties>
+    <titles>
+      <title>A Mi Pueblo Deja Ir</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/A mi pueblo deja ir, dice el Señor/ (3) <br/>para servirme a mí. <br/>Donde fluye leche y miel, haré morar (3) <br/>Para servirme a mí. </lines>
+    </verse>
+  </lyrics>
+</song>

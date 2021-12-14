@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:08">
+  <properties>
+    <titles>
+      <title>Jesus, what a beautiful name!</title>
+    </titles>
+    <authors>
+      <author>Tanya Riches</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, what a beautiful name!<br/>Son of God, Son of man,<br/>Lamb that was slain.<br/>Joy and peace, strength and hope,<br/>Grace that blows all fear away,<br/>Jesus, what a beautiful name!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, what a beautiful name!<br/>Truth revealed, my future sealed,<br/>Healed my pain.<br/>Love and freedom, life and warmth,<br/>Grace that blows all fear away,<br/>Jesus, what a beautiful name!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, what a beautiful name!<br/>Rescued my soul, my stronghold,<br/>Lifts me from shame.<br/>Forgiveness, security, power and love,<br/>Grace that blows all fear away,<br/>Jesus, what a beautiful name!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

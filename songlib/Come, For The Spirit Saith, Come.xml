@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:13">
+  <properties>
+    <titles>
+      <title>Come, For The Spirit Saith, Come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, for the Spirit saith, Come.<br/>Whosoever will may come;<br/>Whosoever thirsteth, let him come to Me and drink.<br/>Come, for the Spirit crieth, Come.<br/>Whosoever thirsteth, come.<br/>He that drinks of Me shall have everlasting life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, Lord, I hear You saying, Come.<br/>Lord, I hear Your voice cry, Come.<br/>So I come to drink of Your everlasting life.<br/>Come, even so, Lord Jesus, Come;<br/>Even so, come quickly, Come.<br/>Glorify Thy Name.<br/>Even so, Lord Jesus, Come.</lines>
+    </verse>
+  </lyrics>
+</song>

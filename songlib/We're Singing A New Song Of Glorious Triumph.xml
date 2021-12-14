@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:42">
+  <properties>
+    <titles>
+      <title>We're Singing A New Song Of Glorious Triumph</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're singing a new song of glorious triumph.<br/>For we see the government of God in our lives. (Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He is crowned, God of the whole world crowned,<br/>King of creation, crowned; ruling the nations now. (Repeat.)</lines>
+    </verse>
+  </lyrics>
+</song>

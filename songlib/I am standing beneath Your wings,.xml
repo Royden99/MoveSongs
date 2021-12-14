@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:13">
+  <properties>
+    <titles>
+      <title>I am standing beneath Your wings,</title>
+    </titles>
+    <authors>
+      <author>Andy Park</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am standing beneath Your wings,<br/>I am resting in Your shelter.<br/>Your great faithfulness has been my shield,<br/>And it makes me want to sing ...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be the name of the Lord,<br/>Blessed be the name of the Lord,<br/>I will bless Your holy name for all my days.<br/>Blessed be the name of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I sing praises to Your name, O Lord,<br/>For You daily bear my burdens.<br/>Your great faithfulness is my reward,<br/>And it makes me want to sing ...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

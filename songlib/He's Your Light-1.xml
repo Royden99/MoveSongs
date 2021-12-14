@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:00">
+  <properties>
+    <titles>
+      <title>He's Your Light</title>
+    </titles>
+    <authors>
+      <author>Tom Grapengeter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the darkness covers all the earth <br/>and gross darkness all the people. <br/>But the Lord will arise upon thee, <br/>And His glory shall be seen upon thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus #1: <br/>He’s your light. He’s your light. <br/>He will guide you through the darkest night. <br/>He’s your light. He’s your light. <br/>He will guide you through the darkest night. <br/>He’s your light and He shines through you and me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well a thousand shall fall at your side <br/>and ten-thousand at your right hand. <br/>But I’m not afraid of the terror by night <br/>or the arrow that flies by the day. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chorus #2:<br/>He’s alive. He’s alive. <br/>He has conquered death - we shall do the same. <br/>He’s alive. He’s alive. <br/>He has conquered death - we shall do the same. <br/>He’s alive. And He lives in you and me.</lines>
+    </verse>
+  </lyrics>
+</song>

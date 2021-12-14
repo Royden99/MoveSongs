@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:48">
+  <properties>
+    <titles>
+      <title>All heaven declares</title>
+    </titles>
+    <authors>
+      <author>Noel Richards</author>
+      <author>Tricia Richards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All heaven declares, the glory of the risen Lord;<br/>Who can compare, the glory of His majesty?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forever He(You) will be,<br/>the Lamb upon the throne<br/>I gladly bow my knee, <br/>and worship Him(You) alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will proclaim, the glory of the risen Lord,<br/>Who once was slain to reconcile man to God.</lines>
+    </verse>
+  </lyrics>
+</song>

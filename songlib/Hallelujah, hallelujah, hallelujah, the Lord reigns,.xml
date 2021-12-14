@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah, hallelujah, hallelujah, the Lord reigns,</title>
+    </titles>
+    <authors>
+      <author>Terry Butler © 1995 Mercy/Vineyard Publishing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, hallelujah, hallelujah, the Lord reigns,<br/>Hallelujah, hallelujah, hallelujah,<br/>The Lord Almighty reigns.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He has showed His awesome power,<br/>He has triumphed mightily,<br/>He has triumphed over darkness and the grave.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has broken chains that bound us,<br/>He has set the prisoner free,<br/>By His own great mercy we are saved.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:42">
+  <properties>
+    <titles>
+      <title>Thanks, O Thanks, To Him</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks, oh thanks to Him<br/>I need never ever sin,<br/>Jesus, by one sacrifice, for me<br/>Forever paid the price<br/>And now I have the sinless Christ within;<br/>Thanks to Him I need never ever sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sin took charge when Adam fell,<br/>Rewarding men with death and hell,<br/>For sin and death upon all men had passed;<br/>Then into the world came God's own Son,<br/>He fought with sin and Jesus won,<br/>And now men may be free from sin at last.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus claimed He wasn't good,<br/>He strove against sin unto blood,<br/>And as a man He showed what man could do;<br/>Now He has a name above all names,<br/>And gives us power to do the same,<br/>The overcoming power of Christ in you.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

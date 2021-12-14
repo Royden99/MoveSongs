@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:06">
+  <properties>
+    <titles>
+      <title>Praise You In This Storm</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was sure by now,<br/>God You would have reached down.<br/>And wiped our tears away,<br/>Stepped in and saved the day.<br/>But once again.<br/>I'll say amen.<br/>And it's still raining.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>And as the thunder rolls,<br/>I barely here Your whisper through the rain.<br/>As your mercy falls, I'll raise my hands,<br/>And praise the God who gives and takes away.<br/>And I'll praise You in this storm,<br/>And I will lift my hands.<br/>For You are who You are,<br/>No matter where I am;<br/>And every tear I've cried<br/>You hold in your hand.<br/>You never left my side,<br/>And though my heart is torn,<br/>I will praise You in this storm.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I remember when I stumbled in the wind.<br/>You heard my cry to You and raised me up again.<br/>My strength is almost gone.<br/>How can I carry on<br/>If I can't find You?</lines>
+    </verse>
+  </lyrics>
+</song>

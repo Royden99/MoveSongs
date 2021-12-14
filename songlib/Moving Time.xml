@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:37">
+  <properties>
+    <titles>
+      <title>Moving Time</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Get up early in the morning.<br/>It's movin' time. It's movin' time.<br/>When you hear the sound of the trumpets,<br/>It's movin' time. It's movin' time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Time to get up, time to move on,<br/>Time to move on in God, in God,<br/>It's movin' time.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ye have compassed this mountain for too long.<br/>It's movin' time. It's movin' time.<br/>Get up early in the morning.<br/>It's movin' time. It's movin' time.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Time to go on up Moriah's hill...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Time to go and set creation free...</lines>
+    </verse>
+  </lyrics>
+</song>

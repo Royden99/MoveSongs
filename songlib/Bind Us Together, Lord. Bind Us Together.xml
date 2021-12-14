@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:00">
+  <properties>
+    <titles>
+      <title>Bind Us Together, Lord. Bind Us Together</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bind us together, Lord. Bind us together, <br/>With cords that cannot be broken.<br/>Bind us together, Lord. Bind us together.<br/>Lord, bind us together with love.<br/>There is only one God<br/>There is only one King.<br/>There is only one body.<br/>That is why we sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Haznos unirnos, Dios. Haznos unirnos Dios, <br/>Con cuerdas que no se rompan.<br/>Haznos unirnos, Dios. Haznos unirnos Dios, <br/>Con cuerdas de amor.<br/>Ai solo un Dios.<br/>Ai solo un Rei.<br/>Ai solo un cuerpo.<br/>Por eso cantare.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:36">
+  <properties>
+    <titles>
+      <title>God is Good</title>
+    </titles>
+    <authors>
+      <author>Don Moen/Paul Overstreet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>God is good all the time.<br/>He put a song of praise in this heart of mine.<br/>God is good all the time.<br/>Through the darkest night, His light will shine.<br/>God is good; God is good all the time.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you're walking through the valley,<br/>And there are shadows all around.<br/>Do not fear; He will guide you.<br/>He will keep you safe and sound.<br/>He has promised to never leave you<br/>Nor forsake you, and His word is true.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We were sinners and so unworthy,<br/>Still for us He chose to die.<br/>Filled us with His Holy Spirit,<br/>Now we can stand and testify<br/>That His love is everlasting,<br/>And His mercies, they will never end.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though I may not understand<br/>All the plans You have for me,<br/>My life is in Your hands,<br/>And through the eyes of faith<br/>I can clearly see that</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bueno es Dios, siempre fiel,<br/>Puso un canto nuevo en mí corazón.<br/>Bueno es Dios, siempre fiel,<br/>en la oscuridad brillará su amor.<br/>Bueno es Dios, Bueno es Dios,<br/>Siempre es fiel.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sí tu vas por el valle y hay sombras alrededor,<br/>dile a adiós al temor, pues seguro en Él estás.<br/>Prometió nunca dejarte, ni abandonarte,<br/>y Él no mentirá.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Y aún sin merecele su sangre derramó por mi.<br/>Me llenó de su presencia y ahora puedo compartir:<br/>Que su amor nunca termina<br/>Y su favor siempre me dará.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>No puedo entender tus planes para mí.<br/>Mí dueño eres Tú, y por la fe veo claramente</lines>
+    </verse>
+  </lyrics>
+</song>

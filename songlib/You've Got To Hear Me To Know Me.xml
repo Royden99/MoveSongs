@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:10">
+  <properties>
+    <titles>
+      <title>You've Got To Hear Me To Know Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My people won't you listen, I have given you<br/>Ears to hear the truth, for the time of truth is here.<br/>Have patience and don't weaken; all creation is yours<br/>This way to Zion, you listen and you hear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've got to hear me to know me. Know me to love me<br/>Love me to live it out my way.<br/>You've got to live it to walk it. Walk it to give it.<br/>Give it to have it on that day.</lines>
+    </verse>
+  </lyrics>
+</song>

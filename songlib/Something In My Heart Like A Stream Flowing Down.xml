@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:28">
+  <properties>
+    <titles>
+      <title>Something In My Heart Like A Stream Flowing Down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Something in my heart like a stream flowing down<br/>Makes me feel so happy, as happy as can be<br/>When I think of Jesus and what He's done for me<br/>There's something in my heart like a stream coming down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Coming down, down, down,<br/>Coming down, down, down,<br/>The glory of the Lord is coming down<br/>Where the saints of God are found<br/>There is glory all around.<br/>The glory of the Lord is coming down.</lines>
+    </verse>
+  </lyrics>
+</song>

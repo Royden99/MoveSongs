@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:17">
+  <properties>
+    <titles>
+      <title>Thy Word Is A Lamp Unto My Feet</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thy Word is a lamp unto my feet<br/>And a light unto my path<br/>Thy Word is a lamp unto my feet<br/>And a light unto my path</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I feel afraid, and think I've lost my way<br/>Still You're there right beside me<br/>Nothing will I fear as long as you are near<br/>Please be near me to the end</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will not forget your love for me and yet<br/>My heart forever is wandering<br/>Jesus be my guide, hold me to Your side<br/>And I will love You to the end</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nothing will I fear as long as you are near<br/>Please be near me to the end.</lines>
+    </verse>
+  </lyrics>
+</song>

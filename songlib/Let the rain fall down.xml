@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:18">
+  <properties>
+    <titles>
+      <title>Let the rain fall down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the rain fall down<br/>Let the rain of God soften the ground<br/>Let our lands be healed<br/>And the heavens be unbound<br/>Let the rain fall down<br/>Let the rain of God soften the ground<br/>Let our lands be healed<br/>And beauty now abound<br/></lines>
+    </verse>
+  </lyrics>
+</song>

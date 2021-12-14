@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:11">
+  <properties>
+    <titles>
+      <title>Come Magnify The Lord With Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come magnify the Lord with me.<br/>Sing praises to our risen King.<br/>Come magnify The Lord on high.<br/>He's worthy to be praised.<br/>Come magnify the Lord on high.<br/>He's worthy to be praised.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosannah (men) Hosannah (women)<br/>Hosannah (men) Hosannah (women)<br/>Hosannah to the King (together).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hosannah (men) Hosannah (women)<br/>Hosannah (men) Hosannah (women)<br/>Hosannah to the King (together).</lines>
+    </verse>
+  </lyrics>
+</song>

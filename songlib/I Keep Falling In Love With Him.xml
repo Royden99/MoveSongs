@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:20">
+  <properties>
+    <titles>
+      <title>I Keep Falling In Love With Him</title>
+    </titles>
+    <authors>
+      <author>Genser Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep falling in love with Him over and over<br/>And over and over again,<br/>I keep falling in love with Him over and over<br/>And over and over again,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gets sweeter and sweeter as the days go by,<br/>Oh what a love between my Lord and I,<br/>I keep falling in love with Him over and over<br/>And over and over again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, it gets sweeter as the days go by,<br/>It gets sweeter as the moments fly,<br/>His love is richer, deeper, fuller, sweeter,<br/>Sweeter, sweeter, sweeter as the days go by.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

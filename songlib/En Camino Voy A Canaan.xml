@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:22">
+  <properties>
+    <titles>
+      <title>En Camino Voy A Canaan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/En camino voy a Canaán (2) <br/>En camino voy, en camino voy, <br/>En camino voy gloria a Dios en camino voy. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>No vuelvo atrás de Canaán (2) <br/>No vuelvo atrás, no vuelvo atrás, <br/>No vuelvo atrás gloria a Dios <br/>No vuelvo atrás. <br/>David venció al gran Goliat… <br/>También tú puedes vencerle hoy… </lines>
+    </verse>
+  </lyrics>
+</song>

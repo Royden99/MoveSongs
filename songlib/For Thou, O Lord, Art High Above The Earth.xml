@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:30">
+  <properties>
+    <titles>
+      <title>For Thou, O Lord, Art High Above The Earth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For Thou, O Lord, art high above the earth. <br/>Thou art exalted far above all gods.<br/>For Thou, O Lord, art high above the earth. <br/>Thou art exalted far above all gods.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We exalt Thee. We exalt Thee. <br/>We exalt Thee, O Lord.<br/>We exalt Thee. We exalt Thee. <br/>We exalt Thee, O Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>I exalt Thee. I exalt Thee. <br/>I exalt Thee, O Lord. (2x).</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Eres excelso Oh Dios, sobre la tierra. <br/>Eres exaltado sobre todos los dioses. (2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te exalto. Te exalto.<br/>Te exalto, Oh Dios. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

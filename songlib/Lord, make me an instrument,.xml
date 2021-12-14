@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:30">
+  <properties>
+    <titles>
+      <title>Lord, make me an instrument,</title>
+    </titles>
+    <authors>
+      <author>T Hatton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, make me an instrument,<br/>An instrument of worship;<br/>I lift up my hands in Your name.<br/>Lord, make me an instrument,<br/>An instrument of worship;<br/>I lift up my hands in Your name.<br/>I'll sing You a love song,<br/>A love song of worship;<br/>I lift up my hands in Your name.<br/>I'll sing You a love song,<br/>A love song of worship,<br/>I lift up my hands in Your name.<br/>Lord, make us a symphony,<br/>A symphony of worship;<br/>We lift up our hands in Your name.<br/>Lord, make us a symphony,<br/>A symphony of worship;<br/>We lift up our hands in Your name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

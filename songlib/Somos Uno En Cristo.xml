@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:29">
+  <properties>
+    <titles>
+      <title>Somos Uno En Cristo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Somos uno en Cristo, somos uno <br/>Somos uno, uno solo/(2) <br/>Un solo Dios, <br/>Un solo Señor, <br/>Una sola fe <br/>Un solo amor <br/>Un solo bautismo <br/>Y un solo Espíritu <br/>Y este es el Consolador </lines>
+    </verse>
+  </lyrics>
+</song>

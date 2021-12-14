@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:28">
+  <properties>
+    <titles>
+      <title>Lord you've been good to me</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord you've been good to me<br/>All my life, all my life<br/>Your loving kindness never fails<br/>I will remember<br/>All you have done<br/>Bring from my heart<br/>Thanksgiving songs</lines>
+    </verse>
+    <verse name="v2">
+      <lines>New every morning is your love<br/>Filled with compassion from above<br/>Grace and forgiveness full and free<br/>Lord you've been good to me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So may each breath I take<br/>Be for you Lord, only you<br/>Giving you back the life I owe<br/>Love so amazing<br/>Mercy so free<br/>Lord you've been good<br/>So good to me<br/></lines>
+    </verse>
+  </lyrics>
+</song>

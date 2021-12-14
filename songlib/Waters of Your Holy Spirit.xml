@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:28">
+  <properties>
+    <titles>
+      <title>Waters of Your Holy Spirit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waters of your holy spirit<br/>running deep with my soul<br/>waters of your holy spirit make your life in me unfold<br/>smoothing, soothing, the dark places within<br/>washing, cleansing, refreshing everything that is longing<br/>holy spirit run within me, cleanse me from all secret sin<br/>flow through the depths within me, bring me unto him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Waters of you holy spirit, running deep with my soul<br/>waters of your holy spirit make your life in me unfold</lines>
+    </verse>
+    <verse name="v3">
+      <lines>disrupt, dislodge, discover all within that I may be found in the holy one<br/>A river of gold flowing from the throne <br/>come unto me and make me whole</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:40">
+  <properties>
+    <titles>
+      <title>Thank you Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory, glory Hallelujah.<br/>Since I laid my burden down.<br/>Glory, glory Hallelujah.<br/>Since I laid my burden down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thank you Jesus, thank you Jesus.<br/>Thank you Lord for saving me. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus went to Calvary, and He died for me.<br/>That I lay my burden down. (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He rose up from the grave, that I might be saved.<br/>And I lay my burden down. (2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There'll be singing and rejoicing<br/>When I lay my burden down. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

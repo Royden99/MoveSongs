@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:08">
+  <properties>
+    <titles>
+      <title>You have turned my mourning into dancing, Lord.</title>
+    </titles>
+    <authors>
+      <author>Steve Green</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have turned my mourning into dancing, Lord.<br/>Now my feet are filled with Your praise,<br/>You have clothed my spirit with a robe of joy,<br/>You’ve cast my sorrow away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>- Tú cambiaste a danza mi dolor, Señor,<br/>- Y por siempre Te alabaré.<br/>- A mi espíritu con gozo lo vistió,<br/>- Quitó el lamento en mi ser.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For Your anger lasts but a moment, Lord,<br/>And my tears endure for the night,<br/>But your favour lasts for a lifetime, Lord,<br/>My joy returns with the morning light<br/>For ...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>- Pues Tu ira dura un momento, Dios,<br/>- Mi tristeza al anochecer,<br/>- Pero Tu favor es por siempre, oh Dios,<br/>- Y gozo viene al amanecer<br/>- Porque..</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All my foes lose heart when they hear my voice,<br/>For I speak in Jesus’ name,<br/>They turn back in fear at the sound of praise.<br/>I’ll not keep silent, I must proclaim<br/>That ...</lines>
+    </verse>
+    <verse name="v6">
+      <lines>- Mi enemigo huyó al oir mi voz,<br/>- Pues en Cristo fue mi hablar,<br/>- Y temor les dio por mi adoración.<br/>- No callaré, debo proclamar<br/>- Porque..<br/></lines>
+    </verse>
+  </lyrics>
+</song>

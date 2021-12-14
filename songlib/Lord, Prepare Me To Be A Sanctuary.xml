@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:30">
+  <properties>
+    <titles>
+      <title>Lord, Prepare Me To Be A Sanctuary</title>
+    </titles>
+    <authors>
+      <author>John Thompson</author>
+      <author>Randy Scruggs</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, prepare me to be a sanctuary,<br/>Pure and holy, tried and true.<br/>And, with thanksgiving,<br/>I'll be a living sanctuary for You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's You, Lord, that knows my weakness.<br/>But, in You, I am made strong.<br/>When I fulfill Your purpose,<br/>In Your sovereign plan I belong.</lines>
+    </verse>
+  </lyrics>
+</song>

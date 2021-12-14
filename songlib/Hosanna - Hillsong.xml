@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:07">
+  <properties>
+    <titles>
+      <title>Hosanna - Hillsong</title>
+    </titles>
+    <authors>
+      <author>Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the king of glory <br/>Coming on the clouds with fire<br/>The whole earth shakes, The whole earth shakes<br/>I see his love and mercy <br/>Washing over all our sin<br/>The people sing, The people sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna, Hosanna<br/>Hosanna in the highest [x2]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see a generation <br/>Rising up to take their place<br/>With selfless faith, With selfless faith<br/>I see a near revival <br/>Stirring as we pray and seek<br/>We're on our knees, We're on our knees</lines>
+    </verse>
+    <verse name="v4">
+      <lines>*****<br/>Heal my heart and make it clean <br/>Open up my eyes to the things unseen<br/>Show me how to love like you have loved me<br/>Break my heart from what breaks yours<br/>Everything I am for your kingdoms cause<br/>As I walk from nothing to Eternity</lines>
+    </verse>
+  </lyrics>
+</song>

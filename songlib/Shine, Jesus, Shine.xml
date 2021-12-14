@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:20">
+  <properties>
+    <titles>
+      <title>Shine, Jesus, Shine</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, the light of Your love is shining,<br/>In the midst of the darkness shining:<br/>Jesus, Light of the world, shine upon us;<br/>Set us free by the truth You now bring us,<br/>Shine on me, shine on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shine, Jesus, shine,<br/>Fill this land with the Father's glory;<br/>Blaze, Spirit, blaze,<br/>Set our hearts on fire.<br/>Flow, river, flow,<br/>Flood the nations with grace and mercy;<br/>Send forth Your word, Lord, and let there be light.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, I come to Your awesome presence,<br/>From the shadows into Your radiance;<br/>By your blood I may enter Your brightness:<br/>Search me, try me, consume all my darkness,<br/>Shine on me, shine on me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As we gaze on Your kingly brightness,<br/>So our faces display your likeness,<br/>Ever changing from glory to glory:<br/>Mirrored here may our lives tell Your story,<br/>Shine on me, shine on me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

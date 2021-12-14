@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:46">
+  <properties>
+    <titles>
+      <title>In Everything Give Thanks, For This Is The Will Of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In everything give thanks, for this is the will of God.<br/>In everything give thanks, for this is the will of God.<br/>In everything give thanks, for this is the will of God<br/>In Christ Jesus concerning you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pray without ceasing, etc.<br/>Quench not the Spirit, etc.<br/>Rejoice evermore, etc.<br/>Despise not prophesyings, etc.<br/>Prove all things, hold fast that which is good, etc.</lines>
+    </verse>
+  </lyrics>
+</song>

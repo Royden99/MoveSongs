@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:27">
+  <properties>
+    <titles>
+      <title>I Waited Patiently For The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I waited patiently for the Lord<br/>He inclined unto me and He heard my cry.<br/>He lifted me up out of the horrible pit.<br/>Even out of the miry clay.<br/>He set my feet upon the rock.<br/>He established my way.<br/>He hath put a new song in my heart.<br/>Even praise unto our God.</lines>
+    </verse>
+  </lyrics>
+</song>

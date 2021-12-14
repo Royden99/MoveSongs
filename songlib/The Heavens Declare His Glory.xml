@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:46">
+  <properties>
+    <titles>
+      <title>The Heavens Declare His Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The heavens declare His glory<br/>The earth, the work of His hands.<br/>Man, the image of His glory,<br/>Jesus Christ, the head of this man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, the endless Spirit,<br/>Reproducing Himself in all,<br/>Destroying the old creation,<br/>Of the twain making one new man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He was sown in the midst of confusion;<br/>But in glory He is coming again.<br/>He was sown in the midst of corruption;<br/>But in power He is coming today.</lines>
+    </verse>
+  </lyrics>
+</song>

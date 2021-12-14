@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:55">
+  <properties>
+    <titles>
+      <title>The Spirit of the Lord is great and mighty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The spirit of the lord is great and mighty<br/>the spirit of the lord is my victory<br/>the spirit of the lord is great and mighty<br/>great and mighty is he</lines>
+    </verse>
+    <verse name="v2">
+      <lines>greater is he that is in me than he that is world<br/>and i am more than a conqueror by the power of his word,<br/>of his word</lines>
+    </verse>
+    <verse name="v3">
+      <lines>in the name of Jesus i can do anything<br/>by the power of his spirit, he's the one who strengthens me,<br/>strengthens me</lines>
+    </verse>
+  </lyrics>
+</song>

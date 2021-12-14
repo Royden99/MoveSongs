@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:30">
+  <properties>
+    <titles>
+      <title>We are heirs of the Father,</title>
+    </titles>
+    <authors>
+      <author>© 1974 Lexicon Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are heirs of the Father,<br/>We are joint heirs with the Son,<br/>We are children of the Kingdom,<br/>We are family, we are one.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

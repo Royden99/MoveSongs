@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:07">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+    </titles>
+    <authors>
+      <author>Johnny Porter © 2007 Whitestone Farms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We lift our hands to you in praise<br/>Your mercy lifts up, your words renew our strength <br/>We lift our hearts to you in thanks <br/>Its only by your grace and power we stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna, Hosanna, Hosanna <br/>Hosanna to the king.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo alzo mis manos en alabanza.<br/>Tu misericordia me levanta y me esfuerza.<br/>Yo alzo mi corazón en gratitud.<br/>Sólo por tu gracia y poder estoy aquí.<br/>Hosanna, hosanna, hosanna,<br/>Hosanna al Rey.</lines>
+    </verse>
+  </lyrics>
+</song>

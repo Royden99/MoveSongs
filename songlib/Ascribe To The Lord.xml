@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:53">
+  <properties>
+    <titles>
+      <title>Ascribe To The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ascribe to the Lord, oh sons of the mighty,<br/>Ascribe to the Lord glory and strength.<br/>Ascribe to the Lord glory due His name<br/>Worship the Lord in holy array!</lines>
+    </verse>
+  </lyrics>
+</song>

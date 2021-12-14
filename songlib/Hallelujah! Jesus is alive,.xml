@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah! Jesus is alive,</title>
+    </titles>
+    <authors>
+      <author>Ron Kenoly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah! Jesus is alive,<br/>Death has lost its victory<br/>And the grave has been denied;<br/>Jesus lives forever,<br/>He's alive, He's alive!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's the Alpha and Omega,<br/>The First and Last is He,<br/>The curse of sin is broken<br/>And we have perfect liberty;<br/>The Lamb of God has risen,<br/>He's alive, He's alive!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wonderful Counselor<br/>A mighty God is He<br/>The Everlasting Father<br/>He's the precious Prince of Peace<br/>He's the Word that lives forever<br/>He's alive, He's alive!<br/>ENDING<br/>Hallelujah, Jesus is alive!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

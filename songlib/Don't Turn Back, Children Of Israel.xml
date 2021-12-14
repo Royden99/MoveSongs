@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:19">
+  <properties>
+    <titles>
+      <title>Don't Turn Back, Children Of Israel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't turn back, children of Israel, don't turn back.<br/>Don't turn back, children of Israel, don't turn back.<br/>For the kingdom of heaven is at hand.<br/>Don't turn back, children of Israel, don't turn back.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're My people children of Israel, you're My people. (2x)<br/>For the kingdom of heaven is at hands.<br/>You're My people children of Israel, you're My people.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Stand on the promise, etc.<br/>Stand in the man, etc. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>No volved atrás, Israel, no volved atrás.<br/>Porque el Reino de Dios ya está<br/>No volved atrás, Israel no volved atrás.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/Seguid andando, Israel seguid andando/ (2)<br/>Porque el Reino de Dios ya está<br/>seguid andando, Israel seguid andando.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Seguid marchando...<br/>Estad en la promesa...</lines>
+    </verse>
+  </lyrics>
+</song>

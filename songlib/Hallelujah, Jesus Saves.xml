@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:44">
+  <properties>
+    <titles>
+      <title>Hallelujah, Jesus Saves</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, Jesus saves.<br/>Hallelujah, Jesus saves.<br/>Hallelujah, Jesus saves.<br/>I'm so glad, I'm so glad Jesus saves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tell your brother, Jesus saves.<br/>Tell your brother, Jesus saves.<br/>Tell your brother, Jesus saves.<br/>I'm so glad, I'm so glad Jesus saves.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tell your sister, Jesus saves.<br/>Tell your sister, Jesus saves.<br/>Tell your sister, Jesus saves.<br/>I'm so glad, I'm so glad Jesus saves.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aleluya, Cristo salva. (3x) <br/>Soy feliz, si muy feliz, Cristo salva.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dile al hermano, Cristo salva. (3x) <br/>Soy feliz, si muy feliz, Cristo salva.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dile a tu hermana, Cristo salva. (3x) <br/>Soy feliz, si muy feliz, Cristo salva.</lines>
+    </verse>
+  </lyrics>
+</song>

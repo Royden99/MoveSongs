@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:34">
+  <properties>
+    <titles>
+      <title>We declare Your majesty,</title>
+    </titles>
+    <authors>
+      <author>Malcolm du Plessis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We declare Your majesty,<br/>We proclaim that<br/>Your name is exalted;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You reign<br/>Magnificently,<br/>Rule victoriously,<br/>And Your power is<br/>Shown throughout<br/>The earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we exclaim,<br/>"Our God is mighty!"<br/>Lift up Your name,<br/>For You are holy.<br/>Sing it again,<br/>All honour and glory -<br/>In adoration<br/>We bow before<br/>Your throne!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

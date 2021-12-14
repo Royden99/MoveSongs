@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:12">
+  <properties>
+    <titles>
+      <title>Know Ye Not, Know Ye Not, Ye Are The Temple</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Know ye not, know ye not, ye are the temple. <br/>Know ye not, know ye not, ye are the temple. <br/>Know ye not, know ye not, ye are the temple. <br/>Ye are the temple of the Holy Ghost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Filled with power, filled with praise, filled with glory.<br/>Filled with power, filled with praise, filled with glory.<br/>Filled with power, filled with praise, filled with glory.<br/>Ye are the temple of the Holy Ghost.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No sabeis, no sabeis, que sois el templo. (3x)<br/>Sois el templo del Espiritu de Dios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lleno de poder, alabanza, y gloria. (3x) <br/>Sois el templo del Espiritu de Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

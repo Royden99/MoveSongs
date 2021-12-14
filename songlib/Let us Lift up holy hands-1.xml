@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:20">
+  <properties>
+    <titles>
+      <title>Let us Lift up holy hands</title>
+    </titles>
+    <authors>
+      <author>Bruce Ballinger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have come into this house,<br/>And gathered in His name to worship Him, (x2)<br/>We have come into this house,<br/>And gathered in His name to worship Christ the Lord,<br/>Worship Christ the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is all my righteousness,<br/>I stand complete in Him and worship Him...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let's forget about ourselves,<br/>And concentrate on Him and worship Him...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let us open up to Him,<br/>And let the river flow and worship Him...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let us lift up holy hands,<br/>And magnify His name and worship Him...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

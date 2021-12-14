@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:53">
+  <properties>
+    <titles>
+      <title>The Name Of The Lord Is A Strong And Mighty Tower</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The name of the Lord is a strong and mighty tower. <br/>The name of the Lord is a refuge for my soul. <br/>The name of the Lord is a pillar I can lean on. <br/>The righteous run in to the name of the Lord. <br/>The righteous run in to the name of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El nombre del Señor es una fuerte torre<br/>El nombre del Señor es un refugio para mi alma<br/>El nombre del Señor es un lugar donde me apoyo<br/>Los rectos acuden al nombre del Señor<br/>Los rectos acuden al nombre del Señor</lines>
+    </verse>
+  </lyrics>
+</song>

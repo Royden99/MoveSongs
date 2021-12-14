@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah, hallelujah, hallelujah,</title>
+    </titles>
+    <authors>
+      <author>Brenton and Brian Doerkson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, hallelujah, hallelujah,<br/>Your love makes me sing.<br/>Hallelujah, hallelujah, hallelujah,<br/>Your love makes me sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love is amazing, steady and unchanging,<br/>Your love is a mountain under my feet,<br/>Your love is a mystery, how You gently lift me,<br/>When I am surrounded, Your love carries me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love is surprising; I can feel it rising;<br/>All the joy that's growing deep inside me,<br/>Everytime I see you<br/>All Your goodness shines through;<br/>I can feel this God song rising up in me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your love is amazing, steady and unchanging,<br/>Your love is a mountain under my feet,<br/>Your love is a mystery, how You gently lift me,<br/>When I am discouraged Your love carries me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

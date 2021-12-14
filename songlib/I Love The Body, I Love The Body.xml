@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:22">
+  <properties>
+    <titles>
+      <title>I Love The Body, I Love The Body</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love the body, I love the body,<br/>I love the body of the Lord.<br/>I love the body, I love the body,<br/>I love the body of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's a holy body, It's a holy body,<br/>The holy body of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's a righteous body, It's a righteous body,<br/>The righteous body of the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's a loving body, It's a loving body,<br/>The loving body of the Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It's a perfect body, It's a perfect body,<br/>The perfect body of the Lord. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>/Yo amo al cuerpo/ (2)<br/>Yo amo al Cuerpo del Señor<br/>/yo amo al Cuerpo/ (2)<br/>Yo amo al Cuerpo del Señor</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/Es un Cuerpo Santo/ (2)<br/>Es un Cuerpo Santo del Señor<br/>/es un Cuerpo Santo/ (2)<br/>Es un Cuerpo Santo del Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

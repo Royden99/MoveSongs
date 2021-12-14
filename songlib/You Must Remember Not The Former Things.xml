@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:08">
+  <properties>
+    <titles>
+      <title>You Must Remember Not The Former Things</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You must remember not the former things<br/>Neither consider the things of old.<br/>You must remember not the former things<br/>Neither consider the things of old.<br/>Behold, I do a new thing and it shall spring forth.<br/>I'll make a way in the wilderness,<br/>And rivers in the desert.</lines>
+    </verse>
+  </lyrics>
+</song>

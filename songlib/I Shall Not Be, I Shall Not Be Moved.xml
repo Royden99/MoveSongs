@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:25">
+  <properties>
+    <titles>
+      <title>I Shall Not Be, I Shall Not Be Moved</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I shall not be, I shall not be moved.<br/>I shall not be, I shall not be moved.<br/>Just like a tree, planted by the water,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm anchored on the rock, I shall not be moved. (2x)<br/>I'm anchored on the rock, I shall not be moved. (2x)<br/>Just like a tree, planted by the water,<br/>I shall not be moved.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The devil is a liar, I shall not be moved, etc.<br/>Jesus is my Savior, I shall not be moved, etc.<br/>I've got the Holy Ghost, I shall not be moved, etc.<br/>He wipes away my sins and I shall not be moved, etc.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:30">
+  <properties>
+    <titles>
+      <title>We Are Gathered As The Body Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are gathered as the body of the Lord<br/>And we worship Him in one accord,<br/>For He dwells not in buildings made of stone.<br/>He dwells within the hearts of men alone.<br/>We are His hands. we're His feet.<br/>We're His ears. We're His eyes.<br/>He's the head. With His blood we are supplied.<br/>And as our lives touch and unions form<br/>That cannot be destroyed,<br/>We are made visible, the body of the Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nos reunimos como el cuerpo del Señor <br/>De acuerdo y en adoración <br/>Pues en casa de piedra no habita Dios <br/>Sino El mora en el corazón. <br/>Somos sus manos y sus pies <br/>Sus oídos y sus ojos <br/>El es cabeza y por su sangre nos provee <br/>Y mientras toca nuestras vidas <br/>Forma uniones irrompibles <br/>Somos el cuerpo visible del Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

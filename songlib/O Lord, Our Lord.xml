@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:49">
+  <properties>
+    <titles>
+      <title>O Lord, Our Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, our Lord<br/>How majestic is Thy name<br/>In all the earth.<br/>(Repeat.)<br/>O Lord, we praise Thy name.<br/>O Lord, we magnify Your name.<br/>Prince of peace, mighty God,<br/>O Lord, God almighty.</lines>
+    </verse>
+  </lyrics>
+</song>

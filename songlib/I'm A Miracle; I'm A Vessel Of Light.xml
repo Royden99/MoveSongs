@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:41">
+  <properties>
+    <titles>
+      <title>I'm A Miracle; I'm A Vessel Of Light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm a miracle; I'm a vessel of light<br/>A king, and priest, a star in the night.<br/>I'm a heritage to the family of God,<br/>A living legacy of Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am the will; I am the will of God.<br/>I am the will; I am the will of God.<br/>With every breath and beat of my heart.<br/>I am the will of God; I am the will of God.</lines>
+    </verse>
+  </lyrics>
+</song>

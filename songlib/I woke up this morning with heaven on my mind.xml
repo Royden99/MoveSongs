@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:37">
+  <properties>
+    <titles>
+      <title>I woke up this morning with heaven on my mind</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I woke up this morning with heaven on my mind<br/>And glory in my soul;<br/>The Spirit of the Lord was filling me,<br/>Making hallelujahs roll.<br/>I feel that I could just run and run<br/>For miles on down that road;<br/>And if you move over just a little bit,<br/>I'll help you carry your load.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>If you move over just a little bit,<br/>I'll give you a helping hand;<br/>Although the way is rough and steep,<br/>Together we can stand.<br/>I know just what you've been going through,<br/>I've been down that same old road;<br/>And if you move over just a little bit,<br/>I'll help you carry your load.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

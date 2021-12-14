@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:25">
+  <properties>
+    <titles>
+      <title>I See The Lord, I See The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the Lord. I see the Lord.<br/>He is high and lifted up and His train fills the temple. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The angels cry Holy. The angels cry Holy.<br/>The angels cry Holy is the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I hear the Lord. I hear the Lord.<br/>He is high and lifted up and His voice fills the temple. (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The angels cry Holy. The angels cry Holy.<br/>The angels cry holy is the Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I saw the Lord. I saw the Lord.<br/>His eyes were filled with love and His face shone with glory. (2x)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The angels cry Holy. The angels cry Holy.<br/>The angels cry Holy is the Lord.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>I found the Lord. I found the Lord.<br/>I found Him in His word and I found Him by the Spirit.<br/>I found Him in my brother and I found Him in the body.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The sons cry perfect. The sons cry perfect.<br/>The sons cry perfect is the Lord. </lines>
+    </verse>
+    <verse name="v9">
+      <lines>/Yo vi al Señor/ (2)<br/>//viniendo a su templo<br/>Y de su gloria lo llena/ (2)</lines>
+    </verse>
+    <verse name="v10">
+      <lines>/Los santos cantan, Gloria/ (2)<br/>Los santos cantan, Gloria al Señor</lines>
+    </verse>
+  </lyrics>
+</song>

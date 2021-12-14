@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:26">
+  <properties>
+    <titles>
+      <title>Father In Heaven, How We Love You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father in heaven, how we love You.<br/>We lift Your Name in all the earth<br/>May your kingdom be established in our praises, <br/>As Your people declare Your mighty worth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed be the Lord God Almighty, <br/>Who was, and is, and is to come. <br/>Blessed be the Lord God Almighty, <br/>Who reigns forever more.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Padre en los cielos, Te adoramos.<br/>En la tierra tu nombre proclamamos.<br/>Que tu reino se establezca en adorarte,<br/>Y tu pueblo proclame tu poder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bendito el Señor, Dios todo poderoso,<br/>Quien era, es, y quien será.<br/>Bendito el Señor, Dios todo poderoso,<br/>Quien siempre reinará.</lines>
+    </verse>
+  </lyrics>
+</song>

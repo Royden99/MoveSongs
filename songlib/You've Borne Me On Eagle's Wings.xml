@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:10">
+  <properties>
+    <titles>
+      <title>You've Borne Me On Eagle's Wings</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To Thy throneroom I boldly enter<br/>For grace to help in this time of need.<br/>For this son I command You, Lord,<br/>That you cause me to embrace the cross.<br/>Chorus:<br/>You've borne me on eagle's wings,<br/>As a Father carried me;<br/>Now I take hold by Thy grace,<br/>O Lord, Thy power hid in the cross.<br/>Now to Him Who is able to keep me,<br/>Glory, and honor, and praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I place all of my hope in Thee<br/>For that which my eyes do not yet see.<br/>For this work You've begun in me,<br/>Finish now as I embrace the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Christ the Firstborn of many brethren<br/>Who yet will follow after Thee,<br/>Embraced the cross and was raised in power.<br/>Father, cause me now to be a Son.</lines>
+    </verse>
+  </lyrics>
+</song>

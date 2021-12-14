@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:10">
+  <properties>
+    <titles>
+      <title>Raise a Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I raise a hallelujah, in the presence of my enemies<br/>I raise a hallelujah, louder than the unbelief<br/>I raise a hallelujah, my weapon is a melody<br/>I raise a hallelujah, Heaven comes to fight for me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I’m gonna sing, in the middle of the storm<br/>Louder and louder, you’re gonna hear my praises roar<br/>Up from the ashes, hope will arise<br/>Death is defeated, the King is alive</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I raise a hallelujah, with everything inside of me<br/>I raise a hallelujah, I will watch the darkness flee<br/>I raise a hallelujah, in the middle of the mystery<br/>I raise a hallelujah, fear you lost your hold on me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing a little louder - In the presence of my enemies<br/>Sing a little louder - Louder than the unbelief<br/>Sing a little louder - My weapon is a melody<br/>Sing a little louder - Heaven comes to fight for me</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I raise a hallelujah</lines>
+    </verse>
+  </lyrics>
+</song>

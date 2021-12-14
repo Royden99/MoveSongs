@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:03">
+  <properties>
+    <titles>
+      <title>Jesus is the Answer - Michael Sowers ; Tim Coy</title>
+    </titles>
+    <authors>
+      <author>Michael Sowers / Tim Coy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have walked alone in life for far too long<br/>so i will reach out my hand to Father God alone<br/>I have come through many miles of darkened road,<br/>And I will gladly let the Lord shoulder the load.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Cause Jesus is the answer to all life's questions,<br/>and He will never leave me alone<br/>I'm reaching out to Jesus as my Saviour,<br/>And i will serve the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is grace and God is love he guides my every step<br/>he leads me down a holy road into righteousness<br/>He burns away the sinful man in His holy flame<br/>He cleanses me with his power in His mighty name</lines>
+    </verse>
+  </lyrics>
+</song>

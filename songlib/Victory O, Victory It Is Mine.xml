@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:25">
+  <properties>
+    <titles>
+      <title>Victory O, Victory It Is Mine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Victory, O, victory shall be mine.<br/>Victory, O, victory shall be mine.<br/>If I hold my peace, let the Lord fight my battle,<br/>Victory, O, victory shall be mine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Victory, O, victory now is mine. (2x) <br/>For I held my peace, and the Lord fought my battle.<br/>Victory, O, victory now is mine. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Victoria la mía, si será/(2)<br/>Si me callo yo, dejando que en mi luche<br/>Victoria la mía si será.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jehová la fuerza nos dará(2)<br/>Si vivimos juntos en comunión con El<br/>La fuerza de Dios nos sostendrá</lines>
+    </verse>
+  </lyrics>
+</song>

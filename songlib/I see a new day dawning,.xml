@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:24">
+  <properties>
+    <titles>
+      <title>I see a new day dawning,</title>
+    </titles>
+    <authors>
+      <author>Claire Wilson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see a new day dawning,<br/>A new day in Christ has just begun.<br/>I feel the freshness of this new day,<br/>Surely the Lord is in this place!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

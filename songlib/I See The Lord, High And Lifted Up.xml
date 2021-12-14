@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:25">
+  <properties>
+    <titles>
+      <title>I See The Lord, High And Lifted Up</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the Lord, high and lifted up, <br/>Seated on the throne of my life. (2x)<br/>You are holy, You are holy, You are holy,<br/>Seated on the throne of my life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see the Lord, high and lifted up, <br/>Seated on the throne of my life. (2x)<br/>You are holy, You are worthy, You are mighty,<br/>Seated on the throne of my life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veo al Senor alto y sublime<br/>Sentado en el trono de mi corazon (Repetir)<br/>Y eres santo, eres santo, eres santo,<br/>Sentado en el trono de mi corazon</lines>
+    </verse>
+  </lyrics>
+</song>

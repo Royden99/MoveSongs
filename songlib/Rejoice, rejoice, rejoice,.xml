@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:13">
+  <properties>
+    <titles>
+      <title>Rejoice, rejoice, rejoice,</title>
+    </titles>
+    <authors>
+      <author>Chris Bowater</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice, rejoice, rejoice,<br/>Rejoice, rejoice, rejoice;<br/>My soul rejoices in the Lord.<br/>Rejoice, rejoice, rejoice,<br/>Rejoice, rejoice, rejoice;<br/>My soul rejoices in the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My soul magnifies the Lord,<br/>And my spirit rejoices in God my Saviour;<br/>My soul magnifies the Lord,<br/>And my spirit rejoices in my God.<br/>Rejoice, rejoice, rejoice,<br/>Rejoice, rejoice, rejoice;<br/>My soul rejoices in the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

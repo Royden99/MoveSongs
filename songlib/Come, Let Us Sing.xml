@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:13">
+  <properties>
+    <titles>
+      <title>Come, Let Us Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, let us sing,<br/>Sing till the power of the Lord comes down.<br/>Come, let us sing,<br/>Sing till the power of the Lord comes down.<br/>Lift up your hands; be not afraid.<br/>Come, let us sing till the power of the Lord comes down.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ Jesus lives. He is alive in His church today.<br/>Christ Jesus lives. He is alive in His church today.<br/>So let us rise and follow Him.<br/>Christ Jesus lives. He is alive in His church today. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Vamos cantando hasta que baje el poder/(2)<br/>Dad gloria a Dios, dad gloria a El<br/>Vamos cantando hasta que baje el poder.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/No te avergüences y alaba a tu Señor/(2)<br/>Dad gloria a Dios , dad gloria a El<br/>No te avergüences y alaba a tu Señor. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alza tu voz y alaba a tu Señor…</lines>
+    </verse>
+  </lyrics>
+</song>

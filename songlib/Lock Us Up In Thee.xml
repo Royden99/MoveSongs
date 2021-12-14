@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:25">
+  <properties>
+    <titles>
+      <title>Lock Us Up In Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lock us up in Thee oh Lord,<br/>And throw away the key.<br/>Burn up our old ways, <br/>Let them no longer be.<br/>And if we're to be found at all,<br/>Let us be found in Thee.<br/>Lock us up in Thee oh Lord,<br/>And throw away the key.</lines>
+    </verse>
+  </lyrics>
+</song>

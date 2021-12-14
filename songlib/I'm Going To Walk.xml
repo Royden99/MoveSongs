@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:43">
+  <properties>
+    <titles>
+      <title>I'm Going To Walk</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm going to walk,<br/>I'm going to walk,<br/>I'm going to walk in the light till Jesus comes<br/>In the light He's brought me to<br/>Walking along just me and you.<br/>I'm going to walk in the light till Jesus comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Apostles going to walk, etc. <br/>Elders going to walk, etc.<br/>Prophets going to walk, etc.<br/>You're going to walk, etc.<br/>Teachers going to walk, etc.<br/>The Family going to walk, etc.<br/>We're all going to walk, etc.</lines>
+    </verse>
+  </lyrics>
+</song>

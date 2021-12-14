@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:57">
+  <properties>
+    <titles>
+      <title>Worthy is the Lamb that was slain,</title>
+    </titles>
+    <authors>
+      <author>Emerson Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the Lamb that was slain,<br/>The Lion of the tribe of Judah;<br/>He has won, He has overcome<br/>For ever, Amen.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our salvation is due to our God<br/>Who is seated on the throne,<br/>And to the Lamb. To Them<br/>We owe our deliverance.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Out of great tribulation<br/>Are these come and washed their robes<br/>And made them clean and white<br/>In the precious blood of the Lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He Who sits on the throne will protect<br/>And spread His dwelling,<br/>Cover and shelter them<br/>With His holy presence.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

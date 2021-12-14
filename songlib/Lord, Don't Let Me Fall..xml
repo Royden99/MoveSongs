@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:28">
+  <properties>
+    <titles>
+      <title>Lord, Don't Let Me Fall.</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, don't let me fall.<br/>I want to pay the price.<br/>Lord, don't let me say<br/>I can't make the sacrifice.<br/>When my way seems dark,<br/>Always let me see<br/>Something of Thy life<br/>That thou hast worked in me.</lines>
+    </verse>
+  </lyrics>
+</song>

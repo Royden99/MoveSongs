@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:54">
+  <properties>
+    <titles>
+      <title>He Took The Chains From My Heart And Set Me Free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He took the chains from my heart and set me free.<br/>He gave me joy, now I'm happy as can be.<br/>He brought me out of sinking sand.<br/>Placed my feet on higher ground.<br/>He took the chains from my heart and set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He took the chains from my feet and set me free.<br/>He gives me strength now I'm walking perfectly.<br/>He took me out of Satan's hand,<br/>Set me in the promised land.<br/>He took the chains from my feet and set me free.</lines>
+    </verse>
+  </lyrics>
+</song>

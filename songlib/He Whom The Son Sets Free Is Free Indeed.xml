@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:54">
+  <properties>
+    <titles>
+      <title>He Whom The Son Sets Free Is Free Indeed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He whom the Son sets free is free indeed<br/>Completely liberated from the curse of the law.<br/>He whom the Son sets free is free indeed.<br/>He's free to be a servant of the most high God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where the Spirit of the Lord is there is liberty,<br/>And I am not entangled with the yoke of slavery.<br/>For Jesus is the Truth who has come to set us free.<br/>We are free. We are free. We are free.</lines>
+    </verse>
+  </lyrics>
+</song>

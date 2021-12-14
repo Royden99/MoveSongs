@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:25">
+  <properties>
+    <titles>
+      <title>Except the Lord Build the House</title>
+    </titles>
+    <authors>
+      <author>Sue Covey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Except the Lord build the house<br/>We labor in vain<br/>Except the Lord keep this city,<br/>the watchman waketh in vain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord hath done great things for us, <br/>whereof we are glad<br/>Turn again our captivity<br/>o lord, as streams in the south.<br/>they that sow in tears shall reap in joy<br/>he that goeth forth and weepeth, <br/>bearing precious seed<br/>shall doubtless come again with rejoicing<br/>bringin his sheaves with him.</lines>
+    </verse>
+  </lyrics>
+</song>

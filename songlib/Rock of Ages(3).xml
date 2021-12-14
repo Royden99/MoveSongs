@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:15">
+  <properties>
+    <titles>
+      <title>Rock of Ages</title>
+    </titles>
+    <authors>
+      <author>Martin Nystrom © 1991 Integrity's Hosanna! Music (c/o Integrity Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rock of ages, You are faithful and true. <br/>You are able to do all You have promised. <br/>Rock of ages, You are faithful and just. <br/>I will always put my trust in You. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're a shelter in the time of trouble, <br/>A refuge in the time of storm. <br/>You're a fortress in the time of struggle, <br/>And a tower in the time of war.<br/>You're a healer in the time of sickness,<br/>A comfort in the time of grief. <br/>You're a stronghold in the time of weakness, <br/>And a helper in the time of need.</lines>
+    </verse>
+  </lyrics>
+</song>

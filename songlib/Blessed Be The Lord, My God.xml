@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:02">
+  <properties>
+    <titles>
+      <title>Blessed Be The Lord, My God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the Lord, my God,<br/>Who teaches my hands to war. (Repeat).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My rock and my fortress,<br/>My high tower, my deliverer,<br/>My shield and my buckler,<br/>My help is the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

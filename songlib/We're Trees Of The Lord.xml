@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:42">
+  <properties>
+    <titles>
+      <title>We're Trees Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're trees of the Lord,<br/>Planted by living waters.<br/>Our leaves do not wither.<br/>Our roots go down deep.<br/>And whatever we do,<br/>God says it shall prosper.<br/>We're trees of the Lord,<br/>And we're planted by Him.</lines>
+    </verse>
+  </lyrics>
+</song>

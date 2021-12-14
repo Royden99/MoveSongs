@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:32">
+  <properties>
+    <titles>
+      <title>I Will Enter His Gates With Thanksgiving In My Heart</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will enter His gates with thanksgiving in my heart. <br/>I will enter His courts with praise. <br/>I will say this is the day that the Lord hath made. <br/>I will rejoice for He hath made me glad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He hath made me glad. He hath made me glad. <br/>I will rejoice for He hath made me glad.<br/>He hath made me glad. He hath made me glad. <br/>I will rejoice for He hath made me glad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Entrare por sus puertas con accion de gracias,<br/>Por sus atrios con alabanza. <br/>Y dire este es el dia que hizo el Jehova. <br/>Le alabo pues el me alegro. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>El me alegro. el me alegro. <br/>Le alabo, pues el me alegro. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:27">
+  <properties>
+    <titles>
+      <title>Solo Tu Eres Santo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Solo tu eres Santo, solo tu eres digno <br/>Tu eres hermoso y maravilloso <br/>Derrama tu Espíritu y que tu luz brille <br/>Que tu gloria llene ahora mismo este lugar </lines>
+    </verse>
+  </lyrics>
+</song>

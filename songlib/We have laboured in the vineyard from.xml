@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:35">
+  <properties>
+    <titles>
+      <title>We have laboured in the vineyard from</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We have laboured in the vineyard from<br/>dawn to setting sun,<br/>Counting me forever ready until our Lord<br/>shall come.<br/>When our work on earth is over and<br/>every knee shall bow,<br/>I want to be found ready with my hand<br/>upon the plough.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keep your hand on the gospel plough.<br/>Heaven's shining goal is waiting now.<br/>Keep pressing on; don't look back now.<br/>Keep your hand on the gospel plough.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We plough the fields with patience waitin'<br/>for the harvest time.<br/>Sowin' seeds of salvation until the<br/>laying by.<br/>Looking forward to the reaping we must<br/>be steadfast somehow.<br/>With our eyes upon the Master and our<br/>hands upon the plough.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:43">
+  <properties>
+    <titles>
+      <title>I'm Going To Sing, Sing, Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm going to sing, sing, sing. <br/>I'm going to shout, shout, shout.<br/>I'm going to sing, I'm going to shout, <br/>Praise the Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>When those gates are open wide, <br/>I'll be there by Jesus' side.<br/>I'm going to sing, I'm going to shout, <br/>Praise the Lord. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm going to walk, walk, walk, etc. <br/>I'm going to talk, talk, talk, etc.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cantare y alabare, cantare, <br/>Alabare, gloria a Dios. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cuando las prisiones se abriran, <br/>Junto a Cristo yo estare. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Cantare y alabare, gloria a Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

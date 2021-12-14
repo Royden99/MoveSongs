@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:02">
+  <properties>
+    <titles>
+      <title>Perfect Love Casteth Out All Fear</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Perfect love casteth out all fear (casteth out all fear). (2x)<br/>Praying God every day to Thee,<br/>Every fear departeth from me.<br/>Perfect love casteth out all fear (casteth out all fear).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/En el amor no hay temor, no hay temor./<br/>Orando yo cada día a ti,<br/>Todo temor huirá de mí.<br/>En el amor no hay temor, no hay temor.</lines>
+    </verse>
+  </lyrics>
+</song>

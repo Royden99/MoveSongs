@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:09">
+  <properties>
+    <titles>
+      <title>Joy Unspeakable</title>
+    </titles>
+    <authors>
+      <author>Barney E. Warren</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is joy unspeakable and full of glory,<br/>Full of glory, full of glory.<br/>It is joy unspeakable and full of glory.<br/>Oh the half has never yet been told!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have found His grace in all complete;<br/>He supplieth every need.<br/>While I sit and learn at Jesus feet,<br/>I am free, yes, free indeed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have found the pleasure I once craved;<br/>It is joy and peace within.<br/>What a wondrous blessing! I am saved<br/>From the awful gulf of sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I have found that hope<br/>so bright and clear,<br/>Living in the realm of grace.<br/>Oh the Savior's presence is so near,<br/>I can see His smiling face.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I have found the joy no tongue can tell.<br/>How its waves of glory roll!<br/>It is like a great o'er flowing well<br/>Springing up within my soul.</lines>
+    </verse>
+  </lyrics>
+</song>

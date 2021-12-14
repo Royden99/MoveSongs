@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:50">
+  <properties>
+    <titles>
+      <title>O Pondré Mis Ojos En Nadie Más Que En Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>No pondré mis ojos en nadie más que en Dios.<br/>No pondré mis ojos en nadie más que en Dios.<br/>/No pondré mis ojos en nadie más/ (2)<br/>No pondré mis ojos en nadie más que en Dios.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Porque sólo tú me puedes sostener/ (2)<br/>/no daré mi vida a nadie más/ (2)<br/>No daré mi vida a nadie más que a Dios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/No daré la gloria a nadie más que a Dios/ (2)<br/>/no daré la gloria a nadie más/ (2)<br/>No daré la gloria a nadie más que a Dios.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/Porque sólo Dios es digno de loor/ (2)<br/>/porque sólo Dios es digno/ (2)<br/>Porque sólo Dios es digno de loor.</lines>
+    </verse>
+  </lyrics>
+</song>

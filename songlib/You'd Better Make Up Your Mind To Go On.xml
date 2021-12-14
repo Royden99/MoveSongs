@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:09">
+  <properties>
+    <titles>
+      <title>You'd Better Make Up Your Mind To Go On</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You'd better make up your mind to go on<br/>You'd better make up your mind to surrender your all<br/>You'd better make up your mind to pay the price<br/>You'd better make up your mind to go on. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've made up my mind to go on<br/>I've made up my mind to surrender your all<br/>I've made up my mind to pay the price<br/>I've made up my mind to go on.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:46">
+  <properties>
+    <titles>
+      <title>In Him We Live</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In Him we live, and move, and have our being, in Him we live,<br/>  In Him we live, and move, and have our being , in Him we live, (2x)<br/> In Him we're beautiful, lovely, marvelous, wonderful. <br/> Because in Him we live</lines>
+    </verse>
+  </lyrics>
+</song>

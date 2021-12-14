@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:47">
+  <properties>
+    <titles>
+      <title>In Moments Like These, I Sing Out A Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In moments like these, I sing out a song, <br/>I sing out a love song to Jesus. <br/>In moments like these, I lift up my hands,<br/>I lift up my hands to the Lord. <br/>Singing, I love You Lord. (3x) <br/>I love You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>En momentos asi levanto mi voz <br/>Levanto mis manos a Cristo <br/>En momentos asi levanto mi voz </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Levanto mis manos a El. <br/>Cuanto te amo Dios.(3x)<br/>Dios te amo</lines>
+    </verse>
+  </lyrics>
+</song>

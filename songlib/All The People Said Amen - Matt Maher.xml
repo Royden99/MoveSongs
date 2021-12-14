@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:49">
+  <properties>
+    <titles>
+      <title>All The People Said Amen - Matt Maher</title>
+    </titles>
+    <authors>
+      <author>Matt Maher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are not alone if you are lonely<br/>When you're feeling afraid you're not the only<br/>We are all the same in need of mercy<br/>To be forgiven and be free<br/>It's all you got to lean on<br/>But thank God it's all you need</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Chorus)<br/>And all the people said Amen<br/>And all the people said Amen<br/>Give thanks to the Lord for his love never ends<br/>And all the people said Amen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Verse)<br/>If you're rich or poor well it don't matter<br/>Weak or Strong, you know love is what we're after<br/>We're all broken but we're all in this together<br/>God knows we stumble and we fall<br/>And he so loved the world he sent his son to save us all</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Chorus)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(Bridge)<br/>Blessed are the poor in spirit who are torn apart;<br/>Blessed are the persecuted and the pure in heart;<br/>Blessed are the people hungry for another start,<br/>for this is the kingdom, the kingdom of God</lines>
+    </verse>
+  </lyrics>
+</song>

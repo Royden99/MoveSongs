@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:34">
+  <properties>
+    <titles>
+      <title>Make Me A Son, O God, Make Me A Son</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>Make me a son, O God, make me a son.<br/>Whatever You do, deal with me, Lord, as a son.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was younger I would gird myself<br/>And would go wherever I wanted to.<br/>But now, I'm older, and I stretch out my hands and cry,<br/>And I cry...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I thank Christ Jesus our Lord and King<br/>Who hath enabled me, for that He counts me faithful,<br/>Putting me into His service, who was not one of His<br/>Yet I cry...</lines>
+    </verse>
+  </lyrics>
+</song>

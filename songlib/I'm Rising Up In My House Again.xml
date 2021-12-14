@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:44">
+  <properties>
+    <titles>
+      <title>I'm Rising Up In My House Again</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm rising up in my house again. <br/>Bringing salvation without sin. <br/>Tearing down that carnal man,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In every temple where he stands. <br/>I'm rising up with a brand new word. <br/>In a voice you've never heard. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm rising up, I'm rising up in my house again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Me levanto en mi casa hoy, <br/>Con salud, sin pecado. <br/>Quebrando al hombre carnal </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Donde quiera que se encuentre. <br/>Me levanto con palabra nueva</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Con una voz nunca oida. <br/>Me levanto me levanto en mi casa hoy.</lines>
+    </verse>
+  </lyrics>
+</song>

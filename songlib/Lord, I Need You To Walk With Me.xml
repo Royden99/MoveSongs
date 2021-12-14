@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:29">
+  <properties>
+    <titles>
+      <title>Lord, I Need You To Walk With Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I need You to walk with me.<br/>I need Thy strength, I need Thy peace to live in me.<br/>I need Thy light to guide me. I need Thy word inside me.<br/>I need Thy faith to believe what I can't see.</lines>
+    </verse>
+  </lyrics>
+</song>

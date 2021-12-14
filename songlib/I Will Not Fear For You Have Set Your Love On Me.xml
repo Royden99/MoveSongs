@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:34">
+  <properties>
+    <titles>
+      <title>I Will Not Fear For You Have Set Your Love On Me</title>
+    </titles>
+    <authors>
+      <author>Emerson Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will not fear<br/>For You have set Your love on me<br/>And I will not turn back.<br/>With my eyes on the prize<br/>Of being one with You forever,<br/>Your blood brings me nearer,<br/>And I will not turn back.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your loving kindness is better than life<br/>And Your mercies endureth forever and ever.<br/>I will not leave the One Who has set<br/>His love so strongly on me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will not fear<br/>Even though You slay me,<br/>For You'll never leave me.<br/>Nothing can separate me,<br/>Lord, from You,<br/>Not life, nor death; You'll not forsake me,<br/>And I will not turn back.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

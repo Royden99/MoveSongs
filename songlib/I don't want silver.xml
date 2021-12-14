@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:16">
+  <properties>
+    <titles>
+      <title>I don't want silver</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>i don't want silver and i don't want gold<br/>things of this world will soon grow old<br/>give me jesus and i'll be satisfied<br/>well, i don't want houses and i don't want lands<br/>i'd rather feel the touch of his nail-scarred hands<br/>give me jesus and i'll be satisfied.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>just give me jesus, what a wonderful lord<br/>give me jesus and take the things of this old world<br/>give me jesus and let me in his love abide<br/>give me jesus and i'm satisfied.</lines>
+    </verse>
+  </lyrics>
+</song>

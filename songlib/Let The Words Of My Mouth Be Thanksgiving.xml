@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:19">
+  <properties>
+    <titles>
+      <title>Let The Words Of My Mouth Be Thanksgiving</title>
+    </titles>
+    <authors>
+      <author>Bob Porter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the words of my mouth be thanksgiving<br/>Let the voicing of my heart be praise<br/>Let each thought of my mind be set on you Lord<br/>May my life be a worship on to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That Thou might lead me on more fully on Thy highway<br/>Lead me on unto thee<br/>That with each step I take the old man's left behind<br/>And newness of life cometh forth<br/></lines>
+    </verse>
+  </lyrics>
+</song>

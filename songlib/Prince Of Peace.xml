@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:08">
+  <properties>
+    <titles>
+      <title>Prince Of Peace</title>
+    </titles>
+    <authors>
+      <author>Michael W Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are holy  , You are holy<br/>You are mighty  (You are mighty)<br/>You are worthy  (You are worthy)<br/>Worthy of praise  (Worthy of praise)<br/>I will follow  (I will follow)<br/>I will listen  (I will listen)<br/>I will love You  (I will love You)<br/>All of my days.  (All of my days.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus: Men , Women<br/>I will sing to  (You are Lord of lords)<br/>And worship  (You are King of kings)<br/>The King Who  (You are mighty God)<br/>Is worthy  (Lord of everything)<br/>I will love and  (You're Emmanuel)<br/>Adore You  (You're the great I AM)<br/>I will bow down  (You're my Prince of peace)<br/>Before You  (Who is the Lamb)<br/>I will sing to  (You're my living God)<br/>And worship  (You're my saving grace)<br/>The King Who  (You will reign forever)<br/>Is worthy  (You are Ancient of days)<br/>I will love and  (You are Alpha, Omega)<br/>Adore You  (Beginning and end)<br/>I will bow down  (You're my Saviour, Messiah)<br/>Before You  (Redeemer and friend)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Altogether:<br/>You're my Prince of Peace<br/>And I will live my life for You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>1st time back to verse<br/>2nd time back to chorus<br/>Repeat 'Altogether' last time<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:59">
+  <properties>
+    <titles>
+      <title>He's My Rock, My Sword, My Shield</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's my Rock, my Sword, my Shield.<br/>He's the Wheel in the middle of the wheel.<br/>He's the Lily of the Valley,<br/>The Bright and Morning Star.<br/>It makes no difference what they say;<br/>I'm gonna trust Him as I pray,<br/>And I'll wait, wait right here until He comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're His church, His word revealed.<br/>We are walking in God's will.<br/>We're His pearl of great price,<br/>His city on a hill.<br/>It makes no difference what we see;<br/>With God's word we do agree.<br/>He's the Truth, He's the Way into life.</lines>
+    </verse>
+  </lyrics>
+</song>

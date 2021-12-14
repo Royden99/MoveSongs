@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:59">
+  <properties>
+    <titles>
+      <title>Jehova Es Mi Roca</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Jehová es mi Roca y mi fortaleza <br/>y mi libertador/ (2) <br/>Dios, mío fortaleza mía, en El confiaré <br/>Mi escudo, el fuerte de mi salvación <br/>Mi alto refugio. </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:14">
+  <properties>
+    <titles>
+      <title>Come, You Blessed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, you blessed of my Father,<br/>Receive the Kingdom as your own;<br/>For what you did in the hidden place<br/>You did before my throne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, you blessed of my Father,<br/>Receive the Kingdom as your own;<br/>For what you did to the least one<br/>You did unto the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was hungry and you gave me meat.<br/>I was thirsty and you gave me drink.<br/>I was a stranger and you took me in.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I was naked and you clothed me.<br/>I was sick and you visited me.<br/>I was in prison and you came to me.</lines>
+    </verse>
+  </lyrics>
+</song>

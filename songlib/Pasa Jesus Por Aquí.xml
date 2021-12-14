@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:01">
+  <properties>
+    <titles>
+      <title>Pasa Jesus Por Aquí</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Pasa Jesús, por aquí, aquí, aquí <br/>Pasa Jesús por aquí <br/>Hoy pasa Jesús por aquí <br/>La paz de Cristo siento en mi alma <br/>El me dio vida, me dio salud <br/>Y una corona hay en su gloria <br/>En su ternura me la ofreció </lines>
+    </verse>
+  </lyrics>
+</song>

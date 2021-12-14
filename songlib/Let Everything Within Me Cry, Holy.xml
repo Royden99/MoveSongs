@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:15">
+  <properties>
+    <titles>
+      <title>Let Everything Within Me Cry, Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let everything within me cry, Holy.<br/>Let everything within me cry, Holy.<br/>Holy, Holy, Holy is the Lamb that was slain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let everything within me cry, Worthy, etc.<br/>Let everything within me cry, Glory to the lamb, etc.<br/>Let everything within me cry, Jesus, etc.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:56">
+  <properties>
+    <titles>
+      <title>It's Time</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's Time for the Babes To Be Children<br/>It's time for the children to be sons<br/>Time for the sons to be fathers<br/>Time for God's people to be one.<br/>It's time for the fearful to take courage<br/>Time for the weak to be strong<br/>Time for God's people to gather.  <br/>Time for the Ark to move on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh brethren, these are perilous times<br/>As the Lord by his servants has warned<br/>What be our answer, shall we turn aside<br/>Nay, but we shall arise and press on<br/>It's time for the Manchild to be born<br/>Time for the trumpet to sound<br/>Death still must be beaten<br/>Time, fellow soldiers, is now.</lines>
+    </verse>
+  </lyrics>
+</song>

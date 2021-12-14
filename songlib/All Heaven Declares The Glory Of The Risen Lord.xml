@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:48">
+  <properties>
+    <titles>
+      <title>All Heaven Declares The Glory Of The Risen Lord</title>
+    </titles>
+    <authors>
+      <author>Noel Richards</author>
+      <author>Tricia Richards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All heaven declares the glory of the risen Lord<br/>Who can compare with the beauty of the Lord?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>Forever You will be the Lamb upon the throne;<br/>I'll gladly bow the knee and worship You alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will proclaim the beauty of the risen Lord<br/>Who once was slain to reconcile man to God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Los cielos declaran la gloria de nuestro Señor<br/>No tiene igual la belleza de Jehova.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Por siempre El sera, Cordero en el trono;<br/>Me inclino ante Dios, le adoro solo a El.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Proclamara la gloria de nuestro Señor,<br/>Quien muerto fue reconciliandonos con El.</lines>
+    </verse>
+  </lyrics>
+</song>

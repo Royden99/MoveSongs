@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:09">
+  <properties>
+    <titles>
+      <title>How great are you Lord</title>
+    </titles>
+    <authors>
+      <author>Lynn DeShazo © 1999 Integrity's Hosanna! Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How great are you Lord<br/>how great is your mercy<br/>how great are the things<br/>that you have done for me<br/>how great are you lord<br/>your loving kindness<br/>is filling my heart as i sing<br/>how great are you lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How great is your love that reaches to the heavens<br/>how great is the heart that sought and rescued me</lines>
+    </verse>
+  </lyrics>
+</song>

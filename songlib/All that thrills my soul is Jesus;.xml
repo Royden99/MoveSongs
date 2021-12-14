@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:49">
+  <properties>
+    <titles>
+      <title>All that thrills my soul is Jesus;</title>
+    </titles>
+    <authors>
+      <author>Thoro Harris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All that thrills my soul is Jesus;<br/>He is more than life to me;<br/>And the fairest of ten thousand<br/>In my blessed Lord I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who can cheer the heart like Jesus,<br/>By His presence all divine?<br/>True and tender, pure and precious,<br/>Oh, how blest to call Him mine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love of Christ so freely given,<br/>Grace of God beyond degree,<br/>Mercy higher than the heaven,<br/>Deeper than the deepest sea!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every need His hand supplying,<br/>Every good in Him I see,<br/>On His strength divine relying,<br/>He is all in all to me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>By the crystal, flowing river,<br/>With the ransomed I will sing,<br/>And forever and forever,<br/>Praise and glorify the King.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>What a wonderful redemption.<br/>Never can a mortal know,<br/>How my sin though red like crimson,<br/>Can be whiter than the snow.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

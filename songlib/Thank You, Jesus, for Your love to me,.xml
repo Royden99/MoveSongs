@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:40">
+  <properties>
+    <titles>
+      <title>Thank You, Jesus, for Your love to me,</title>
+    </titles>
+    <authors>
+      <author>Alison Revell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You, Jesus, for Your love to me,<br/>Thank You, Jesus, for Your grace so free.<br/>I lift my voice to praise Your name,<br/>I'll praise You again and again;<br/>You are my everything; You are my Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

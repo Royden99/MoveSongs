@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:56">
+  <properties>
+    <titles>
+      <title>I've Been Changed, I've Been New-born</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been changed, I've been new-born.<br/>All my life has been rearranged<br/>What a difference it's made<br/>Since my Lord came and stayed in my heart.<br/>O! Yes, I've been changed. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me cambió, me salvó<br/>Toda mi vida el Señor arregló<br/>Que diferencia hay en mí<br/>Desde que Cristo vino a mí<br/>Gloria a Dios! el Señor me cambió.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:37">
+  <properties>
+    <titles>
+      <title>Move A Little Closer</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Move a little closer,<br/>Where the fire is burning,<br/>Move a little closer,<br/>Where God makes his man,<br/>Fear not the burnings,<br/>But yield unto them, for only the fire<br/>Will purify this man.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pureness of motives, pureness of life;<br/>Holiness in Jesus is God's design.<br/>Fear not the testings, fear not the trials.<br/>Only the fire will purify this man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God's holy city,<br/>Coming down from above,<br/>Clear as crystal<br/>With the glory of God,<br/>Fear not the testings, fear not the trials,<br/>Only the fire will purify this man.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:03">
+  <properties>
+    <titles>
+      <title>Hold on a little longer, hold on a little stronger</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hold on a little longer, hold on a little stronger<br/>The testings of the Lord are pure as gold<br/>He may take you through the fire, but He'll burn out dross and mire<br/>So, hold on a little longer, hold on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You took the hand of Jesus, and stood upon His promise<br/>It seems you have trusted in vain<br/>But the answer you have prayed for<br/>is on its way and is paid for.<br/>So, hold on a little longer, hold on.</lines>
+    </verse>
+  </lyrics>
+</song>

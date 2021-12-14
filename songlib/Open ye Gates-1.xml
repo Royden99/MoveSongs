@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:58">
+  <properties>
+    <titles>
+      <title>Open ye Gates</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou wilt keep him in perfect peace<br/>Whose mind is stayed on Thee,  (x3)<br/>For he trusteth, he trusteth in Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Open ye gates that the righteous nation that<br/>Keepeth the truth, may enter in, may enter in. (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In that day shall this song be sung<br/>In the land of Judah, (x3)<br/>We have a strong city.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

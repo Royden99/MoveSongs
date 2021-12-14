@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:40">
+  <properties>
+    <titles>
+      <title>My Jesus I Love Thee</title>
+    </titles>
+    <authors>
+      <author>W. R. Featherstone</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Jesus, I love Thee, I know Thou are mine,<br/>For Thee all the pleasures of sin I resign;<br/>My gracious redeemer, my Saviour art Thou,<br/>If ever I loved Thee, my Jesus 'tis now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Thee because Thou hast first loved me<br/>And purchased my pardon when nailed to the tree;<br/>I love Thee for wearing the thorns on Thy brow,<br/>If ever I loved Thee, my Jesus 'tis now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll love Thee in life, I will love Thee in death,<br/>And praise Thee as long as Thou lendest me breath,<br/>And say, should the death dew lie cold on my brow,<br/>If ever I loved Thee, my Jesus 'tis now.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In mansions of glory and endless delight,<br/>I'll ever adore Thee in heaven so bright;<br/>I'll sing with the glitteringcrown on my brow,<br/>If ever I loved Thee, my Jesus 'tis now.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

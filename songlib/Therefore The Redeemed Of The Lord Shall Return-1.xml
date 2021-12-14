@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:03">
+  <properties>
+    <titles>
+      <title>Therefore The Redeemed Of The Lord Shall Return</title>
+    </titles>
+    <authors>
+      <author>Ruth Lake</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Therefore the redeemed of the Lord shall return, <br/>And come with singing into Zion, <br/>And everlasting joy shall be upon their heads. <br/>Therefore the redeemed of the Lord shall return, <br/>And come with singing into Zion, <br/>And everlasting joy shall be upon their heads. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>They shall obtain gladness and joy, <br/>And sorrow and mourning shall flee away. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Therefore the redeemed of the Lord shall return, <br/>And come with singing unto Zion, <br/>And everlasting joy shall be upon their heads.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>De cierto volveran los redimidos de Jehova, <br/>A Sion cantando, volveran,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Gozo perpetuo sobre sus cabezas habra (2x) <br/>Ellos tendran alegria y gozo, </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Y el llanto y el gemido huiran. <br/>De cierto volveran los redimidos de Jehova, </lines>
+    </verse>
+    <verse name="v7">
+      <lines>A Sion cantando volveran, <br/>Gozo perpetuo sobre sus cabezas habra.</lines>
+    </verse>
+  </lyrics>
+</song>

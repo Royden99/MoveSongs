@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:37">
+  <properties>
+    <titles>
+      <title>I will stand, I will not waver,</title>
+    </titles>
+    <authors>
+      <author>Chris Bowater</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will stand, I will not waver,<br/>I will stand in Jesus' name;<br/>I will stand, for I'm possessing<br/>What God has placed within my hand;<br/>And though foes may rise against me,<br/>I'll not offer them a foothold,<br/>I will stand, I will stand.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:40">
+  <properties>
+    <titles>
+      <title>I'll Not Let You Go, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll not let You go, Lord.<br/>I'll not let You go.<br/>Except that You change me,<br/>Lord, I'll not let You go.<br/>(Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Change me, O God.<br/>Take the weakness in my life<br/>And make it strength<br/>For Your glory.<br/>I'll not let You go.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Make haste to me, O God.<br/>I'll not let You go.<br/>Come forth in my Lord,<br/>And I'll not let You go.</lines>
+    </verse>
+  </lyrics>
+</song>

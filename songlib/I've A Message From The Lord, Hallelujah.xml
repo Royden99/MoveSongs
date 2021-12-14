@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:56">
+  <properties>
+    <titles>
+      <title>I've A Message From The Lord, Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've a message from the Lord, Hallelujah<br/>And it's only that you praise and sing<br/>It's recorded in God's Word, Hallelujah<br/>And it's only that you praise and sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise and sing, my people sing<br/>Let the Hallelujahs ring<br/>For the battle is the Lord's Hallelujah<br/>And it's only that you praise and sing. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alabad, y adored.<br/>Gritad: Aleluya, Amen<br/>La batalla es del Señor, Aleluya.<br/>Y es solo que que canteis y alabeis.</lines>
+    </verse>
+  </lyrics>
+</song>

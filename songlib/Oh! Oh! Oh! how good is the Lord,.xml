@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:55">
+  <properties>
+    <titles>
+      <title>Oh! Oh! Oh! how good is the Lord,</title>
+    </titles>
+    <authors>
+      <author>Anon. Copyright control (words and music)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh! Oh! Oh! how good is the Lord,<br/>Oh! Oh! Oh! how good is the Lord,<br/>Oh! Oh! Oh! how good is the Lord,<br/>I never will forget what He has done for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He gives me salvation, how good is the Lord,<br/>He gives me salvation, how good is the Lord,<br/>He gives me salvation, how good is the Lord,<br/>I never will forget what He has done for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He gives me His blessings, how good is the Lord<br/>(x3)<br/>I never will forget what He has done for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He gives me His Spirit, how good is the Lord...<br/>I never will forget what He has done for me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He gives me His healing, how good is the Lord...<br/>I never will forget what He has done for me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He gives me His glory, how good is the Lord...<br/>I never will forget what He has done for me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

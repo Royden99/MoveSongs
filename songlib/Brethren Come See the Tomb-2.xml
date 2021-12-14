@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:04">
+  <properties>
+    <titles>
+      <title>Brethren Come See the Tomb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brethren, come see the tomb where Jesus lay;<br/>The stone's been rolled away, <br/>The stone's been rolled away. <br/>Death could not hold Him, much less the grave, <br/>Since that stone's been rolled away. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now He's risen, and now He's reigning, <br/>And within my heart He's singing songs of praise.<br/>And now He's risen, and now He's reigning, <br/>Since that stone's been rolled away. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord roll that stone away; <br/>Release me from that grave. <br/>Make this hardened heart of mine<br/>Soft as potter's clay, <br/>And, Oh Lord, shed abroad <br/>This precious love of God. <br/>Oh Lord, roll that stone away.</lines>
+    </verse>
+  </lyrics>
+</song>

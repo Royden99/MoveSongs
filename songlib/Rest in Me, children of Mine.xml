@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:13">
+  <properties>
+    <titles>
+      <title>Rest in Me, children of Mine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rest in Me, children of Mine<br/>And I'll give you peace within,<br/>Rest in Me, and do not strive<br/>If the battle you would win;<br/>Rest in Me, take My yoke,<br/>For the power of sin I broke<br/>At Calvary, to set you free,<br/>So rest in Me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rest in Me, children of Mine,<br/>You are on the victory side,<br/>Rest in Me, for I will soon<br/>Come again and take My bride;<br/>Rest in Me, persevere<br/>For your redemption draweth near,<br/>Until that day, just watch and pray<br/>And rest in Me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

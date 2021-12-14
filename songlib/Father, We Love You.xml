@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:27">
+  <properties>
+    <titles>
+      <title>Father, We Love You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father, (echo) we love You. (echo)<br/>We are gathered here to celebrate and worship You.<br/>Father, (echo) we love You. (echo)<br/>You alone deserve our praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, (echo) we love You. (echo)<br/>Perfect Lamb of God; sacrificed to save us.<br/>Jesus, (echo) we love You. (echo)<br/>You alone deserve our praise.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit, (echo) we love You. (echo)<br/>Lead us in the way; make us more like Jesus.<br/>Holy Spirit, (echo) we love You. (echo)<br/>You alone deserve our praise.</lines>
+    </verse>
+  </lyrics>
+</song>

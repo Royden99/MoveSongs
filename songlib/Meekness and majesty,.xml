@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:35">
+  <properties>
+    <titles>
+      <title>Meekness and majesty,</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Meekness and majesty,<br/>Manhood and Deity,<br/>In perfect harmony,<br/>The man who is God:<br/>Lord of eternity,<br/>Dwells in humanity,<br/>Kneels in humility,<br/>And washes our feet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh what a mystery,<br/>Meekness and majesty,<br/>Bow down and worship,<br/>For this is your God,<br/>This is your God!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Father's pure radiance,<br/>Perfect in innocence,<br/>Yet learns obedience<br/>To death on a cross:<br/>Suffering to give us life,<br/>Conquering through sacrifice;<br/>And as they crucify,<br/>Prays "Father, forgive".</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wisdom unsearchable,<br/>God the invisible,<br/>Love indestructable<br/>In frailty appears.<br/>Lord of infinity,<br/>Stooping so tenderly,<br/>Lifts our humanity<br/>To the heights of His throne.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

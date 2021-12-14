@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:09">
+  <properties>
+    <titles>
+      <title>Que Demandas De Mi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Qué demandas de mí? <br/>Qué me pides que de? <br/>Solamente en mi corazón <br/>Pon el querer y el hacer de tu voluntad <br/>Qué me quieres quitar? <br/>Qué te tengo que dar? <br/>Solamente en mi corazón <br/>Pon el querer y el hacer de tu voluntad </lines>
+    </verse>
+  </lyrics>
+</song>

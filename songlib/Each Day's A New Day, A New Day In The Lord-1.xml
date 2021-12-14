@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:20">
+  <properties>
+    <titles>
+      <title>Each Day's A New Day, A New Day In The Lord</title>
+    </titles>
+    <authors>
+      <author>Paula Crouse</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Each day's a new day, a new day in the Lord. <br/>Each day's a new day, to offer up His praises.<br/>Forgetting those things which are behind us. <br/>Looking unto those things before us.<br/>Each day is a new day, a new day in the Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I don't have to be the same today, <br/>As I was yesterday; <br/>And I don't have to be the same tomorrow. <br/>Each day, each hour, each moment, I'm new in Him. <br/>Praise God, He's changing me. <br/>Every moment I'm new in Him. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cada día es nuevo, nuevo en el Señor<br/>Cada día es nuevo, nuevo en el Señor<br/>olvidando las cosas que están atrás<br/>alcanzando las cosas que vendrán,<br/>cada día es nuevo, nuevo en el Señor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y no tengo que ser lo mismo que hoy<br/>Que yo fui ayer<br/>Y no tengo que ser lo mismo mañana<br/>Cada día, cada hora, cada momento <br/>Es nuevo en el<br/>Me está cambiando <br/>Cada día es nuevo en El.</lines>
+    </verse>
+  </lyrics>
+</song>

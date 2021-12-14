@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:00">
+  <properties>
+    <titles>
+      <title>Out of the depths do I cry unto You;</title>
+    </titles>
+    <authors>
+      <author>Simeon Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Out of the depths do I cry unto You;<br/>Lord, hear my voice.<br/>If You were marking the evil I've done<br/>There would be no way to stand;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But there is forgiveness with You<br/>And You will I fear.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let Israel hope in the Lord,<br/>For in You is mercy found;<br/>Let Israel hope in the Lord<br/>For redemption does abound;<br/>You will redeem us from all our sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More that the watchmen who wait for the dawn,<br/>I will look for You,<br/>My soul waits for You, O Lord,<br/>In Your word do I hope,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>For there is forgiveness with You<br/>And You will I fear.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

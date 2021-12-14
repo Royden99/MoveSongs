@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:38">
+  <properties>
+    <titles>
+      <title>We Shall Not All Sleep</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We shall not all sleep, but we'll all be changed in a moment,<br/>In a twinkling of an eye the last trumpet shall sound<br/>And the dead shall be raised, incorruptible<br/>And death and the grave are swallowed in victory,<br/>And God, yes our God, shall fill all in all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are not without hope, not without hope, not without joy,<br/>Not without power, not without praise, not without faith<br/>Not without strength to finish this race.<br/>Not without help, our help is the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though there be battles and though there be loss<br/>We're not afraid, we've counted the cost.<br/>With the armour of God to the right and the left<br/>Our Captain is Christ, our enemy, death.<br/>And the saints of all time are cheering us on.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:34">
+  <properties>
+    <titles>
+      <title>Surrender To Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Surrender to Me, surrender to Me,<br/>For I have surrendered to thee.<br/>Lift up your hands, and surrender to Me,<br/>For I have surrendered to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Call unto Me, call unto Me,<br/>For I am calling to thee.<br/>Thou art the chosen; it is I who have chosen,<br/>Therefore I'm calling to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

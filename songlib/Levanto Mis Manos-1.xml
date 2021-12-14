@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:22">
+  <properties>
+    <titles>
+      <title>Levanto Mis Manos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will lift up my hands,<br/>When they hang down in weakness.<br/>I will lift up my hands,<br/>When my trials surround me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>While I'm lifting my hands,<br/>I'll start to feel<br/>Your annointing to make me sing.<br/>While I'm lifting my hands,<br/>I'll start to feel<br/>Your fire.<br/>While I'm lifting my hands,<br/>My burdens are gone,<br/>I find Your strength<br/>That carries me on.<br/>All things are possible,<br/>All things are possible,<br/>While I'm lifting my hands. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Levanto mis manos.<br/>Aun que no tenga fuerza.<br/>Levanto mis manos.<br/>Aun que tenga mis problemas.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando levanto mis manos.<br/>Comienco a sentir.<br/>Una uncion que me ace cantar.<br/>Cuando levanto mis manos.<br/>Comienco a sentir.<br/>El fuego.<br/>Cuando levanto mis manos.<br/>Mis cargas se van.<br/>Nuevas fuerzas tu me das.<br/>Todo esso es posible.<br/>Todo esso es posible.<br/>Cuando levanto mis manos.</lines>
+    </verse>
+  </lyrics>
+</song>

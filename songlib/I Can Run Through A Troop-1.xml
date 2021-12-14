@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:14">
+  <properties>
+    <titles>
+      <title>I Can Run Through A Troop</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can run through a troop<br/>And leap over a wall.<br/>Hallelujah, hallelujah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's my strength and my song.<br/>He's my All in all.<br/>Hallelujah, hallelujah.<br/>He's the Rock of my salvation.<br/>There is now no condemnation.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I can run through a troop<br/>And leap over a wall.<br/>Hallelujah, hallelujah.</lines>
+    </verse>
+  </lyrics>
+</song>

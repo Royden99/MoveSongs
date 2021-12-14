@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:03">
+  <properties>
+    <titles>
+      <title>You are God alone</title>
+    </titles>
+    <authors>
+      <author>Jeff Moore</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are God alone, you are God and none compares (2x)<br/>Your grace is sufficient to carry me home<br/>You are God alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My life is in your hands<br/>Lord I surrender to your plan<br/>as you're fashioning and forming me <br/>into the image of your Son<br/>You are God alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You lift me up on eagle's wings<br/>high above the storm<br/>your peace pierces through the darkness of night<br/>you are God alone.</lines>
+    </verse>
+  </lyrics>
+</song>

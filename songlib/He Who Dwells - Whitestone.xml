@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:54">
+  <properties>
+    <titles>
+      <title>He Who Dwells - Whitestone</title>
+    </titles>
+    <authors>
+      <author>Whitestone</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He who dwells in the shelter of the most high<br/>will abide in the shadow of the almighty<br/>i will say to the Lord, my refuge, my fortress<br/>my god in whom i trust</lines>
+    </verse>
+    <verse name="v2">
+      <lines>you will not fear the terror by night<br/>nor the arrows that fly by day<br/>you will be kept securely on high<br/>in the lord, your dwelling place</lines>
+    </verse>
+  </lyrics>
+</song>

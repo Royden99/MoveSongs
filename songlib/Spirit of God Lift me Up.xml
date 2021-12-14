@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:30">
+  <properties>
+    <titles>
+      <title>Spirit of God Lift me Up</title>
+    </titles>
+    <authors>
+      <author>Jacob Hanneke</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can <br/>C<br/>almost <br/>Dm<br/>see your H<br/>G<br/>oliness<br/>C<br/>, <br/>As I <br/>Am<br/>look ar<br/>Em<br/>ound this p<br/>Dm<br/>lace<br/>G</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With my a<br/>C<br/>rms stretched ou<br/>Dm<br/>t<br/>To re<br/>G<br/>ceive Your lo<br/>C<br/>ve, <br/>I can <br/>Am<br/>see You <br/>Em<br/>on each fa<br/>G<br/>ce</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit of <br/>F<br/>God lift me <br/>G<br/>up, <br/>Spirit of <br/>Em<br/>God lift me <br/>Am<br/>up. <br/>Fill me <br/>Dm<br/>again with Your <br/>G<br/>love, <br/>Sweet Spirit of <br/>C<br/>God<br/>C</lines>
+    </verse>
+  </lyrics>
+</song>

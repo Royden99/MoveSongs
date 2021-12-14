@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:03">
+  <properties>
+    <titles>
+      <title>Blows The Wind</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blows the wind by and by,<br/>Cover me, in my brother's love,<br/>Steal my heart from troubled moments,<br/>Wash me clean, wash me clean.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blows the wind, the living Spirit,<br/>Fill my sails and take me home,<br/>Deeper still into my Father,<br/>Blows the wind, blows the wind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blows the wind, not where it wants to,<br/>But where it must by the Master's hand,<br/>And it takes His faithful to Him,<br/>Back to Him, back to Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come ye wind, blow through my timbers,<br/>Tremble me from branch to root;<br/>Make me strong for the battle,<br/>Come ye wind, come ye wind.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

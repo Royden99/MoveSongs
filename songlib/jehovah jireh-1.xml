@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:00">
+  <properties>
+    <titles>
+      <title>jehovah jireh</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jehovah Jireh, my Provider,<br/>His grace is sufficient for me,<br/>For me, for me (x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My God shall supply all my needs,<br/>According to His riches in glory;<br/>He shall give His angels charge over me,<br/>Jehovah Jireh cares for me, for me,<br/>Jehovah Jireh cares for me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

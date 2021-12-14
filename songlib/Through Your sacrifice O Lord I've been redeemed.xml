@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:17">
+  <properties>
+    <titles>
+      <title>Through Your sacrifice O Lord I've been redeemed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through Your sacrifice O Lord I've been redeemed<br/>By Your blood I've been cleansed<br/>I've been brought near to You<br/>And freely I've received<br/>Now freely I will show my love for You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take this world for I have Jesus<br/>You alone are the treasure that I seek<br/>When the lights are shining brightly<br/>And I'm blinded deep within<br/>Lord help me see the wonder of Your cross at work in me</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The kingdoms of this world will soon become<br/>The kingdoms of our Lord and of His Christ (x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And You will reign forever (x3)<br/>And we will reign with You<br/></lines>
+    </verse>
+  </lyrics>
+</song>

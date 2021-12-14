@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:28">
+  <properties>
+    <titles>
+      <title>Fill Up My Cup</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fill up my Cup <br/>fill up my cup let it overflow<br/>Fill up my cup<br/>fill up my cup let it overflow<br/>Fill up my cup<br/>fill up my cup let it overflow<br/>let it overflow with love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing grace<br/>amazing grace how sweet the sound<br/>That saved a wretch<br/>that saved a wretch like me,<br/>I once was lost<br/>I once was lost but now am found<br/>Was blind but now I see.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When we've been there<br/>when we've been there ten thousand years<br/>Bright shining as<br/>Bright shining as the sun<br/>We've no less days<br/>We've no less days to sing God's praise<br/>Then when we first begun.</lines>
+    </verse>
+  </lyrics>
+</song>

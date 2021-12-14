@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:30">
+  <properties>
+    <titles>
+      <title>Soy Libre Para Andar</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Soy libre para andar, sobre el monte del Señor <br/>Soy libre para pisar, sobre la tierra y el mar <br/>Soy libre para expresar la misma imagen que es El <br/>Soy libre solo en El, porque en el reino vivo yo </lines>
+    </verse>
+  </lyrics>
+</song>

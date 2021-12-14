@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:14">
+  <properties>
+    <titles>
+      <title>I beheld and I heard</title>
+    </titles>
+    <authors>
+      <author>Jim Eschenbacher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I beheld and heard the voice of many angels<br/>Round about the throne and the beasts and the elders<br/>And the number of them was ten thousands times ten thousand<br/>Thousands of thousands shouting with a loud voice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessings and honor and glory and power<br/>Be unto Him that sits upon the throne<br/>And unto the Lamb forever and ever<br/>Worthy is the Lamb that was slain.</lines>
+    </verse>
+  </lyrics>
+</song>

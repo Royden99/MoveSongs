@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:38">
+  <properties>
+    <titles>
+      <title>We Sing Praises To Your Name, Oh Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We sing praises to your name, oh Lord.<br/>Praises to your name, oh Lord.<br/>For your name is great and greatly to be praised. (Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te alabamos solo a Ti oh Señor.<br/>Vamos a alabar a Dios.<br/>Porque grande es El,<br/>Y digno de alabar.</lines>
+    </verse>
+  </lyrics>
+</song>

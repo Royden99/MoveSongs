@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:02">
+  <properties>
+    <titles>
+      <title>Ho-ho-ho-san-na, Ho-ho-ho-san-na</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho-ho-ho-san-na, Ho-ho-ho-san-na.<br/>Ho-ho-ho-san-na, Jesus is the King. (Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We lift You up, O Lord, for You are marvelous.<br/>Let all the angels worship You!<br/>We lift You up, O Lord, for You are marvelous.<br/>Exalt Him all His saints!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Sing praises to the Lord.<br/>Blessed be the name of our God. (Repeat.)</lines>
+    </verse>
+  </lyrics>
+</song>

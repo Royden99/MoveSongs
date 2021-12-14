@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:12">
+  <properties>
+    <titles>
+      <title>I am Jehovah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am Jehovah; I am that I am,<br/>And my trumpet shall soon call out.<br/>I formed the world with a whisper,<br/>But I'm getting ready, I'm getting ready,<br/>I'm getting ready to shout!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's the Name above all names,<br/>We shall declare it, we shall declare it.<br/>It's the Name above all names,<br/>We shall shout it to a dying world.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who will declare My Name?<br/>Who will shout My Name<br/>In the middle of the nations?<br/>Who will take the shield of faith<br/>And the sword of My Word<br/>And declare my name to a dying world?<br/>He who has declared Me thus far,<br/>Shall walk in even greater power,<br/>For the sands of time are running out,<br/>But My Name shall be declared in this final hour.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will possess My people, I'll take every inch<br/>That they will surrender to Me<br/>For I'm gathering an army<br/>And I'm giving them My name;<br/>My Word in their mouth,<br/>Shall set the captives free.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:11">
+  <properties>
+    <titles>
+      <title>I am a new creation,</title>
+    </titles>
+    <authors>
+      <author>Dave Bilbrough</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am a new creation,<br/>No more in condemnation,<br/>Here in the grace of God I stand.<br/>My heart is overflowing,<br/>My love just keeps on growing,<br/>Here in the grace of God I stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will praise You, Lord,<br/>Yes, I will praise You, Lord,<br/>And I will sing of all that You have done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A joy that knows no limit,<br/>A lightness in my spirit,<br/>Here in the grace of God I stand.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:41">
+  <properties>
+    <titles>
+      <title>Great And Mighty</title>
+    </titles>
+    <authors>
+      <author>Marlene Bigley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great and mighty is the Lord our God,<br/>Great and mighty is He;<br/>Great and mighty is the Lord our God,<br/>Great and mighty is He.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift up your banners, let the echoes ring<br/>Praises to our King;<br/>Great and mighty is the Lord our God,<br/>Great and mighty is He.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

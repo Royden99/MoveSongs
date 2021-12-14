@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:47">
+  <properties>
+    <titles>
+      <title>In my heart there rings a melody,</title>
+    </titles>
+    <authors>
+      <author>Elton M.Roth</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my heart there rings a melody,<br/>There rings a melody, with heaven's harmony;<br/>In my heart there rings a melody;<br/>There rings a melody of love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I have a song that Jesus gave me,<br/>It was sent from heaven above;<br/>There never was a sweeter melody,<br/>'Tis a melody of love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love the Christ Who died on Calv'ry,<br/>For He washed my sins away;<br/>He put within my heart a melody,<br/>And I know it's there to stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>'Twill be my endless theme in glory,<br/>With the angels I will sing;<br/>'Twill be a song with glorious harmony,<br/>When the courts of heaven ring.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

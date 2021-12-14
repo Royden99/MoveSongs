@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:00">
+  <properties>
+    <titles>
+      <title>Jehová Está En Su Templo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Jehová está en su templo <br/>Alábale que El vive/ (2) <br/>/El vive, El vive, <br/>Alábale que El vive. / (2) <br/>/Jehová es poderoso <br/>Alábale que El vive/ (2) <br/>/El vive, El vive, <br/>Alábale que El vive. / (2) </lines>
+    </verse>
+  </lyrics>
+</song>

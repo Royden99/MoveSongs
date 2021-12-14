@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:03">
+  <properties>
+    <titles>
+      <title>Jesus Is The Head Of The Body, The Body Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is the Head of the Body,<br/>The Body of the Lord.<br/>And we who believe are the Church,<br/>The fullness of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For we being many are one,<br/>One body of the Lord.<br/>And each of us is part of the other,<br/>In the Body of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The bread that we break is the Body,<br/>The Body of the Lord.<br/>Each piece is broken like Jesus,<br/>To become one Christ, the Word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We live together in the Body,<br/>The Body of the Lord.<br/>We are the Christ to each other,<br/>The glory of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

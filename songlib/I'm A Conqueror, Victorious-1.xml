@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:40">
+  <properties>
+    <titles>
+      <title>I'm A Conqueror, Victorious</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For He strengthens me, He strengthens me<br/>With joy in my heart and peace in my soul<br/>He strengthens me<br/>Oh, I'm a conqueror, reigning with Him<br/>Secure in the blood of Jesus<br/>That cleanses me from sin.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm a conqueror, victorious. <br/>I'm reigning with Jesus. <br/>I'm seated, in heavenly places, <br/>With Him, with Him.<br/>For the kingdom of God is within me. <br/>I know no defeat, only victory. <br/>For the kingdom of God is within me. <br/>I know no defeat, only strength and power.</lines>
+    </verse>
+  </lyrics>
+</song>

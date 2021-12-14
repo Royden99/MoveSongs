@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:58">
+  <properties>
+    <titles>
+      <title>I've Got A New Joy, Since I Found Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a new joy, since I found Jesus.<br/>I've got a new joy, since I found Him.<br/>I've got a new joy in my heart,<br/>New hope in my soul,<br/>I've got a new joy, since I found Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got a new peace, since I found Jesus.<br/>I've got a new peace since I found Him.<br/>I've got that peace that passeth all understanding.<br/>I've got a new peace since I found Him.</lines>
+    </verse>
+  </lyrics>
+</song>

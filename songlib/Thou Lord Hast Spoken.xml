@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:14">
+  <properties>
+    <titles>
+      <title>Thou Lord Hast Spoken</title>
+    </titles>
+    <authors>
+      <author>Emerson William Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou Lord hath spoken,<br/>Let there be light!<br/>And as one man oh Lord we turn to Thee.<br/>We now are seeing<br/>Your glory and might<br/>And in Your presence Lord we long to be!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For Thine is the kingdom<br/>And Thine is the power<br/>And all glory forevermore<br/>For we exalt Thee,<br/>Bow down before Thee,<br/>Emmanuel, Thou King of Kings</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou Lord hath established<br/>Thy name on high<br/>And by Thy power<br/>Draw Thy sons to Thy throne<br/>Father forever, most glorious we die<br/>To live a life that's found in Thee alone!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou Lord hath determined<br/>In Thy great plan<br/>To have a people called<br/>By Thy holy name.<br/>Washed and made ready<br/>By the blood of the Lamb<br/>A bride made spotless<br/>By Thy raging flame.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

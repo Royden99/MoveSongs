@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:04">
+  <properties>
+    <titles>
+      <title>You are mighty and strong to save,</title>
+    </titles>
+    <authors>
+      <author>Johnny Parks</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are mighty and strong to save,<br/>You are mighty and strong to save,<br/>You are mighty and strong to save,<br/>Rescuer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the heavens You came<br/>To the depths of the grave<br/>To redeem for Your praise,<br/>Rescuer.<br/>Jesus, You overcame<br/>Death itself for our sake,<br/>Let the world now proclaim:<br/>Rescuer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh what a Saviour!<br/>Freedom forever,<br/>We lift our hands with chains undone.<br/>Hearts that know mercy<br/>Cannot stay silent,<br/>We sing the song of saving love.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

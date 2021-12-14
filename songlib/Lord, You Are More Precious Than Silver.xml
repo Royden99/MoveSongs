@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:31">
+  <properties>
+    <titles>
+      <title>Lord, You Are More Precious Than Silver</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You are more precious than silver. <br/>Lord, You are more costly than gold. <br/>Lord, You are more beautiful than diamonds, <br/>And nothing I desire compares with You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Señor, Tu eres más precioso que la plata.<br/>Señor, Tu eres más claro que oro puro.<br/>Señor, Tu eres más bello que el diamante,<br/>Y nada que yo desee se compara a Ti.</lines>
+    </verse>
+  </lyrics>
+</song>

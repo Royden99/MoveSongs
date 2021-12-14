@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:40">
+  <properties>
+    <titles>
+      <title>Thank You Lord, For Saving My Soul</title>
+    </titles>
+    <authors>
+      <author>Mr and Mrs Seth Sykes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank You, Lord, for saving my soul,<br/>Thank You, Lord, for making me whole,<br/>Thank You, Lord, for giving to me<br/>Thy great salvation so rich, so free!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

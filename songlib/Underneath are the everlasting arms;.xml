@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:24">
+  <properties>
+    <titles>
+      <title>Underneath are the everlasting arms;</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Underneath are the everlasting arms;<br/>Around the city are encamped the host of God.<br/>The Shepherd watches over all His flock by night,<br/>And we can rest in His love.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

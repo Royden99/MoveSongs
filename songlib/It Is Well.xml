@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:53">
+  <properties>
+    <titles>
+      <title>It Is Well</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grander earth has quaked before<br/>Moved by the sound of His voice<br/>seas that are shaken and stirred<br/>will calmed and broken for my regard</lines>
+    </verse>
+    <verse name="v2">
+      <lines>through it all, through it all,<br/>my eyes are on you <br/>through it all through it all,<br/>it is well<br/>(repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Far be it from me to not believe<br/>even when my eyes can't see<br/>and this mountain that's in front of me<br/>will be thrown into the midst of the sea</lines>
+    </verse>
+    <verse name="v4">
+      <lines>through it all, through it all,<br/>my eyes are on you <br/>through it all through it all,<br/>it is well</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let go my soul and trust in Him<br/>the waves and wind still know HIs name<br/>(x3)<br/>It is well, with my soul<br/>it is well, with my soul<br/>it is well, with my soul<br/>it is well, it is well with my soul</lines>
+    </verse>
+  </lyrics>
+</song>

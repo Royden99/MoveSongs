@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:33">
+  <properties>
+    <titles>
+      <title>I Will Lift Up My Eyes To The Hills</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will lift up my eyes to the hills<br/>From whence cometh my help.<br/>My help cometh from the Lord,<br/>The Lord which made heaven and earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He said He would not suffer thy foot,<br/>Thy foot to be moved.<br/>The Lord which keepeth thee<br/>He will not slumber nor sleep.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the Lord is thy Keeper,<br/>The Lord is thy shade upon thy right hand,<br/>Upon thy right hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For the sun shall not smite thee by day,<br/>Nor the moon by night.<br/>He shall preserve thy soul, even forevermore.<br/>My help, my help, my help,<br/>All of my help, cometh from the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

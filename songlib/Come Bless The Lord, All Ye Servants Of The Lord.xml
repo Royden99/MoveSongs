@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:10">
+  <properties>
+    <titles>
+      <title>Come Bless The Lord, All Ye Servants Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come bless the Lord, all ye servants of the Lord. <br/>Who stand by night, in the house of the Lord. <br/>Lift up your hands, in the holy place, <br/>And bless the Lord, and bless the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come come my people, enter into my chamber<br/>And shut the door around about thee<br/>And hide thy self for a little moment<br/>Till the indignation be over passed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bendecid a Jehova, siervos todos de Jehova, <br/>Que se paran en la noche, en la casa de Jehova.<br/>Levantad las manos en el santuario.<br/>Y bendecid a Jehova, bendecid a Jehova.</lines>
+    </verse>
+  </lyrics>
+</song>

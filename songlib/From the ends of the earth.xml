@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:32">
+  <properties>
+    <titles>
+      <title>From the ends of the earth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the ends of the earth	  (From the ends of the earth)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From the depths of the sea	   (From the depths of the sea)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From the heights of the heavens   (From the heights of the heavens)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your Name be praised</lines>
+    </verse>
+    <verse name="v5">
+      <lines>From the hearts of the weak	  (From the hearts of the weak)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>From the shouts of the strong	  (From the shouts of the strong)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>From the lips of all people	  (From the lips of all people)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>This song we raise, Lord</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Throughout the endless ages</lines>
+    </verse>
+    <verse name="v10">
+      <lines>You will be crowned with praises<br/> <br/>Lord  Most  High</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Exalted in every nation</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Sovereign of all creation</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Lord   Most  High,  be magnified.</lines>
+    </verse>
+  </lyrics>
+</song>

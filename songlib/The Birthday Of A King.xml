@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:43">
+  <properties>
+    <titles>
+      <title>The Birthday Of A King</title>
+    </titles>
+    <authors>
+      <author>William Harold Neidlinger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia! O how the angels sang!<br/>Alleluia! How it rang!<br/>And the sky was bright with a holy light,<br/>'Twas the birthday of a King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the little village of Bethlehem,<br/>There lay a Child one day;<br/>And the sky was bright with a holy light,<br/>O'er the place where Jesus lay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'Twas a humble birthplace,<br/>But oh, how much God gave to us that day;<br/>From the manger bed what a path has led,<br/>What a perfect holy way. <br/>Miscellaneous 1<br/>(ENDING)<br/>O come, let us adore Him;<br/>O come, let us adore Him,<br/>Christ, the Lord.<br/>'Twas the birthday of a Savior.<br/>Alleluia! Alleluia!<br/>'Twas the birthday of a King.</lines>
+    </verse>
+  </lyrics>
+</song>

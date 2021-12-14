@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:13">
+  <properties>
+    <titles>
+      <title>Come to the Throne of Grace</title>
+    </titles>
+    <authors>
+      <author>Lori</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to the throne of grace<br/>Boldly let's enter in<br/>There to find grace in time of need<br/>By the blood of the Lamb<br/>Come to the throne of grace<br/>Boldly let's enter in<br/>By a new and living way<br/>By the blood of the Lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>by the blood of jesus<br/>by the blood of the lamb<br/>he's the one who frees us<br/>the son of the great i am<br/>by the blood of Jesus we can enter in<br/>worthy o worthy<br/>worthy is the Lamb of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to the throne of grace<br/>Boldly let's enter in<br/>with a true heart full of faith<br/>by the blood of the Lamb<br/>come to the throne of grace<br/>boldly let's enter in with full assurance<br/>we are accepted by the blood of the Lamb</lines>
+    </verse>
+  </lyrics>
+</song>

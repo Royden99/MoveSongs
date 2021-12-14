@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:44">
+  <properties>
+    <titles>
+      <title>The earth is filled with the mercy of the Lord,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The earth is filled with the mercy of the Lord,<br/>By His word were the Heavens made and the waters of the sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>- La tierra está llena de la misericordia del Señor,<br/>- Por Su palabra fueron hechos los cielos y las aguas del mar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing to the Lord with instruments,<br/>Sing to the Lord with Jubilee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>- Aclamad al Señor con los instrumentos,<br/>- Aclamad al Señor con jubilo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sing to the Lord with instruments,<br/>Sing to Him a new song.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>- Aclamad al Señor con los instrumentos,<br/>- Cantadle un cántico nuevo.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

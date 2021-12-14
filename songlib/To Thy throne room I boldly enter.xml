@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:19">
+  <properties>
+    <titles>
+      <title>To Thy throne room I boldly enter</title>
+    </titles>
+    <authors>
+      <author>Emerson Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To Thy throne room I boldly enter<br/>For grace in time of need,<br/>For this son I command You, Lord,<br/>That You cause me to embrace the cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've borne me on eagles wings,<br/>As a Father carried me,<br/>Now I take hold of Thy grace, O Lord,<br/>Thy power hid in the cross,<br/>Now to Him Who is able to keep me:<br/>Glory and honour and praise.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:20">
+  <properties>
+    <titles>
+      <title>I Lay It Down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unless a grain of wheat<br/>Falls into the earth<br/>And dies, it remains alone.<br/>But if we hate our lives here on this earth<br/>We'll keep it to life eternal<br/>And bear much fruit.<br/>Chorus:<br/>I lay it down,<br/>No one takes it from me,<br/>So that I might take it up<br/>Another day.<br/>And this is why<br/>My Father loves me<br/>Because I have chosen<br/>To walk this way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>THerefore let us not<br/>Judge one another any more<br/>But determine this<br/>Not to put an obstacle<br/>Or stumbling block<br/>In our brother's path.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I was younger<br/>I would gird myself<br/>And go where I wanted to<br/>But now that I am older<br/>Another girds me<br/>And takes me<br/>Where I would not.</lines>
+    </verse>
+  </lyrics>
+</song>

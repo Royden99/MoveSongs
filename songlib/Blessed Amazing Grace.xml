@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-05T02:55:39">
+  <properties>
+    <titles>
+      <title>Blessed Amazing Grace</title>
+    </titles>
+    <authors>
+      <author>M Mallory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed amazing Grace<br/>Saved by His Sacrifice<br/>He purchased for me a place <br/>And a name in the book of life<br/>Pure and unchanging love <br/>That rescued my wretched soul <br/>He gave me new life from <br/>Above and he touched me <br/>And made me whole</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chorus:<br/>Oh let me love you Lord <br/>The way that you love me<br/>With all that I am and all that I can <br/>And all I will ever be, now and forever <br/>Now and for always, let all that I<br/>Do bring glory to you, honor and praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mercy that lifted me up<br/>To a life lived within the veil<br/>He gave me to drink <br/>From a cup drawn from a living well.<br/>Robes that have been made white<br/>And a joy that's unspeakable <br/>He's taken my widow's mite<br/>And He returned twelve baskets full.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sublime y bendita gracia, salvo por Su sacrificio.<br/>Compró un lugar por mí y un nombre en el libro de la vida.<br/>Su amor puro nunca cambia, rescató a mi ala perdida.<br/>Me dió nueva vida eterna, me tocó y me transformó.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Coro:<br/>Déjame amarte, Señor, como tu a mi me amas,<br/>Con todo lo que soy, todo lo que seré y todo lo que pueda ser.<br/>Hoy y por siempre y eternamente, que mis obras Señor<br/>Te traigan honor, alabanza y gloria.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Por tu grande misericordia, vivo hoy más allá del velo.<br/>Me llevó a tomar de la copa rebosando del agua de la vida.<br/>Mi vestidura Él emblanqueció, de gozo perfecto me llenó.<br/>Tomó mi ofrenda de viuda, me devolvió doce cestas llenas.</lines>
+    </verse>
+  </lyrics>
+</song>

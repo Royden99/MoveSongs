@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:58">
+  <properties>
+    <titles>
+      <title>Behold He's Coming In The Clouds</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold He's coming in the clouds,<br/>Do not fear but raise your voices loud.<br/>Let your faith arise,<br/>Even in the darkest skies.<br/>For behold! He's coming in the clouds.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When your heart is filled with troubles,<br/>And there's darkness everywhere,<br/>When the sun's no longer shining,<br/>And you're tempted to despair,<br/>When the storm clouds start to gather,<br/>And your hope is growing dim,<br/>Just remember you're His child,<br/>And put your faith and trust in Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When you find yourself afflicted,<br/>And your body's racked with pain,<br/>And you've lost all sense of comfort,<br/>Another day's not there to gain,<br/>When you've run the race with patience,<br/>But fiery trials seem not to wain,<br/>Just remember you're His child,<br/>And put your faith and trust in Him.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:27">
+  <properties>
+    <titles>
+      <title>Lord Of The Valleys, Lord Of The Night</title>
+    </titles>
+    <authors>
+      <author>Lael Durnford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord of the valleys,<br/>Lord of the night,<br/>A people in darkness<br/>Have seen Your great light.<br/>So we sing in the darkness,<br/>We sing in Your light,<br/>Our song drives away<br/>All the birds of the night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord of the valleys,<br/>Lord of the night,<br/>A people in hiding<br/>Offer hearts prepared to fight.<br/>So we sing in the darkness,<br/>We sing as we fight,<br/>Our song pierces through<br/>All the voices of the night.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

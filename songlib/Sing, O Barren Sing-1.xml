@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:24">
+  <properties>
+    <titles>
+      <title>Sing, O Barren Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing, O barren sing, thou that didst not bear<br/>You shall have a son for all men everywhere<br/>The river of life within is flowing out to say<br/>Sing, O barren sing for this is God's new day</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A nation shall be born in a day.<br/>A nation shall be born in a day.<br/>When Zion travails she shall bring forth<br/>And a nation shall be born in a day. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Canta Oh estéril, la que no daba a luz<br/>Tendrás hijo varón para toda la creación <br/>Un río de vida en tí fluyendo brotará <br/>Canta oh estéril, tu día ha llegado ya.<br/>/En un día nacerá una nación/  (2)<br/>cuando esté de parto, Sión dará a luz<br/> en un día nacerá una nación.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:57">
+  <properties>
+    <titles>
+      <title>Worthy is the Lamb seated on the throne,</title>
+    </titles>
+    <authors>
+      <author>David J Hadden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the Lamb seated on the throne,<br/>Worthy is the Lamb Who was slain,<br/>To receive power and riches, and wisdom and strength,<br/>Honour and glory, glory and praise,<br/>Forever and ever more.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

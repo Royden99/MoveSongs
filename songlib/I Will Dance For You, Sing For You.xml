@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:32">
+  <properties>
+    <titles>
+      <title>I Will Dance For You, Sing For You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will dance for You, sing for You;<br/>Lift my hands in praise to You;<br/>These are expressions of my love.<br/>Worship You and magnify Your name;<br/>Sing your praise and in Your presence remain;<br/>All of these things I do unto You;<br/>These are expressions of my love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:17">
+  <properties>
+    <titles>
+      <title>See That You Build It, According To The Pattern</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>See that you build it, according to the pattern.<br/>See that you build it, according to the pattern.<br/>See that you build it, according to the pattern<br/>That was shown on the Holy Mount of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou shalt be the glory, the glory of the Lord (3x)<br/>That was shown on the Holy Mount of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord help us build it, according to the pattern (3x)<br/>That was shown on the Holy Mount of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We shall be the standard, the standard of the Lord (3x)<br/>That was shown on the Holy Mount of God.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We shall be the Head, the Head of God's Church (3x)<br/>That was shown on the Holy Mount of God.</lines>
+    </verse>
+  </lyrics>
+</song>

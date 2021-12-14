@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:24">
+  <properties>
+    <titles>
+      <title>Espiritu De Dios</title>
+    </titles>
+    <authors>
+      <author>Spirit of God</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Espiritu de Dios  (Dm)<br/>Llena mi vida  (C)<br/>Llena mi alma (Bflat)<br/>Llena mi ser (A)<br/>Llename, Llename, llename  (D)<br/>De tu presencia Llename (C)<br/>De tu poder Llename<br/>De tu Amor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spirit of God<br/>Come Fill my life , Fill my soul , Fill me <br/>with all your presence fill me up<br/>with all your power fill me up<br/>with all your love <br/>Spirit of God</lines>
+    </verse>
+  </lyrics>
+</song>

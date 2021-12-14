@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:25">
+  <properties>
+    <titles>
+      <title>I Sense Your Spirit Here</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can sense Your spirit here,<br/>Crashing in waves over me,<br/>Stilling my soul, transforming my being. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My spirit soul and body are overflowing<br/>With power of the presence of God.<br/>My life will be changed forevermore. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Hay una unción aquí<br/>Cayendo sobre mi<br/>Mudándome, cambiando mi ser/ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Mi espíritu y mi alma se está llenando <br/>con el poder del Espíritu Santo<br/>mi vida nunca más será igual/ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

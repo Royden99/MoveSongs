@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:52">
+  <properties>
+    <titles>
+      <title>O, That There Were Such A Heart In Them</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh that there were such a heart in men<br/>That they would fear Me,<br/>And keep all My commandments always;<br/>That it might be well with them<br/>And with their children forever,<br/>Oh that there were such a heart in men!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye shall walk in all the ways<br/>That the Lord your God has commanded you,<br/>That ye may live, that it might be well with you;<br/>That it may prolong your days<br/>In the land that ye shall possess,<br/>Oh that there were such a heart in men!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

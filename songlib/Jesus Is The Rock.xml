@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:03">
+  <properties>
+    <titles>
+      <title>Jesus Is The Rock</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is the Rock. (3x)<br/>Jesus is the Rock of my salvation.<br/>Jesus is the Rock. (3x)<br/>Jesus is the Rock of my salvation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though the winds may blow,<br/>Though the sun may shine,<br/>Jesus is the Rock of my mind.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's the cloud by day<br/>And the fire by night,<br/>The strength of my hands.<br/>He's leading me on to acomplish His plan. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

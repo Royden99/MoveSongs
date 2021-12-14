@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:37">
+  <properties>
+    <titles>
+      <title>We shall be changed, we shall be changed,</title>
+    </titles>
+    <authors>
+      <author>Whitestone Farms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We shall be changed, we shall be changed,<br/>We're going to be changed from mortal to immortality<br/>In the twinkling of an eye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O death, where is thy sting?<br/>O death, where is thy sting?<br/>O grave, where is thy victory,<br/>O death, where is thy sting?<br/>Death is swallowed up in victory!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

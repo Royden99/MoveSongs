@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:45">
+  <properties>
+    <titles>
+      <title>When all my labours and trials are o'er,</title>
+    </titles>
+    <authors>
+      <author>Charles H. Gabriel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When all my labours and trials are o'er,<br/>And I am safe on that beautiful shore,<br/>Just to be near the dear Lord I adore,<br/>Will through the ages be glory for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, that will be glory for me,<br/>Glory for me, glory for me<br/>When by His grace I shall look on His face,<br/>That will be glory, be glory for me!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When by the gift of His infinite grace<br/>I am accorded in heaven a place,<br/>Just to be there, and to look on His face,<br/>Will through the ages be glory for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Friends will be there I have loved long ago;<br/>Joy like a river around me will flow;<br/>Yet just a smile from my Saviour, I know,<br/>Will through the ages be glory for me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

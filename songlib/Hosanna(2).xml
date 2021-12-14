@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:07">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+    </titles>
+    <authors>
+      <author>Whitestone</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We lift our hands to You in thanks<br/>Your mercy lifts us up,<br/>Your words renew our strength.<br/>We lift our hearts to You in praise,<br/>It's only by Your grace and power we stand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna, hosanna	Hosanna, hosanna to the King!</lines>
+    </verse>
+  </lyrics>
+</song>

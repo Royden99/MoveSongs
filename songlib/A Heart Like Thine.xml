@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:44">
+  <properties>
+    <titles>
+      <title>A Heart Like Thine</title>
+    </titles>
+    <authors>
+      <author>Judson Van DeVenter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to my soul, blessed Jesus.<br/>Hear me, O Savior divine.<br/>Open the fountain and cleanse me.<br/>Give me a heart a heart like Thine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me a love that knows no ill.<br/>Give me the grace to do Thy will.<br/>Pardon and cleanse this soul of mine.<br/>Give me a heart like Thine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Only a joy, a few brief years,<br/>Only a dream, a vale of tears;<br/>Vain is this world, I now resign.<br/>Give me a heart like Thine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Open mine eyes that I may see.<br/>Show me the cross of Calvary.<br/>There may I go and not repine.<br/>Give me a heart like Thine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pillow my head upon Thy breast.<br/>Shelter my soul and give me rest.<br/>Fill me with love as I recline.<br/>Give me a heart like Thine.</lines>
+    </verse>
+  </lyrics>
+</song>

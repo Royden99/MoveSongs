@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:18">
+  <properties>
+    <titles>
+      <title>I have hope in my heart for a better resurrection,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have hope in my heart for a better resurrection,<br/>I have faith for that final victory;<br/>I believe that, with God, all things are possible,<br/>All things are possible for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I've seen mountains removed and cast into the sea,<br/>I've seen faith like a mustard seed defeat the enemy,<br/>I've cried unto God, for I've seen God deliver,<br/>I have hope, for I see victory.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

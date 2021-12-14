@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:53">
+  <properties>
+    <titles>
+      <title>He that dwelleth (men)</title>
+    </titles>
+    <authors>
+      <author>Simeon Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He that dwelleth (men)<br/>He that dwelleth (women)<br/>He that dwelleth (men)<br/>He that dwelleth (women)<br/>In the secret place of the Most High (all)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shall abide (men)<br/>Shall abide (women)<br/>Shall abide (men)<br/>Shall abide (women)<br/>Beneath the shadow of the Almighty. (all)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will say of the Lord<br/>He is my refuge and my fortress,<br/>I will say of the Lord<br/>He is my refuge, my fortress,<br/>And I will put my trust in God.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

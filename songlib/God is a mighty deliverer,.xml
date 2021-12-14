@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:35">
+  <properties>
+    <titles>
+      <title>God is a mighty deliverer,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is a mighty deliverer,<br/>He is the King of kings,<br/>No one delivers as He can,<br/>He is the Prince of peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>- Jehová es el libertador,<br/>- Rey de reyes es Él,<br/>- Nadie nos libra como Él,<br/>- Es el Príncipe de paz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is a mighty deliverer,<br/>He has the power to save,<br/>So trust in the God of deliverance,<br/>And He will direct thy ways.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>- Jehová es el libertador,<br/>- Él te puede salvar,<br/>- Confia en el Dios de liberación,<br/>- Y Él te dirijirá.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

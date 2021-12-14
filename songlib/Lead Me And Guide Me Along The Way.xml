@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:14">
+  <properties>
+    <titles>
+      <title>Lead Me And Guide Me Along The Way</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead me and guide me along the way.<br/>Lord, if You lead me I cannot stray.<br/>Lord, let me walk each day with Thee.<br/>Lead me, O Lord, lead me.</lines>
+    </verse>
+  </lyrics>
+</song>

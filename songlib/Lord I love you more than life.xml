@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:26">
+  <properties>
+    <titles>
+      <title>Lord I love you more than life</title>
+    </titles>
+    <authors>
+      <author>Brian Houston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I love you more than life<br/>Lord I love you more than gold<br/>Lord I love you more than wine<br/>You're the lover of my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My soul cries out for more of you<br/>My soul cries out for more of you<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:03">
+  <properties>
+    <titles>
+      <title>There's A Change Made, Since I've Been Born</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a change made, since I've been born.<br/>There's a change made, since I've been born.<br/>There's a change made, since I've been born.<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The things I used to do, I don't do them any more (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a change made, since I've been born (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The people I used to know, don't know me any more (3x)<br/>There's a change made since I've been born again. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>There's a change made, since I've been born again (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>The book I never read, I read it more and more (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There's a change made, since I've been born again (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The me I used to be, I'm not that any more (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>There's a change made, since I've been born again (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>The places I used to go, don't go there any more (3x)<br/>There's a change made since I've been born again.</lines>
+    </verse>
+  </lyrics>
+</song>

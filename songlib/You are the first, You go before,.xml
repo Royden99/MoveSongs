@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:05">
+  <properties>
+    <titles>
+      <title>You are the first, You go before,</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the first, You go before,<br/>You are the last, Lord, You're the encore.<br/>You're name's in lights, for all to see,<br/>The starry hosts declare Your glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory in the highest, Glory in the highest,<br/>Glory in the highest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Apart from You, there is no god<br/>Light of the world, the bright and morning star.<br/>Your name will shine for all to see,<br/>You are the one, You are my glory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And no one else could ever compare to You, Lord<br/>All the earth together declare!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All the earth will sing Your praise,<br/>The moon and stars, the sun and rain,<br/>Every nation will proclaim<br/>That You are God, and You will reign<br/>Sing Glory, Glory, Hallelujah<br/>Glory, Glory to You, Lord<br/>Glory, Glory, Hallelujah, Hallelujah.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

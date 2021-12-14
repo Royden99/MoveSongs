@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:42">
+  <properties>
+    <titles>
+      <title>I'm Going On, Right On, That Is All I Know</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm going on, right on, that is all I know.<br/>I'm going on, right on, that is all I know.<br/>I'm going on to that city,<br/>To that city that's prepared for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm pressing in, right in, that is all I know, etc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm going down, down, down, that is all I see (2x)<br/>I'm going down, into death<br/>That I might come forth in life.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm going up, up, up, that is all I know, etc.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm going on, right on, to the death of the cross<br/>I'm going on, right on, no matter what it costs<br/>I'm going on to perfection<br/>To be in union with my Father God. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>/Seguiré, seguiré, cuán dispuesto estoy/ (2)<br/>Seguiré a al casa, al lugar preparado para mí.<br/>/Moriré, moriré, cuán dispuesto estoy/ (2)<br/>Moriré, en la cruz, en la cruz preparada para mí.<br/>/Venceré, venceré, cuán dispuesto estoy/ (2)<br/>Venceré, al enemigo<br/>En la cruz preparada para mí.</lines>
+    </verse>
+  </lyrics>
+</song>

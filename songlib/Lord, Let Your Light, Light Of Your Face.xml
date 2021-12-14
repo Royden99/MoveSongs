@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:29">
+  <properties>
+    <titles>
+      <title>Lord, Let Your Light, Light Of Your Face</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, let Your light,<br/>Light of Your face,<br/>Shine on us.<br/>Lord, let Your light,<br/>Light of Your face,<br/>Shine on us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That we may be saved,<br/>That we may have life,<br/>To find our way in the darkest night.<br/>Let Your light shine on us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lord, let Your grace,<br/>Grace from Your hand,<br/>Fall on us.<br/>Lord, let Your grace,<br/>Grace from Your hand,<br/>Fall on us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That we may be saved,<br/>That we may have life,<br/>To find our way in the darkest night.<br/>Let Your grace fall on us.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord, let Your love,<br/>Love with no end,<br/>Come over us.<br/>Lord, let Your love,<br/>Love with no end,<br/>Come over us.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>That we may be saved,<br/>That we may have life,<br/>To find our way in the darkest night.<br/>Let Your love come over us.<br/>Let Your light shine on us.</lines>
+    </verse>
+  </lyrics>
+</song>

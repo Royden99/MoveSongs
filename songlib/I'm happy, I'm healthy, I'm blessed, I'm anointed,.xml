@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:43">
+  <properties>
+    <titles>
+      <title>I'm happy, I'm healthy, I'm blessed, I'm anointed,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm happy, I'm healthy, I'm blessed, I'm anointed,<br/>I'm filled with power of God.<br/>I'm happy, I'm healthy, I'm blessed, I'm anointed,<br/>I'm filled with the power of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, hallelujah, I'm filled with the power of God.<br/>Hallelujah, hallelujah, I'm filled with the power of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I get joy when I think about what He's done for me,<br/>I get joy when I think about how He's set me free.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

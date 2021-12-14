@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:18">
+  <properties>
+    <titles>
+      <title>Do You Know My Jesus, Do You Know My Friend</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do you know my Jesus, do you know my friend?<br/>Have you heard, He loves you<br/>And that He will abide to the end.</lines>
+    </verse>
+  </lyrics>
+</song>

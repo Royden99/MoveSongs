@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:34">
+  <properties>
+    <titles>
+      <title>I Will Not Let You Go Until You Bless Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will not let You go until you bless me. <br/>I will not let You go until you bless me. <br/>Bless me, oh Lord. Bless me, oh Lord. <br/>I will not let You go until you bless me. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rend the veil of the flesh in me. <br/>Rend the veil of the flesh in me. <br/>Face to face, I will see You. <br/>Rend the veil of the flesh in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No te dejo ir hasta que me bendigas. (2x) <br/>Bendiceme Señor, bendiceme Señor. <br/>No te dejo ir hasta que me bendigas.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rompe el velo de la carne en mi. (2x) <br/>Bendiceme Señor, bendiceme Señor. <br/>No te dejo ir hasta que me bendigas.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cara a cara quiero verte. (2x) <br/>Bendiceme Señor, bendiceme Señor. <br/>No te dejo ir hasta que me bendigas.</lines>
+    </verse>
+  </lyrics>
+</song>

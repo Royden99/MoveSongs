@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:20">
+  <properties>
+    <titles>
+      <title>I Know That My Redeemer Liveth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know that my Redeemer liveth,<br/>And on the earth again shall stand;<br/>I know eternal life He giveth,<br/>That grace and power are in His hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>I know, I know that Jesus liveth,<br/>And on the earth again shall stand;<br/>I know, I know that life He giveth,<br/>That grace and power are in His hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know His promise never faileth,<br/>The word He speaks, it cannot die;<br/>Tho' cruel death my flesh assaileth,<br/>Yet I shall see Him by and by.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know my mansion He prepareth,<br/>That where He is there I may be;<br/>Oh, wondrous thought, for me He careth,<br/>And He at last will come for me.</lines>
+    </verse>
+  </lyrics>
+</song>

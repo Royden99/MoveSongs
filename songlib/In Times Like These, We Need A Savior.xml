@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:49">
+  <properties>
+    <titles>
+      <title>In Times Like These, We Need A Savior</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In times like these, we need a Savior. <br/>In times like these, we need an anchor. <br/>Be very sure, be very sure,<br/>Your anchor holds and grips the solid Rock. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>That rock is Jesus, yes He's the one. <br/>That rock is Jesus, the only One. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be very sure, be very sure, your anchor holds, <br/>And grips the solid Rock.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>En tiempos asi, necesitas un salvador. <br/>En tiempos asi, necesitas un ancla.<br/>Sea muy seguro, si muy seguro, <br/>Que esa ancla firme este, en la roca solida.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Esa roca es Cristo, si es el. <br/>Esa roca es Cristo, el unico, </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sea muy seguro, si muy seguro, <br/>Que esa ancla firme este, en la roca solida.</lines>
+    </verse>
+  </lyrics>
+</song>

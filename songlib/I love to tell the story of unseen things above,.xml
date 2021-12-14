@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:22">
+  <properties>
+    <titles>
+      <title>I love to tell the story of unseen things above,</title>
+    </titles>
+    <authors>
+      <author>Katherine Hankey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love to tell the story of unseen things above,<br/>Of Jesus and His glory, of Jesus and His love;<br/>I love to tell the story, because I know 'tis true,<br/>It satisfies my longings, as nothing else can do.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love to tell the story!  'Twill be my theme in glory<br/>To tell the old, old story of Jesus and His love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love to tell the story; more wonderful it seems<br/>Than all the golden fancies of all my golden dreams;<br/>I love to tell the story, it did so much for me;<br/>And that is just the reason I tell it now to thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I love to tell the story; 'tis pleasant to repeat<br/>What seems each time I tell it, more wonderfully sweet;<br/>I love to tell the story, for some have never hears<br/>The message of salvation from God's own holy word.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I love to tell the story; for those who know it best<br/>Seem hungering and thirsting to hear it like the rest;<br/>And when, in scenes of glory, I sing the new, new song,<br/>'Twill be the old, old story, that I have loved so long.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

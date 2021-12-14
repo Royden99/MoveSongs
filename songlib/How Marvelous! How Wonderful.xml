@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:10">
+  <properties>
+    <titles>
+      <title>How Marvelous! How Wonderful</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How marvelous! How wonderful<br/>And my song shall ever be<br/>O, how marvelous! How wonderful<br/>Is my Savior's love for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let there be singing, let there be joy,<br/>Let the be praising in the house of the Lord.<br/>Let there be singing, rejoice, rejoice.<br/>We're builded together.<br/>We're the house of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

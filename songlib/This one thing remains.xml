@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:11">
+  <properties>
+    <titles>
+      <title>This one thing remains</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Higher than the mountains that I face<br/>Stronger than the power of the grave<br/>Constant in the trial and the change<br/>One thing remains.....</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your love never fails, never gives up<br/>Never runs out on me   (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On and on and on and on it goes<br/>It overwhelms and satisfies my soul<br/>And I never, ever, have to be afraid<br/>One thing remains....</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In death, in life, I'm confident and<br/>Covered by the power of your great love<br/>My debt is paid, there's nothing that can<br/>Separate my heart from Your great love</lines>
+    </verse>
+  </lyrics>
+</song>

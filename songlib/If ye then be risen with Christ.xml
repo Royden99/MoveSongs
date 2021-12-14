@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:39">
+  <properties>
+    <titles>
+      <title>If ye then be risen with Christ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If ye then be risen with Christ<br/>Seek those things which are above<br/>Set your affections on things on high<br/>And not on earth;<br/>For ye are dead, and your life is hid<br/>In Christ Who is our God,<br/>When He shall appear we shall appear with Him in glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We'll be glorified, we'll be glorified,<br/>When He shall appear we shall appear with Him in glory.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:37">
+  <properties>
+    <titles>
+      <title>I Will Turn Their Mourning Into Joy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will turn their mourning into joy.<br/>And I will surely comfort them.<br/>And I will cause them to rejoice,<br/>Forever more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Weeping may endure yet for the night,<br/>But surely joy comes in the morn.<br/>Just as surely as the dawn,<br/>The dawning of a brand new day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tornare su lamento en recocijo<br/>Consolare en su dolor.<br/>Y causare que para siempre se regocigen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lagrimas caeran por la noche.<br/>Pero en la manana goso habra.<br/>Tan cierto como el amanecer.<br/>Como se levanta el sol.</lines>
+    </verse>
+  </lyrics>
+</song>

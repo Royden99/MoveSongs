@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:47">
+  <properties>
+    <titles>
+      <title>The Lord has led forth His people with joy,</title>
+    </titles>
+    <authors>
+      <author>Chris Bowater</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord has led forth His people with joy,<br/>And His chosen ones with singing, singing,<br/>The Lord has led forth His people with joy,<br/>And His chosen ones with singing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He has given to them the lands of the nations,<br/>To possess the fruit and keep His laws,<br/>And praise, praise His name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

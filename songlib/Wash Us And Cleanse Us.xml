@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:27">
+  <properties>
+    <titles>
+      <title>Wash Us And Cleanse Us</title>
+    </titles>
+    <authors>
+      <author>Diana Harper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wash us and cleanse us, O Holy One,<br/>Keep us, anoint us, till Thy work is done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Search us and know us, O Holy One,<br/>Clothe us, adorn us, with seeds You have sown.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead us and guide us unto Thy throne,<br/>Choose us to enter in, even alone.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

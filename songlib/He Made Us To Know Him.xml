@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:52">
+  <properties>
+    <titles>
+      <title>He Made Us To Know Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He made us to know Him,<br/>To love and to serve Him.<br/>We do not deserve Him,<br/>And all of His grace.<br/>He made us to praise Him,<br/>To need Him, to seek Him,<br/>And then to express<br/>Him in wonderful ways.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He made us quite empty,<br/>But empty for filling,<br/>For filling with goodness,<br/>For filling with praise.<br/>But first He must show us<br/>The sin that still lingers,<br/>That lingers and clutters<br/>Our heart's inner space.</lines>
+    </verse>
+  </lyrics>
+</song>

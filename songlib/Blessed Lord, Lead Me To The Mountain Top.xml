@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:03">
+  <properties>
+    <titles>
+      <title>Blessed Lord, Lead Me To The Mountain Top</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed Lord, lead me to the mountain top,<br/>To that land where milk and honey flow.<br/>I will no more ignore thy Love-filled beckoning.<br/>Take my hand, I'm ready now to go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To, to go,<br/>And count all things as loss.<br/>To know, to know,<br/>The dealings of the Cross!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blessed Lord, lead me to the mountain top.<br/>Take my hand, I'm ready now to go.</lines>
+    </verse>
+  </lyrics>
+</song>

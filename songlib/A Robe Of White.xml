@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:45">
+  <properties>
+    <titles>
+      <title>A Robe Of White</title>
+    </titles>
+    <authors>
+      <author>Haldor Lillenas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For Jesus is my Savior<br/>He paid my debt on Calv'ry's mountain;<br/>I'm happy in His wondrous love<br/>I'm drinking, yes,<br/>I'm drinking at the fountain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A robe of white, a crown of gold,<br/>A harp, a home, a mansion fair;<br/>A victor's palm and joy untold,<br/>Are mine when I get there.</lines>
+    </verse>
+  </lyrics>
+</song>

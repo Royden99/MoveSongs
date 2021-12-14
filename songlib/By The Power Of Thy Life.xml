@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:06">
+  <properties>
+    <titles>
+      <title>By The Power Of Thy Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By the power of Thy life, <br/>Break the power of my death. <br/>Father God, I lift my cry up unto Thee.<br/>Bring forth this vessel still, <br/>As Thy glory and Thy will; <br/>Flow through my heart and mind and set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give ear, O ye heavens, and give ear, O ye earth. <br/>Listen ye gates of hell and all beneath.<br/>O death I am thy plagues, <br/>And O grave thy destruction.<br/>O death and grave I am thy victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So whether there be mountains, <br/>Or valleys in between. <br/>Whether there be perils or the sword. <br/>I know that my Redeemer lives,<br/>And in my flesh I'll see God. <br/>The Light and Lamb of God, forever more.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por el poder de Tu vida, <br/>Rompe el poder de mi muerte. <br/>Levanto mi clamor Oh Dios a ti.<br/>Produce en este vaso, Tu gloria y Tu voluntad, <br/>Inunda mi mente y libra me a mi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oid, Oh cielos y escucha tu Oh tierra; <br/>Oh puertas del infierno escuchad, <br/>Oh muerte soy tu muerte,<br/>Oh sepulcro soy tu destruccion. <br/>Oh muerte y sepulcro tu victoria soy.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aun si hay montañas O valles para cruzar, <br/>Si hay peligro O espada a enfrentar.<br/>Yo se que mi redentor vive; <br/>Y en mi carne Dios vere. <br/>La luz y el cordero de Dios conocere.</lines>
+    </verse>
+  </lyrics>
+</song>

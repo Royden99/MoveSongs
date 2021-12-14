@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:30">
+  <properties>
+    <titles>
+      <title>I Will Abide In Thee, Thou Art The Way</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will abide in Thee, Thou art the way - <br/>I will abide in Thee, Thou art the truth<br/>I will abide in Thee, Thou art the life<br/>With all my heart, with all my soul<br/>I will abide.</lines>
+    </verse>
+  </lyrics>
+</song>

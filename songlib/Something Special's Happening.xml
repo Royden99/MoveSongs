@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:28">
+  <properties>
+    <titles>
+      <title>Something Special's Happening</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Something special's happening, (Echo.)<br/>Before our very eyes. (Echo.)<br/>By the precious touch of Jesus, (Echo.)<br/>It's the miracle of life. (Echo.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm seeing life and it's a miracle, it's a miracle.<br/>It's better than I've ever seen before.<br/>I'm seeing life and it's so beautiful,<br/>So very beautiful in you and me.<br/>O! Praise the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the power of His love, (Echo.)<br/>Jesus died for me, (Echo.)<br/>That the heavenly Father above (Echo.)<br/>Might give His life to me. (Echo.)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:44">
+  <properties>
+    <titles>
+      <title>I'm Not Going To Settle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not gonna settle for anything less.<br/>God has given me the best.<br/>So I'll take it, and receive it, by faith.<br/>And when the enemy comes around;<br/>he's the one who's gonna be bound.<br/>For God's given all power to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There are no chains that now can bind me.<br/>There is nothing that can hold me down.<br/>So when the enemy comes around;<br/>he's the one who's gonna be bound.<br/>For God's given all power to me.</lines>
+    </verse>
+  </lyrics>
+</song>

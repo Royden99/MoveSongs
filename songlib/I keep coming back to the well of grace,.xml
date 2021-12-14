@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:20">
+  <properties>
+    <titles>
+      <title>I keep coming back to the well of grace,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I keep coming back to the well of grace,<br/>Great is its power and sweet is the taste,<br/>Whatever temptations and trials I face,<br/>I keep coming back to the well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed is the fountain in a barren land,<br/>Satisfies the thirst of the inner man,<br/>No better place could be found to dwell,<br/>I thank God for the well.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus made a well at Calvary,<br/>For healing, cleansing, and victory,<br/>My joy overflows, no tongue can tell,<br/>Oh, won't you come to the well?<br/></lines>
+    </verse>
+  </lyrics>
+</song>

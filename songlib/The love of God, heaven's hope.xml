@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:52">
+  <properties>
+    <titles>
+      <title>The love of God, heaven's hope</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The love of God, heaven's hope<br/>This perfect peace, this rest for my soul<br/>This love divine, portrayed in pain<br/>The cross stands alone<br/>Unfailing love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This love of God, creation's cry<br/>Perfection portrayed, broken for me<br/>The author of life, has suffered our pain<br/>The cross stands alone<br/>Unfailing Love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The love of God was found in the nails<br/>The love of God was seen in the scars<br/>The light and the life was darkened by death<br/>My hope and salvation carried to life<br/>Unfailing love</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The love of God, written in blood<br/>This empty grave, the stone rolled away<br/>The mercy of God, has triumphed in Christ<br/>The cross stands alone<br/>Unfailing love</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The love of God was found in the nails<br/>The love of God was seen in the scars<br/>The light and the life was darkened by death<br/>My hope and salvation carried to life<br/>Unfailing love<br/></lines>
+    </verse>
+  </lyrics>
+</song>

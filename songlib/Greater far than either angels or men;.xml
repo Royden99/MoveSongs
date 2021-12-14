@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:41">
+  <properties>
+    <titles>
+      <title>Greater far than either angels or men;</title>
+    </titles>
+    <authors>
+      <author>Andrew Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Greater far than either angels or men;<br/>Greater far than words of speech or of pen;<br/>Greater far, oh, let me sing it again,<br/>Jesus is greater far.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Greater far than any name you can name;<br/>Greater far than any fame man can claim;<br/>Greater far, oh, let me sing it again,<br/>Jesus is greater far.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, hallelujah,<br/>Jesus is greater far.<br/>Hallelujah, hallelujah,<br/>Jesus is greater far.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

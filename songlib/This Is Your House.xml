@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:11">
+  <properties>
+    <titles>
+      <title>This Is Your House</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is your house, <br/>Father come and dwell <br/>This is your house, <br/>A holy house of prayer <br/>Where the lost and the lonely, <br/>bring their burdens and their cares <br/>This is your house, this is your house <br/>come and dwell</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We dedicate this temple to you Lord <br/>Let your glory fill this sanctuary <br/>Be enthroned on the praises of your people <br/>Lord we agree, in unity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Holy Spirit overflow this place <br/>Decorate our walls with grace and mercy <br/>Let healing and redemption, find searching souls <br/>Lord have your way, we humbly pray.</lines>
+    </verse>
+  </lyrics>
+</song>

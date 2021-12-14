@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:36">
+  <properties>
+    <titles>
+      <title>God Is Building Up A People</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Once God made a covenant<br/>with the house of Israel<br/>He gave His laws through Moses<br/>and His law did He proclaim<br/>over tables of stone<br/>with His finger God wrote<br/>but the people was rebellious<br/>and they did not keep His law</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God said in Jeremiah<br/>thirty-one thirty-three<br/>There is coming up a day<br/>A New Covenant will I make<br/>I will write on them my laws<br/>in their minds and in their hearts<br/>They shall be to me My people<br/>I will be to them their God<br/>Chorus:<br/>God is building up a people<br/>The true and real Israel<br/>I belong to God's own people<br/>By His power and His grace. (2x) </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Una vez Dios hizo un pacto<br/>con la casa de Israel<br/>por Moisés dio mandamiento<br/>proclamando así la ley<br/>sobre las tablas de piedra<br/>con Su dedo El escribió<br/>mas el pueblo fue rebelde<br/>y Sus leyes no guardó</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dice Dios en Jeremías<br/>Treinta y uno treinta y tres<br/>He aquí que viene el día<br/>En que un Nuevo Pacto haré</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yo escribiré Mis leyes<br/>En su mente y corazón<br/>Ellos me serán por pueblo<br/>Y Yo les seré por Dios</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Coro:<br/>Dios está formando un pueblo<br/>El verdadero Israel<br/>Pertenezco a ese pueblo<br/>Por su gracia y su poder. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

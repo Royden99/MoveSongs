@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:49">
+  <properties>
+    <titles>
+      <title>He has made me glad</title>
+    </titles>
+    <authors>
+      <author>Leona Von Brethorst</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will enter his gates with thanksgiving in my heart <br/>I will enter his courts with Praise<br/>I will say This is the day that the lord has made<br/>I will rejoice for he has made me glad<br/>He has made me glad<br/>Oh he has made me glad <br/>he has made me glad\I will rejoice for he has made me glad</lines>
+    </verse>
+  </lyrics>
+</song>

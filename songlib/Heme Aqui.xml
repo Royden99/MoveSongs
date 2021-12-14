@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:56">
+  <properties>
+    <titles>
+      <title>Heme Aqui</title>
+    </titles>
+    <authors>
+      <author>Gustavo Chavez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Si hay que el mar cruzar<br/>y tu pueblo liberar<br/>si hay que hacer al ciego ver<br/>y al mudo hacer cantar<br/>si hay que al agua convertir en  vino para beber<br/>:::heme aqui:::</lines>
+    </verse>
+    <verse name="v2">
+      <lines>si hay q' predicar <br/>y a Ninive salvar<br/>si al gigante hay q' vencer<br/>y al cojo hacer correr<br/>si hay q' orar por mi nacion<br/>y peditarte por la paz<br/>:::heme aqui:::</lines>
+    </verse>
+    <verse name="v3">
+      <lines>si a los leones me han de hechar<br/>o en un horno han de quemar<br/>se q' tu me cuidaras<br/>y en tu Nombre vencere<br/>Me fortalecere en Cristo mas y mas<br/>:::Heme aqui:::</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jehova es mi Pastor<br/>y nada me faltara<br/>confiado estare<br/>pues tu hijo yo soy<br/>bendiceme Senor<br/>atraeme hacia ti<br/>:::Heme aqui:::</lines>
+    </verse>
+  </lyrics>
+</song>

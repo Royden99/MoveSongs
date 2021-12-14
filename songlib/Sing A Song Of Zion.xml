@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:23">
+  <properties>
+    <titles>
+      <title>Sing A Song Of Zion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing a song of Zion,<br/>Make way for the King of Kings.<br/>Look, the new horizon<br/>Comes forth in the song we sing.<br/>Chorus:<br/>Our hearts are made for rejoicing,<br/>It's the vision we see that we're voicing,<br/>See the broken hearts mended,<br/>Boundaries extended,<br/>Sons bringing forth a new day.<br/>Sing a new song in Zion,<br/>Joy and celebration,<br/>As we free all creation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dance the song of Zion,<br/>Make way for the King of Kings.<br/>Behold a nation follows<br/>Wherever you may lead.</lines>
+    </verse>
+  </lyrics>
+</song>

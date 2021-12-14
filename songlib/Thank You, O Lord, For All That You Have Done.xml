@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:41">
+  <properties>
+    <titles>
+      <title>Thank You, O Lord, For All That You Have Done</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thank you, Oh Lord, for all that you have done.<br/>Thank you, Oh Lord, for all that you will do.<br/>Thank you, Oh Lord, for all that you are doing,<br/>In this moment, deep within my heart.</lines>
+    </verse>
+  </lyrics>
+</song>

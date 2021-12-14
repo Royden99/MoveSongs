@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:22">
+  <properties>
+    <titles>
+      <title>Si Se Humillare Mi Pueblo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Si se humillare mi pueblo <br/>Sobre el cual mi nombre es invocado <br/>Y orare y buscare mi rostro <br/>Y se convirtiere de sus malos caminos <br/>Entonces yo oiré desde los cielos <br/>Y perdonaré sus pecados <br/>Entonces yo oiré desde los cielos <br/>Y sanaré su tierra </lines>
+    </verse>
+  </lyrics>
+</song>

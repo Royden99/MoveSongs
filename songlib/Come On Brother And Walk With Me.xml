@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:12">
+  <properties>
+    <titles>
+      <title>Come On Brother And Walk With Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come on brother and walk with me, <br/>I need you and you need me.<br/>Down this road of life I see, <br/>God's great plan of harmony.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh ven hermano, camina conmigo, <br/>Te necesito y tu me necesitas. <br/>En este camino de vida vemos, <br/>El gran plan de la unidad.</lines>
+    </verse>
+  </lyrics>
+</song>

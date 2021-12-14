@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:56">
+  <properties>
+    <titles>
+      <title>It's You; It's You; It's You That Makes The Love Go Round</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's You; it's You; it's You that makes the love go round.<br/>(Repeat 3x.)<br/>It's you that makes the love go round.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So pass it on; His love is free for everyone.<br/>(Repeat 3x.)<br/>His love is free for everyone.</lines>
+    </verse>
+  </lyrics>
+</song>

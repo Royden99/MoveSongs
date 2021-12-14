@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:02">
+  <properties>
+    <titles>
+      <title>Ho, Everyone That Thirsteth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho, everyone that thirsteth,<br/>Come ye to the waters.<br/>He that hath no money,<br/>Come ye, buy and eat.<br/>Come, buy milk and honey.<br/>Come, buy oil and wine.<br/>He that hath no money,<br/>Come ye, buy and eat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A todos los sedientos<br/>Venid a las aguas.<br/>Los que no tienen dinero,<br/>Venid, comprad y comed.<br/>Venid, comprad leche y miel,<br/>Venid, comprad aceite y vino.<br/>El que esté sin dinero,<br/>Venid, comprad y comed.</lines>
+    </verse>
+  </lyrics>
+</song>

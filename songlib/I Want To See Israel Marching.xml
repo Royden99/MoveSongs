@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:29">
+  <properties>
+    <titles>
+      <title>I Want To See Israel Marching</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to see Israel marching<br/>I want to hear the Kingdom call<br/>I want to climb Zion's mountain<br/>I want to see great Babylon fall<br/>I want to see Jesus reigning<br/>Upon King David's royal throne<br/>Oh won't that be a glorious sight to see<br/>When Israel comes marching home. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo quiero ver a Israel marchando<br/>Yo quiero oír el llamado del reino<br/>Quiero subir al monte Sión<br/>Yo quiero ver caer a Babilonia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo quiero ver a Jesús reinando <br/>Sobre este trono real de David<br/>Que vista tan maravillosa será<br/>Cuando Israel vuelva a su hogar</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:39">
+  <properties>
+    <titles>
+      <title>We Worship You, O God In This Temple</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We worship You, O God in this temple.<br/>We worship You in spirit and in truth.<br/>You inhabit our praises<br/>And Your presence dwells among us.<br/>We worship You in spirit and truth,<br/>In spirit and truth.<br/>(Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For it's a new day of restoration.<br/>Zion is restored into the light.<br/>The praises of God's people are within her.<br/>We're worshipping our God with all our might.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:59">
+  <properties>
+    <titles>
+      <title>He's Changing And He's Changing And He's Changing Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's changing and He's changing<br/>And He's changing me. <br/>He's changing and He's changing<br/>And He's changing me. <br/>He never changes so I must change, you see. <br/>He's the same yesterday, today, and forever. <br/>His love is true and He changes never. <br/>Into God's very own image, He's changing me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's loving and loving and loving me,<br/>Loving and loving and loving me.<br/>God is love and He's giving His love to me.<br/>Love is long-suffering, patient and kind;<br/>Love comes when we're one in Christ's mind.<br/>Into His very own image He's changing me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He's purging and purging and purging me.<br/>Purging and purging and purging me.<br/>He's holy and pure so a purging's got to be in me.<br/>It's the purifying fire of God's holy love;<br/>It's the greatest power in earth or above.<br/>Into His very own image He's changing me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Me cambia, me cambia, me cambia a mi (2x) <br/>El nunca cambia pero si me cambia a mi. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>El es el mismo hoy y mañana, su amor es puro, <br/>El nunca cambia. A su misma imagen <br/>Me cambia mi.</lines>
+    </verse>
+  </lyrics>
+</song>

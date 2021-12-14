@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:48">
+  <properties>
+    <titles>
+      <title>He Brought Forth His People With Joy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He brought forth His people with joy.<br/>He brought forth His people with joy,<br/>His chosen with gladness.<br/>He brought forth His people with joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He brought them forth with silver and with gold,<br/>And there was not one feeble among their tribe.<br/>He spread a cloud for a covering,<br/>And fire to light the night.<br/>He opened the rock and waters gushed out,<br/>Like rivers in dry places.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Repeat first four lines.)</lines>
+    </verse>
+  </lyrics>
+</song>

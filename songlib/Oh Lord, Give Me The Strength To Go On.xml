@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:54">
+  <properties>
+    <titles>
+      <title>Oh Lord, Give Me The Strength To Go On</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord, give me the strength to go on.<br/>Oh Lord, give me the power to overcome.<br/>Help me to go through the Day of Atonement.<br/>Let me see the joy ahead.<br/>Help me to lay down my life,<br/>that I might come forth from the dead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh Lord, I pray that I might not compromise.<br/>Help me to lay all selfishness aside.<br/>Let me see that these afflictions are doing a work in me.<br/>And when the work is complete, we shall set all creation free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Lord, you have chosen us to be that company<br/>That will blow the trumpet for the year of jubilee.<br/>But first we must suffer, become obedient in all things.<br/>And then we shall reign with Jesus the King of Kings.</lines>
+    </verse>
+  </lyrics>
+</song>

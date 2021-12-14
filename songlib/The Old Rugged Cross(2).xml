@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:53">
+  <properties>
+    <titles>
+      <title>The Old Rugged Cross</title>
+    </titles>
+    <authors>
+      <author>Rev. George Bennard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>On a hill far away<br/>Stood an old rugged cross<br/>The emblem of suffering and shame<br/>And I love that old cross<br/>Where the dearest and best<br/>For a world of lost sinners was slain.<br/>Chorus:<br/>So I'll cherish the old rugged cross<br/>Till my trophies at last I lay down<br/>I will cling to the old rugged cross<br/>And exchange it someday for a crown.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, the old rugged cross, so despised by the world<br/>Has a wondrous attraction for me<br/>For the dear Lamb of God left His glory above<br/>To bear it to dark Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To the old rugged cross I will ever be true<br/>Its shame and reproach gladly bear<br/>Then He'll call me someday to my home in this way<br/>Where His glory forever I'll share.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O thou old rugged cross come and live in my heart<br/>And lead me to death every day.<br/>That the life of my Lord may flow out of my heart<br/>To His body and all men I pray.</lines>
+    </verse>
+  </lyrics>
+</song>

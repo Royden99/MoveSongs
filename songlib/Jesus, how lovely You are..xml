@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:06">
+  <properties>
+    <titles>
+      <title>Jesus, how lovely You are.</title>
+    </titles>
+    <authors>
+      <author>Dave Bolton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, how lovely You are.<br/>You are so gentle, so pure and so kind.<br/>You shine as the morning star.<br/>Jesus, how lovely You are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, Jesus is my Lord and King.<br/>Hallelujah, Jesus is my everything.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, Jesus died and rose again;<br/>Hallelujah, Jesus forgave all my sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, Jesus is meek and lowly;<br/>Hallelujah, Jesus is pure and holy.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, Jesus is the Bridegroom;<br/>Hallelujah, Jesus will take His bride soon.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

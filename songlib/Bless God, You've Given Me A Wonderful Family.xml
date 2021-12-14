@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:00">
+  <properties>
+    <titles>
+      <title>Bless God, You've Given Me A Wonderful Family</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless God, You've given me a wonderful family.<br/>I can't express the love I'm feeling inside,<br/>To look around me at all of the brothers<br/>Fathers and mothers You have given me.<br/>One of a city, two of a family,<br/>How be it God, You have chosen me.<br/>But for Your grace I would be in the mire,<br/>But on the rock You have established me. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dios me ha dado una hermosa familia<br/>No puedo expresar el amor que siento en mí<br/>Al mirar a todos mis padres y madres<br/>Hermanos que me diste a mi.<br/>Uno del pueblo, dos de cada familia<br/>Que bueno es que me escogiste a mi<br/>Si no fuera por tu gracia estaría en el lodo<br/>Más en la roca me estableciste a mi.</lines>
+    </verse>
+  </lyrics>
+</song>

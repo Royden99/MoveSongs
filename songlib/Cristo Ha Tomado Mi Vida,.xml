@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:15">
+  <properties>
+    <titles>
+      <title>Cristo Ha Tomado Mi Vida,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Cristo ha tomado mi vida <br/>ha tomado mi vida y no la quiero soltar/ (3) <br/>perdido andaba yo, mas Cristo me halló <br/>Cristo ha tomado mi vida <br/>Ha tomado mi vida y no la quiere soltar. <br/>Y yo /sigo amándole/ (3) a El <br/>/Sigo amándole/ (3) a El <br/>perdido andaba yo, <br/>mas Cristo me encontró. </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:45">
+  <properties>
+    <titles>
+      <title>What Is This That Keeps My Feet A-walking?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What is this that keeps my feet a-walking?<br/>What is this that keeps my hands a-clapping?<br/>What is this that keeps my mouth a-praising?<br/>It is the power of an endless life!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>An endless life, an endless life,<br/>A life without division or strife;<br/>It keeps my feet a-walking,<br/>Hands a-clapping,<br/>Mouth a-praising,<br/>It is the power of an endless life!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Having neither beginning nor ending,<br/>Having neither a father nor mother,<br/>But a priest that abideth forever,<br/>After the order of Melchizedek!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Have you ever wondered where you came from<br/>That you might turn around and make your way back?<br/>If you listen the Spirit will tell you:<br/>After the order of Melchizedek!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

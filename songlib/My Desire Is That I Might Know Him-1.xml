@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:38">
+  <properties>
+    <titles>
+      <title>My Desire Is That I Might Know Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My desire is that I might know Him<br/>In the power of His resurrection,<br/>In the fellowship of His sufferings,<br/>Being made conformable unto His death.<br/>That if by any means I might attain<br/>Unto the resurrection of the dead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi deseo es que pueda conocerleen el poder de su resurrección,participar en su padecer,ser semejante en su muertepara que al final pueda llegara la gloriosa resurrección.</lines>
+    </verse>
+  </lyrics>
+</song>

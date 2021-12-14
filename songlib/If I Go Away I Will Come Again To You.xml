@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:38">
+  <properties>
+    <titles>
+      <title>If I Go Away I Will Come Again To You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If I go away I will come again to you.<br/>If I go away I will come again to you.<br/>If I go away I will come again to you.<br/>Jesus said, I will come again to you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Can't you hear the sound of the trumpet in the Land?<br/>He has come again and you'll see Him in the clouds.<br/>Can't you hear the sound of the trumpet of the Land?<br/>Jesus said, I will come again to you.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:28">
+  <properties>
+    <titles>
+      <title>Follow Me, Follow Me, Follow Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Follow me, follow me, follow me.<br/>Only one thing dost thou lack to follow me.<br/>Sell all that thou hast, take up thy Cross,<br/>And follow me, and follow me, and follow me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll follow Thee, I'll follow thee, I'll follow Thee.<br/>I will sell all that I have and follow Thee. <br/>Deny myself, take up my Cross,<br/>And follow Thee, and follow Thee, and follow Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be one with Me, be one with Me, be one with Me.<br/>Thou art all fair and there is no spot in Thee. <br/>Rise up, my love, and come away.<br/>Be one with Me, be one with Me, be one with Me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I come to Thee, I come to Thee, I come to Thee.<br/>Thou whom my soul dearly loveth, I come to Thee. <br/>I'll hold Thee fast and not let Thee go<br/>Till we are one, I in you, and you in me.</lines>
+    </verse>
+  </lyrics>
+</song>

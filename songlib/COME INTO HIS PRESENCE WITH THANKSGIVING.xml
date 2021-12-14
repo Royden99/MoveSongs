@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:10">
+  <properties>
+    <titles>
+      <title>COME INTO HIS PRESENCE WITH THANKSGIVING</title>
+    </titles>
+    <authors>
+      <author>Lynn Baird</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come into His presence with thanksgiving in your heart<br/>And give Him praise, and give Him praise<br/>Come into His presence with thanksgiving in your heart<br/>Your voices raise, your voices raise<br/>Give glory and honor and praises unto Him<br/>Jesus name above all names</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Entra en la presencia del Senor con gratitud<br/>y adorale de corazon<br/>entra en la presencia del Senor con gratitud y alabale de corazon<br/>Da honra, y gloria, y alabanzas al Senor<br/>Cristo, nombre sin igual</lines>
+    </verse>
+  </lyrics>
+</song>

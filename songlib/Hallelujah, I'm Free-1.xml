@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah, I'm Free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, I'm free (2x) <br/>No burden of sin is bothering me. <br/>For Jesus came, and took my place on Calvary. <br/>Hallelujah, I'm free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, we're one (2x)<br/>Glorifying the Father,<br/>Magnifying the Son. It's Christ in us and we in Him,<br/>Till perfection's done.<br/>Hallelujah, we're one.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah, I see (2x)<br/>A spiritual man in the midst of thee.<br/>From the dead He comes to raise up Sons,<br/>And set men free.<br/>Hallelujah, I see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah, I hear (2x)<br/>A trumpet sounding all around here.<br/>Here it's the Word of God coming forth in truth.<br/>Hallelujah, I hear.<br/>Hallelujah, I hear.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aleluya, libre soy.<br/>Aleluya, libre soy.<br/>Ya no hay pecado, ni lucha en mi. <br/>Pues mi Jesus, se los lleva en el Calvario. <br/>Aleluya, libre soy.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aleluya, somos uno.<br/>Aleluya, somos uno.<br/>Glorificando al Padre, magnificando al Hijo.<br/>Es Cristo en nosotros y nosotros en Él<br/>Hasta la perfección,<br/>Aleluya, somos uno.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Aleluya, puedo ver.<br/>Aleluya, puedo ver,<br/>Un hombre espiritual en medio de tí.<br/>Que nos vino a dar la liberación<br/>Y la resurrección,<br/>Aleluya, puedo ver.</lines>
+    </verse>
+  </lyrics>
+</song>

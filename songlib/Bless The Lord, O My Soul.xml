@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:01">
+  <properties>
+    <titles>
+      <title>Bless The Lord, O My Soul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless the Lord, Oh my soul.<br/>And all that is within me <br/>Bless His Holy Name. (Repeat.).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For, He hath done great things, <br/>He hath done great things, <br/>He hath done great things. <br/>Bless His Holy Name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alaba a Dios, oh alma mía.<br/>Y todo lo que hay en mí alabe Su numbre.<br/>Alaba a Dios, oh alma mía.<br/>Y todo lo que hay en mí alabe Su numbre.<br/>Pues, ha hecho maravillas.<br/>Ha hecho maravillas.<br/>Ha hecho maravillas.<br/>Bueno es nuestro Dios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bendecid a Jehová, mí alma.<br/>Y todo lo que hay en mí bendecid su santo nombre.<br/>Bendecid a Jehová, mí alma.<br/>Y todo lo que hay en mí bendecid su santo nombre.<br/>Pues, grandes cosas ha hecho Él.<br/>Grandes cosas ha hecho Él.<br/>Grandes cosas ha hecho Él.<br/>Bendecid su santo nombre.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alma mía, bendice a Dios.<br/>Bendígale todo mi ser; santo Su nombre es.<br/>Alma mía, bendice a Dios.<br/>Bendígale todo mi ser; santo Su nombre es.<br/>Pues, El ha hecho cosas buenas.<br/>El ha hecho cosas buenas.<br/>El ha hecho cosas buenas.<br/>Santo Su nombre es.</lines>
+    </verse>
+  </lyrics>
+</song>

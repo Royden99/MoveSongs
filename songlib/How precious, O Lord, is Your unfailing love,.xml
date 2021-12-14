@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:10">
+  <properties>
+    <titles>
+      <title>How precious, O Lord, is Your unfailing love,</title>
+    </titles>
+    <authors>
+      <author>Phil Rogers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How precious, O Lord, is Your unfailing love,<br/>We find refuge in the shadow of Your wings;<br/>We feast, Lord Jesus, on the abundance of Your house,<br/>And drink from Your rivers of delight.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With You is the fountain of life,<br/>In Your light, we see light;<br/>With You is the fountain of life,<br/>In Your light, we see light.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

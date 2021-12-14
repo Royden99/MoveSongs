@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:36">
+  <properties>
+    <titles>
+      <title>God Is God And He Always Will Be God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is God and He always will be God.<br/>God is god and He always will be God. <br/>He's God when the lightning flashes.<br/>He's God when the thunder rolls. <br/>He's God way up in heaven, <br/>And He's God down in my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is God and He always will be God.<br/>God is God and He always will be God.<br/>He's God in the fiery furnace.<br/>He's God in the lion's den.<br/>He's God of all creation,<br/>And He's God in the hearts of men.</lines>
+    </verse>
+  </lyrics>
+</song>

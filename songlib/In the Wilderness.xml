@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:49">
+  <properties>
+    <titles>
+      <title>In the Wilderness</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The wilderness is glad for us, hear the desert rejoice,<br/>For the sounds of joy and singing we bring,<br/>For we can see the glory, the glory of the Lord,<br/>In the wilderness waters are breaking out.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strengthen the weak hands, confirm the feeble knees<br/>Say to them that are of a fearful heart "Be strong!"<br/>For streams are flowing in the desert, <br/>Streams are flowing in the desert,<br/>and in the wilderness waters are breaking out!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now the eyes of the blind are opened,<br/>And the ears of the deaf unstopped,<br/>Now the lame men leap and the tongue of the dumb can sing.<br/>And in a land so parched and thirsty, <br/>Springs of water now abound,<br/>For in the wilderness waters are breaking out.</lines>
+    </verse>
+  </lyrics>
+</song>

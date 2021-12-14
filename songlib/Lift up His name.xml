@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:23">
+  <properties>
+    <titles>
+      <title>Lift up His name</title>
+    </titles>
+    <authors>
+      <author>Robin Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up His name<br/>Within the sanctuary<br/>Lift up His name<br/>Among the people who are gathered here to sing His praise<br/>Who are gathered here to sing His praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy is our God<br/>Holy is Your name<br/>Mighty are Your works and deeds and<br/>Wondrous are Your ways<br/>All that You have made<br/>Shall return and give You glory Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The earth the sky the sea and all within them<br/>This universe beyond the sight of mortal men<br/>All subject to His reign<br/>All creation subject to His reign</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The great I AM no end and no beginning<br/>You were and are and evermore You shall be<br/>All my days are in Your hands<br/>All my days are in Your hands<br/></lines>
+    </verse>
+  </lyrics>
+</song>

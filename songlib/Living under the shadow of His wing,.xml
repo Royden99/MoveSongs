@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:25">
+  <properties>
+    <titles>
+      <title>Living under the shadow of His wing,</title>
+    </titles>
+    <authors>
+      <author>David J. Hadden/Bob Silvester © 1983 Restoration Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Living under the shadow of His wing,<br/>We find security.<br/>Standing in His presence we will bring<br/>Our worship, worship, worship to the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bowed in adoration at His feet,<br/>We dwell in harmony.<br/>Voices joined together that repeat<br/>Worthy, worthy, worthy is the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heart to heart embracing in His love,<br/>Reveals His purity,<br/>Soaring in my Spirit like a dove,<br/>Holy, holy, holy is the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

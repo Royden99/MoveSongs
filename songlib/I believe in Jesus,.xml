@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:14">
+  <properties>
+    <titles>
+      <title>I believe in Jesus,</title>
+    </titles>
+    <authors>
+      <author>Marc Nelson © 1983 Mercy Publishing / Kingsway's ThankYou Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in Jesus,<br/>I believe He is the Son of God,<br/>I believe He died and rose again,<br/>I believe He paid for us all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Men     And I believe He's here now,<br/>Women   I believe that He's here<br/>All     Standing in our midst,<br/>Men     Here with the power to heal now,<br/>Women   With the power to heal<br/>All     And the grace to forgive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I believe in You, Lord,<br/>I believe You are the Son of God,<br/>I believe You died and rose again,<br/>I believe You paid for us all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Men     And I believe You're here now,<br/>Women   I believe that You're here<br/>All     Standing in our midst ,<br/>Men     Here with the power to heal now,<br/>Women   With the power to heal<br/>All     And the grace to forgive.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

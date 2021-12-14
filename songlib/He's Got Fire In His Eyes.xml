@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:59">
+  <properties>
+    <titles>
+      <title>He's Got Fire In His Eyes</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's got fire in His eyes<br/>And a sword in His hand<br/>And He's riding a white horse <br/>All across this land (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And He's calling out to you and me:<br/>Will you ride with me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we say yes Lord,<br/>We will ride with You.<br/>We will stand up and fight<br/>We will ride the armies of heaven</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We'll be dressed in white(2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And we say yes, yes Lord.<br/>We will ride.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>That fire in His eyes.<br/>It's His love for His bride.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:53">
+  <properties>
+    <titles>
+      <title>As with gladness men of old</title>
+    </titles>
+    <authors>
+      <author>William Chatterton Dix</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As with gladness men of old<br/>Did the guiding star behold;<br/>As with joy they hailed its light,<br/>Leading onward, beaming bright,<br/>So, most gracious Lord,<br/>May we evermore be led to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As with joyful steps they sped<br/>To that lowly manger bed,<br/>There to bend the knee before Him<br/>Whom heaven and earth adore,<br/>So, may we with willing feet,<br/>Ever seek the mercy seat.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As they offered gifts most rare<br/>At that manger plain and bare,<br/>So may we with holy joy,<br/>Pure and free from sin's alloy,<br/>All our costliest treasures bring,<br/>Christ, to You our heavenly King.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy Jesus, every day<br/>Keep us in the narrow way;<br/>And when earthly things are past,<br/>Bring our ransomed souls at last,<br/>Where they need no star to guide,<br/>Where no clouds Your glory hide.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In the heavenly country bright<br/>Need they no created light;<br/>Thou its light, its joy, its crown,<br/>Thou its sun which goes not down;<br/>There forever may we sing<br/>Alleluias to our King.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

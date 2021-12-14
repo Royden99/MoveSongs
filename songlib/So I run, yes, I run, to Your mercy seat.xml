@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:25">
+  <properties>
+    <titles>
+      <title>So I run, yes, I run, to Your mercy seat</title>
+    </titles>
+    <authors>
+      <author>Simeon Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So I run, yes, I run, to Your mercy seat<br/>And I throw myself down at Your merciful feet,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where the river of life flows,<br/>Where rest is found for my weary soul;<br/>My strength is renewed as the eagle's<br/>And salvation is joyful again.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

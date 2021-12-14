@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:27">
+  <properties>
+    <titles>
+      <title>Fear not O land be glad and rejoice</title>
+    </titles>
+    <authors>
+      <author>David Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fear not O land be glad and rejoice<br/>For the Lord will do great things<br/>The tree and the vine will yield their fruit<br/>And the wilderness shall spring<br/>Be glad ye children of Zion<br/>For He has sent the rains<br/>Your storehouse shall be full of wheat<br/>Wine and oil will overflow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And you shall eat in plenty and be satisfied<br/>And praise the name of the Lord your God<br/>For I have dealt wondrously with you<br/>And My people shall never be ashamed<br/>And you shall know that I am in the midst of thee<br/>That I alone am the Lord your God<br/>I will pour out my Spirit upon all flesh<br/>And My people shall never be ashamed<br/>And My people shall never be ashamed<br/></lines>
+    </verse>
+  </lyrics>
+</song>

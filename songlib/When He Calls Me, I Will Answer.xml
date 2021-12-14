@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:46">
+  <properties>
+    <titles>
+      <title>When He Calls Me, I Will Answer</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When He calls me, I will answer. <br/>When He calls me, I will answer. <br/>When He calls me, I will answer. <br/>I'll be somewhere listening for my name.<br/>Chorus:<br/>I'll be somewhere listening, I'll be somewhere listening,<br/>I'll be somewhere listening for my name.<br/>I'll be somewhere listening, I'll be somewhere listening,<br/>I'll be somewhere listening for my name.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With a glad heart, I will answer...<br/>With a willing heart, I will answer...<br/>With a joyful heart, I will answer...<br/>With a faithful heart, I will answer...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll be in Him listening, I'll be in Him listening,<br/>I'll be in Him listening for my name.<br/>I'll be in Him listening, I'll be in Him listening,<br/>I'll be in Him listening for my name.</lines>
+    </verse>
+  </lyrics>
+</song>

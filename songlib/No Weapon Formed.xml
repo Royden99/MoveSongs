@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:44">
+  <properties>
+    <titles>
+      <title>No Weapon Formed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No weapon formed against me shall prosper;<br/>All those that rise up against me shall fall<br/>I will not fear what the devil may bring me;<br/>I am the servant of God; I am the servant of God</lines>
+    </verse>
+  </lyrics>
+</song>

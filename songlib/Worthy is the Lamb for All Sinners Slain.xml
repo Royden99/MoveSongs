@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:57">
+  <properties>
+    <titles>
+      <title>Worthy is the Lamb for All Sinners Slain</title>
+    </titles>
+    <authors>
+      <author>Laurie Pettis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the Lamb, <br/>for all sinners slain<br/>Worthy is the Lamb, <br/>Who died and rose again. <br/>Who was and is and is to come,<br/>the beginning and the end. <br/>Worthy, worthy is the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

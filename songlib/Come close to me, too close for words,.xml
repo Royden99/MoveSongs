@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:10">
+  <properties>
+    <titles>
+      <title>Come close to me, too close for words,</title>
+    </titles>
+    <authors>
+      <author>Martin Smith/ Stuart Garrard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come close to me, too close for words,<br/>And still my beating heart.<br/>I find your thoughts without one glance,<br/>We're going all the way.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With you I'm washed as white as the snow<br/>And all crimson stains become just a shadow.<br/>You know I would be blind without you<br/>So light up my way to find my way home.<br/>Today, today, today, we're going all the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tears sometimes fall upon my face<br/>And join the oil of gladness.<br/>How can it be I've found this love?<br/>A love that lets me fly.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

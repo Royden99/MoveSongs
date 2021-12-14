@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:26">
+  <properties>
+    <titles>
+      <title>Wait on the Lord - Susan Coy</title>
+    </titles>
+    <authors>
+      <author>Susan Coy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wait on the Lord<br/>be of good courage<br/>wait on the lord<br/>and he shall strengthen your heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>the lord is my Light<br/>and he is my salvation<br/>whom shall i fear<br/>for my father is holding me here in his hands</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:57">
+  <properties>
+    <titles>
+      <title>I've Been Redeemed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been redeemed. I've been redeemed.<br/>I've been redeemed. I've been redeemed.<br/>I've been washed in the blood of the Lamb,<br/>I've been washed in the blood of the Lamb,<br/>I've been washed in the blood of the Lamb,<br/>That flows from Calvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've been set free. (4x)<br/>I've been purged in the fire of His love, (3x)<br/>That burns away my flesh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've been transformed. (4x)<br/>And I'm changed to the image of His Son, (3x)<br/>As Christ comes forth in me.</lines>
+    </verse>
+  </lyrics>
+</song>

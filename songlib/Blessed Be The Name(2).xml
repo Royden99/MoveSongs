@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:03">
+  <properties>
+    <titles>
+      <title>Blessed Be The Name</title>
+    </titles>
+    <authors>
+      <author>Ralph E. Hudson William H. Clark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the name,<br/>Blessed be the name,<br/>Blessed be the name of the Lord;<br/>Blessed be the name,<br/>Blessed be the name,<br/>Blessed be the name of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All praise to Him who reigns above,<br/>In majesty supreme<br/>Who gave His Son for man to die,<br/>That He might man redeem!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His name above all names shall stand,<br/>Exalted more and more,<br/>At God the Father's own right hand,<br/>Where angel hosts adore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Redeemer, Savior, Friend of man,<br/>Once ruined by the fall,<br/>Thou hast devised salvation's plan,<br/>For Thou hast died for all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>His name shall be the Counselor,<br/>The mighty Prince of Peace,<br/>Of all earth's kingdoms Conqueror,<br/>Whose reign shall never cease.</lines>
+    </verse>
+  </lyrics>
+</song>

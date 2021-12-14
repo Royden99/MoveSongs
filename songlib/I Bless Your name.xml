@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:14">
+  <properties>
+    <titles>
+      <title>I Bless Your name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In prisoner's chains, with bleeding stripes<br/>Paul and Silas prayed that night<br/>And in their pain, began to sing<br/>Their chains were loosed, and they were free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I bless Your Name, I bless Your name<br/>I give You honor, give you praise<br/>You are the Life, the Truth, the Way<br/>I bless Your name, I bless Your name</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Some midnight hour, if you should find<br/>You're in a prison in your mind<br/>Reach out and praise, defy those chains<br/>And they will fall in Jesus' name.</lines>
+    </verse>
+  </lyrics>
+</song>

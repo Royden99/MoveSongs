@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:51">
+  <properties>
+    <titles>
+      <title>It Is A Good Thing To Give Thanks Unto The Lord</title>
+    </titles>
+    <authors>
+      <author>J H Montemayor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice in the Lord, lift up your heart and sing,<br/>Rejoice in the Lord, always.<br/>Blessed is the man who makes the Lord his choice,<br/>Rejoice in the Lord, and again I say rejoice!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is a good thing to give thanks unto the Lord,<br/>It is a good thing to give thanks unto the Lord,<br/>And to sing praises unto Thy name, Lord Most High.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, let us sing unto the Lord,<br/>Let us make a joyful noise to the Rock,<br/>To the Rock of our salvation,<br/>Let us come before His presence with thanksgiving<br/>And make a joyful noise.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

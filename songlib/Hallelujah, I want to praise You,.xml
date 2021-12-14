@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah, I want to praise You,</title>
+    </titles>
+    <authors>
+      <author>Tom Fletcher</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, I want to praise You,<br/>Hallelujah, with thanks in my heart.<br/>Hallelujah, I want to praise You,<br/>Hallelujah, praise ye the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And how can words express the thanks in my heart?<br/>And how can singing a song praise You enough?<br/>And how can lifting my hands<br/>Show how much I love You?<br/>From the depths of my heart, hallelujah!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

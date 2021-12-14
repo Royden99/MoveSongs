@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:52">
+  <properties>
+    <titles>
+      <title>He Made Streams In The Desert</title>
+    </titles>
+    <authors>
+      <author>Rustin Myers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He made streams in the desert,<br/>A way in the wilderness,<br/>The waters He parted<br/>And there was dry land,<br/>He made streams in the desert,<br/>A way in the wilderness<br/>Because I held to His hand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There were times I know it<br/>My feet were nigh slipping,<br/>And only by grace did I stand;<br/>And the load I carried,<br/>I knelt down below it<br/>But I did not let go of His hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the tempter, untiring,<br/>Drew grand conclusions<br/>Of what a poor fool I am;<br/>And through waves of worry<br/>And clouds of confusion<br/>Still I did not let go of His hand.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And so, my brethren,<br/>Commit to His keeping<br/>Your lives for Him to plan;<br/>For though trials be grievous<br/>There's no shame in weeping,<br/>Just don't let go of His hand.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:24">
+  <properties>
+    <titles>
+      <title>I praise You for Your faithfulness, O Lord,</title>
+    </titles>
+    <authors>
+      <author>Robin Mark © 1996 Daybreak Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I praise You for Your faithfulness, O Lord,<br/>And for Your Father's love that never fails.<br/>Who am I, the King of love my Shepherd is,<br/>Who am I, that You should call me friend?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Made lower than the angels for a time<br/>To suffer death, for only You alone<br/>Are my one high Priest, my only sacrifice,<br/>And my advocate before the throne.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For though You know all my ways<br/>Yet Your love for me endures.<br/>When I think on all these things,<br/>Oh I love You more and more.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

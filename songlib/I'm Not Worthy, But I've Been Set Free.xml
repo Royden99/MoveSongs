@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:44">
+  <properties>
+    <titles>
+      <title>I'm Not Worthy, But I've Been Set Free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not worthy, but I've been set free. <br/>My sins before me, I leave at Calvary. <br/>O Holy Spirit fill and keep me. <br/>Let me walk and dance into this feast.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Seven days wave your branches. <br/>Seven days praise and dances.<br/>Seven days to rejoice with joy. <br/>Let me walk and dance into this feast.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm set free and today I proclaim it. <br/>I'm set free by the day of Atonement. <br/>I'm set free, I give glory to Thee. <br/>Let me walk and dance into this feast.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yo no soy digno pero libre soy. <br/>Mis faltas veo pero vivo en la cruz. <br/>Santo Espiritu llena y guiame. <br/>Cantemos y dancemos en esta fiesta.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Siete dias mecen las ramas, <br/>Siete dias canto y danza, <br/>Siete dias glorificale,<br/>Cantemos y dancemos en esta fiesta. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Soy libre, hoy lo proclamo, soy libre,<br/>Por el dia de expiacion; soy libre, <br/>Te doy gloria a ti; <br/>Cantemos y dancemos en esta fiesta.</lines>
+    </verse>
+  </lyrics>
+</song>

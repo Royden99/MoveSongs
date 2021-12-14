@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:58">
+  <properties>
+    <titles>
+      <title>The World Is Not My Home</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The world is not my home;<br/>I'm just passing through.<br/>My treasures are laid up, somewhere beyond the blue.<br/>O, the angels beckon me, from heaven's open door,<br/>And I can't feel at home in this world anymore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, You know I have no friend like You;<br/>If heaven's not my home, then, Lord, what would I do?<br/>O, the angels beckon me, from heaven's open door,<br/>And I can't feel at home in this world anymore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Well, over in glory land, there is no dying there.<br/>There are saints on every hand; there's always time for prayer.<br/>The angels beckon me, from heaven's open door,<br/>And I can't feel at home in this world anymore.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:05">
+  <properties>
+    <titles>
+      <title>You are the peace that guards my heart,</title>
+    </titles>
+    <authors>
+      <author>Don Harris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the peace that guards my heart,<br/>My help in times of need,<br/>You are the hope that leads me on<br/>And brings me to my knees,<br/>For there I find You waiting, and there I find release<br/>So with all my heart I'll worship<br/>And unto You I'll sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You alone deserve all glory,<br/>For You alone deserve all praise.<br/>Father, we worship and adore You,<br/>Father, we long to see Your face,<br/>For You alone deserve all glory,<br/>For You alone deserve all praise,<br/>Father we love You and we worship You this day.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

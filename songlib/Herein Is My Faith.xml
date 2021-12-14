@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:57">
+  <properties>
+    <titles>
+      <title>Herein Is My Faith</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believed, for the which I spoke.<br/>You are working Your will within me,<br/>That I might believe, believe only in You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know, there is power in Your name,<br/>And you are working Your will within me,<br/>That I might believe, believe only in You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Often in tribulation, yet not in anguish,<br/>Pressed beyond measure, yet not despairing,<br/>Persecuted, never forsaken,<br/>Cast down and yet never destroyed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>For herein is my faith,<br/>I will escape,<br/>To the mountains of safety on high.<br/>These trials are working in me<br/>A more excellent sure weight of glory.<br/>For herein is my faith,<br/>I will go on,<br/>Over waters obscuring the pathway.<br/>After my Lord and my Savior,<br/>I'll go. And I will cross over.<br/>For herein is my faith.</lines>
+    </verse>
+  </lyrics>
+</song>

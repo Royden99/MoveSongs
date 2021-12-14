@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:36">
+  <properties>
+    <titles>
+      <title>God Is Love, Heaven And Earth Declare It</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is love, heaven and earth declare it<br/>God is love, He wants the world to share it<br/>He made the rivers and the rolling seas<br/>He made the birds and the honeybees<br/>He made them all for you and me, for God is love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God is love, I can feel Him in the air<br/>I can feel His tender care<br/>I can feel Him everywhere<br/>From the deepest ocean, to the highest heavens above<br/>All creation tells me God is love. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dios es amor, El cielo y la tierra lo dicen<br/>Dios es amor, y quiere que el mundo lo goce.<br/>Hizo los ríos y la grande mar<br/>Hizo las aves y también el panal<br/>Todo lo hizo por ti y para mi<br/>Porque Dios es amor.</lines>
+    </verse>
+  </lyrics>
+</song>

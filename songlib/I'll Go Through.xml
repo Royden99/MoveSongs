@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:40">
+  <properties>
+    <titles>
+      <title>I'll Go Through</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll go through, Lord Jesus, I'll go through.<br/>Lord Jesus, I'll go through,<br/>Lord Jesus, I'll go through.<br/>Every day, every hour<br/>I can feel Thy cleansing power<br/>Every hour, cleansing power<br/>I'll go through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take us through, etc.<br/>Hold my hand, etc. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Caminaré, con cristo caminaré<br/>Con cristo caminaré<br/>Con cristo caminaré<br/>Cada día, cada hora<br/>Necesito tu poder <br/>Con tu poder cada día caminaré.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Toma mi mano, /Oh Cristo, toma mi mano/  (3)<br/>Cada día, cada hora<br/>Necesito tu poder<br/>Con tu poder cada día caminaré.</lines>
+    </verse>
+  </lyrics>
+</song>

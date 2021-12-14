@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:53">
+  <properties>
+    <titles>
+      <title>Will your anchor hold in the storms of life?</title>
+    </titles>
+    <authors>
+      <author>Priscilla J. Owens</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Will your anchor hold in the storms of life?<br/>When the clouds unfold their wings of strife?<br/>When the strong tides lift and the cables strain<br/>Will your anchor drift, or firm remain?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have an anchor that keeps the soul<br/>Steadfast and sure while the billows roll:<br/>Fastened to the Rock which cannot move,<br/>Grounded firm and deep in the Saviour's love!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It is safely moored, 'twill the storm withstand,<br/>For 'tis well secured by the Saviour's hand;<br/>And the cables passed from His heart to mine<br/>Can defy the blast, through strength divine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It will firmly hold in the straits of fear,<br/>When the breakers have told the reef in near,<br/>Though the tempest rave and the wild winds blow<br/>Not an angry wave shall our bark o'erflow.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>It will surely hold in the floods of death,<br/>When the waters cold, chill our latest breath,<br/>On the rising tide it can never fail,<br/>While our hopes abide within the veil!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When our eyes behold, through the gathering night<br/>The city of gold, our harbour bright,<br/>We shall anchor fast by the heavenly shore,<br/>With the storms all past for evermore.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

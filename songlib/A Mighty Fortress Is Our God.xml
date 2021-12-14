@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:45">
+  <properties>
+    <titles>
+      <title>A Mighty Fortress Is Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A mighty fortress is our God, a bulwark never failing;<br/>Our helper He, amid the flood of mortal ills prevailing:<br/>For still our ancient foe doth seek to work us woe;<br/>His craft and pow’r are great, and, armed with cruel hate,<br/>On earth is not his equal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Did we in our own strength confide, our striving would be losing,<br/>Were not the right Man on our side, the Man of God’s own choosing:<br/>Dost ask who that may be? Christ Jesus, it is He;<br/>Lord Sabaoth, His Name, from age to age the same,<br/>And He must win the battle.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And though this world, with devils filled, should threaten to undo us,<br/>We will not fear, for God hath willed His truth to triumph through us;<br/>The Prince of Darkness grim, we tremble not for him;<br/>His rage we can endure, for lo, his doom is sure,<br/>One little word shall fell him.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>That word above all earthly pow’rs, no thanks to them, abideth;<br/>The Spirit and the gifts are ours through Him Who with us sideth;<br/>Let goods and kindred go, this mortal life also;<br/>The body they may kill: God’s truth abideth still,<br/>His kingdom is forever.</lines>
+    </verse>
+  </lyrics>
+</song>

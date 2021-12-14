@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:14">
+  <properties>
+    <titles>
+      <title>Come, let us worship Jesus,</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, let us worship Jesus,<br/>King of nations, Lord of all,<br/>Magnificent and glorious,<br/>Just and merciful.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, King of the nations,<br/>Jesus, Lord of all.<br/>Jesus, King of the nations,<br/>Lord of all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lavish our hearts' affection<br/>Deepest love and highest praise;<br/>Voice, race and language blending,<br/>All the world amazed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bring tributes from the nations,<br/>Come in joyful cavalcades,<br/>One thunderous acclamation,<br/>One banner raised.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Come, Lord, and fill Your temple<br/>Glorify Your dwelling place<br/>Till nations see Your splendour<br/>And seek Your face.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fear God and give Him glory,<br/>For His hour of judgement comes.<br/>Creator, Lord Almighty;<br/>Worship Him alone.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:13">
+  <properties>
+    <titles>
+      <title>Le Doy Gracias</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Le doy gracias, le doy gracias <br/>al Señor que me salvó. / (2) <br/>/Al calvario fue y murió por mi <br/>yo dejé mis cargas allí./ (2) <br/>/Gracias Jesús, gracias Jesús <br/>gracias por salvarme a mí. / (2) <br/>/Gloria, gloria, Aleluya <br/>yo dejé mis cargas allí. / (2) </lines>
+    </verse>
+  </lyrics>
+</song>

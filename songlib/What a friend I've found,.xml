@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:43">
+  <properties>
+    <titles>
+      <title>What a friend I've found,</title>
+    </titles>
+    <authors>
+      <author>© 1996 Curious? Music UK / Kingsway Thankyou Music UK</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a friend I've found,<br/>Closer than a brother,<br/>I have felt Your touch<br/>More intimate than lovers.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, Jesus,<br/>Jesus, friend for ever.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What a hope I've found,<br/>More faithful than a brother,<br/>It would break my heart<br/>To ever lose each other.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

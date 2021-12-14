@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:57">
+  <properties>
+    <titles>
+      <title>I've Been Redeemed, By The Blood Of The Lamb</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've been redeemed, by the blood of the Lamb.<br/>I've been redeemed, by the blood of the Lamb.<br/>I've been redeemed, by the blood of the Lamb.<br/>Filled with the Holy Ghost I am.<br/>All my sins are washed away; I've been redeemed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And that's not all, there's more besides. (3x)<br/>I've been to the river and I've been baptised.<br/>All my sins are washed away; I've been redeemed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You can talk about me just as much as you please. (3x)<br/>I'll talk about you down on my knees. <br/>All my sins are washed away; I've been redeemed.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's a little seed in you and me. (3x)<br/>Growing up to incorruptibility.<br/>All my sins are washed away; I've been redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

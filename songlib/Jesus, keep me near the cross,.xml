@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:07">
+  <properties>
+    <titles>
+      <title>Jesus, keep me near the cross,</title>
+    </titles>
+    <authors>
+      <author>Fanny Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, keep me near the cross,<br/>There's a precious fountain,<br/>Free to all, a healing stream,<br/>Flows from Calvary's mountain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CHORUS<br/>In the cross, in the cross<br/>Be my glory ever<br/>Till my ransomed soul shall find<br/>Rest beyond the river.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Near the cross, a trembling soul,<br/>Love and mercy found me;<br/>There the bright and morning star<br/>Shed its beams around me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Near the cross!  O Lamb of God<br/>Bring its scenes before me,<br/>Help me walk from day to day<br/>With its shadow o'er me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Near the cross I'll watch and wait,<br/>Hoping, trusting ever<br/>Till I reach the golden strand<br/>Just beyond the river.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

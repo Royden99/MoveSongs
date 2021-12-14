@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:11">
+  <properties>
+    <titles>
+      <title>I Am Blessed, I Am Blessed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are blessed, we are blessed,<br/>Every day of our lives we are blessed;<br/>When we wake up in the morning,<br/>When we lay our heads to rest,<br/>We are blessed, we are blessed, we are blessed.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:12">
+  <properties>
+    <titles>
+      <title>I Am He That Liveth And Was Dead</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am He that liveth and was dead, <br/>And behold I am alive forever more, amen.<br/>And I have the keys of hell and of death. <br/>I am He that liveth and was dead.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo soy el que vivo y estuve muerto, <br/>Mas he aqui yo vivo por los siglos y los siglos, amen.<br/>Yo tengo las llaves del infierno y de la muerte. <br/>Yo soy el que vivo y estuve muerto.</lines>
+    </verse>
+  </lyrics>
+</song>

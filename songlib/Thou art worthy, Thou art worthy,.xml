@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:13">
+  <properties>
+    <titles>
+      <title>Thou art worthy, Thou art worthy,</title>
+    </titles>
+    <authors>
+      <author>Pauline Mills</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou art worthy, Thou art worthy,<br/>Thou art worthy, O Lord,<br/>To receive glory, glory and honour,<br/>Glory and honour and power,<br/>For Thou hast created, hast all things created,<br/>Thou hast created all things,<br/>And for Thy pleasure they are created;<br/>Thou art worthy, O Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou art worthy, Thou art worthy,<br/>Thou art worthy, O Lamb,<br/>Thou art worthy, to receive glory<br/>And power at the Father's right hand.<br/>For Thou hast redeemed us,<br/>Hast ransomed and cleansed us,<br/>By Thy blood setting us free,<br/>In white robes arrayed us,<br/>Kings and priests made us,<br/>And we are reigning in Thee.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

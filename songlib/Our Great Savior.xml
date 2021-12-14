@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:00">
+  <properties>
+    <titles>
+      <title>Our Great Savior</title>
+    </titles>
+    <authors>
+      <author>J Wilbur Chapman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus! what a Friend for sinners!<br/>Jesus! Lover of my soul;<br/>Friends may fail me, foes assail me,<br/>He, my Saviour, makes me whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah! what a Saviour!<br/>Hallelujah! what a Friend!<br/>Saving, helping, keeping, loving,<br/>He is with me to the end.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus! what a Strength in weakness!<br/>Let me hide myself in Him.<br/>Tempted, tried, and sometimes failing,<br/>He, my Strength, my victory wins.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus! what a Help in sorrow!<br/>While the billows over me roll,<br/>Even when my heart is breaking,<br/>He, my Comfort, helps my soul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus! what a Guide and Keeper!<br/>While the tempest still is high,<br/>Storms about me, night overtakes me,<br/>He, my Pilot, hears my cry.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Jesus! I do now receive Him,<br/>More than all in Him I find.<br/>He hath granted me forgiveness,<br/>I am His, and He is mine.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:02">
+  <properties>
+    <titles>
+      <title>Blessed be the Lord Who gives to me,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the Lord Who gives to me,<br/>Blessed be the Lord Who takes away,<br/>I will say my God is good,<br/>I will say His work, it is good,<br/>In affliction and blessing He is good,<br/>He has caused me to bless His name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

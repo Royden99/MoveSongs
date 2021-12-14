@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:08">
+  <properties>
+    <titles>
+      <title>City, O City, Of Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>City, O city of our God,<br/>All my springs of joy are in you.<br/>City, O city, of our God,<br/>All my springs of joy are in you.<br/>All my springs of joy are in you.<br/>City, O city, of our God,<br/>All my springs of joy are in you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This one and that one was born in her,<br/>All my springs of joy are in you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Singers and dancers together say<br/>All my springs of joy are in you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>City, O city of our God,<br/>Glorious things are spoken of you.<br/>City, O city, of our God,<br/>Glorious things are spoken of you.<br/>Glorious things are spoken of you.<br/>City, O city, of our God,<br/>Glorious things are spoken of you. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>/Ciudad, Ciudad de nuestro Dios, <br/>todas mi fuentes de gozo están en ti./ (2)<br/>todas mis fuentes de gozo están en ti.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/Este y aquella fueron nacidos en ella<br/>todas mis fuentes de gozo están en ti./ (2)<br/>todas mis fuentes de gozo están en ti.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/Cantantes, danzantes todos dicen<br/>cosas gloriosas se hablan de ti/ (2)<br/>cosas gloriosas se hablan de ti.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ciudad, ciudad de nuestro Dios<br/>Cosas gloriosas se hablan de ti.</lines>
+    </verse>
+  </lyrics>
+</song>

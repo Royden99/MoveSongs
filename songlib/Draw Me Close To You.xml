@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:19">
+  <properties>
+    <titles>
+      <title>Draw Me Close To You</title>
+    </titles>
+    <authors>
+      <author>Copyright © 1994 Mercy/Vineyard Publishing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Draw me close to you<br/>Never let me go<br/>I lay it all down again<br/>To hear you say that I'm your friend<br/>You are my desire<br/>No one else will do<br/>Cause nothing else can take your place<br/>To feel the warmth of your embrace<br/>Help me find the way<br/>Bring me back to you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You're all I want<br/>You're all I've ever needed<br/>You're all I want<br/>Help me know you are near</lines>
+    </verse>
+  </lyrics>
+</song>

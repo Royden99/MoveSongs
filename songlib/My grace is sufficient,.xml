@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:39">
+  <properties>
+    <titles>
+      <title>My grace is sufficient,</title>
+    </titles>
+    <authors>
+      <author>Claire Wilson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My grace is sufficient,<br/>My strength will see you through,<br/>My power and understanding, I'm giving to you.<br/>Much more is expected now, much is given unto you,<br/>My power and understanding I'm giving to you.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

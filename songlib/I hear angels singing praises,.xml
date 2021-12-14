@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:18">
+  <properties>
+    <titles>
+      <title>I hear angels singing praises,</title>
+    </titles>
+    <authors>
+      <author>Gerrit Gustafsan © 1988 Integrity's Hosanna! Music /ASCAP</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I hear angels singing praises,<br/>I see men from every nation<br/>Bowing down before the throne<br/>Like the sound of many waters,<br/>Like the rushing wind around us;<br/>Multitudes join the song<br/>And a symphony of praise arises,<br/>Tears are wiped away from eyes<br/>As men from every tongue<br/>And tribe now sing:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, holy, God Almighty,<br/>Who was, Who is and is to come,<br/>All the angels are crying holy<br/>To the Lamb Who sits upon the throne;<br/>Holy, holy, God Almighty,<br/>Who was, Who is and is to come,<br/>All creation is bringing glory<br/>To the Lamb Who sits upon the throne.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:58">
+  <properties>
+    <titles>
+      <title>I've found a new way of living,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found a new way of living,<br/>I've found a life that's divine,<br/>I've found a new way of living,<br/>And it's abiding,<br/>Abiding in the vine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abiding in the vine,<br/>Abiding in the vine,<br/>Love, joy, peace, health,<br/>Happiness is mine.<br/>Now I have liberty, power and victory,<br/>Abiding, abiding in the vine.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

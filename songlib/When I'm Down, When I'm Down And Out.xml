@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:47">
+  <properties>
+    <titles>
+      <title>When I'm Down, When I'm Down And Out</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I'm down, when I'm down and out, <br/>When my Heart is filled with fear and doubt,<br/>I just lift up my hands,<br/>And he lifts up my heart,<br/>And my troubles just all roll away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Roll them all away, Lord (4x)<br/>I just lift up my hands,<br/>And he lifts up my heart,<br/>And my troubles just all roll away.</lines>
+    </verse>
+  </lyrics>
+</song>

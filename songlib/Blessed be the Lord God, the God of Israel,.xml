@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:02">
+  <properties>
+    <titles>
+      <title>Blessed be the Lord God, the God of Israel,</title>
+    </titles>
+    <authors>
+      <author>Shirley Powell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the Lord God, the God of Israel,<br/>Blessed be the Lord God, the God of Israel,<br/>Who only doeth wondrous things,<br/>Who only doeth wondrous things,<br/>And blessed be His glorious name forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And let the whole earth be filled with His glory, Amen,<br/>Amen, Amen and Amen!<br/>Blessed be the Lord God, the God of Israel,<br/>Blessed be the Lord God, the God of Israel,<br/>Who only doeth wondrous things,<br/>Who only doeth wondrous things,<br/>And blessed be His glorious name forever.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:07">
+  <properties>
+    <titles>
+      <title>Precious Moments, Privileged People</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Precious moments, privileged people. <br/>Do you realize the good things God has done? <br/>Lift your hands up and shout AMEN, friends. <br/>To a thankful heart a double portion comes. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Precious moments, privileged people. <br/>Yes, I realize the good things God has done. <br/>So I'll lift my hands up and shout AMEN, friends. <br/>To a thankful heart a double portion comes. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Momentos preciosos,<br/>Que privilegio<br/>Al reconocer <br/>Lo bueno que es Dios</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alza tus manos<br/>Diciendo Amen<br/>El corazon agradecido<br/>Tendra doble porcion</lines>
+    </verse>
+  </lyrics>
+</song>

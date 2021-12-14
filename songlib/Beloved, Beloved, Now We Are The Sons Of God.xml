@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:59">
+  <properties>
+    <titles>
+      <title>Beloved, Beloved, Now We Are The Sons Of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beloved, beloved, now we are the sons of God<br/>And it doth not yet appear what we shall be.<br/>But we know when He shall appear.<br/>Yes, we know when He shall appear<br/>We shall be like Him.<br/>We shall be like Him, <br/>For we shall see Him as He is.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amados, amados, somos los hijos de Dios,<br/>Per aún no se ha manifestado lo que hemos de ser.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pero sabemos, que cuando Él venga,<br/>Pero sabemos, que cuando Él venga,<br/>Seremos semejantes. Seremos semejantes.<br/>Y le veremos tal como Él es.</lines>
+    </verse>
+  </lyrics>
+</song>

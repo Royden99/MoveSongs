@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:47">
+  <properties>
+    <titles>
+      <title>When I’m empty, then You will fill;</title>
+    </titles>
+    <authors>
+      <author>Nora Wirz</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I’m empty, then You will fill;<br/>When I’m broken, I’ll love Your will;<br/>Lord, I surrender to You my all,<br/>Lord, keep me hidden, be all in all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know not which way to go,<br/>I bow down before Your throne,<br/>Your righteousness is my desire.<br/>Lord, take this death – I choose Your life.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

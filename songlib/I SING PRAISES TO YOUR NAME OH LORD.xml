@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:26">
+  <properties>
+    <titles>
+      <title>I SING PRAISES TO YOUR NAME OH LORD</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I sing praises to your name, oh Lord, praises to your name oh Lord<br/>For your name is great and greatly to be praised<br/>I sing praises to your name, oh Lord, praises to your name oh Lord<br/>For your name is great and greatly to be praised<br/>(I sing worthy is your name...)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alabado sea tu nombre, oh Dios;<br/>Alabado sea tu nombre, oh Dios;<br/>Pues tu nombre es grande y digno de alabar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque digno es tu nombre, oh Dios;<br/>Digno es tu nombre, oh Dios….<br/>Pues tu nombre es grande y digno de alabar.</lines>
+    </verse>
+  </lyrics>
+</song>

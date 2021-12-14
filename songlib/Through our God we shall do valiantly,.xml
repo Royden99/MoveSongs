@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:16">
+  <properties>
+    <titles>
+      <title>Through our God we shall do valiantly,</title>
+    </titles>
+    <authors>
+      <author>Dale Garrett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through our God we shall do valiantly,<br/>It is He who will tread down our enemies.<br/>We'll sing and shout His victory,<br/>Christ is King!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For God has won the victory<br/>And set His people free,<br/>His word has slain the enemy,<br/>The earth shall stand and see that ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through our God we shall do valiantly,<br/>It is He who will tread down our enemies.<br/>We'll sing and shout His victory,<br/>Christ is King! Christ is King!<br/>Christ is King!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

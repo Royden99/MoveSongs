@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:13">
+  <properties>
+    <titles>
+      <title>Come, Come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, come, buy from Me,<br/>Gold refined by fire<br/>That you may be rich. (2x)<br/>Chorus:<br/>Behold, I stand at the door and known.<br/>Open, let Me in. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, come, buy white robes<br/>That the shame of your nakedness<br/>May be hid. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, come, buy from Me,<br/>Salve to anoint your eyes<br/>That you may see. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:10">
+  <properties>
+    <titles>
+      <title>This Is The Air I Breathe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the air I breathe<br/>This is the air I breathe<br/>Your Holy presence, living in me.<br/>This is my daily bread.<br/>This is my daily bread.<br/>Your very word, spoken to me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I, I'm desperate for You. And I, I'm lost without You. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu eres mi aire Señor<br/>Tu eres mi aire Señor<br/>Tu santa presencia viviendo en mi</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Tu eres mi pan de hoy/ (2)<br/>Tu santa palabra hablando en mi</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yo necesito de ti<br/>Yo perdido estoy, sin ti</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:09">
+  <properties>
+    <titles>
+      <title>John Was In The Spirit, On The Lord's Day</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>John was in the Spirit, on the Lord's day.<br/>He heard a voice from heaven.<br/>And this is what it said, I'm Alpha and Omega,<br/>The beginning and the end; behold I live for evermore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold I live; behold I live for evermore.<br/>Behold I live; behold I live for evermore.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:46">
+  <properties>
+    <titles>
+      <title>The King Is Coming</title>
+    </titles>
+    <authors>
+      <author>William and Gloria Gaither</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The marketplace is empty, no more traffic in the street<br/>All the builder's tools are silent, no more time to harvest wheat<br/>Busy housewives cease their labor, in the courtroom no debate<br/>Work on earth has been suspended as the King comes through the gate</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Happy faces line the hallway, those whose lives have been redeemed<br/>Broken homes He has mended, those from prison He has freed<br/>Little children and the aged hand in hand stand all a-glow<br/>Who were crippled, broken, ruined, clad in garments white as snow</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The King is coming, the King is coming<br/>I just heard the trumpet sounding and soon His face I'll see <br/>The King is coming, the King is coming<br/>Praise God, He's coming for me</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can hear the chariot's rumble, I can see the marching throng<br/>And the fury of God's trumpet spells the end of sin and wrong<br/>Regal rolls are now unfolded, heaven's grandstands all in place<br/>Heaven's choir is now assembled, start to sing 'Amazing Grace'</lines>
+    </verse>
+  </lyrics>
+</song>

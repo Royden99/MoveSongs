@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:20">
+  <properties>
+    <titles>
+      <title>I Know You Do What You Say!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I think of where You brought me from<br/>To where I am today,<br/>I stand amazed at the change.<br/>When I think of where I am and<br/>Where I might have been,<br/>I've got one thing to say,<br/>I know You do what You say!<br/>Chorus:<br/>I believe You when You say I'll rise again.<br/>I believe You when You tell me<br/>I'm free from sin.<br/>I believe You when You tell me that I'm<br/>Going all the way.<br/>'Cause I know<br/>You do what You say.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Today Your words became a light and<br/>Life unto me.<br/>When I remember where You brought me from<br/>And how You set me free.<br/>Now I know You'll take me to higher ground and<br/>Greater liberty.<br/>'Cause I know You do what You say.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The clouds are clearing and now I see a<br/>Brighter day ahead.<br/>I hear the words ringing in my ears,<br/>You'll rise from the dead.<br/>And I believe the words You speak to me 'cause<br/>You walk with me each day.<br/>And I know You do what You say.</lines>
+    </verse>
+  </lyrics>
+</song>

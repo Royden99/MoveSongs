@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:29">
+  <properties>
+    <titles>
+      <title>I Want To Live The Way He Wants Me To Live</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to live the way he wants me to live<br/>I want to give until there's just no more to give.<br/>I want to love, love till there's just no more love<br/>I could never, never out-love the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I found out that giving and loving brought pain<br/>And I promised I would never let it happen again<br/>But I found out that loving was well worth the risk<br/>And that even in losing you win.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He showed me that only in dying we live<br/>And He gave when it seemed there was nothing to give<br/>He loved when loving brought heartache and loss<br/>He forgave from an old rugged cross.</lines>
+    </verse>
+  </lyrics>
+</song>

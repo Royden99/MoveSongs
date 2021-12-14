@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:48">
+  <properties>
+    <titles>
+      <title>The Lord Inhabits The Praises Of His People</title>
+    </titles>
+    <authors>
+      <author>Chris Bowater</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord inhabits the praises of His people.<br/>So let's just praise Him.<br/>So let's just praise Him.<br/>The Lord inhabits the praises of His people.<br/>So let's just praise the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing hallelujah, sing hallelujah,<br/>Sing hallelujah, exalt ye the Lord.<br/>(Repeat.)</lines>
+    </verse>
+  </lyrics>
+</song>

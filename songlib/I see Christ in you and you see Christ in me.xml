@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:24">
+  <properties>
+    <titles>
+      <title>I see Christ in you and you see Christ in me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see Christ in you and you see Christ in me<br/>Praise the Lord, praise the Lord.(2)<br/>This is life,all other things are death,<br/>Praise the Lord, praise the Lord.(2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will pray for you and you will pray for me ... (2)<br/>God will hear us by His Holy Ghost ... (2)<br/>I will live in you and you will live in me ... (2)<br/>This is life, all other things are death ... (2)<br/>Perfection is my goal, my Jesus told me so...(2)<br/>Sons of God, lift your vision high ... (2)</lines>
+    </verse>
+  </lyrics>
+</song>

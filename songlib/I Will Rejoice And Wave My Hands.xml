@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:35">
+  <properties>
+    <titles>
+      <title>I Will Rejoice And Wave My Hands</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will rejoice and wave my hands, <br/>Giving the glory due my God. <br/>He has been merciful to me, </lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will proclaim His love forever,<br/>Proclaim His love forever.<br/>In my life He has done wondrous things! </lines>
+    </verse>
+    <verse name="v3">
+      <lines>In His love I've been born again. <br/>I will exalt His name forever and ever. Amen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Me gozare y mecere las manos,<br/>Dandole gloria a mi Dios,<br/>Conmigo ha sido misericordioso.<br/>Proclamare su amor por siempre <br/>Proclamare su amor por siempre </lines>
+    </verse>
+    <verse name="v5">
+      <lines>En mi vida El ha sido maravilloso<br/>En su amor naci otra vez.<br/>Exaltare su nombre para siempre<br/>Y siempre...!amen!</lines>
+    </verse>
+  </lyrics>
+</song>

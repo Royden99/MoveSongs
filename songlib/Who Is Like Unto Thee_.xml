@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:52">
+  <properties>
+    <titles>
+      <title>Who Is Like Unto Thee?</title>
+    </titles>
+    <authors>
+      <author>J H Montemayor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is like unto Thee, O Lord amongst the gods?<br/>Who is like unto Thee, glorious in holiness,<br/>Fearful in praises, doing wonders,<br/>Who is like unto The?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is none like Thee, ...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

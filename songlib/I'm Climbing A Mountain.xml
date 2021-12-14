@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:41">
+  <properties>
+    <titles>
+      <title>I'm Climbing A Mountain</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm climbing a mountain<br/>Just over the valley a mountain so high<br/>I can't see to the top I stood at the bottom<br/>And wondered if I could make it.<br/>Then something within me said, I'd have to try<br/>So mountain move over,<br/>'Cause I'm climbing to heaven.<br/>I know that the way is rough and hard,<br/>But I'll find the other.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm crossing a river, just over the valley,<br/>There's people who say<br/>It's too deep and too wide.<br/>But there is a Man<br/>They don't know, who will guide me.<br/>He's been there before<br/>So I'll follow behind.<br/>So river just bow your head,<br/>And let us cross over.<br/>'Cause I'm going to sing and dance on you,<br/>Till I reach the other side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The mountain and river, Are now far behind me.<br/>I know it's been hard<br/>But it seems like a dream.<br/>I'm feasting on ridges<br/>And drinking from fountains<br/>Of sweet waters that never run dry.<br/>So there is no mountain<br/>That's too high to cross over.<br/>And there is no river<br/>That's so deep you will drown.<br/>So lift up your eyes<br/>And look beyond the horizon<br/>And follow the morning star.<br/>And like me, you will find the other side.</lines>
+    </verse>
+  </lyrics>
+</song>

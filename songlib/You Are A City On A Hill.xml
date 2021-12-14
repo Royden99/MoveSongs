@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:02">
+  <properties>
+    <titles>
+      <title>You Are A City On A Hill</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are a city on a hill<br/>That cannot be hid;<br/>I see in you what God can really do.<br/>You are a perfect vessel in the Master's hand,<br/>And I praise God every time I think of you.</lines>
+    </verse>
+  </lyrics>
+</song>

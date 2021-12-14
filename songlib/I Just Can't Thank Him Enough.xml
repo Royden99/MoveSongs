@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:19">
+  <properties>
+    <titles>
+      <title>I Just Can't Thank Him Enough</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just can't thank Him enough,<br/>I just can't praise Him enough,<br/>I just can't tell the Lord<br/>How much He means to me:<br/>He brought me out of the miry clay,<br/>Set my feet on the Rock to stay.<br/>I just can't thank Him enough<br/>For what He's done for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have redemption through His blood,<br/>The forgiveness of sins,<br/>According to the riches of His grace.<br/>He hath abounded toward us<br/>In all wisdom and prudence,<br/>Making known to us the mystery of His will.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

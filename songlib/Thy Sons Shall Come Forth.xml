@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:17">
+  <properties>
+    <titles>
+      <title>Thy Sons Shall Come Forth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This our triumphant song:<br/>Father, thy sons shall come forth!<br/>This our groaning all day long:<br/>Father, thy sons shall come forth!<br/>The old age is dying;<br/>Thy Kingdom we see.<br/>Now cleanse us and clothe us<br/>To glorify Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

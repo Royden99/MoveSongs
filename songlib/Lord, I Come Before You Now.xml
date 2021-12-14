@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:28">
+  <properties>
+    <titles>
+      <title>Lord, I Come Before You Now</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I come before You now,<br/>To worship in your presence.<br/>Lord, I come before You now<br/>To worship at your throne.<br/>Jesus my king, Jesus my Lord<br/>You are the one that I adore.<br/>You are my King, You are my Lord</lines>
+    </verse>
+  </lyrics>
+</song>

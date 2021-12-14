@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:36">
+  <properties>
+    <titles>
+      <title>We Promise Today</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We promise now, before Your throne,<br/>A perfect vow of holiness unto you God.<br/>We promise now, before Your throne,<br/>A pact of servants who would live to praise You more.<br/>Lifting clean hands,<br/>Raising pure hearts unto You.<br/>I will guard my eyes;<br/>I will guard my hands;<br/>I will guard my heart and mind<br/>From everything evil,<br/>From everything vain,<br/>To be faithful forever God. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hacemos hoy ante tu altar<br/>Un compromiso de vivir en santidad<br/>Hacemos hoy ante tu altar<br/>Un pacto de hombres que te quieren alabar<br/>Con manos limpias <br/>Corazón puro para ti<br/>Cuidaré mis ojos<br/>Cuidaré mis manos<br/>Cuidaré mi corazón<br/>De todo lo malo<br/>De todo lo vano<br/>No te quiero fallar jamás</lines>
+    </verse>
+  </lyrics>
+</song>

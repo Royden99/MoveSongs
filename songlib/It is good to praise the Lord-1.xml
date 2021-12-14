@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:52">
+  <properties>
+    <titles>
+      <title>It is good to praise the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is good to praise the Lord<br/>And make music to His name, O Most High;<br/>It is good to praise the Lord<br/>And make music to His name, O Most High;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To proclaim His love in the morning<br/>And His faithfulness at night is my delight.<br/>It is good to praise the Lord<br/>And make music to His name, O Most High.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

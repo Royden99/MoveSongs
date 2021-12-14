@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:44">
+  <properties>
+    <titles>
+      <title>I'm Not My Own</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm not my own.<br/>He purchased me.<br/>I belong to you.<br/>You belong to me.<br/>We belong to Jesus,<br/>The Christ of God,<br/>And God is our God;<br/>We've been made one in Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo no soy mío<br/>sino soy comprado,<br/>te pertenezco a tí,<br/>me perteneces a mí,<br/>Pertenecemos a Cristo<br/>Cristo es de Dios<br/>y Dios es nuestro<br/>y somos uno en El.</lines>
+    </verse>
+  </lyrics>
+</song>

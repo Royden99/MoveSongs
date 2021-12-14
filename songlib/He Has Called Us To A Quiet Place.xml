@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:49">
+  <properties>
+    <titles>
+      <title>He Has Called Us To A Quiet Place</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He has called us to a secret place<br/>Separated from the rest of the world,<br/>He has called us to a silent place<br/>Where all other voices are stilled,<br/>He has called us to a peaceful place,<br/>And there on bended knee<br/>We will sit at the feet of Jesus,<br/>and say, 'O Lord, teach me'.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach me those things which have been hidden<br/>Since the beginning of the world,<br/>Teach me those things which man has longed to know<br/>And yet has never seen,<br/>Teach me those things which are Thy nature,<br/>Teach me those things which are Thy way,<br/>And draw me, Lord, oh draw me close to Thee!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

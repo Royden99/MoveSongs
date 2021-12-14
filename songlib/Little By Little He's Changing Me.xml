@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:24">
+  <properties>
+    <titles>
+      <title>Little By Little He's Changing Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Little by little He's changing me.<br/>Line upon line He is changing me.<br/>Precept on precept until I'm free,<br/>Jesus is changing me.<br/>Day by day He is changing me.<br/>In every way He is changing me.<br/>When I am yielded He sets me free.<br/>Jesus is changing me. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poco a poco, me cambia mí<br/>Línea tras línea me cambia a mí<br/>Precepto a precepto hasta ser feliz<br/>Cristo me cambia a mí</lines>
+    </verse>
+  </lyrics>
+</song>

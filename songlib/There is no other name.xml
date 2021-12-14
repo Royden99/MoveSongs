@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:01">
+  <properties>
+    <titles>
+      <title>There is no other name</title>
+    </titles>
+    <authors>
+      <author>Robin Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no other name<br/>By which men can be saved,<br/>There is no other name under heaven,<br/>There is rest for my soul<br/>And the wounded made whole<br/>And the captives set free and forgiven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Such love as I've never known<br/>I've found in the grace that flowed to me<br/>In my unrighteousness,<br/>This is why my heart and soul<br/>And tongue confess ...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:53">
+  <properties>
+    <titles>
+      <title>Who Shall Abide</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who shall abide in the day of his coming?<br/>Who shall stand before His throne?<br/>Who will be true and uphold His mighty name?<br/>Only those who have become bone of His bone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The judgments of the Lord surely come as a burning.<br/>Separating those who are willing to take His rod.<br/>Through chastening the Lord reveals to those who's hearts are yearning.<br/>That mighty is the man who knoweth his God.</lines>
+    </verse>
+  </lyrics>
+</song>

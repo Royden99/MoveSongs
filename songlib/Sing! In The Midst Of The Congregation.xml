@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:24">
+  <properties>
+    <titles>
+      <title>Sing! In The Midst Of The Congregation</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing! in the midst of the congregation<br/>Sing unto the Lord.<br/>Sing! in the midst of the congregation<br/>Sing unto the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He is great and greatly to be praised.<br/>He is great and greatly to be praised.<br/>He is great and greatly to be praised,<br/>So sing unto the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Substitute clap, shout, dance for sing.) </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cantad en la congregación cantad ante el Señor.<br/>Cantad en la congregación cantad ante el Señor.<br/>/Porque El es grande y digno de alabar/ (3)<br/>Cantemos al Señor.<br/>/Danzad en la congregación, dancemos al Señor/(2)<br/>/Porque El es grande y digno, pues danzad/ (3)<br/>danzad ante el Señor.<br/>Alabad…</lines>
+    </verse>
+  </lyrics>
+</song>

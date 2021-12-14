@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:36">
+  <properties>
+    <titles>
+      <title>Take The Sweetness Of Our Youth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take the sweetness of our youth,<br/>Blessed Lord we pray, help our lips<br/>To speak no evil, only what You say!<br/>Chorus:<br/>Let us consecrate our lives wholly unto You.<br/>Take the sweetness of our youth, Lord we give to You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never let us hate our brother, let us only love.<br/>Let the things we do and say, come from God above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There are so many ways we could go, it's hard<br/>To know the one, we only want to choose that way<br/>That leads us to Your Son.</lines>
+    </verse>
+  </lyrics>
+</song>

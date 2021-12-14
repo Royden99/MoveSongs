@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:56">
+  <properties>
+    <titles>
+      <title>Be Glad Then Ye Children Of Zion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be glad then ye children of Zion,<br/>And rejoice in the Lord your God.<br/>Be glad then ye children of Zion,<br/>And rejoice in the Lord your God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He has given the former rain,<br/>And caused it to come down,<br/>And the latter rain in the first month.<br/>With wheat the floor abounds.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The former rain came moderately,<br/>And did not satisfy.<br/>But the oil and the wine of the latter rain,<br/>It never shall run dry.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And I will restore to you the years<br/>That the locusts have destroyed.<br/>In plenty you'll be satisfied,<br/>And praise the Lord your God.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:07">
+  <properties>
+    <titles>
+      <title>Cause Me To Come To Thy River, Oh Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cause me to come to Thy river, Oh Lord<br/>Cause me to drink from Thy river, Oh Lord<br/>Cause me to live in Thy river, Oh Lord<br/>Cause me to come, cause me to drink, cause me to live. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cause me to come to Thy Spirit, Oh Lord<br/>Cause me to drink from Thy Spirit, Oh Lord<br/>Cause me to live in Thy Spirit, Oh Lord<br/>Cause me to come, cause me to drink, cause me to live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause me to come to Thy Word, Oh Lord<br/>Cause me to drink from Thy Word, Oh Lord<br/>Cause me to live in Thy Word, Oh Lord<br/>Cause me to come, cause me to drink, cause me to live. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come to the city where the Lamb is the Light.<br/>Come to the city of God.<br/>Come and partake of the river of life.<br/>Come to the city of God. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ven a la ciudad<br/>Donde el Cordero es la Luz<br/>Ven a la ciudad de Dios<br/>Toma del árbol y del río y vivirás<br/>Ven a la Ciudad de Dios</lines>
+    </verse>
+  </lyrics>
+</song>

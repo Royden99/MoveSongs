@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:34">
+  <properties>
+    <titles>
+      <title>Many a time I despaired for the end</title>
+    </titles>
+    <authors>
+      <author>Brian Colbert</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Many a time I despaired for the end<br/>To the broken hearts crying around me; and then,<br/>Weary, yet moving, but wondering when<br/>I'll touch them and all their hearts mend.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No more sorrow, no more wondering.<br/>Touch them, touch those<br/>Hearts that long to be free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though many times I just couldn't go on,<br/>I'd look for an answer to tell me I'm strong.<br/>Heal all my heartaches, don't leave them alone,<br/>Just touch them and call them Your own.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The world is out looking for what I have here:<br/>A treasure, unmeasured, I must draw them near.<br/>Silence is ending, the end of all fear,<br/>So touch them and cry till they hear.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

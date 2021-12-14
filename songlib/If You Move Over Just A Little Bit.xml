@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:40">
+  <properties>
+    <titles>
+      <title>If You Move Over Just A Little Bit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>If you move over just a little bit<br/>I'll lend you a helping hand<br/>Though the way seems rough and hard<br/>Together we can stand<br/>I know just what you've been going through<br/>I've been down that same old road<br/>If you move over just a little bit<br/>I'll help you carry that load.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I woke up this morning with heaven on my mind<br/>And glory down in my soul <br/>The Spirit of the Lord was filling me<br/>Making Hallelujahs roll<br/>I felt like I could just run and run<br/>For miles on down that road<br/>If you move over just a little bit<br/>I'll help you carry that load. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>If you'll let me help you carry that load<br/>Then you'll not have to stop<br/>Lift up your eyes and look ahead<br/>For there is a mountain top<br/>And as soon as you get on top of that hill<br/>You'll be so glad you tried<br/>We'll sing and shout together<br/>Coming down the other side. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know Satan's been talking to you<br/>He's been telling you a lie<br/>Telling you that you can't go on<br/>And there's no use to try<br/>I know just what He'd like to do<br/>He'd like to see you fall<br/>But if you move over just a little bit<br/>I'll help you carry that load.</lines>
+    </verse>
+  </lyrics>
+</song>

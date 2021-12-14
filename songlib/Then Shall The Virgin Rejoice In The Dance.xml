@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:58">
+  <properties>
+    <titles>
+      <title>Then Shall The Virgin Rejoice In The Dance</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Then shall the virgin rejoice in the dance,<br/>The young man and old man together.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La, la, la, la, ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will turn their mourning into joy.<br/>And I will comfort them.<br/>And I will make them rejoice, rejoice,<br/>Rejoice in their sorrow.<br/>And I will make them rejoice, rejoice,<br/>Rejoice in their sorrow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y entonces la virgen <br/>Se alegrará en la danza<br/>Los jóvenes y viejos juntamente</lines>
+    </verse>
+    <verse name="v5">
+      <lines>La, la, la, la, la, la….</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Cambiaré su lloro en gozo<br/>Y los consolaré  <br/>/y los alegraré, los alegraré,<br/>Los alegraré en su dolor/ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

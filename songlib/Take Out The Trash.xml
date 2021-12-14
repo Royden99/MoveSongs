@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:36">
+  <properties>
+    <titles>
+      <title>Take Out The Trash</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take out the trash,<br/>Remove the debris from me.<br/>Wash me down and clean me up,<br/>And make me what You want me to be.<br/>I know it might hurt<br/>When You remove all the dirt from me;<br/>But, whatever it takes, take out the trash in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The devil's dust, my soul began to rust.<br/>it put a lot of strain on me.<br/>But Jesus' love is like suds from above,<br/>He washed me completely clean.</lines>
+    </verse>
+  </lyrics>
+</song>

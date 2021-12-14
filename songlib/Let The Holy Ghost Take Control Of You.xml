@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:17">
+  <properties>
+    <titles>
+      <title>Let The Holy Ghost Take Control Of You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the Holy Ghost take control of you.<br/>Let the Holy Ghost take control of you.<br/>He will lead you; He will guide you<br/>In the way of the Lord.<br/>Let the Holy Ghost take control of you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He will heal your body;<br/>He will make you whole.<br/>He will save your spirit,<br/>And sanctify your soul.<br/>Make you a new creature forever more.<br/>Let the Holy Ghost take control of you.</lines>
+    </verse>
+  </lyrics>
+</song>

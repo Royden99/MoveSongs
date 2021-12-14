@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:04">
+  <properties>
+    <titles>
+      <title>Jesus shall take the highest honour,</title>
+    </titles>
+    <authors>
+      <author>Chris Bowater</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus shall take the highest honour,<br/>Jesus shall take the highest praise.<br/>Let all earth join heaven in exalting<br/>The Name which is above all other names.<br/>Let's bow the knee in humble adoration,<br/>For at His Name every knee must bow,<br/>Let every tongue confess<br/>He is Christ, God's only Son;<br/>Sovereign Lord, we give You glory now.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For all honour and blessing and power<br/>Belong to You, belong to You.<br/>All honour and blessing and power<br/>Belong to You, belong to You,<br/>Lord Jesus Christ, Son of the living God.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

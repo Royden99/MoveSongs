@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:25">
+  <properties>
+    <titles>
+      <title>Look around you and see what God has done,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Look around you and see what God has done,<br/>Glowing faces, brand new lives;<br/>The impossible made possible,<br/>Sick and broken made whole,<br/>We're a blessed people of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are conquerors, we're overcomers,<br/>We have power, God's power in our lives.<br/>We have new hope, we have a joy within,<br/>We are precious in God's sight!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

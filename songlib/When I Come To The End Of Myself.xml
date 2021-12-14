@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:46">
+  <properties>
+    <titles>
+      <title>When I Come To The End Of Myself</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I come to the end of myself<br/>O Lord, You're there!<br/>When I come to the end of my strength<br/>O Lord, You're there!<br/>When I come to the end of all that I am<br/>And fall on my face before Thee,<br/>I will always know that you will meet me there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I come to the end of myself<br/>O Lord, You're there!<br/>When I come to the end of my strength<br/>O Lord, You care!<br/>When I come to the end of all that I am<br/>And lay down my life before Thee,<br/>I will always know that you will change me there. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cuando llego al fin de mí<br/>Señor, tu estás<br/>Cuando llego al fin de mis fuerzas<br/>Señor, tu estás<br/>Cuando llego al fin de lo que yo soy<br/>Me arrodillo delante de ti<br/>Siempre sabré que tú estarás ahí.</lines>
+    </verse>
+  </lyrics>
+</song>

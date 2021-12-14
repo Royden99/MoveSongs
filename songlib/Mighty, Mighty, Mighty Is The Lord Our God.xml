@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:36">
+  <properties>
+    <titles>
+      <title>Mighty, Mighty, Mighty Is The Lord Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mighty, mighty, mighty is the Lord our God,<br/>Mighty, mighty, mighty is the Lord our God,<br/>Mighty, mighty, mighty is the Lord our God,<br/>Mighty in the midst of thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's mighty to save and mighty to heal,<br/>Mighty to strengthen and mighty to fill;<br/>Mighty, mighty, mighty is the Lord our God,<br/>Mighty in the midst of thee.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:07">
+  <properties>
+    <titles>
+      <title>Jesus, my Lord will love me forever,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my Lord will love me forever,<br/>From Him no pow'r of evil can sever,<br/>He gave His life to ransom my soul;<br/>Now I belong to Him;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus<br/>Now I belong to Jesus,<br/>Jesus belongs to me,<br/>Not for the years of time alone,<br/>But for eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Once I was lost in sin's degradation,<br/>Jesus came down to bring me salvation,<br/>Lifted me up from sorrow and shame,<br/>Now I belong to Him;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Chorus<br/>Now I belong to Jesus,<br/>Jesus belongs to me,<br/>Not for the years of time alone,<br/>But for eternity.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Joy floods my soul for Jesus has saved me,<br/>Freed me from sin that long had enslaved me<br/>His precious blood, He came to redeem,<br/>Now I belong to Him;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Chorus<br/>Now I belong to Jesus,<br/>Jesus belongs to me,<br/>Not for the years of time alone,<br/>But for eternity.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

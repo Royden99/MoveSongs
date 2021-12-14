@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:03">
+  <properties>
+    <titles>
+      <title>Hold On</title>
+    </titles>
+    <authors>
+      <author>Lori</author>
+      <author>Lori Petis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hold fast to your confidence<br/>From the beginning to the end.<br/>For the battle is not yours, but the battle is the Lord's.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the race is not to the swift,<br/>It is not to the strong.<br/>To your confidence, hold on.<br/>To your confidence, hold on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hold on to your confidence.<br/>Hold on to your confidence.<br/>For the battle is not yours,<br/>But the battle is the Lord's.<br/>To your confidence, hold on.</lines>
+    </verse>
+  </lyrics>
+</song>

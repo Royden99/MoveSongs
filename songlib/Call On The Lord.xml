@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:06">
+  <properties>
+    <titles>
+      <title>Call On The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Call on the Lord,<br/>He is faithful, He is true.<br/>Tell what He's done, <br/>of the great things He will do.<br/>Sing unto Him, giving glory to His name.<br/>No other one is worthy to proclaim.<br/>He is Lord.<br/>He is King.<br/>He is Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

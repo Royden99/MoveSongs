@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:01">
+  <properties>
+    <titles>
+      <title>There Is No Problem Too Big (He Will Carry You)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is no problem too big<br/>God cannot solve it<br/>There is no mountain too tall<br/>God cannot move it</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no storm too dark<br/>God cannot calm it<br/>There is no sorrow too deep<br/>He cannot soothe it</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh, if He carried the weight of the world upon His shoulders<br/>I know my brother that He will carry you<br/>Oh, if He carried the weight of the world upon His shoulders<br/>I know my sister that He will carry you</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He said, Come on to me all who are weary<br/>And I will give you rest, rest, rest, rest.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:58">
+  <properties>
+    <titles>
+      <title>He's All I Need, He's All I Need, Jesus Is All I Need</title>
+    </titles>
+    <authors>
+      <author>© 1972 Scripture in Song</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's all I need, He's all I need,<br/>Jesus is all I need.<br/>He's all I need, He's all I need,<br/>Jesus is all I need.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

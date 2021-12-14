@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:53">
+  <properties>
+    <titles>
+      <title>asd</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>For the battle is won<br/>By lifting Jesus<br/>Higher in the midst of thee,<br/>Joy, joy, joy is the victory.<br/>For the battle is won<br/>By lifting Jesus<br/>Higher in the midst of thee,<br/>Sing and shout the victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So let us sing, sing for joy,<br/>Sing, sing for joy,<br/>Sing, sing for joy,<br/>Sing for joy to the Lord, all the earth.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So let us ... clap, shout, dance, praise etc.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

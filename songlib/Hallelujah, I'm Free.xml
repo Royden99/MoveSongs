@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah, I'm Free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, I'm free; hallelujah, I'm free!<br/>No burden of sin is bothering me;<br/>For Jesus came, and He took my place<br/>On Calvary, praise God,<br/>Hallelujah, I'm free!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah we're one, hallelujah we're one,<br/>Glorifying the Father, magnifying the Son;<br/>It's Christ in us and we in Him,<br/>Till perfection's done, praise God,<br/>Hallelujah we're one!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah I see, hallelujah I see,<br/>A spiritual man in the midst of thee;<br/>From the dead He comes to raise up sons<br/>And set men free, praise God,<br/>Hallelujah I see.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hallelujah I hear, hallelujah I hear<br/>A trumpet sounding all around here;<br/>It's the word of God coming forth in truth,<br/>Hallelujah I hear, praise God,<br/>Hallelujah I hear.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

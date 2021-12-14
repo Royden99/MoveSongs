@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:25">
+  <properties>
+    <titles>
+      <title>Vamos A Alabar A Jehová</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines/>
+    </verse>
+    <verse name="v3">
+      <lines>/Vamos a alabar a Jehová<br/>Con panderos y danzas/ (2)<br/>/en la tierra se canta<br/>Y en el cielo se oye/ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Así, así, así, se alaba a Dios/ (2)<br/>/con mucha alegría y gozo/ (3)<br/>Así se alaba a Dios.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Con fuertes palmas todos…<br/>Levanten las manos todos…<br/>Con una sonrisa todos…</lines>
+    </verse>
+  </lyrics>
+</song>

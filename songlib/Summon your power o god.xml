@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:33">
+  <properties>
+    <titles>
+      <title>Summon your power o god</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Summon your power oh God<br/>Show forth your strength as you have done before (repeat)<br/>Oh God, oh God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>the chariots of God are tens of thousands (women)<br/>and thousands of thousands (men)  (repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Arise oh God and speak your word <br/>and all your enemies will scatter <br/>The sound of war shall soon be heard<br/>A shout, your warriors shall answer</lines>
+    </verse>
+  </lyrics>
+</song>

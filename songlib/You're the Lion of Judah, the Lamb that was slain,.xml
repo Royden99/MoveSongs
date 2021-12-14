@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:10">
+  <properties>
+    <titles>
+      <title>You're the Lion of Judah, the Lamb that was slain,</title>
+    </titles>
+    <authors>
+      <author>Robin Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You're the Lion of Judah, the Lamb that was slain,<br/>You ascended to heaven and ever more will reign;<br/>At the end of the age when the earth You reclaim,<br/>You will gather the nations before You.<br/>And the eyes of all men will be fixed on the Lamb<br/>Who was crucified,<br/>For with wisdom and mercy and justice You'll reign<br/>At Your Father's side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And the angels will cry: 'Hail the Lamb<br/>Who was slain for the world, Rule in power.'<br/>And the earth will reply: 'You shall reign<br/>As the King of all kings<br/>And the Lord of all lords.'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's a shield in our hand and a sword at our side,<br/>There's a fire in our spirits that cannot be denied;<br/>As the Father has told us for these You have died,<br/>For the nations that gather before You.<br/>And the ears of all men need to hear of the Lamb<br/>Who was crucified,<br/>Who descended to hell yet was raised up to reign<br/>At the Father's side.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

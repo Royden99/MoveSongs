@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:28">
+  <properties>
+    <titles>
+      <title>We Are A Fire</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In all the world there's never been a people<br/>Nor will there ever be again<br/>A mighty nation rising strong and noble<br/>To see an age brought to an end.<br/>Watch now as a people rise up to bring it on!<br/>Chorus:<br/>We are, we are a fire, led by our God's desire.<br/>We are more than a conqueror, a nation silent no longer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A captive land has always been around us,<br/>Ruled by the prince whose power is hate,<br/>But a kindled spark has burst within us,<br/>That can't be stopped, that cannot wait<br/>Watch now as a people rise up to bring it on!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Burning hearts are joining in together<br/>A force so strong all eyes will see<br/>When the last of the captive kingdom<br/>Is released from futility<br/>Watch now as a people rise up to bring it on!</lines>
+    </verse>
+  </lyrics>
+</song>

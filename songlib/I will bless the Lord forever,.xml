@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:31">
+  <properties>
+    <titles>
+      <title>I will bless the Lord forever,</title>
+    </titles>
+    <authors>
+      <author>© 2002 Hillsong Publishing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will bless the Lord forever,<br/>I will trust Him at all times,<br/>He has delivered me from all fear,<br/>He has set my feet upon a rock,<br/>I will not be moved,<br/>And I'll say of the Lord:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my shield, my strength<br/>My portion, Deliverer,<br/>My shelter, strong tower,<br/>My very present help in time of need.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Whom have I in heaven but You?<br/>There's none I desire beside You,<br/>You have made me glad,<br/>And I'll say of the Lord:<br/></lines>
+    </verse>
+  </lyrics>
+</song>

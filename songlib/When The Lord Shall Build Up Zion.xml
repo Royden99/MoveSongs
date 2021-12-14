@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:48">
+  <properties>
+    <titles>
+      <title>When The Lord Shall Build Up Zion</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the Lord shall build up Zion<br/>He shall appear in His glory,<br/>When the Lord shall build up Zion<br/>In His glory He shall appear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To hear the groaning of the prisoner,<br/>To loose those appointed unto death,<br/>To declare His name in Zion,<br/>And His praise in Jerusalem.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

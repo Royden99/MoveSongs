@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:40">
+  <properties>
+    <titles>
+      <title>We're A People That Love, Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're a people that love, love, love,<br/>Love one another. <br/>We're a people who care, care, care, <br/>For sisters and brothers. <br/>Through sunshine and rain, <br/>We will love just the same. <br/>We're a people who love, love, love, <br/>Love one another.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Una familia somos una que ama, <br/>Una familia que cuida a sus hermanos, </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amamos igual en la lluvia O el sol, <br/>Una familia somos una que ama.</lines>
+    </verse>
+  </lyrics>
+</song>

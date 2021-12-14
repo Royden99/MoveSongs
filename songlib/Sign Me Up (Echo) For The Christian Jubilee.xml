@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:22">
+  <properties>
+    <titles>
+      <title>Sign Me Up (Echo) For The Christian Jubilee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sign me up (echo) for the Christian Jubilee.<br/>Write my name (echo) on the roll.<br/>I've been changed (echo) since the Lord has lifted me.<br/>Lord, we want to be ready when Jesus comes.</lines>
+    </verse>
+  </lyrics>
+</song>

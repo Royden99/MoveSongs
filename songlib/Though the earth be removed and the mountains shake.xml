@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:15">
+  <properties>
+    <titles>
+      <title>Though the earth be removed and the mountains shake</title>
+    </titles>
+    <authors>
+      <author>David Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though the earth be removed and the mountains shake<br/>Though the waters roar and the nations rage<br/>I will stand still and see your salvation, Lord<br/>For you make all wars to cease</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord of Hosts is with us<br/>The Lord of Hosts is with us<br/>The God of Jacob is our refuge<br/>He's our very present help<br/>Be still and know the Great I AM<br/>The Lord of Hosts is with us<br/>Be still and know the Great I AM<br/>The Lord of Hosts is here.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

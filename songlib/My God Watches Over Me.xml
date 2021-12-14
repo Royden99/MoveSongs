@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:39">
+  <properties>
+    <titles>
+      <title>My God Watches Over Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My God watches over me;<br/>He sees me in my time of trouble,<br/>And He shelters me in the time of storms<br/>That try to cloud my way.<br/>He leads me through night, to show me the day,<br/>For You are Lord,<br/>For You are Lord,<br/>For You are Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are faithful; You are true,<br/>My Rock and my Salvation.<br/>Great and wondrous are Thy ways,<br/>Teach me Thy ways, O Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will walk in Thy truth,<br/>For You are God, (3x)<br/>And God alone.</lines>
+    </verse>
+  </lyrics>
+</song>

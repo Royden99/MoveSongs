@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:44">
+  <properties>
+    <titles>
+      <title>A Fountain Springing Up</title>
+    </titles>
+    <authors>
+      <author>Tom Grapengeter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A fountain springing up,<br/>A river flowing out,<br/>And whosoever will may come;<br/>The waters that I give you<br/>Are springing up within you,<br/>And you will never thirst again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A fountain springs up in the valley,<br/>Waters deep and crystal clear;<br/>My love for you is like that fountain<br/>And all my springs are in you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The fountain flows into the river,<br/>Living waters running deep;<br/>The current's moving is so strong<br/>That it will flow eternally.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And as we drink these living waters<br/>Our roots together go down deep,<br/>And we'll bear fruit in every season<br/>For we are planted like a tree.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

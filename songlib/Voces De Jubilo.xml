@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:26">
+  <properties>
+    <titles>
+      <title>Voces De Jubilo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Sal. 118:15 <br/>Voces de júbilo y de salvación, <br/>Hay en las tiendas, <br/>Las tiendas de los justos; <br/>/porque la diestra de Jehová <br/>La diestra de Jehová, hace proezas/ (2) <br/>/No moriré, sino que viviré/(2) <br/>/para poder contar, la gloria de Jehová/(2) </lines>
+    </verse>
+  </lyrics>
+</song>

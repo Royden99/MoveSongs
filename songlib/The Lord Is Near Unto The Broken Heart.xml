@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:49">
+  <properties>
+    <titles>
+      <title>The Lord Is Near Unto The Broken Heart</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is near unto,<br/>The Lord is near unto,<br/>The Lord is near unto,<br/>The broken spirit.<br/>And He shall heal,<br/>And He shall heal,<br/>And He shall heal,<br/>All those who seek Him with a contrite heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cry unto me in the hour of your anguish.<br/>So shall you be free, and shall honor Me.<br/>Cry unto me in the hour of your anguish.<br/>So shall you be free, and shall honor Me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cercano está Jehová<br/>Cercano está Jehová<br/>Cercano está Jehová<br/>a los quebrantados <br/>/y sana también/ (3)<br/>a los contritos del espíritu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Clama a mí en el día de la angustia<br/>Te libraré y tú me honrarás.</lines>
+    </verse>
+  </lyrics>
+</song>

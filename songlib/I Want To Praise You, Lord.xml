@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:29">
+  <properties>
+    <titles>
+      <title>I Want To Praise You, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to praise You Lord<br/>Much more than I do<br/>I want to praise You Lord<br/>Much more than I do<br/>Learn to seek Your face<br/>And the knowledge of Your grace<br/>I want to praise You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Birds in the sky<br/>Sing their songs to You<br/>Trees in the fields<br/>Lift their arms to You<br/>I want to sing<br/>I want to lift my arms to You</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:01">
+  <properties>
+    <titles>
+      <title>Him That Overcometh Will I Make</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Him that overcometh will I make, will I make,<br/>A pillar in the temple of my God. (Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And he shall go no more out,<br/>And I shall write upon him,<br/>The name of our God<br/>And the name of the city of our God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Him that overcometh will I make, will I make,<br/>A pillar in the temple of our God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Y al que venciere lo hare, lo hare,<br/>Columna en el templo de mi Dios (2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y nunca mas saldra y yo escribire,<br/>El nombre de mi Dios, El nombre de la ciudad de Dios </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Y al que venciere lo hare, lo hare,<br/>Columna en el templo de mi Dios</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:13">
+  <properties>
+    <titles>
+      <title>Rejoice, rejoice, Christ is in you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice, rejoice, Christ is in you<br/>The hope of glory in our hearts<br/>He lives, He lives, His breath is in you<br/>Arise a mighty army, we arise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now is the time for us to march upon the land<br/>Into our hands, He will give the ground we claim<br/>He rides in majesty to lead us into victory<br/>The world shall see that Christ is Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God is at work in us, His purpose to perform<br/>Building a kingdom of power not of words<br/>Where things impossible<br/>By faith shall be made possible<br/>Let’s give the glory to Him now</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Though we are weak His grace is everything we need<br/>We’re made of clay but this treasure is within<br/>He turns our weaknesses into His opportunities<br/>So that the glory goes to Him<br/></lines>
+    </verse>
+  </lyrics>
+</song>

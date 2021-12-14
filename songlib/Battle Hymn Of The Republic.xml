@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:56">
+  <properties>
+    <titles>
+      <title>Battle Hymn Of The Republic</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mine eyes have seen the glory<br/>Of the coming of the Lord.<br/>He is trampling out the vintage<br/>Where the grapes of wrath are stored.<br/>He has loosed the fateful lightning<br/>Of His terrible swift sword.<br/>His truth is marching on.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory, glory, Hallelujah!<br/>Glory, glory, Hallelujah!<br/>Glory, glory, Hallelujah!<br/>His truth is marching on.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He hath sounded forth the trumpet<br/>That shall never call retreat.<br/>He is sifting out the hearts of men<br/>Before His judgement seat.<br/>Oh! Be swift my soul to answer Him;<br/>Be jubilant my feet.<br/>Our God is marching on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the beauty of the lilies <br/>Christ was born across the sea.<br/>With a glory in His bosom<br/>That transfigures you and me.<br/>As He died to make men holy,<br/>Let us die to make men free.<br/>While God is marching on.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mine eyes have seen the glory<br/>Of the army of the Lord.<br/>It is flowing through the cities<br/>And the waste shall be restored.<br/>By the leading of the Spirit <br/>And their trusting in His Word,<br/>His army marches on.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Glory, glory, Hallelujah! (3x)<br/>His army marches on.</lines>
+    </verse>
+  </lyrics>
+</song>

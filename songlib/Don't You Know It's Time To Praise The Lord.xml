@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:19">
+  <properties>
+    <titles>
+      <title>Don't You Know It's Time To Praise The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't you know it's time to praise the Lord <br/>In the sanctuary of his Holy Spirit? <br/>So set your mind on Him, <br/>And let your praise begin.<br/>And the glory of the Lord will fill this place. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise the Lord. (men) <br/>Praise ye the Lord. (woman). <br/>(Repeat.)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He lives within the praises of His people.<br/>He loves to hear us call upon His name. <br/>So set your mind on Him, <br/>And let your praise begin. <br/>And the glory of the Lord will fill this place.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:47">
+  <properties>
+    <titles>
+      <title>When I'm In The Spirit, I Am The Voice Of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I'm in the spirit I am the voice of God,<br/>When I'm in the spirit heaven's courts are trod,<br/>When I'm in the spirit the city I can see,<br/>When I'm in the spirit He's glorified in me,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, help me walk in the spirit,<br/>Lord, help me talk in the spirit,<br/>Lord, help me live in the spirit,<br/>In that city that was built for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I'm in the spirit I'm in the corporate man,<br/>When I'm in the spirit I'm God's redemptive plan,<br/>When I'm in the spirit I'm a child of liberty,<br/>When I'm in the spirit I'll set creation free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When I'm in the spirit no enemy prevails,<br/>When I'm in the spirit I see right through the veil,<br/>When I'm in the spirit His purpose I fulfil,<br/>When I'm in the spirit I'll do His perfect will,<br/></lines>
+    </verse>
+  </lyrics>
+</song>

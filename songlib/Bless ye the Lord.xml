@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:01">
+  <properties>
+    <titles>
+      <title>Bless ye the Lord</title>
+    </titles>
+    <authors>
+      <author>Matthew Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless ye the Lord<br/>Ye who stand in the house of the Lord<br/>Bless ye the Lord<br/>Ye who stand by night<br/>Lift up your hands<br/>In the sanctuary<br/>The Lord who made the universe will bless you out of Zion<br/>Bless ye the Lord ye who serve the Lord<br/>Come on and bless the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord my life to You I bring<br/>A holy, pleasing offering<br/>Mind transformed and not conformed<br/>My heart is full and praise I sing<br/>Come on and...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For Zion's sake I lift my voice<br/>My heart is fixed, I've made my choice<br/>The King of glory shall come in<br/>Lift up your head and welcome Him<br/>Come on and...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

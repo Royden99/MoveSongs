@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:50">
+  <properties>
+    <titles>
+      <title>Amazing Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm forgiven,<br/>Because You were forsaken.<br/>I'm accepted.<br/>You were condemned.<br/>I'm alive and well,<br/>Your Spirit is within me.<br/>Because You died and rose again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amazing love,<br/>How can it be?<br/>That You my king should die for me?<br/>Amazing love,<br/>I know it's true.<br/>And it's my joy to honor You.<br/>In all I do,<br/>I honor You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm forgiven,<br/>Because You were forsaken.<br/>I'm accepted.<br/>You were condemned.<br/>I'm alive and well,<br/>Your Spirit is within me.<br/>Because You died and rose again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amazing love.<br/>How can it be?<br/>That You my kind should die for me?<br/>Amazing love,<br/>I know it's true.<br/>And it's my joy to honor You.<br/>In all I do,<br/>I honor You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:44">
+  <properties>
+    <titles>
+      <title>No Man Can Sing This Song That I Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No man can sing this song that I sing.<br/>No man can walk this narrow way,<br/>But those in the Christ caught up in glory<br/>The sing this song in a living way.<br/>I'll sing this song through the ages.<br/>I'll walk this way upon the earth,<br/>That those that see will magnify<br/>And those that hear will praise His name.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:54">
+  <properties>
+    <titles>
+      <title>Oh Lord, I'm Hungry</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Lord, I'm hungry and I want to be fed.<br/>Oh Lord, I'm hungry and I want to be fed.<br/>Oh Lord, I'm hungry and I want to be fed.<br/>Feed me all the days of my life<br/>Feed me, O Lord, feed me, O Lord,<br/>Feed me, O Lord, feed me, O Lord,<br/>Feed me all the days of my life.<br/>Feed me, O Lord, feed me, O Lord,<br/>Feed me, O Lord, feed me, O Lord,<br/>Feed me all the days of my life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lord, I am weary and want to be led. (3x)<br/>Lead me all the days of my life.<br/>Lead me, O Lord, lead me, O Lord.<br/>Lead me all the days of my life. (2x) </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh Señor,  tengo hambre y quiero comer.<br/>Oh Señor,  tengo hambre y quiero comer.<br/>Oh Señor,  tengo hambre y quiero comer.<br/>dame lo suficiente para mí.<br/>/Dámelo Señor, dámelo Señor <br/>dame lo suficiente para mí/(2) <br/>Oh Señor tengo sed y quiero beber,...</lines>
+    </verse>
+  </lyrics>
+</song>

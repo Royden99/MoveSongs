@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:07">
+  <properties>
+    <titles>
+      <title>Cause Me To Come</title>
+    </titles>
+    <authors>
+      <author>Edward R. Miller</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cause me to come to Thy river, O Lord,<br/>Cause me to come to Thy river, O Lord,<br/>Cause me to come to Thy river, O Lord,<br/>Cause me to come, cause me to drink,<br/>Cause me to live.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cause me to drink at Thy river, O Lord...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cause me to live in Thy river, O Lord...<br/></lines>
+    </verse>
+  </lyrics>
+</song>
