@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:03">
+  <properties>
+    <titles>
+      <title>Jesus Is My Standard Of Living</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus is my standard of living,<br/>I have riches here.<br/>I'm walking in the love of my Lord,<br/>While on this earthy sphere.<br/>I'm content to lay my treasures on the other side.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus in my standard of living.<br/>He's the pattern Son, I'm longing to be like.<br/>He's making me into His image and likeness<br/>So I can be as Christ to the world.</lines>
+    </verse>
+  </lyrics>
+</song>

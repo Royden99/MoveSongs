@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:35">
+  <properties>
+    <titles>
+      <title>I will sacrifice to You with the voice of thanksgiving</title>
+    </titles>
+    <authors>
+      <author>David Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sacrifice to You with the voice of thanksgiving<br/>I will pay what I have vowed<br/>Salvation is of the Lord<br/>When my soul fainted within me<br/>I remembered the LORD:<br/>And my prayer came unto You<br/>In Your holy temple</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are a gracious God<br/>And full of mercy<br/>Slow to anger, quick to bless<br/>Only good and of great kindness<br/>You are a gracious God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The earth is the Lord's and the fullness thereof<br/>The heavens declare Your glory<br/>Who is like unto You, Oh Lord above all?<br/>Yet You are mindful of me<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:45">
+  <properties>
+    <titles>
+      <title>A ti sea la Gloria</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No existen mas motivos Senor<br/>venimos hoy rendidos a Ti<br/>la unica razon de nuestra adoracion<br/>hoy eres tu<br/>elevamos olor fragante para ti,<br/>para ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>CORO<br/>Solo a Ti sea la gloria Senor<br/>la alabanza y la adoracion<br/>toda rodilla se doble<br/>ante el unico Rey y Dios<br/>Solo a Ti sea la gloria Senor<br/>la alabanza y la adoracion<br/>que toda lengua confiese<br/>que tu eres el Senor.</lines>
+    </verse>
+  </lyrics>
+</song>

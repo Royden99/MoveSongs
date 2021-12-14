@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:34">
+  <properties>
+    <titles>
+      <title>I will open the windows of heaven</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm depending on you, you're depending on me,<br/>        For in us is life eternally.<br/>        For the strongest of all is he who is weak.<br/>        I'm depending on you, you're depending on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come all ye weak and weary hearted, <br/>Listen to the Word of God.<br/>He has promised to sustain you<br/>Every moment by His love. <br/>Come all ye weak and weary hearted,<br/>Listen to the Word of God.<br/>He has promised to sustain you by His love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will open the windows of heaven<br/>And will pour you out a blessing, <br/>And will pour you out a blessing, <br/>All ye servants of the Lord. <br/>And I will open the windows of heaven <br/>And I will pour you out a blessing (2x) <br/>By my love.</lines>
+    </verse>
+  </lyrics>
+</song>

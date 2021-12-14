@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:51">
+  <properties>
+    <titles>
+      <title>Are You Ready?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's only one Lord, and there's only one light.<br/>There's only one way, that's to pay the price.<br/>Are you ready? Are you ready?<br/>To pay the price to walk in life.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's only one joy in this whole wide world.<br/>That's to know the Lord, and to walk in His word.<br/>Are you ready? Are you ready?<br/>To pay the price to walk in life.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's no time to lose, for the hour is late.<br/>The Day of the Lord is approaching and there's no time to waste.<br/>Are you ready? Are you ready?<br/>To pay the price to walk in life. </lines>
+    </verse>
+  </lyrics>
+</song>

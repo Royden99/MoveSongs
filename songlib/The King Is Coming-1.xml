@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:46">
+  <properties>
+    <titles>
+      <title>The King Is Coming</title>
+    </titles>
+    <authors>
+      <author>William and Gloria Gaither</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The King is coming, the King is coming,<br/>I can hear the trumpet sounding,<br/>And His face I now can see.<br/>The King is coming, the King is coming,<br/>Praise the Lord, He's coming in me!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The marketplace is empty,<br/>No more traffic in the streets,<br/>All the builders' tools are silent,<br/>No more time to harvest wheat;<br/>Busy housewives cease their labours,<br/>In the courtroom, no debate,<br/>Work on earth is all suspended<br/>As the King comes through the gate.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Happy faces line the hallways,<br/>Those whose lives have been redeemed,<br/>Broken homes that He has mended,<br/>Those from prison He has freed;<br/>Little children and the aged<br/>Hand in hand stand all aglow,<br/>Who were crippled, broken, ruined,<br/>Clad in garments white as snow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I can hear the chariots rumble,<br/>I can see the marching throng,<br/>The flurry of God's trumpets<br/>Spells the end of sin and wrong:<br/>Regal robes are now unfolding,<br/>Heaven's grandstand's all in place,<br/>Heaven's choir now assembled,<br/>Start to sing "Amazing Grace!"<br/></lines>
+    </verse>
+  </lyrics>
+</song>

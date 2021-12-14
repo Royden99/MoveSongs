@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:12">
+  <properties>
+    <titles>
+      <title>I Am Free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Through You the blind will see.<br/>Through You the mute will speak.<br/>Through You all hearts will pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Through You the dead will rise,<br/>Through You the darkness flees,<br/>Through You my heart screams<br/>I am free.<br/>I am free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I am free to run.(echo)<br/>I am free to dance.(echo)<br/>And I am free to live for You.(echo)</lines>
+    </verse>
+  </lyrics>
+</song>

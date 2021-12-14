@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:59">
+  <properties>
+    <titles>
+      <title>He's Setting Me Free, With The Holy Ghost Power</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's setting me free, with the Holy Ghost power. <br/>He's setting me free, this very hour. <br/>He's flooding my soul. <br/>He's making me whole. <br/>He's setting me free, free, free, <br/>With the Holy Ghost power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's giving me life with the Holy Ghost power, etc...<br/>He's killing my flesh with the Holy Ghost power, etc...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Me libra a mi, el poder del Señor. <br/>Me libra a mi, de todo temor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Libera mi alma, mi espiritu calma.</lines>
+    </verse>
+  </lyrics>
+</song>

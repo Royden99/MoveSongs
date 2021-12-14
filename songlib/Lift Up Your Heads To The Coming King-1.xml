@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:23">
+  <properties>
+    <titles>
+      <title>Lift Up Your Heads To The Coming King</title>
+    </titles>
+    <authors>
+      <author>Steve Fry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lift up your heads to the coming king.<br/>Bow before Him and adore Him.<br/>Sing, O, sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To His majesty let your praises be<br/>Pure and holy, giving glory<br/>To the King of kings.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:16">
+  <properties>
+    <titles>
+      <title>Let Isreal be glad in her Maker</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let Israel be glad in her Maker,<br/>Let the sons of Zion rejoice in their King,<br/>Let us praise His name with dancing,<br/>Let us praise Him as we sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us praise His name with dancing,<br/>Let us praise Him as we sing,<br/>For the Lord has His joy in His people,<br/>And we have our joy in our King.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

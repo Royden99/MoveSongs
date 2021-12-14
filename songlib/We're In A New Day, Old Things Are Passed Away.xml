@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:41">
+  <properties>
+    <titles>
+      <title>We're In A New Day, Old Things Are Passed Away</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're in a new day, old things are passed away<br/>Behold all things are new<br/>Since we're in this glorious way<br/>He opened up my blinded eyes<br/>Gave me life abundantly <br/>We're in a new day, we've been set free.</lines>
+    </verse>
+  </lyrics>
+</song>

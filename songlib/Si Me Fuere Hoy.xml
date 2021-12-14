@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:21">
+  <properties>
+    <titles>
+      <title>Si Me Fuere Hoy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Si me fuere hoy, volveré otra vez/(3) <br/>Jesús dijo volveré otra vez. <br/>Y si puedes oir la trompeta suena ya <br/>El ha vuelto ya y en las nubes vive ya <br/>Y si puedes oir la trompeta suena ya <br/>Jesús dijo volveré otra vez </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:33">
+  <properties>
+    <titles>
+      <title>We Bring Sacrifice Of Praise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bring sacrifice of praise <br/>Into the house of the Lord (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we offer unto You, <br/>Sacrifices of thanksgiving <br/>And we offer unto You, sacrifices of joy. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Traemos sacrificio de alabanza<br/>A la casa del Señor/ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y ofrecemos ante Cristo<br/>Sacrificio de gratitud<br/>Y ofrecemos ante ti<br/>Sacrificio de amor.</lines>
+    </verse>
+  </lyrics>
+</song>

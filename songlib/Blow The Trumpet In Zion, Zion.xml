@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:03">
+  <properties>
+    <titles>
+      <title>Blow The Trumpet In Zion, Zion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blow the trumpet in Zion, Zion.<br/>Sound the alarm in my holy mountain.<br/>Blow the trumpet in Zion, Zion.<br/>Sound the alarm.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They rush on the city; they run on the wall.<br/>Great is the army that carries out His word.<br/>They rush on the city; they run on the wall.<br/>Great is the army that carries out His word.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord utters His voice, before His army.<br/>The Lord utters His voice, before His army.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que resuenen en Sión trompetas.<br/>Suene alarma en el monte santo.<br/>Que resuenen en Sión trompetas.<br/>Suenen en Sión.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Arrasan los muros; toman la ciudad,<br/>Grandiosas tropas llevando Su voz.<br/>Arrasan los muros; toman la ciudad,<br/>Grandiosas tropas llevando Su voz.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dios alza Su voz ante Su ejército.<br/>Dios alza Su voz ante Su ejército.</lines>
+    </verse>
+  </lyrics>
+</song>

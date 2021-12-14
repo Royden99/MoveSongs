@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:37">
+  <properties>
+    <titles>
+      <title>We Shall Lift Up Our Voice</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We shall lift up our voice.<br/>We shall cry with joy.<br/>We shall shout aloud and be free.<br/>We shall glorify the name of the Lord.<br/>We're the blood-bought,<br/>The church, the redeemed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, lift up your voice,<br/>Ye islands of the sea.<br/>Every created being, fold your wings.<br/>There's a new song being sung with a new melody.<br/>We're the blood-bought,<br/>The church, the redeemed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we are in that army of the Lord.<br/>We're being washed in the blood,<br/>And we are going forth.<br/>There's nothing that can stop<br/>This mighty moving force<br/>With a shout of praise and a two-edged sword.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every strong-hold of bondage<br/>Must fall beneath our feet.<br/>Every prisoner held captive must be free.<br/>Our deliverance has come<br/>Through the power of the Son.<br/>We're the blood-bought,<br/>The church, the redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

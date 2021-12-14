@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:53">
+  <properties>
+    <titles>
+      <title>It Takes Time For A Little Seed To Grow</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It takes time for a little seed to grow.<br/>It takes time for a little tree to grow.<br/>It takes time for the fruit to come forth.<br/>It takes time; it takes a little time for life to grow.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Spend a little time in fellowship with the Lord.<br/>Spend a little time in prayer on your knees.<br/>Spend a little time in reading God's Word.<br/>It takes time; it takes a little time for life to grow.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And in God's time the little seed will grow.<br/>And in God's time the little tree will grow.<br/>And in God's time the fruit will come forth.<br/>And God's time, God's perfect time, life will come forth.</lines>
+    </verse>
+  </lyrics>
+</song>

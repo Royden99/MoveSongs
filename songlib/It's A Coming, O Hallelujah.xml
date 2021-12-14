@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:53">
+  <properties>
+    <titles>
+      <title>It's A Coming, O Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's a coming, O hallelujah,<br/>The ark is coming down the road.<br/>It's a coming, O hallelujah,<br/>The ark is coming down the road.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I do declare without a doubt<br/>The ark is coming down the road.<br/>God's people have a right to dance and shout.<br/>The ark is coming down the road.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>David danced before the Lord.<br/>The ark is coming down the road.<br/>Michal despised him in her heart,<br/>The ark is coming down the road.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ahí viene, aleluya!<br/>El arca llegando está.<br/>Ahí viene, aleluya!<br/>El arca llegando está.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Declaro yo sin duda cualqiera que<br/>El arca llegando está.<br/>Vamos a danzar y a regocijar.<br/>El arca llegando está.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>David danzó delante de Dios.<br/>El arca llegando está.<br/>Y Mical lo despreció.<br/>El arca llegando está.</lines>
+    </verse>
+  </lyrics>
+</song>

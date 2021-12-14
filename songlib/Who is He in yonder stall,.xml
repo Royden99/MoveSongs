@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:52">
+  <properties>
+    <titles>
+      <title>Who is He in yonder stall,</title>
+    </titles>
+    <authors>
+      <author>B.R.Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who is He in yonder stall,<br/>At whose feet the shepherds fall?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Tis the Lord!  O wondrous story!<br/>'Tis the Lord!  The King of glory!<br/>At His feet we humbly fall.<br/>Crown Him!  Crown Him, Lord of all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is He to Whom they bring<br/>All the sick and sorrowing?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Who is He that stands and weeps<br/>At the grave where Laz'rus sleeps?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Who is He on yonder tree<br/>Dies in grief and agony?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Who is He Who from the grave<br/>Comes to rescue, help and save?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Who is He Who from His throne<br/>Comes to make the world His own?<br/></lines>
+    </verse>
+  </lyrics>
+</song>

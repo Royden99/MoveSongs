@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:54">
+  <properties>
+    <titles>
+      <title>The Rocks Shall Not Cry Out In My Place</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The rocks shall not cry out in my place.<br/>As long as I have breath to lift my voice and give Him praise,<br/>As long as I can make a joyful noise,<br/>I'll sing and shout.<br/>And never let the rocks cry out.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For joy is mine; I will lift my voice.<br/>I've got every reason under heaven to rejoice.<br/>The God I serve is great, exalted high above the earth.<br/>All creation shall declare it, but I've got to praise Him first.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, praise to God; glory to His name.<br/>He is so far above our ways that I cannot explain.<br/>If He gave all His love to me, unfailing and unearned,<br/>The rocks are going to praise Him,<br/>But they'll have to wait their turn.</lines>
+    </verse>
+  </lyrics>
+</song>

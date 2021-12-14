@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:04">
+  <properties>
+    <titles>
+      <title>Brightest and best of the sons of the morning,</title>
+    </titles>
+    <authors>
+      <author>R. Heber</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brightest and best of the sons of the morning,<br/>Dawn on our darkness and lend us Thine aid;<br/>Star of the East, the horizon adorning,<br/>Guide where our infant Redeemer is laid.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cold on His cradle the dewdrops are shining;<br/>Low lies His head with the beasts of the stall;<br/>Angels adore Him in slumber reclining,<br/>Maker and Monarch and Saviour of all!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Say, shall we yield Him, in costly devotion,<br/>Odours of Edom and offerings divine?<br/>Gems of the mountain and pearls of the ocean,<br/>Myrrh from the forest, or gold from the mine?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vainly we offer each ample oblation,<br/>Vainly with gifts would His favour secure;<br/>Richer by far is the heart's adoration,<br/>Dearer to God are the prayers of the poor.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

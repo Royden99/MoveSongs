@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:05">
+  <properties>
+    <titles>
+      <title>Praise To The King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise to the King<br/>Who reigns in righteousness.<br/>Glory to the Master, seated on the throne.<br/>Worthy Master, worthy of honor,<br/>Holy, holy, precious and mighty is He.</lines>
+    </verse>
+  </lyrics>
+</song>

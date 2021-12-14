@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:00">
+  <properties>
+    <titles>
+      <title>Higher Lord, Take Us Higher Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Higher Lord, take us higher Lord; <br/>That we might see Thy face.<br/>Receive the fullness of Thy grace.<br/>That we might rest in Thee, and set creation free. <br/>O Lord, take us higher.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Deeper Lord, take us deeper Lord<br/>That we might see Thy face.<br/>Receive the fullness of Thy grace.<br/>That we might rest in Thee, and set creation free. <br/>O Lord, take us deeper</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Llevanos, mas alto Dios. <br/>Tu rostro quiero ver. <br/>Eceremos <br/>Plena recibir. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Para en ti descansar, la creacion librar.<br/>Oh Señor, llevanos, mas alto.</lines>
+    </verse>
+  </lyrics>
+</song>

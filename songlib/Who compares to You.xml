@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:52">
+  <properties>
+    <titles>
+      <title>Who compares to You</title>
+    </titles>
+    <authors>
+      <author>Darlene Zschech</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who compares to You<br/>Who set the stars in their place<br/>You who calmed the raging seas<br/>That came crashing over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who compares to You<br/>You who brings the morning light<br/>The hope of all the earth<br/>Is rest assured in Your great love</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are magnificent, eternally<br/>Wonderful, glorious, Jesus<br/>No one ever will compare<br/>To You Jesus</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Where the evening fades<br/>You call forth songs of joy<br/>As the morning wakes<br/>We Your children give You praise<br/></lines>
+    </verse>
+  </lyrics>
+</song>

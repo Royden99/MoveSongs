@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:48">
+  <properties>
+    <titles>
+      <title>In The Heat Of The Battle</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the heat of the battle, when you're tired and worn.<br/>Seems like you've been defeated; wounded, battered and torn.<br/>In the midst of confusion; in the midst of despair.<br/>When all hope you are losing, remember God is there.<br/>The Lord is always there!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's always there, He's always there to uphold you.<br/>To heal the pain, bring hope again, to your soul.<br/>Lord of Lords, King of Kings. He'll bear you up on eagles' wings.<br/>He's always there, He's always there, you know.<br/>So in the heat of the battle, don't let go!</lines>
+    </verse>
+  </lyrics>
+</song>

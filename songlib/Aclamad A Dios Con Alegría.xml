@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:46">
+  <properties>
+    <titles>
+      <title>Aclamad A Dios Con Alegría</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Aclamad a Dios con alegría toda la tierra <br/>Cantad la gloria de su nombre <br/>Poned la gloria en su alabanza <br/>Decid a Dios. <br/>/¡Cuán asombrosas son tus obras!/ (3) <br/>/Toda la tierra te adorará <br/>Toda la tierra cante a su nombre./ (2) </lines>
+    </verse>
+  </lyrics>
+</song>

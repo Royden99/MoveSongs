@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:18">
+  <properties>
+    <titles>
+      <title>Let The Temple Be Filled With His Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the temple be filled with His glory.<br/>And let the courts be filled with His praise.<br/>And let us worship the Lord<br/>In the Holy of Holies.<br/>Zion rejoices again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que el templo se llene de su gloria <br/>Que el atrio se llene de alabanza <br/>Adorémosle en el lugar santísimo, santísimo <br/>Sión se regocija otra vez. </lines>
+    </verse>
+  </lyrics>
+</song>

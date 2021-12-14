@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:54">
+  <properties>
+    <titles>
+      <title>Oh The Deep, Deep Love Of Jesus</title>
+    </titles>
+    <authors>
+      <author>Samuel T. Francis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh the deep, deep love of Jesus,<br/>Vast, unmeasured, boundless, free;<br/>Rolling as a might ocean<br/>In its fullness over me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Underneath me, all around me,<br/>Is the current of Thy love<br/>Leading onward, leading homeward<br/>To my glorious rest above.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh the deep, deep love of Jesus,<br/>Spread His praise from shore to shore;<br/>How He loveth, ever loveth,<br/>Changeth never, nevermore;<br/>How He watches o'er His loved ones,<br/>Died to call them all His own;<br/>How for them He intercedeth;<br/>Watcheth o'er them from the throne.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh the deep, deep love of Jesus,<br/>Love of ev'ry love the best;<br/>'Tis an ocean vast of blessing,<br/>'Tis a haven sweet of rest,<br/>Oh the deep, deep love of Jesus,<br/>'Tis a Heav'n of Heav'ns to me;<br/>And it lifts me up to glory,<br/>For it lifts me up to Thee!</lines>
+    </verse>
+  </lyrics>
+</song>

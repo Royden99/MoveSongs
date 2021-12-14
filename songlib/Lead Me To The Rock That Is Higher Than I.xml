@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:14">
+  <properties>
+    <titles>
+      <title>Lead Me To The Rock That Is Higher Than I</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead me to the Rock that is higher than I,<br/>For You have been my refuge, and I can trust in You.<br/>Unfailing fortress in the midst of all my battles,<br/>Lead me to the Rock that is higher than I. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Llévame a la roca más alta que yo<br/>Tú has sido mi refugio y en ti confío yo<br/>Torre fuerte has sido delante del enemigo<br/>Llévame a la roca más alta que yo.</lines>
+    </verse>
+  </lyrics>
+</song>

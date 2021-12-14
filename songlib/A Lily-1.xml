@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:44">
+  <properties>
+    <titles>
+      <title>A Lily</title>
+    </titles>
+    <authors>
+      <author>Diana Harper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A lily,<br/>In the midst of thorns.<br/>The King of Kings,<br/>Adorns you.<br/>Your feet are cleansed,<br/>As you walk,<br/>Trusting Him<br/>Who found you.<br/>Chorus:<br/>You are called<br/>To do His will.<br/>In the land<br/>Beneath your feet.<br/>The Lord delights<br/>In this land.<br/>It is called,<br/>Married.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A lamb,<br/>In the midst of wolves.<br/>The Lord of Lords,<br/>Surrounds you.<br/>Your feet are cleansed,<br/>As you walk,<br/>Trusting Him<br/>Who found you.</lines>
+    </verse>
+  </lyrics>
+</song>

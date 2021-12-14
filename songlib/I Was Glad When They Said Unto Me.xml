@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:30">
+  <properties>
+    <titles>
+      <title>I Was Glad When They Said Unto Me</title>
+    </titles>
+    <authors>
+      <author>David Austin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was glad when they said unto me, <br/>Let's go up to the house of the Lord. <br/>I was glad when they said unto me, <br/>Let's go up to the house of the Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>My feet shall stand within Thy gates, <br/>Within Thy gates, O Jerusalem.<br/>My feet shall stand within Thy gates, <br/>Within Thy gates, O Jerusalem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Me alegre cuando me dijeron, <br/>Vamos todos a la casa de Jehova (2x) </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mis pies entraran dentro de tus puertas, <br/>Dentro de tus puertas, O Jerusalen (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

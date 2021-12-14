@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:04">
+  <properties>
+    <titles>
+      <title>HOLY HOLY HOLY ARE YOU LORD</title>
+    </titles>
+    <authors>
+      <author>Terry MacAlmon © 1997 HeavenSong Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you hear the sound of heaven,like the sound of many waters?<br/>It's the sound of worship coming from the throne.<br/>There are cries of adoration as men from every nation<br/>Lift their voice to make His glory known, singing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, holy, holy are You, Lord,<br/>Holy, holy, holy are You, Lord,<br/>The elders and angels bow,<br/>The redeemed worship You now,<br/>Holy, holy, holy are You, Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

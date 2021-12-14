@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:05">
+  <properties>
+    <titles>
+      <title>Bring It On!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To all the wearied hearts we bring you an answer,<br/>Yes, a nation can be born in a day.<br/>Know, little flock, that it's our Master's good pleasure,<br/>That by all means we can create a new day.<br/>Chorus:<br/>BRING IT ON! Raise a war cry that the world's gotta hear.<br/>BRING IT ON! Rise up the trumpet's sounding is clear<br/>BRING IT ON! Well done, He will cry in that hour<br/>BRING IT ON! As we rise up, see the kingdom of power.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To all the fearful hearts we bring you an answer,<br/>Our King is with us and He will not delay.<br/>To bring about a mighty Kingdom of treasure,<br/>To conquer all things that may stand in our way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To all the faithful hearts we bring you an answer,<br/>Now is the time to march in battle array.<br/>The land is ours, it is a gift without measure,<br/>Now is the time to come together and say:</lines>
+    </verse>
+  </lyrics>
+</song>

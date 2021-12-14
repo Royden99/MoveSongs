@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:04">
+  <properties>
+    <titles>
+      <title>You Are My Strength, You Are My Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are my strength, You are my song.<br/>When I am weak, You are my rock,<br/>You make me strong.<br/>You always give Your love to me,<br/>And in Your love, I will find all I need.</lines>
+    </verse>
+  </lyrics>
+</song>

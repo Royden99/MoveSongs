@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:03">
+  <properties>
+    <titles>
+      <title>Praise Is The Power Of Heaven</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise is the power of heaven. <br/>Praise is the power of heaven.<br/>Praise is the power that opens the door <br/>To the King, the King of kings. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>The powers of darkness shall flee, <br/>As we praise and we magnify Thee.<br/>Praise is the power that opens the door <br/>To the King, the King of kings.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>La alabanza es el poder del cielo (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>La alabanza es el poder, que abre las puertas<br/>Al Rey al Rey de reyes</lines>
+    </verse>
+    <verse name="v5">
+      <lines>El poder de las tinieblas huira<br/>Al adorarle y magnificarle</lines>
+    </verse>
+    <verse name="v6">
+      <lines>La alabanza es el poder, <br/>Que abre las puertas<br/>Al Rey al Rey de reyes</lines>
+    </verse>
+  </lyrics>
+</song>

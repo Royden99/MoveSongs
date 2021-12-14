@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:34">
+  <properties>
+    <titles>
+      <title>Sweet Honey In The Rock; Sweet Honey In The Rock</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sweet honey in the Rock; sweet honey in the Rock<br/>Just like sweet honey in the Rock.<br/>Come taste and see what the Lord has done<br/>For it's just like sweet honey in the Rock.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I heard the voice of Jesus say, Come unto me and rest.<br/>Lie down, lie down, O weary one, your head upon my breast.<br/>I came to Jesus just as I was; I was weary, worn, and sad.<br/>I found in Him a resting place, and He has made me glad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amazing grace, how sweet the sound<br/>That saved a wretch like me.<br/>I found in Him a higher ground,<br/>And He has made me glad.</lines>
+    </verse>
+  </lyrics>
+</song>

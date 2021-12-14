@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:38">
+  <properties>
+    <titles>
+      <title>My Chains are Gone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amazing grace, how sweet the sound <br/>           That saved a wretch like me, I once was lost, <br/>           But now am found, was blind but now I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas grace that taught my heart to fear<br/>           And grace my fears relieved<br/>           How precious did that grace appear<br/>           The hour I first believed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My chains are gone, I've been set free<br/>My God, My Saviour has ransomed me<br/>and like a flood his mercy reigns<br/>unending love amazing grace</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord has promised good to me<br/>His word my hope secures<br/>He will my shield and portion be <br/>As long as life endures</lines>
+    </verse>
+  </lyrics>
+</song>

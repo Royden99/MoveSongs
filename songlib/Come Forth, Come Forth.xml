@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:10">
+  <properties>
+    <titles>
+      <title>Come Forth, Come Forth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come forth, come forth from your father's house,<br/>Come forth from all you've known;<br/>A better country waits for you,<br/>Say that you will go.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Step out, step out and do not fear,<br/>Your journey's just begun;<br/>A Helper waits to guide you on,<br/>Until you're finally done.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Go in, go in to your husband's land,<br/>The place has been prepared;<br/>A house of promise waits for you,<br/>And He will meet you there.</lines>
+    </verse>
+  </lyrics>
+</song>

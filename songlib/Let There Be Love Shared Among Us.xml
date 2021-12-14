@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:19">
+  <properties>
+    <titles>
+      <title>Let There Be Love Shared Among Us</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let there be love shared among us. <br/>Let there be love in our eyes! <br/>May now Your love sweep this nation! <br/>Cause us, oh Lord, to arise! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give us a fresh understanding <br/>Of brotherly love that is real! <br/>Let there be love shared among us! <br/>Let there be love!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que haya amor en nosotros. <br/>Que haya amor en nuestros ojos. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que Su amor inunde este pueblo. <br/>Haznos Señor levantar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Danos un nuevo entendimiento <br/>De este amor corporal.<br/>Que haya amor en nosotros, que haya amor.</lines>
+    </verse>
+  </lyrics>
+</song>

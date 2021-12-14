@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:44">
+  <properties>
+    <titles>
+      <title>Happy Is That People That Is In Such A Case</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Happy is that people that is in such a case.<br/>Happy is that people that is in such a case.<br/>Happy is that people that is in such a case.<br/>Whose God is the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That our sons may be as plants grown up,<br/>That our daughters may be as cornerstones<br/>That our garners may be full.<br/>That our oxen may be strong,<br/>That there be no complaining in our streets.<br/>Hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bienaventurado este pueblo es.<br/>Bienaventurado este pueblo es.<br/>Bienaventurado este pueblo es,<br/>Cuyo Dios es Jehová.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que sus hijos serán como plantas crecidas,<br/>Que sus hijas serán como esquinas labradas.<br/>Sus graneros serán llenos,<br/>Y sus bueyes serán fuertes<br/>Y en sus calles quejas no habrá.</lines>
+    </verse>
+  </lyrics>
+</song>

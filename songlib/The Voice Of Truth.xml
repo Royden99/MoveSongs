@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:57">
+  <properties>
+    <titles>
+      <title>The Voice Of Truth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O what I would do to have,<br/>The kind of faith it takes <br/>To step out of this boat I'm in,<br/>Onto the crashing waves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To step out of my comfort zone,<br/>Into the realm of the unknown where Jesus is.<br/>And He's holding out his hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>But the waves are calling out<br/>My name and they laugh at me.<br/>Reminding me of all the times I've tried before and failed.<br/>The waves they keep on telling me,<br/>Time and time again,<br/>Boy you'll never win.<br/>You'll never win.<br/>Chorus:<br/>But the voice of truth,<br/>Tells me a different story.<br/>And the voice of truth,<br/>Says do not be afraid.<br/>And the voice of truth,<br/>Says this is for my glory.<br/>Out of all the voices calling out to me,<br/>I will choose to listen and believe <br/>The voice of truth</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O what I would do to have,<br/>The kind of strength it takes <br/>To stand before a giant,<br/>With just a sling and a stone.<br/>Surrounded by the sound of a thousand warriors<br/>Shaking in their armour,<br/>Wishing they'd of had the strength to stand.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>But the giant's calling out<br/>My name and they laugh at me.<br/>Reminding me of all the times I've tried before and failed.<br/>The giant he keep on telling me,<br/>Time and time again,<br/>Boy you'll never win.<br/>You'll never win.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:08">
+  <properties>
+    <titles>
+      <title>They rush on the city, they run on wall</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They rush on the city, they run on wall<br/>For great is the army that carries out His word;<br/>They rush on the city, they run on wall<br/>For great is the army that carries out His word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord utters His voice before His army,<br/>The Lord utters His voice before His army.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Blow a trumpet in Zion, Zion,<br/>Sound the alarm on My holy mountain;<br/>Blow a trumpet in Zion, Zion,<br/>Sound the alarm.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

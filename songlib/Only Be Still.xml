@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:57">
+  <properties>
+    <titles>
+      <title>Only Be Still</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Only be still. Only be still.<br/>God will deliver you.<br/>Only be still. (Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus is here. Jesus is here.<br/>All things are possible.<br/>Jesus is here. (Repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God will not fail. God will not fail.<br/>Only He answers prayer.<br/>God will not fail. (Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

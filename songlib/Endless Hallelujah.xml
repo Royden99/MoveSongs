@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:23">
+  <properties>
+    <titles>
+      <title>Endless Hallelujah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I stand before Your throne<br/>Dressed in glory not my own<br/>What a joy I'll sing of on that day<br/>No more tears or broken dreams<br/>Forgotten is the minor key<br/>Everything as it was meant to be</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we will worship, worship<br/>Forever in Your presence we will sing<br/>We will worship, worship You<br/>An endless hallelujah to the King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will see You as You are<br/>Love You with unsinning heart<br/>And see how much You paid to bring me home<br/>Not till then, Lord, shall I know<br/>Not till then, how much I owe<br/>Everything I am before Your throne</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No more tears, no more shame<br/>No more sin and sorrow ever known again<br/>No more fears, no more pain<br/>We will see You face to face<br/>See You face to face</lines>
+    </verse>
+  </lyrics>
+</song>

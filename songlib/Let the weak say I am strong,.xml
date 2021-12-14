@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:18">
+  <properties>
+    <titles>
+      <title>Let the weak say I am strong,</title>
+    </titles>
+    <authors>
+      <author>#R Morgan © 1998 Reuben Morgan  / Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the weak say I am strong,<br/>Let the poor say I am rich ,<br/>Let the blind say I can see,<br/>It's what the Lord has done in me .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna! Hosanna!<br/>To the Lamb that was slain,<br/>Hosanna! Hosanna!<br/>Jesus died and rose again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Into the river I will wade<br/>Where my sins are washed away,<br/>And from the heavens mercy streams<br/>Of the Saviour's love for me,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will rise from water deep<br/>Into the saving arms of God,<br/>I will sing salvation's songs,<br/>Jesus Christ has set me free.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

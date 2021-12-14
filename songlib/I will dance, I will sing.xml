@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:32">
+  <properties>
+    <titles>
+      <title>I will dance, I will sing</title>
+    </titles>
+    <authors>
+      <author>Matt Redman Copyright © 1995 Kingsway's Thankyou Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will dance, I will sing<br/>To be mad for my King<br/>Nothing, Lord, is hindering<br/>This passion in my soul.<br/>(repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'll become<br/>Even more undignified than this.<br/>Some may say it's foolishness, but<br/>I'll become<br/>Even more undignified than this,<br/>Leave my pride by my side<br/>La la la la la HEY<br/>(repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's all for You, my Lord!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

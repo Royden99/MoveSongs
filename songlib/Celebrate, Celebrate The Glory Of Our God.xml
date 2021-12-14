@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:07">
+  <properties>
+    <titles>
+      <title>Celebrate, Celebrate The Glory Of Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Celebrate, Celebrate The glory of our God.<br/>Celebrate, celebrate His wisdom and His power.<br/>He has given to us the victory.<br/>Celebrate the glory of our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is fullness of joy,<br/>In His presence, in His presence,<br/>There is fullness of joy.<br/>Joy in the presence of our God.</lines>
+    </verse>
+  </lyrics>
+</song>

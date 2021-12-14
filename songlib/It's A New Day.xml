@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:54">
+  <properties>
+    <titles>
+      <title>It's A New Day</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's a new day! It's a new day!<br/>Glorious new life is coming forth.<br/>A time of joy, a time to sing and praise the Lord.<br/>I can forget yesterday, and I have hope for tomorrow.<br/>Hallelujah! Praise the Lord! It's a new day.</lines>
+    </verse>
+  </lyrics>
+</song>

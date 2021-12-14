@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:13">
+  <properties>
+    <titles>
+      <title>Thou Dost Seek A Bride All Pure And Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou dost seek a bride all pure and holy<br/>Those who now belong to Thee alone<br/>Those who give Thee all their heart's affection<br/>Of thyself, a bride bone of Thy bone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, we answer to Thy heart's deep longing<br/>Even so, come quickly, Lord, we say<br/>In our hearts we have the blessed answer<br/>Rise my love, my fair one, come away. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drawn from every kindred, tribe and nation<br/>By Thy Holy Spirit's mighty power<br/>Finding rest in Thee, God's great salvation<br/>Waits Thy bride for Thine appointed hour.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sharing with Thee in this world's rejection<br/>Putting on Thy death to gain a crown<br/>By Thy blood and Word we're over-comers<br/>With Thee in Thy throne, we shall sit down.</lines>
+    </verse>
+  </lyrics>
+</song>

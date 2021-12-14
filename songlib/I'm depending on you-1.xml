@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:42">
+  <properties>
+    <titles>
+      <title>I'm depending on you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm depending on you, you're depending on me,<br/>For in us is life eternally.<br/>For the strongest of all is he who is weak.<br/>I'm depending on you, you're depending on me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Men:<br/>Come all ye weak and weary hearted,<br/>Listen to the Word of God.<br/>He has promised to sustain you<br/>Every moment by His love.<br/>Come all ye weak and weary hearted,<br/>Listen to the Word of God.<br/>He has promised to sustain you by His love.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Women:<br/>I will open the windows of heaven<br/>And will pour you out a blessing,<br/>And will pour you out a blessing,<br/>All ye servants of the Lord.<br/>And I will open the windows of heaven<br/>And I will pour you out a blessing,<br/>And I will pour you out a blessing<br/>By My love. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yo dependo de ti, tú dependes de mí<br/>Tenemos vida, vida sin fin<br/>Si eres más débil, eres el más fuerte <br/>Yo dependo de ti, tu dependes de mí.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vengan todos los cansados <br/>Escuchad la voz de Dios <br/>El promete sustentarnos<br/>Cada día con su amor <br/>Vengan todos los cansados<br/>Escuchad la voz de Dios<br/>El promete sustentarnos <br/>Con su amor.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Abriré las ventanas de los cielos<br/>Os daré una bendición<br/>Os daré una bendición<br/>Oh siervos de Jehová<br/>Abriré las ventanas de los cielos<br/>Os daré una bendición<br/>Os daré una bendición<br/>Por mi amor.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:47">
+  <properties>
+    <titles>
+      <title>When the enemy comes in like a flood upon you</title>
+    </titles>
+    <authors>
+      <author>Author</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the enemy comes in like a flood upon you<br/>The Spirit of the Lord shall raise a standard against him,<br/>He shall flee (X2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift up your banners your redemmer comes to Zion<br/>Lift up your hearts and praise His name<br/>Lift up your banners your redemmer comes to Zion<br/>and the enemy shall flee, flee away.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

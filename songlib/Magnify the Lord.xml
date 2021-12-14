@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:33">
+  <properties>
+    <titles>
+      <title>Magnify the Lord</title>
+    </titles>
+    <authors>
+      <author>Emerson William Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Magnify the Lord, sing His praises,<br/>Magnify the Lord, sing His praises;<br/>For He has done great things, we are glad;<br/>We rejoice in You, our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Magnify the Lord, sing His praises,<br/>Magnify the Lord, sing His praises;<br/>For He has brought us forth with His right arm<br/>And He shall lead us on.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:36">
+  <properties>
+    <titles>
+      <title>God Is In This Room</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is in this room<br/>As surely as the air I'm breathing,<br/>As surely as the morning brings the light of day,<br/>As surely as when I pray He answers me. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dios está aquí <br/>Tan cierto como el aire que respiro<br/>Tan cierto como la mañana se levanta <br/>Tan cierto que cuando le hablo <br/>El me puede oír.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu le puedes soltar tu carga en este  mismo instante<br/>Le puedes sentir muy dentro de tu corazón<br/>Tu le puedes contar ese problema que tienes,<br/>Jesús está aquí, si tu quieres le puedes sentir.</lines>
+    </verse>
+  </lyrics>
+</song>

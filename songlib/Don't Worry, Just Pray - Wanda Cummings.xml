@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:19">
+  <properties>
+    <titles>
+      <title>Don't Worry, Just Pray - Wanda Cummings</title>
+    </titles>
+    <authors>
+      <author>Wanda Cummings</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't worry, don't worry, just pray. x2<br/>For the Lord is on his throne<br/>He'll not leave you alone.<br/>So, don't worry, don't worry, just pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, don't worry, don't worry, just pray x2<br/>Our God is in control and He will make you whole<br/>So, Don't worry, don't worry, just pray</lines>
+    </verse>
+    <verse name="v3">
+      <lines>....He'll give strength for today<br/>and guide you all the way.....</lines>
+    </verse>
+    <verse name="v4">
+      <lines>....For God's hand is upon you<br/>and he will see you through.....</lines>
+    </verse>
+  </lyrics>
+</song>

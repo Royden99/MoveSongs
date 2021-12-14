@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:23">
+  <properties>
+    <titles>
+      <title>Silver And Gold Have I None</title>
+    </titles>
+    <authors>
+      <author>Anon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Silver and gold have I none,<br/>But such as I have give I thee;<br/>In the name of Jesus Christ,<br/>Of Nazareth rise up and walk.<br/>Walking and leaping and praising God,<br/>Walking and leaping and praising God.<br/>In the name of Jesus Christ,<br/>Of Nazareth rise up and walk.</lines>
+    </verse>
+  </lyrics>
+</song>

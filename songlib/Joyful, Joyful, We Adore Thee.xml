@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:09">
+  <properties>
+    <titles>
+      <title>Joyful, Joyful, We Adore Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joyful, joyful, we adore Thee,<br/>God of glory, Lord of love;<br/>Hearts unfold like flow’rs before Thee,<br/>Op’ning to the sun above.<br/>Melt the clouds of sin and sadness;<br/>Drive the dark of doubt away;<br/>Giver of immortal gladness,<br/>Fill us with the light of day!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All Thy works with joy surround Thee,<br/>Earth and heav’n reflect Thy rays,<br/>Stars and angels sing around Thee,<br/>Center of unbroken praise.<br/>Field and forest, vale and mountain,<br/>Flow’ry meadow, flashing sea,<br/>Singing bird and flowing fountain<br/>Call us to rejoice in Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou art giving and forgiving,<br/>Ever blessing, ever blest,<br/>Wellspring of the joy of living,<br/>Ocean depth of happy rest!<br/>Thou our Father, Christ our Brother,<br/>All who live in love are Thine;<br/>Teach us how to love each other,<br/>Lift us to the joy divine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mortals, join the happy chorus,<br/>Which the morning stars began;<br/>Father love is reigning o’er us,<br/>Brother love binds man to man.<br/>Ever singing, march we onward,<br/>Victors in the midst of strife,<br/>Joyful music leads us Sunward<br/>In the triumph song of life.</lines>
+    </verse>
+  </lyrics>
+</song>

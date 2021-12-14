@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:25">
+  <properties>
+    <titles>
+      <title>Ever Be</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is devoted like a ring of solid gold<br/>like a vow that is tested, like a covenant of old<br/>your love is enduring through the winter rain<br/>likeand beyond the horizon wiht mercy for today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>faithful you have been, faithful you will be<br/>you pledge yourself to me and thats why i sing<br/>your praise will ever be on my lips, ever be on my lips, your praise will ever be on my lips(repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>you will be praised, you will be praised<br/>with angel and saint we sing, worthy, worthy are you Lord</lines>
+    </verse>
+  </lyrics>
+</song>

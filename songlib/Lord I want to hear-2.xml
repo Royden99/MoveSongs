@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:26">
+  <properties>
+    <titles>
+      <title>Lord I want to hear</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I want to hear you say, Well done.<br/>Lord, I want to hear you say, Well done.<br/>When I've done my best,<br/>In They bosom let me rest.<br/>Lord, I want to hear you say, well done.</lines>
+    </verse>
+  </lyrics>
+</song>

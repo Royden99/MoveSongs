@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:54">
+  <properties>
+    <titles>
+      <title>The Rain Of God Is Falling</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The rain of God is falling<br/>Is falling o'er land<br/>Elijah's cloud's appearing<br/>Like a man's five fingered hand<br/>The plantings of the Lord arise<br/>With fruit on every tree<br/>The Sons of God are going forth<br/>And we shall be set free</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The breath of God is blowing<br/>Is blowing over the land<br/>The dead dry bones are stirring<br/>At the Word of our command<br/>We're blowing forth the breath of life<br/>The body's growing strong<br/>Rise up, Rise up, ye Sons of God,<br/>And sing the vict'ry song.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And those who hear the trumpet call<br/>From down in Babylon will go to <br/>Jerusalem despite the evil one,<br/>So yield up your members one and all<br/>To His almighty hand go up, go up, ye</lines>
+    </verse>
+  </lyrics>
+</song>

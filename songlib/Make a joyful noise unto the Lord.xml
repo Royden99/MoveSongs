@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:33">
+  <properties>
+    <titles>
+      <title>Make a joyful noise unto the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make a joyful noise unto the Lord<br/>All ye lands, all ye lands;<br/>Make a joyful noise unto the Lord<br/>All ye lands, all ye lands.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come before Him with singing,<br/>Come before Him with joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Make a joyful noise unto the Lord<br/>All ye lands, all ye lands!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

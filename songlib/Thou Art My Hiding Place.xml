@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:12">
+  <properties>
+    <titles>
+      <title>Thou Art My Hiding Place</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou art my hiding place, <br/>Thou art my hiding place, <br/>Thou shalt preserve me from trouble. <br/>Thou shalt compass me about,<br/>With songs of deliverance.<br/>What time I am afraid, I shall trust in Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alternatively:<br/>You are my hiding place.<br/>You are my hiding place.<br/>You will preserve me from trouble.<br/>You will compass me about,<br/>With songs of deliverance.<br/>What time I am afraid,<br/>I will trust in You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por que tu eres mi refugio, <br/>Por que tu eres mi refugio, </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tu me guardaras en el dia de mi angustia, <br/>Y me rodearas con cantos de liberacion, <br/>Cuando temor tengo yo confiare en ti.</lines>
+    </verse>
+  </lyrics>
+</song>

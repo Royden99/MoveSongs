@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:58">
+  <properties>
+    <titles>
+      <title>He's Always There, When Things Go Wrong</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's always there, when things go wrong. <br/>He's always there, when hope is gone.<br/>He lifts me up, when I'm in prayer. <br/>He's never gone. When I'm alone,<br/>He's always there. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>He's up on the mountain; <br/>He's down in the sea; <br/>He fills all the heavens and He lives in me. <br/>He lifts me up, when I'm in prayer. <br/>He's never gone. When I'm alone, <br/>He's always there.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El siempre esta, cuando todo va mal. <br/>El siempre esta, cuando no hay esperanza.<br/>El me levanta cuando orando. <br/>El nunca se va, cuando solo estoy. <br/>El siempre esta. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>El esta en los montes y tambien en la mar, <br/>El llena los cielos, mas el vive en mi.<br/>El me levanta orando. <br/>El nunca se va, cuando solo estoy, <br/>El siempre esta.</lines>
+    </verse>
+  </lyrics>
+</song>

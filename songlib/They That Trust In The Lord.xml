@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:08">
+  <properties>
+    <titles>
+      <title>They That Trust In The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They that trust in the Lord,<br/>Shall be as Mt. Zion,<br/>That can not be removed,<br/>But abideth forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As the mountains are round about Jerusalem,<br/>So the Lord is round about His people.<br/>So the Lord is round about His people,<br/>From henceforth even forever. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Los que confían en Jehová son como el Monte de Sión<br/>Que no se mueven sino que permanecen para siempre.<br/>Los que confían en Jehová son como el Monte de Sión<br/>Que no se mueven sino que permanecen para siempre.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Como Jerusalén tiene montes alrededor<br/>así está Jehová alrededor de su pueblo<br/>Como Jerusalén tiene montes alrededor<br/>así está Jehová alrededor de su pueblo<br/>desde ahora y para siempre.</lines>
+    </verse>
+  </lyrics>
+</song>

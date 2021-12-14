@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:21">
+  <properties>
+    <titles>
+      <title>Let's go up to Zion, let's go up to Zion,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let's go up to Zion, let's go up to Zion,<br/>Let's go up to Zion, the city of our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing hallelujah, sing hallelujah,<br/>Sing hallelujah, there's joy in the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's oil and wine in Zion...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

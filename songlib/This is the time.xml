@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:11">
+  <properties>
+    <titles>
+      <title>This is the time</title>
+    </titles>
+    <authors>
+      <author>Terry MacAlmon © 2000 TMMI Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the time<br/>When true worshipers will worship,<br/>These are the days<br/>When my Father's ways will be known to men,<br/>This is the hour<br/>When the spirit's power will move again,<br/>As we worship You in spirit and in truth,<br/>Lord, we worship You in spirit and in truth,<br/>Lord, we worship You in spirit and in truth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, holy, holy is Your name,<br/>Worthy, worthy, let all the earth proclaim,<br/>Mighty, mighty, there is no God like You,<br/>And we worship You in spirit and in truth.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

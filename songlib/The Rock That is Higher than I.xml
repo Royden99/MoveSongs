@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:54">
+  <properties>
+    <titles>
+      <title>The Rock That is Higher than I</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes the shadows are deep<br/>and rough seems the path to the goal<br/>and sorrows sometimes how they sweep<br/>like tempests down over the soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>oh then to the rock let me fly<br/>to the rock that is higher than i<br/>oh then to the rock let me fly<br/>to the rock that is higher than i</lines>
+    </verse>
+    <verse name="v3">
+      <lines>sometimes how long seems the day<br/>and sometimes how weary my feet<br/>but toiling in life's dusty way<br/>the Rock's blessed shadow how sweet</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Near to the Rock let me keep<br/>if blessings or sorrows prevail<br/>Or climbing the mountain way steep<br/>or walking the shadowy vale</lines>
+    </verse>
+  </lyrics>
+</song>

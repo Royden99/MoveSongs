@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:15">
+  <properties>
+    <titles>
+      <title>Salvation Is Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Not by words of our own righteousness<br/>That we could ever do</lines>
+    </verse>
+    <verse name="v2">
+      <lines>But by grace through faith:<br/>It is the gift of God<br/>Not of works<br/>Lest any man should boast.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thank You, Lord, for so great a salvation<br/>That we have in the blood of the Lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Salvation is of the Lord.<br/>It's not of me; it's not of you.<br/>Salvation is of the Lord.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesus said, Come unto Me<br/>Ye that labor and are heavy-laden,<br/>And I will give you rest,<br/>And ye shall find rest unto your souls.<br/>Take My yoke upon you and learn of Me,<br/>For I am lowly in heart.<br/>For My yoke is easy,<br/>And My burden is light.<br/>And ye shall find rest unto your souls.</lines>
+    </verse>
+  </lyrics>
+</song>

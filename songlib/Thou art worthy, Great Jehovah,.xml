@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:13">
+  <properties>
+    <titles>
+      <title>Thou art worthy, Great Jehovah,</title>
+    </titles>
+    <authors>
+      <author>J D Lawton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou art worthy, Great Jehovah,<br/>Thou art worthy, Mighty God,<br/>Thou art worthy, Abba Father,<br/>Thou art worthy, Lamb of God.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

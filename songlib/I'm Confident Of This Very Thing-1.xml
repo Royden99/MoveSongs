@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:42">
+  <properties>
+    <titles>
+      <title>I'm Confident Of This Very Thing</title>
+    </titles>
+    <authors>
+      <author>Anon. Copyright control (words and music)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm confident of this very thing (echo). <br/>That He (echo), <br/>Who has begun (echo)<br/>A good work (echo) <br/>In you (echo). </lines>
+    </verse>
+    <verse name="v2">
+      <lines>He shall perform it until the day of Jesus Christ (3x)</lines>
+    </verse>
+  </lyrics>
+</song>

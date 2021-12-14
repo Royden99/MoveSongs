@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:36">
+  <properties>
+    <titles>
+      <title>I Will Sing Praise, I Will Lift My Voice</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing praise, I will lift my voice.<br/>I will sing praise, I've made my choice.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will sing praise, in all I do.<br/>I will sing praise to You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No matter the storms that come my way,<br/>No matter the trials I may face,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You promised that You would see me through,<br/>So I will trust in You.</lines>
+    </verse>
+  </lyrics>
+</song>

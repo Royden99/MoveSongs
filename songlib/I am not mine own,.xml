@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:12">
+  <properties>
+    <titles>
+      <title>I am not mine own,</title>
+    </titles>
+    <authors>
+      <author>Chris Bowater</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am not mine own,<br/>I've been bought with a price.<br/>Precious blood of Christ,<br/>I am not mine own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I belong to You,<br/>I've been bought with a price.<br/>Precious blood of Christ,<br/>I belong to You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How could I ever say,<br/>"I will choose another way",<br/>Knowing the price that's paid;<br/>Precious blood of Christ.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:11">
+  <properties>
+    <titles>
+      <title>Zion is a place</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zion is a place of singing. Zion is a place of joy.<br/> Zion is the dwelling of the Lord. <br/> Zion is a place of worship. Zion is a place of praise.<br/> Zion is the dwelling of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So let us climb the hill of Zion <br/>To the city of the living God. <br/>To the city of the living God. <br/>To the city of the living God. <br/>So let us climb the hill of Zion <br/>To the city of the living God <br/>For the ark of the testimony is in her midst.</lines>
+    </verse>
+  </lyrics>
+</song>

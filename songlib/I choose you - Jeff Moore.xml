@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:15">
+  <properties>
+    <titles>
+      <title>I choose you - Jeff Moore</title>
+    </titles>
+    <authors>
+      <author>Jeff Moore</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the vision seems to tarry and your word to fade away<br/>When the lies fill my ears and it seems evil prevails</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I choose you, I choose you<br/>Lord, I choose to believe<br/>I choose you, I choose you<br/>Father God, I choose to believe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the darkness closes in and waves of doubt come crashing down<br/>When it seems all hope is lost and my anchor is losing ground</lines>
+    </verse>
+  </lyrics>
+</song>

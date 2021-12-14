@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:49">
+  <properties>
+    <titles>
+      <title>Where Could I Go?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where could I go? Oh, where could I go?<br/>Seeking a refuge for my soul?<br/>Needing a friend to help me in the end,<br/>Where could I go but to the Lord?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Living below in this old sinful world,<br/>Hardly a comfort can afford,<br/>Striving alone to face temptation's call,<br/>Where could I go but to the Lord?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neighbors are fun; I love 'em everyone.<br/>We get along in sweet accord.<br/>But when I pass the chilling hand of death,<br/>Where could I go but to the Lord?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Life here is grand with friends I love so well.<br/>Comfort I get from God's own word.<br/>But when my soul needs manna from above,<br/>Where could I go but to the Lord?</lines>
+    </verse>
+  </lyrics>
+</song>

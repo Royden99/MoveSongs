@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:24">
+  <properties>
+    <titles>
+      <title>Sing Unto The Lord A New Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing unto the Lord a new song,<br/>For He has done marvelous things.<br/>His right hand and His holy arm<br/>Have gotten Him the victory.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:33">
+  <properties>
+    <titles>
+      <title>I will greatly rejoice in the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will greatly rejoice in the Lord<br/>My soul shall be joyful in my God<br/>For He has clothed me with garments<br/>The garments of salvation<br/>And a robe of righteousness</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be glad in the Lord and rejoice<br/>All ye that are upright in heart<br/>Be glad in the Lord all ye righteous<br/>And shout for joy<br/></lines>
+    </verse>
+  </lyrics>
+</song>

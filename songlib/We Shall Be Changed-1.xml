@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:37">
+  <properties>
+    <titles>
+      <title>We Shall Be Changed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We shall be changed.<br/>We shall be changed.<br/>We're gonna be changed from mortal to immortality<br/>In the twinkling of an eye. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'll show you a mystery. (echo)<br/>We shall not all sleep. (echo)<br/>We're gonna be changed to His image.<br/>In the twinkling of an eye. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Death, where is thy sting?<br/>Death, where is thy sting?<br/>Oh, grave, where is thy victory?<br/>Oh, death, where is thy sting?<br/>Death is swallowed up in victory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The trumpet shall sound. (echo)<br/>The dead shall be raised. (echo)<br/>And we shall be immortal.<br/>Death is swallowed up in victory. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>/Seremos transformados/ (3)<br/>De mortalidad a la inmortalidad<br/>En un abrir y cerrar de ojos.<br/>/Os digo un misterio/ (2)<br/>/No todos dormiremos/ (2)<br/>Pero todos seremos transformados <br/>En un abrir y cerrar de ojos .<br/>/Se tocará la trompeta/ (2)<br/>/Los muertos serán resucitados / (2)<br/>Y todos seremos transformados <br/>En un abrir y cerrar de ojos<br/>/Dónde está oh muerte tu aguijón/ (2)<br/>Dónde oh sepulcro tu victoria <br/>¡Sorbida es la muerte en victoria!</lines>
+    </verse>
+  </lyrics>
+</song>

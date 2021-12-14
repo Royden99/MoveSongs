@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:41">
+  <properties>
+    <titles>
+      <title>Thanks Be To God</title>
+    </titles>
+    <authors>
+      <author>Tim Picking</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thanks be to God, who leads us into triumph!<br/>Thanks be to God, whose got the victory. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By the blood of our Savior,<br/>We are set free from the curse.<br/>Jesus is the one and only lasting sacrifice.<br/>He has broken Satan's power,<br/>No more shall we be the same.<br/>Just as he defeated death,<br/>We shall do the same!<br/>Oh, we shall do the same.</lines>
+    </verse>
+  </lyrics>
+</song>

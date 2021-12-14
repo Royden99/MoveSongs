@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:00">
+  <properties>
+    <titles>
+      <title>There is a Rock that is higher than I,</title>
+    </titles>
+    <authors>
+      <author>Simeon Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a Rock that is higher than I,<br/>The safest place I can run to.<br/>When the storm is raging around,<br/>There is no greater refuge.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is no Rock like our God,<br/>There’s no surer foundation.<br/>There is no Rock like our God,<br/>No other way to salvation.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For some You are the rock of offence,<br/>For me You are a stronghold.<br/>Some turn to others for strength,<br/>But I have found out for certain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>So I will stand and hide myself,<br/>In the secret place of the Rock.<br/>And I will find my security,<br/>In the Rock that is higher than I.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

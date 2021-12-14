@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:20">
+  <properties>
+    <titles>
+      <title>El Amor De Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/El amor de Dios es maravilloso/ (3) <br/>tan grande es el amor de Dios. <br/>Tan alto que no puedo ir arriba de él <br/>Profundo que no puedo ir debajo de él <br/>Tan ancho que no puedo ir afuera de él <br/>Tan grande es el amor de Dios. </lines>
+    </verse>
+  </lyrics>
+</song>

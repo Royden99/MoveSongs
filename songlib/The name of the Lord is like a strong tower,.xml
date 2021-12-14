@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:53">
+  <properties>
+    <titles>
+      <title>The name of the Lord is like a strong tower,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The name of the Lord is like a strong tower,<br/>The righteous shall run unto Him and be glad;<br/>The name of the Lord is like a strong tower,<br/>The righteous shall run unto Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And they'll go forth in victory,<br/>Triumphing over the enemy,<br/>And they'll go forth to kick in the gates of hell,<br/>For they are the army of God!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

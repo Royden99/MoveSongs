@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:20">
+  <properties>
+    <titles>
+      <title>Shout to the Lord</title>
+    </titles>
+    <authors>
+      <author>SPANISH</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Canta al Señor toda la creación <br/>honra y poder, majestad sean al Rey<br/>montes caerán y el mar rugirá <br/>al sonar de Su nombre<br/>canto con gozo al  mirar su poder<br/>por siempre yo te amaré y diré<br/>incomparables promesas me das (x3)<br/>Señor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi Cristo, mi Rey, nadie es como tu<br/>toda mi vida quiero exaltar <br/>las maravillas de tu amor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Consuelo, refugio, torre de fuerza y poder<br/>todo mi ser, lo que yo soy<br/>nunca cesen de adorar</lines>
+    </verse>
+  </lyrics>
+</song>

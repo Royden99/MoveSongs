@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:49">
+  <properties>
+    <titles>
+      <title>Alleluia, Alleluia</title>
+    </titles>
+    <authors>
+      <author>Michael W. Smith ©  Milene Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia, Alleluia<br/>For the Lord God Almighty reigns,<br/>Alleluia, Alleluia<br/>For the Lord God Almighty reigns,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alleluia; holy, holy<br/>Are You, Lord God Almighty,<br/>Worthy is the Lamb,<br/>Worthy is the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are holy; holy<br/>Are You, Lord God Almighty,<br/>Worthy is the Lamb,<br/>Worthy is the Lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amen<br/></lines>
+    </verse>
+  </lyrics>
+</song>

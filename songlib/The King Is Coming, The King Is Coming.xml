@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:46">
+  <properties>
+    <titles>
+      <title>The King Is Coming, The King Is Coming</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The King is coming. The King is coming. <br/>I can hear the trumpet sounding, <br/>And His face I now can see. <br/>The King is coming. The King is coming. <br/>Praise the Lord, He is coming in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El Rey ya viene, El Rey ya viene, <br/>La trompeta esta sonando y Su rostro puedo ver. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>El Rey ya viene, el Rey ya viene, <br/>Gloria a Dios, El viene en mi.</lines>
+    </verse>
+  </lyrics>
+</song>

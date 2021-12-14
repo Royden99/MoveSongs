@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:52">
+  <properties>
+    <titles>
+      <title>He lowers us to raise us</title>
+    </titles>
+    <authors>
+      <author>Robin Mark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He lowers us to raise us<br/>So we can sing His praises,<br/>Whatever is His way all is well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He makes us rich and poor<br/>That we might trust Him more,<br/>Whatever is His way all is well.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All my changes come from Him, He who never changes,<br/>I'm held firm in the grasp of the Rock of all the ages.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All is well with my soul,<br/>He is God in control.<br/>I know not all His plans<br/>But I know I'm in His hands.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He clothes us now then strips us<br/>Yet with His Word equips us,<br/>Whatever is His way, all is well.<br/>And though our seasons change<br/>We still exalt His name,<br/>Whatever is His way all is well.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

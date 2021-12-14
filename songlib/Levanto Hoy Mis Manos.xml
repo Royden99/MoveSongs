@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:22">
+  <properties>
+    <titles>
+      <title>Levanto Hoy Mis Manos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Levanto hoy mis manos ante ti oh Dios <br/>He venido hasta aquí para adorarte <br/>Porque tu mereces la gloria y el honor <br/>Majestad, honra y poder te pertenecen a ti <br/>Y no tengo nada mas para darte a ti <br/>Tan solo mi corazón y rendirlo ante ti <br/>Mis palabras no alcanzan a expresar <br/>Gracias por lo que has hecho y lo que harás </lines>
+    </verse>
+  </lyrics>
+</song>

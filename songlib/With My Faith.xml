@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:54">
+  <properties>
+    <titles>
+      <title>With My Faith</title>
+    </titles>
+    <authors>
+      <author>Con Mi Fe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know that You are here<br/>I feel your presence near<br/>You move among your people<br/>Bring healing to their lives  (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With my faith<br/>I'll reach for You<br/>With my faith<br/>I'll touch You Lord<br/>My miracle I will receive<br/>And I know that I will never be the same  (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo Se que estas aqui<br/>Siento tu caminar<br/>Te mueves en el pueblo<br/>Trayendo sanidad   (x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Con mi fe<br/>Te alcanzare<br/>Con mi fe<br/>Te tocare<br/>Mi milagro <br/>Recibire<br/>Y se que transformado yo sere</lines>
+    </verse>
+  </lyrics>
+</song>

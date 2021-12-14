@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:21">
+  <properties>
+    <titles>
+      <title>Let's Get The Praises Rolling In This House</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let's get the praises rolling in this house.<br/>Let's get the praises rolling in this house.<br/>Let's get the praises rolling while the Spirit is moving<br/>Let's get the praises rolling in this house. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let's get a song arising on our lips.<br/>Let's get a song arising on our lips.<br/>Let's get a song arising no more comprising<br/>Let's get a song arising on our lips. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let's get our feet a walking in the way.<br/>Let's get our feet a walking in the way.<br/>Let's get our feet a walking no more just a talking.<br/>Let's get our feet a walking in the way</lines>
+    </verse>
+  </lyrics>
+</song>

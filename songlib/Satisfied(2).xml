@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:16">
+  <properties>
+    <titles>
+      <title>Satisfied</title>
+    </titles>
+    <authors>
+      <author>Virginia Buerge</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Satisfied, I'll not be Satisfied, Till I Awake in thy likeness Lord.<br/>Satisfied, I'll not be Satisfied, till I awake in thy likeness Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You Open your Hand and satisfy the desire of every living thing.<br/>you open your hand and satisfy the desire of every living thing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Satisfied, then I'll be satisfied, when I awake in thy likeness Lord.<br/>Satisfied, then I'll be satisfied when I awake in thy likeness, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

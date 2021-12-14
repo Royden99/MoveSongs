@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:07">
+  <properties>
+    <titles>
+      <title>Pray For Me While You're Praying</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pray for me while you're praying<br/>Pray for me while you're singing<br/>All you sons of God, while in the light you trod,<br/>Pray, Oh pray for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pray for me to always keep the faith;<br/>Pray for me while I run this race.<br/>All you sons of God, while in the light you trod,<br/>Pray, oh pray for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pray for me because I'm homeward bound.<br/>Pray for me to get my righteous crown.<br/>Oh you sons of God, while on this earth you trod,<br/>Pray, oh pray for me.</lines>
+    </verse>
+  </lyrics>
+</song>

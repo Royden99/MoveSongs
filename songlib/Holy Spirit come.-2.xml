@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:06">
+  <properties>
+    <titles>
+      <title>Holy Spirit come.</title>
+    </titles>
+    <authors>
+      <author>Geoff Bullock</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit come. <br/>Make my eyes to see;<br/>Make my ears to hear; <br/>Make my mouth to speak; <br/>Make my heart to seek<br/>And my hands to reach out <br/>And touch the world with Your love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Santo Espiritu ven, <br/>Haz mis ojos ver, mis oidos oir y mi boca hablar.<br/>Haz buscar mi corazon y abrir mis manos,<br/>Para tocar al mundo con Tu amor.</lines>
+    </verse>
+  </lyrics>
+</song>

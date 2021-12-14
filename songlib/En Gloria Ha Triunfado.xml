@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:22">
+  <properties>
+    <titles>
+      <title>En Gloria Ha Triunfado</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>En gloria ha triunfado nuestro Dios, <br/>El caballo y el jinete echados a la mar, <br/>El Señor es mi fuerza y mi canción, <br/>Y para siempre morará en mí. <br/>Cantad, cantad, cantad a Jehová <br/>Con panderos y danzas cantad a Jehová <br/>El Señor es mi fuerza y mi canción, <br/>Y para siempre morará en mí. </lines>
+    </verse>
+  </lyrics>
+</song>

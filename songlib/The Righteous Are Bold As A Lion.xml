@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:54">
+  <properties>
+    <titles>
+      <title>The Righteous Are Bold As A Lion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The righteous are bold as a lion.<br/>The wicked flee when no one pursueth them. (Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the Lord is with the righteous.<br/>He is their strength and song. (Repeat.)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:54">
+  <properties>
+    <titles>
+      <title>It's beginning to rain, hear the voice of my Father,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's beginning to rain, hear the voice of my Father,<br/>Saying, "Whosoever will, come drink of this water;<br/>I will pour out My Spirit on your sons and your daughters";<br/>If you're thirsty and dry, lift your hands to the sky,<br/>It's beginning to rain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's beginning to shine, the day-star is rising,<br/>In the hearts and souls of men, in Jesus abiding.<br/>You're a light on a hill, there can be no hiding;<br/>If you walk in the night, reach out for the light,<br/>It's beginning to shine.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-02-27T02:23:27">
+  <properties>
+    <titles>
+      <title>Come Let Us Worship And Bow Down</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+      <author>Dave Doherty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come let us worship and bow down.<br/>Let us kneel before the Lord our God, our Maker. (2x) </lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He is our God, <br/>And we are the people of His pasture, <br/>And the sheep of His hand, <br/>And the sheep of His hand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Venid, adoremos y postremonos.<br/>Arrodillemonos delante del Señor,<br/>Nuestro Salvador</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por que el es nuestro Dios<br/>Y nosotros el pueblo de Su prado,<br/>Y ovejas de Su mano,<br/>Y ovejas de Su mano.</lines>
+    </verse>
+  </lyrics>
+</song>

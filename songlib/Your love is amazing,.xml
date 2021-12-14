@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:09">
+  <properties>
+    <titles>
+      <title>Your love is amazing,</title>
+    </titles>
+    <authors>
+      <author>Brenton Brown</author>
+      <author>Brian Doerksen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Your love is amazing,<br/>Steady and unchanging.<br/>Your love is a mountain,<br/>Firm beneath my feet.<br/>Your love is a mystery,<br/>How You gently lift me;<br/>When I am surrounded,<br/>Your love carries me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, hallelujah,<br/>Hallelujah, Your love makes me sing.<br/>Hallelujah, hallelujah,<br/>Hallelujah, Your love makes me sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your love is surprising,<br/>I can feel it rising,<br/>All the joy that's growing<br/>Deep inside of me.<br/>Every time I see You,<br/>All Your goodness shines through;<br/>And I can feel this God song<br/>Rising up in me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

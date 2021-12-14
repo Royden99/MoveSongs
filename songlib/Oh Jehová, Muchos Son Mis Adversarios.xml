@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:53">
+  <properties>
+    <titles>
+      <title>Oh Jehová, Muchos Son Mis Adversarios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines><br/> Oh Jehová<br/>Muchos son mis adversarios<br/>Muchos son los que se levantan contra mi<br/>Muchos son los que dicen de mi<br/>No hay para él salvación en Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Mas Jehová es escudo alrededor de mi<br/>Es mi gloria y que levanta mi cabeza/ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Con mi voz clame a Jehová <br/>Y El respondió desde su monte Santo/ (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/Mas Jehová es escudo…</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/Yo me acosté, dormí y desperté <br/>Porque Jehová me sustentaba/ (2)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mas Jehová es escudo…</lines>
+    </verse>
+    <verse name="v8">
+      <lines>/No temeré a diez millares de gente<br/>Que pusieren sitio contra mi/ (2)</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Mas Jehová es escudo…</lines>
+    </verse>
+  </lyrics>
+</song>

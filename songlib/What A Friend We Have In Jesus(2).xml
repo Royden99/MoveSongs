@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:44">
+  <properties>
+    <titles>
+      <title>What A Friend We Have In Jesus</title>
+    </titles>
+    <authors>
+      <author>Joseph Scriven</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a Friend we have in Jesus,<br/>All our sins and griefs to bear!<br/>What a privilege to carry,<br/>Everything to God in prayer!<br/>Oh, what peace we often forfeit,<br/>Oh, what needless pain we bear.<br/>All because we do not carry<br/>Everything to God in prayer! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have we trials and temptations?<br/>Is there trouble anywhere?<br/>We should never be discouraged;<br/>Take it to the Lord in prayer.<br/>Can we find a friend so faithful,<br/>Who will all our sorrows share?<br/>Jesus knows our every weakness;<br/>Take it to the Lord in prayer. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Are we weak and heavy laden,<br/>Cumbered with a load of care?<br/>Precious Savior, still our refuge!<br/>Take it to the Lord in prayer.<br/>Do Thy friends despise forsake Thee?<br/>Take it to the Lord in prayer.<br/>In His arms He'll take and shield Thee;<br/>Take it to the Lord in prayer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh que amigo a nos es Cristo <br/>El llevó nuestro dolor <br/>Y nos manda que llevemos <br/>Todo a Dios en oración</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vive el hombre desprovisto <br/>De paz, gozo y santo amor <br/>Eso es porque no llevamos <br/>Todo a Dios en oración</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Te desprecian tus amigos?<br/>Cuéntaselo en oración <br/>En sus brazos de amor tierno <br/>Paz tendrá tu corazón</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Jesucristo es nuestro amigo <br/>De esto prueba nos mostró <br/>Pues para llevar consigo <br/>Al culpable, se humanó</lines>
+    </verse>
+    <verse name="v8">
+      <lines>El castigo de su pueblo <br/>En su muerte El triunfó<br/>Cristo es un amigo eterno<br/>Solo en El confío yo</lines>
+    </verse>
+  </lyrics>
+</song>

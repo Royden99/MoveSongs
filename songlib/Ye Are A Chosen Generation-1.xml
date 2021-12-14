@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:59">
+  <properties>
+    <titles>
+      <title>Ye Are A Chosen Generation</title>
+    </titles>
+    <authors>
+      <author>Jeannie Clattenburg/Rick Powell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ye Are a Chosen Generation,<br/>A holy nation, a priesthood of the royal line;<br/>That you should show forth the praise<br/>Of Him Who raised us into His marvelous light.<br/>Which in time past were not a people,<br/>But are now the people of God;<br/>But are now, now, now the people of God.</lines>
+    </verse>
+  </lyrics>
+</song>

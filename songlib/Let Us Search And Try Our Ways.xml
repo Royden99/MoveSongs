@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:20">
+  <properties>
+    <titles>
+      <title>Let Us Search And Try Our Ways</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let us search and try our ways<br/>And turn again to the Lord,<br/>Let us lift up our hearts with our hands;<br/>Let us lift up our hearts unto God in the heavens,<br/>Let us turn again to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It is of the Lord's mercies that we're not consumed,<br/>Because His compassions fail not;<br/>They are new like the dew every day that we live,<br/>Father, great is Thy faithfulness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It is good for a man that he bear his yoke,<br/>That he bear his yoke in his youth;<br/>It is good for a man to both hope and wait<br/>For the salvation of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Lord is my portion saith my soul,<br/>Therefore will I hope in Him;<br/>The Lord is good to them that wait for Him,<br/>To the soul that seeketh Him.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

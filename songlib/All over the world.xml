@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:48">
+  <properties>
+    <titles>
+      <title>All over the world</title>
+    </titles>
+    <authors>
+      <author>Cameron Brothers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All over the world, the Spirit is moving<br/>	All over the world, as the prophets said it would be<br/>	All over the world, there's a mighty revelation<br/>	Of the Glory of the Lord, as the waters cover the sea.</lines>
+    </verse>
+  </lyrics>
+</song>

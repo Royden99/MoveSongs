@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:23">
+  <properties>
+    <titles>
+      <title>Turn your eyes upon Jesus,</title>
+    </titles>
+    <authors>
+      <author>Helen Lemmel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Turn your eyes upon Jesus,<br/>Look full in His wonderful face,<br/>And the things of earth will grow strangely dim,<br/>In the light of His glory and grace.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

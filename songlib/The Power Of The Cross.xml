@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:54">
+  <properties>
+    <titles>
+      <title>The Power Of The Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What can take a dead man,<br/>And raise him up to life again?<br/>What can heal a wounded soul,<br/>What can melt a heart of stone?<br/>What can mend this brokenness?<br/>Brokenness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mighty, awesome, wonderful.<br/>Is the holy cross.<br/>Where the Lamb laid down His life,<br/>To save us from the fall.<br/>Mighty is the power of the cross.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>What can fill the emptiness?<br/>What can<br/>What can make us white as snow?<br/>What can free the guilty one?<br/>What can say overcome?<br/>Overcome.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mighty, awesome, wonderful.<br/>Is the holy cross.<br/>Where the Lamb laid down His life,<br/>To save us from the fall.</lines>
+    </verse>
+  </lyrics>
+</song>

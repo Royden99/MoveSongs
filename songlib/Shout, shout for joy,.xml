@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:20">
+  <properties>
+    <titles>
+      <title>Shout, shout for joy,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Shout, shout for joy,<br/>Shout, shout for joy<br/>For the Lord has given us the victory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No weapon formed against you shall prosper,<br/>No nation raised against you shall stand,<br/>For the Lord is the rock of our salvation,<br/>And we have overcome by the blood of the Lamb.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

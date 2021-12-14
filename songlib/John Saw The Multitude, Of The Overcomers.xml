@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:09">
+  <properties>
+    <titles>
+      <title>John Saw The Multitude, Of The Overcomers</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>John saw the multitude, of the overcomers, <br/>All of them were worshipping the Lord. <br/>Some of them were singing. <br/>Some of them were shouting.<br/>But all of them were worshipping the Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>O praise the Lord! O praise the Lord! <br/>Sing glory, Hallelujah, praise the Lord. </lines>
+    </verse>
+    <verse name="v3">
+      <lines> Hallelujah, Hallelujah, Hallelujah, <br/> Hallelujah, Hallelujah, praise the Lord! <br/> Hallelujah, Hallelujah, Hallelujah, <br/> Hallelujah, Hallelujah, praise the Lord!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Juan vio el numero de los redimidos, <br/>Y todos alababan al Señor. <br/>Unos cantaban otros danzaban, <br/>Pero todos alababan al Señor. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alabare, alabare, alabare a mi Señor. <br/>Alabare, alabare, alabare a mi Señor. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Aleluya, aleluya, aleluya, aleluya, <br/>Aleluya al Señor. Aleluya, aleluya, aleluya, aleluya a nuestro Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>

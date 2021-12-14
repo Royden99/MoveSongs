@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:20">
+  <properties>
+    <titles>
+      <title>I Know The Lord Has Made A Way For Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I know the Lord has made a way for me. (2x)<br/>So, I'll live for Him each day in the things I do,<br/>And say I know the Lord has made a way for me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I know the Lord has made a way for me. (2x)<br/>As I live a holy life, shun the wrong and do the right,<br/>I know the Lord has made a way for me.</lines>
+    </verse>
+  </lyrics>
+</song>

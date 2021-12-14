@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:52">
+  <properties>
+    <titles>
+      <title>It Is Not By Might; And Not By Power</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It is not by might, and not by power,<br/>But by My Spirit, saith the Lord.<br/>It is not by might, and not by power,<br/>But by My Spirit, saith the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When thou goest through the waters,<br/>When thou goest through the fire,<br/>Then I will be there with thee.<br/>The flame shall not hurt thee,<br/>The river shall not overflow thee,<br/>For I will be there with thee.</lines>
+    </verse>
+  </lyrics>
+</song>

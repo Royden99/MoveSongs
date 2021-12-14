@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:20">
+  <properties>
+    <titles>
+      <title>To You, O Lord, I lift up my soul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To You, O Lord, I lift up my soul<br/>In You I trust, O my God<br/>Do not let me be put to shame<br/>Nor let my enemies triumph over me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Show me Your ways and teach me Your paths<br/>Guide me in truth, lead me on;<br/>For You're my God, You are my saviour.<br/>My hope is in You each moment of the day</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No one whose hope is in You<br/>Will ever be put to shame;<br/>That is why my eyes are on You, O Lord,<br/>Surround me, defend me,<br/>Oh how I need You.<br/>To You I lift up my soul,<br/>To You I lift up my soul.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Remember, Lord, Your mercy and love<br/>That ever flow from of old,<br/>Remember not the sins of my youth<br/>Or my rebellious ways.<br/>According to Your love, remember me.<br/>According to Your love, for You are good, O Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

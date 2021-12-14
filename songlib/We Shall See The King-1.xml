@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:38">
+  <properties>
+    <titles>
+      <title>We Shall See The King</title>
+    </titles>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We shall see the King.<br/>We shall see the King when He comes.<br/>He is coming in power, we hail the blessed hour.<br/>We shall see the King when He comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's a blessed, blessed time that's coming soon,<br/>It may be evening, morning, or at noon,<br/>The wedding of the bride, united with the groom.<br/>We shall see the King when He comes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, my brother, are you ready for the call?<br/>To crown your Savior King and Lord of all?<br/>The kingdoms of this world shall soon before Him fall.<br/>We shall see the King when He comes.</lines>
+    </verse>
+  </lyrics>
+</song>

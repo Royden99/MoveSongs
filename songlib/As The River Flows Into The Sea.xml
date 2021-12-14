@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:53">
+  <properties>
+    <titles>
+      <title>As The River Flows Into The Sea</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As the river flows into the sea and loses its identity.<br/>That's how it is with you and me, in Christ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As the mountains tall, rise into the sky,<br/>so the Lord has called forth you and I,<br/>to rise to greater heights, to make us pure in Christ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As the mountains tall, and the rivers deep, we'll move with God.<br/>We will not sleep. Until the day, when we hear Him say,<br/>My glory is on you to stay.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As the river flows into the sea and loses its identity.<br/>That's how it is with you and me, in Christ.</lines>
+    </verse>
+  </lyrics>
+</song>

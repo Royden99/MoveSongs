@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:07">
+  <properties>
+    <titles>
+      <title>You Have Given Me the Oil of Gladness</title>
+    </titles>
+    <authors>
+      <author>Patricia Wolesky</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You have given me the oil of gladness,<br/>The garment of praise instead of mourning,<br/>A shining crown instead of ashes,<br/>And glory in the place of despair.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I delight greatly in You,<br/>My soul rejoices and sings.<br/>For You took my empty life<br/>And filled it with every good thing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When my life was without purpose,<br/>You gave me a reason to live.<br/>Now my heart is filled with thanksgiving<br/>For all of the riches You give.</lines>
+    </verse>
+  </lyrics>
+</song>

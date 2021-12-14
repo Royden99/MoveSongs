@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:45">
+  <properties>
+    <titles>
+      <title>Abba Father, let me be,</title>
+    </titles>
+    <authors>
+      <author>Dave Bilbrough</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abba Father, let me be,<br/>Yours and yours alone;<br/>May my will for ever be<br/>Evermore Your own.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Never let my heart grow cold,<br/>Never let me go.<br/>Abba Father, let me be,<br/>Yours and Yours alone<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:35">
+  <properties>
+    <titles>
+      <title>I will Run</title>
+    </titles>
+    <authors>
+      <author>Diana Harper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With hind's feet on high places<br/>I will run after Thee(2x)<br/>Chorus:<br/>I will run, I will run, I will run after Thee.<br/>I will run, I will run, I will run after Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will run the race set before me<br/>I will run after Thee(2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will run as though to win<br/>I will run after Thee(2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>From glory unto glory<br/>I will run after Thee(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

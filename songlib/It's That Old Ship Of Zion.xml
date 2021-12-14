@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:55">
+  <properties>
+    <titles>
+      <title>It's That Old Ship Of Zion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's that old ship of Zion;<br/>It's that hope of the lost and dying.<br/>It's that soul-saving station;<br/>A mighty tower of salvation.<br/>It's that church triumphant, O yes.<br/>And it's built by the hand of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's that church in the book of Revelation;<br/>It's built on a Rock, on a firm foundation.<br/>It's been through the storm,<br/>And the storm couldn't turn it.<br/>It's been through the fire,<br/>And the fire couldn't burn it.<br/>It was fed to the lions,<br/>But the lions couldn't eat it.<br/>It's fought a lot of wars,<br/>But it's never been defeated.<br/>It's that church triumphant, O yes!<br/>And it's built by the hand of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

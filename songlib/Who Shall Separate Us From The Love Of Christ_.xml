@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:53">
+  <properties>
+    <titles>
+      <title>Who Shall Separate Us From The Love Of Christ?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who shall separate us from the love of Christ?<br/>Who shall separate us from the love of Christ?<br/>Shall tribulation, or distress, shall persecution,<br/>Or famine or nakedness, or peril, or sword? <br/>From the love of our Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nada me puede apartar del amor de mi Señor<br/>Nada me puede apartar del amor de mi Señor<br/>hambre, ni desnudez, espada, ni tribulación<br/>me pueden apartar, del amor de mi Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

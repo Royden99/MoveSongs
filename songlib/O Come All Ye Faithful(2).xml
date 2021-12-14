@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:47">
+  <properties>
+    <titles>
+      <title>O Come All Ye Faithful</title>
+    </titles>
+    <authors>
+      <author>John Wade/Frederick Oakeley © (1820-80)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O come, all ye faithful<br/>Joyful and triumphant<br/>O come ye, O come ye to Bethlehem<br/>Come and behold Him<br/>Born the King of angels<br/>O come, let us adore Him (Ladies)<br/>O come, let us adore Him (Men)<br/>O come, let us adore Him (All)<br/>Christ the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing, choirs of angels<br/>Sing in exultation<br/>Sing, all ye citizens of heaven above<br/>Glory to God<br/>In the highest<br/>O come, let us adore Him (Ladies)<br/>O come, let us adore Him (Men)<br/>O come, let us adore Him (All)<br/>Christ the Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hail! Lord, we greet Thee<br/>Born this happy morning<br/>Jesus, to Thee be all glory given<br/>Word of the Father<br/>Now in flesh appearing<br/>O come, let us adore Him (Ladies)<br/>O come, let us adore Him (Men)<br/>O come, let us adore Him (All)<br/>Christ the Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

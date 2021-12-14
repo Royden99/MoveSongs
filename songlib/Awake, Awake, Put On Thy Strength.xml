@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:54">
+  <properties>
+    <titles>
+      <title>Awake, Awake, Put On Thy Strength</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Awake, awake, put on thy strength.<br/>Put on thy strength, Oh Zion.<br/>Put on thy beautiful garments, Oh Jerusalem.<br/>Thou art the holy city of thy God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Arise and shine for thy light is come.<br/>The glory of the Lord is risen upon thee.<br/>And though thy sins were as scarlet,<br/>Now, they be as white as snow.<br/>Thou art the holy city of thy God.</lines>
+    </verse>
+  </lyrics>
+</song>

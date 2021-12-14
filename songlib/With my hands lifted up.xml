@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:54">
+  <properties>
+    <titles>
+      <title>With my hands lifted up</title>
+    </titles>
+    <authors>
+      <author>Esther Watanabe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>With my hands lifted up, <br/>And my mouth filled with praise, <br/>With a heart of thanksgiving,<br/>I will bless Thee O Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will bless Thee O Lord, I will bless Thee O Lord, <br/>With a heart of thanksgiving, <br/>I will bless Thee O Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con mis manos alzadas, y alabanza en mi boca, <br/>Corazon agradecido, te bendigo Señor. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te bendigo Señor, te bendigo Señor, <br/>Corazon agradecido, te bendigo Señor,</lines>
+    </verse>
+  </lyrics>
+</song>

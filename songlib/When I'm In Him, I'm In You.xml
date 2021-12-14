@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:47">
+  <properties>
+    <titles>
+      <title>When I'm In Him, I'm In You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I'm in Him, I'm in you <br/>When you're in Him, you're in me<br/>When we're in Him, we're the image of His glory<br/>Hallelujah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As I behold in you the glory of the Lord<br/>I'm being changed, I'm being changed<br/>As you behold in me, the glory of the Lord<br/>You're being changed, you're being changed.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We're being changed to that same image<br/>From glory unto glory<br/>We're being changed to the image of our God.<br/>O, Hallelujah! </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando estoy en El, Estoy en ti.<br/>Cuando estás en El, estás en mi.<br/>Cuando estamos en EL,<br/>Somos la imagen de su gloria<br/>Aleluya.<br/>Mientras veo en ti, la gloria del Señor<br/>/me cambia a mi/ (2)<br/>Mientras ves en mí, la gloria del Señor<br/>/te cambia a ti/ (2)<br/>Nos cambia El a su misma imagen<br/>De gloria, en gloria<br/>Nos cambia El, a la imagen del Cordero<br/>Aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

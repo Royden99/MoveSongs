@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:48">
+  <properties>
+    <titles>
+      <title>O give thanks to the Lord, all you His people</title>
+    </titles>
+    <authors>
+      <author>Joanne Pond</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O give thanks to the Lord, all you His people<br/>O give thanks to the Lord for He is good<br/>Let us praise, let us thank,<br/>Let us celebrate and dance<br/>O give thanks to the Lord for He is good.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

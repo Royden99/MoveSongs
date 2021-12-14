@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:30">
+  <properties>
+    <titles>
+      <title>I was glad, very glad when they said unto me,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was glad, very glad when they said unto me,<br/>"Let us go to the house of the Lord today";<br/>There is singing, there is dancing, there is victory,<br/>In the house of the Lord today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus will always be wonderful to me,<br/>Jesus will always be wonderful to me,<br/>By His wonderful grace I shall look upon His face,<br/>Jesus will always be wonderful to me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

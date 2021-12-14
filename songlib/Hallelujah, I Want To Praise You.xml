@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah, I Want To Praise You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah, I want to praise You. <br/>Hallelujah, with thanks in my heart.<br/>Hallelujah, I want to praise You. <br/>Hallelujah, praise ye the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How can words express the thanks in my heart? <br/>How can singing a song, praise you enough? <br/>How can lifting my hands, show how much I love You?<br/>From the depths of my heart, <br/>From the depths of my heart,<br/>From the depths of my heart, hallelujah!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aleluya, quiero alabarte. <br/>Aleluya, con gratitud.<br/>Aleluya, quiero alabarte. <br/>Aleluya, te alabo Señor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>¿Cómo puedo expresar mis gracias a ti? <br/>¿Cómo puedo alabarte cantando no más?<br/>Deseando expresar cuánto te amo.<br/>De lo profundo de mí corazón,<br/>De lo profundo de mí corazón,<br/>De lo profundo de mí corazón,<br/>Aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-06-05T03:16:02">
+  <properties>
+    <titles>
+      <title>A pure stream</title>
+    </titles>
+    <authors>
+      <author>Emerson W Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v2">
+      <lines>Your mercies<br/>Your mercies<br/>Are new every morning<br/>(x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A pure stream<br/>A pure stream<br/>A pure stream from the throne<br/>(x2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A mighty rushing river<br/>Is the help of our God<br/>(x2)</lines>
+    </verse>
+  </lyrics>
+</song>

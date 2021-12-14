@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:46">
+  <properties>
+    <titles>
+      <title>The Holy Ghost Shall Overshadow Thee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Holy Ghost shall overshadow thee.<br/>The Holy Ghost shall overshadow thee.<br/>And that Holy thing, that shall be born of thee,<br/>shall be called the Son of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be it unto me, according to Thy word.<br/>Be it unto me, according to Thy word.<br/>I shall abide, under the shadow of the Almighty<br/>Be it unto me, according to Thy word</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And my soul, doth magnify the Lord.<br/>And my soul, doth magnify the Lord.<br/>And my spirit doth rejoice in God my Saviour<br/>And my soul, doth magnify the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>El Santo Espiritu hara sombra sobre ti (2x) </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y eso Santo que nacera de ti, <br/>Sera llamado el Hijo de Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

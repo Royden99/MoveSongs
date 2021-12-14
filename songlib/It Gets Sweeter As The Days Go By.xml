@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:51">
+  <properties>
+    <titles>
+      <title>It Gets Sweeter As The Days Go By</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It gets sweeter as the days go by.<br/>It gets sweeter as the ]]fly.<br/>His love is richer, deeper, fuller, sweeter.<br/>It gets sweeter, sweeter, sweeter as the days go by.</lines>
+    </verse>
+  </lyrics>
+</song>

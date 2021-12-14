@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:44">
+  <properties>
+    <titles>
+      <title>What a mighty God we serve,</title>
+    </titles>
+    <authors>
+      <author>Anon. Copyright control (words and music)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What a mighty God we serve,<br/>What a mighty God we serve,<br/>What a mighty God we serve,<br/>What a mighty God we serve.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He created you and me...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He has all the power to save...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let us praise the living God...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He is the King of all the earth...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

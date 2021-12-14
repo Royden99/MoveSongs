@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:50">
+  <properties>
+    <titles>
+      <title>He is Able</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is able, more than able,<br/>To accomplish what concerns me today<br/>He is able, more than able,<br/>to handle anything that come my way</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is able more than able,<br/>To do much more than i could ever dream<br/>He is able, more than able<br/>To make me what he wants me to be.</lines>
+    </verse>
+  </lyrics>
+</song>

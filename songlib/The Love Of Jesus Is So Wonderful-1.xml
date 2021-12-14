@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:52">
+  <properties>
+    <titles>
+      <title>The Love Of Jesus Is So Wonderful</title>
+    </titles>
+    <authors>
+      <author>H.W. Rattle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The love of Jesus is so wonderful. (3x)<br/>O, wonderful love.<br/>It's so high, you can't get over it,<br/>So low, you can't get under it,<br/>So wide, you can't get around it.<br/>O, wonderful love.</lines>
+    </verse>
+  </lyrics>
+</song>

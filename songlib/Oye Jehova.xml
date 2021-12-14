@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:00">
+  <properties>
+    <titles>
+      <title>Oye Jehova</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Oye Jehová la voz de tu siervo <br/>Encamíname a mí en tu sendas/ (2) <br/>/Y es el clamor que hay en mi <br/>El deseo de mi corazón/ (2) <br/>Mira el deseo de mi corazón <br/>Y el anhelo de caminar en tu perfección </lines>
+    </verse>
+  </lyrics>
+</song>

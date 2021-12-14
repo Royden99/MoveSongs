@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:58">
+  <properties>
+    <titles>
+      <title>Worthy of glory and worthy of honor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy of glory, and worthy of honor, <br/>And worthy of praise is He. <br/>Worthy of glory, and worthy of honor, <br/>And worthy of praise is He. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>He has redeemed me by the blood of Lamb, <br/>Set my spirit free. <br/>Worthy of glory, and worthy of honor, <br/>And worthy of praise is He.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the words and the music, <br/>You are the song that I sing. <br/>You are the melody, You are the harmony. <br/>Praise to Your name will I bring. <br/>You are Almighty God. <br/>You are the Lord of Lords.<br/>You are the King of kings. <br/>Now I return to You, <br/>The song that You gave to me. <br/>You are the song that I sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Digno de gloria, digno de honra, <br/>Digno de alabanza es el. (2x) </lines>
+    </verse>
+    <verse name="v5">
+      <lines>El me ha redimido por la sangre de Jesus. <br/>Hizo mi espiritu libre <br/>Digno de gloria, digno de honra, <br/>Digno de alabanza es el.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tu eres la palabra y la musica, <br/>Eres el coro que canto. <br/>Tu eres melodia, eres armonia, <br/>Alabemos el nombre del Señor. <br/>Tu eres poderoso Señor de señores, <br/>Tu eres el Rey de Reyes, <br/>Estoy regresando el coro que me diste, <br/>Alabemos el nombre del Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

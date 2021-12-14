@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:59">
+  <properties>
+    <titles>
+      <title>There is a river that flows from deep within</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is a river that flows from deep within<br/>     There is a fountain that frees us all from sin<br/>        Come to the waters, there is a vast supply <br/>        Come to the river that never shall run dry.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tender words I speak to my brother<br/>Tender words he speaks to me<br/>Tender words make all the difference<br/>Even though we may disagree.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And the words I speak, they are spirit <br/> They are spirit and they are life <br/> And those tender words to each other<br/>          Chase away all division and strife.</lines>
+    </verse>
+  </lyrics>
+</song>

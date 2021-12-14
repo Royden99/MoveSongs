@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:39">
+  <properties>
+    <titles>
+      <title>Goodness of God - Bethel</title>
+    </titles>
+    <authors>
+      <author>Bethel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You Lord - Oh Your mercy never fails me<br/>All my days - I’ve been held in Your hands<br/>From the moment that I wake up - Until I lay my head<br/>I will sing of the goodness of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my life You have been faithful<br/>All my life You have been so, so good<br/>With every breath that I am able<br/>I will sing of the goodness of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love Your voice - You have led me through the fire<br/>In darkest nights - You are close like no other<br/>I’ve known You as a father - I’ve known You as a friend<br/>I have lived in the goodness of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your goodness is running after, it’s running after me<br/>Your goodness is running after, it’s running after me<br/>With my life laid down, I’m surrendered now, I give You everything<br/>Your goodness is running after, it’s running after me</lines>
+    </verse>
+  </lyrics>
+</song>

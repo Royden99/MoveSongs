@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:12">
+  <properties>
+    <titles>
+      <title>I Am Crucified With Christ</title>
+    </titles>
+    <authors>
+      <author>anon 2008</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am crucified with Christ, nevertheless I live; <br/>Yet not I, but Christ liveth in me; <br/>And the life that I now live in the flesh, <br/>I live by the faith of the Son of God, <br/>Who loves me, who loves me, and gave Himself for me.</lines>
+    </verse>
+  </lyrics>
+</song>

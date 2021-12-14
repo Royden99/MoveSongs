@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:51">
+  <properties>
+    <titles>
+      <title>He Is The Fairest Of Ten Thousand, O Yes</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is the fairest of ten thousand, O yes.<br/>He is the fairest of ten thousand, O yes.<br/>He is the fairest of ten thousand, and I love Him so.<br/>I love Him so; I love Him so; I love Him so.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is the Rose of Sharon, O yes.<br/>He is the Rose of Sharon, O yes.<br/>He is the Rose of Sharon, and I love Him so.<br/>I love Him so; I love Him so; I love Him so.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He is the Lily of the Valley, O yes.<br/>He is the Lily of the Valley, O yes.<br/>He is the Lily of the Valley, and I love Him so.<br/>I love Him so; I love Him so; I love Him so.</lines>
+    </verse>
+  </lyrics>
+</song>

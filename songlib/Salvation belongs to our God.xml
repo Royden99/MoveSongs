@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:15">
+  <properties>
+    <titles>
+      <title>Salvation belongs to our God</title>
+    </titles>
+    <authors>
+      <author>Adrian Howard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvation belongs to our God<br/>Who sits upon the throne,<br/>And unto the Lamb<br/>Be praise and glory,<br/>Wisdom and thanks<br/>Honour and power and strength</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be to our God<br/>Forever and ever,<br/>Be to our God<br/>Forever and ever,<br/>Be to our God<br/>Forever and ever, amen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And we, the redeemed, shall be strong<br/>In purpose and unity,<br/>Declaring aloud<br/>Praise and glory,<br/>Wisdom and thanks,<br/>Honour and power and strength</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be to our God<br/>Forever and ever,<br/>Be to our God<br/>Forever and ever,<br/>Be to our God<br/>Forever and ever, amen.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

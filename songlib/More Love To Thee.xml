@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:37">
+  <properties>
+    <titles>
+      <title>More Love To Thee</title>
+    </titles>
+    <authors>
+      <author>Elizabeth Prentiss William H. Doane</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>More love O Christ to Thee;<br/>More love to Thee,<br/>More love to Thee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>More love to Thee, O Christ,<br/>More love to Thee!<br/>Hear Thou the prayer,<br/>I make on bended knee.<br/>This is my earnest plea:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Once earthly joy I craved,<br/>Sought peace and rest.<br/>Now Thee alone I seek;<br/>Give what is best.<br/>This all my prayer shall be:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then shall my latest breath<br/>Whisper Thy praise.<br/>This be the parting cry<br/>My heart shall raise;<br/>This still my prayer shall be:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let sorrow do its work,<br/>Send grief and pain;<br/>Sweet are Thy messengers,<br/>Sweet their refrain,<br/>When they can sing with me:</lines>
+    </verse>
+  </lyrics>
+</song>

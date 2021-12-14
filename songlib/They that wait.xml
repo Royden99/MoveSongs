@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-02-13T17:43:56">
+  <properties>
+    <titles>
+      <title>They that wait</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They that wait upon the Lord <br/>Shall renew their strength.<br/>They shall mount up with wings as eagles. <br/>They shall run and not grow weary; <br/>They shall walk and not faint. <br/>Teach me Lord, teach me Lord to wait.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teach me Lord to wait, down on my knees.<br/>Till in Your own good time,<br/>You will answer my plea.<br/>Teach me not to rely on what others do,<br/>But to wait in prayer for the answer from You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Los que esperan en Jehova<br/>Nuevas fuerzas tendran </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alzaran sus alas como aguilas<br/>Correran sin fatigarse, caminaran sin desmayar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Enseñame oh Jehova a esperar.</lines>
+    </verse>
+  </lyrics>
+</song>

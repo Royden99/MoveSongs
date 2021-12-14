@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:05">
+  <properties>
+    <titles>
+      <title>holy is the Lord</title>
+    </titles>
+    <authors>
+      <author>Seth Baranoski</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy is the Lord our God who rules and reigns<br/>We come before You now to bless Your name<br/>Strong and mighty are You<br/>Powerful to save<br/>None can stand before without grace<br/>Alpha and Omega, author of all things<br/>Every knee shall bow to the King of Kings</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:19">
+  <properties>
+    <titles>
+      <title>To you who fear my name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To you who fear My name<br/>The Son of righteousness shall rise<br/>With healing in His wings;<br/>With healing in His wings.(2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And you shall skip about with joy<br/>Like calves led from the stall,<br/>And you shall tread the wicked down<br/>Thus saith the Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

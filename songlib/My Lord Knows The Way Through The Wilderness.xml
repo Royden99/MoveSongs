@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:41">
+  <properties>
+    <titles>
+      <title>My Lord Knows The Way Through The Wilderness</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My Lord knows the way through the wilderness.<br/>All I have to do is follow.<br/>My Lord knows the way through the wilderness.<br/>All I have to do is follow.<br/>Strength for today, is mine all the way,<br/>And all I need for tomorrow.<br/>My Lord knows the way through the wilderness.<br/>All I have to do is follow.</lines>
+    </verse>
+  </lyrics>
+</song>

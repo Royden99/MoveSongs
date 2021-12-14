@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:55">
+  <properties>
+    <titles>
+      <title>Hear My Cry, O God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear my cry, O God.<br/>Attend unto my prayer.<br/>From the ends of the earth will I cry unto Thee.<br/>When my heart is overwhelmed,<br/>Lead me to the Rock.<br/>Lead me to the Rock that is higher than I. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oye Oh Dios mi clamor y a mi oración atiende<br/>Desde el cabo de la tierra clamaré yo a ti <br/>Cuando desmayare mi corazón, llévame a la roca <br/>A la roca que es más alta que yo </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque tu me esconderás en tu tabernáculo <br/>Me ocultarás en lo reservado de tu morada <br/>Cuando desmayare mi corazón, llévame a la roca,<br/>A la roca que es más alta que yo</lines>
+    </verse>
+  </lyrics>
+</song>

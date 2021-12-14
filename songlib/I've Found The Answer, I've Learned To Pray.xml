@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:58">
+  <properties>
+    <titles>
+      <title>I've Found The Answer, I've Learned To Pray</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found the answer, I've learned to pray.<br/>With faith to guide me, I've found the way.<br/>The sun is shining for me each day.<br/>I've found the answer, I've learned to pray.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I was weak and weary, I had gone astray.<br/>Walking in the darkness, I could not find my way.<br/>Jesus came and found me, brought new life within,<br/>Led me out of darkness, and took away my sins.</lines>
+    </verse>
+  </lyrics>
+</song>

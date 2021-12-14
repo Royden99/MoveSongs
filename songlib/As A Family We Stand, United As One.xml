@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:51">
+  <properties>
+    <titles>
+      <title>As A Family We Stand, United As One</title>
+    </titles>
+    <authors>
+      <author>Paul Beebe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a family we stand, united as one,<br/>Hearts knit together by His love alone,<br/>Each one supplying a part for the whole,<br/>In sharing His love, our joy is made full.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

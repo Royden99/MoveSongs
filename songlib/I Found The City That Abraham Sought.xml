@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:17">
+  <properties>
+    <titles>
+      <title>I Found The City That Abraham Sought</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I found the city that Abraham sought,<br/>I found the city of God;<br/>I found the people that Jesus has bought,<br/>I found the city of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No shadow of turning, no day nor night,<br/>On streets paved with gold I've trod;<br/>For I live in that city where the Lamb is the light,<br/>I found the city of God.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

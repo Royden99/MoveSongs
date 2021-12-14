@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:17">
+  <properties>
+    <titles>
+      <title>I get so excited, Lord, every time I realise</title>
+    </titles>
+    <authors>
+      <author>Mike Ray</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I get so excited, Lord, every time I realise<br/>I'm forgiven, I'm forgiven.<br/>Jesus Lord, You've done it all, You've paid the price.<br/>I'm forgiven, I'm forgiven.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah, Lord, my heart just fills with praise;<br/>My feet start dancing, My hands rise up,<br/>And my lips they bless Your name.<br/>I'm forgiven, I'm forgiven, I'm forgiven. (x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Living in Your presence, Lord, is life itself.<br/>I'm forgiven, I'm forgiven.<br/>With the past behind, grace for today and a hope to come<br/>I'm forgiven, I'm forgiven.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

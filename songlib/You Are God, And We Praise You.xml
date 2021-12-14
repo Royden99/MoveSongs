@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:03">
+  <properties>
+    <titles>
+      <title>You Are God, And We Praise You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are God, and we praise You<br/>You are God; we acclaim You.<br/>You are eternal Father, all creation worships You.<br/>All creation worships You, AMEN.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eres Dios, y te alabamos.Eres Dios y te aclamamos.Eres eterno padre.Te adora la creación.Te adora la creación, Amén. </lines>
+    </verse>
+  </lyrics>
+</song>

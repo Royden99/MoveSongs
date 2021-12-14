@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:31">
+  <properties>
+    <titles>
+      <title>Lord, You've Really Been Good To Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, You've really been good to me! <br/>Lord, You've really been good to me! <br/>You've taken my burdens and You set me free! <br/>You've really been good to me! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I want to thank You for all You've done; <br/>You rescued and You ransomed me. <br/>My life was all in pieces but You made it one. <br/>You've really been good to me.</lines>
+    </verse>
+  </lyrics>
+</song>

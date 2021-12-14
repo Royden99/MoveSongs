@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:06">
+  <properties>
+    <titles>
+      <title>Jesus, Jesus, Jesus</title>
+    </titles>
+    <authors>
+      <author>William J. Gaither/ Gloria Gaither</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Jesus, Jesus,<br/>There's just something about that name.<br/>Master, Saviour, Jesus,<br/>Like the fragrance after the rain.<br/>Jesus, Jesus, Jesus,<br/>Let all heaven and earth proclaim;<br/>Kings and kingdoms will all pass away<br/>But there's something about that name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:47">
+  <properties>
+    <titles>
+      <title>When I'm In The Spirit, I Am The Voice Of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I'm in the Spirit, I am the voice of God<br/>When I'm in the Spirit, heaven's courts I trod<br/>When I'm in the Spirit, the city I can see<br/>When I'm in the Spirit, He's glorified in me. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, help me walk in the Spirit<br/>Lord, help me talk in the Spirit<br/>Lord, help me live in the Spirit<br/>In that city that is built for me. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I'm in the Spirit, I am a corporate man<br/>When I'm in the Spirit, I'm God's redemptive plan<br/>When I'm in the Spirit, I'm a child of liberty<br/>When I'm in the Spirit, I'll set creation free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Andando en el Espíritu, yo soy la voz de Dios.<br/>Andando en el Espíritu, por los cielos voy.<br/>Andando en el Espíritu, la ciudad yo puedo ver.<br/>Andando en el Espíritu, se glorifica Él.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh Señor, hazme andar en el Espíritu.<br/>Oh Señor, hazme hablar en el Espíritu.<br/>Oh Señor, hazme vivir en el Espíritu,<br/>En la ciudad hecha para mí.</lines>
+    </verse>
+  </lyrics>
+</song>

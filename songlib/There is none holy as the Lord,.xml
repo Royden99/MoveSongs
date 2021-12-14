@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:01">
+  <properties>
+    <titles>
+      <title>There is none holy as the Lord,</title>
+    </titles>
+    <authors>
+      <author>Gary Garrett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is none holy as the Lord,<br/>There is none beside Thee;<br/>Neither is there any Rock like our God,<br/>There is none holy as the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

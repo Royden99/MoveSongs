@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:11">
+  <properties>
+    <titles>
+      <title>Redeemed, how I love to proclaim it!</title>
+    </titles>
+    <authors>
+      <author>Fanny J. Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Redeemed, how I love to proclaim it!<br/>Redeemed by the blood of the Lamb;<br/>Redeemed through His infinite mercy,<br/>His child and forever I am.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Redeemed, redeemed,<br/>Redeemed by the blood of the Lamb;<br/>Redeemed, redeemed,His child and forever I am.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Redeemed, and so happy in Jesus,<br/>No language my rapture can tell;<br/>I know that the light of His presence<br/>With me doth continually dwell.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I think of my blessed Redeemer,<br/>I think of Him all the day long:<br/>I sing, for I cannot be silent;<br/>His love is the theme of my song.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I know I shall see in His beauty,<br/>The King in whose law I delight,<br/>Who lovingly guardeth my footsteps,<br/>And giveth me songs in the night.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I know there's a crown that is waiting,<br/>In yonder bright mansion for me,<br/>And soon, with the spirits made perfect,<br/>At home with the Lord I shall be.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

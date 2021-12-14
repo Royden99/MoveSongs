@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:25">
+  <properties>
+    <titles>
+      <title>I See You As Perfect; I See You As Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see you as perfect; I see you as holy<br/>I see you through the eyes of the Spirit of God<br/>I see you as the Father sees.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see my brother as perfect; I see my brother as holy<br/>I see my brother through the eyes of the Spirit of God<br/>I see my brother as the Father sees. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>I see my sister as perfect; I see my sister as holy<br/>I see my sister through the eyes of the Spirit of God<br/>I see my sister as the Father sees. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yo veo a mi hermano perfecto<br/>Yo veo a mi hermano santo<br/>Lo veo con los ojos del Espíritu de Dios<br/>Yo lo veo como el Padre lo ve.</lines>
+    </verse>
+  </lyrics>
+</song>

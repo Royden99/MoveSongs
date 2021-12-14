@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:23">
+  <properties>
+    <titles>
+      <title>Sin Santidad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Sin santidad nadie verá al Señor/(2) <br/>Pero yo se, que le veré <br/>Que le veré, que le veré <br/>Y con su Espíritu <br/>Me santifica El </lines>
+    </verse>
+  </lyrics>
+</song>

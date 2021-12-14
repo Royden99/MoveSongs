@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:23">
+  <properties>
+    <titles>
+      <title>Turn Your Eyes Upon Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>Turn your eyes upon Jesus, <br/>Look full in His wonderful face, <br/>And the things of earth, <br/>Will grow strangely dim, <br/>In the light of His glory and grace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O soul, are you weary and troubled?<br/>No light in the darkness you see?<br/>There’s light for a look at the Savior,<br/>And life more abundant and free!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through death into life everlasting<br/>He passed, and we follow Him there;<br/>O’er us sin no more hath dominion—<br/>For more than conqu’rors we are!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His Word shall not fail you—He promised;<br/>Believe Him, and all will be well:<br/>Then go to a world that is dying,<br/>His perfect salvation to tell! </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fija tus ojos en Cristo, <br/>Tan lleno de gracia y amor, <br/>Y lo terrenal, sin valor sera.<br/>A la luz del glorioso Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

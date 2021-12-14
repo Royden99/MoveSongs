@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:22">
+  <properties>
+    <titles>
+      <title>Si Salvo Soy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Si salvo soy, por su gran amor <br/>Oh gloria, gloria El me salvó <br/>Y todo a El, consagro hoy <br/>/si salvo soy/(2) </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:55">
+  <properties>
+    <titles>
+      <title>Oh, How Lovely Are Your Dwellings</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, how lovely are Your dwellings.<br/>My soul longs for the courts of the Lord.<br/>Oh, how lovely are Your dwellings.<br/>My heart sings for joy to the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How blessed is he whose strength is in Thee,<br/>Whose heart is a highway to Zion.<br/>How blessed is he whose strength is in Thee,<br/>For he shall behold Thee in Zion.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And he shall go from strength unto strength,<br/>Beholding the Lord as his sun and shield.<br/>And he shall go from strength unto strength,<br/>Beholding the Lord as his glory.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:45">
+  <properties>
+    <titles>
+      <title>A Merry Heart Doeth Good Like A Medicine</title>
+    </titles>
+    <authors>
+      <author>© 1976 Scripture in Song</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A merry heart doeth good like a medicine,<br/>Like a medicine is a merry heart;<br/>A broken spirit drieth up the bones,<br/>But a merry heart is the joy of the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

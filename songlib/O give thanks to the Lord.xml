@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:48">
+  <properties>
+    <titles>
+      <title>O give thanks to the Lord</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O give thanks to the Lord<br/>For His love will never end<br/>O give thanks to the Lord<br/>For His love it never will end</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sing to Him, sing your praise to Him<br/>Tell the world of all He has done<br/>Fill the nations with celebrations<br/>To welcome Him as He comes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give Him thanks for the fruitful earth<br/>For the sun, the seasons, the rain<br/>For the joys of His good creation<br/>The life and breath He sustains</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let the heavens rejoice before Him<br/>The earth and all it contains<br/>All creation in jubilation<br/>Join in the shout "The Lord reigns!"</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let the hearts of those who seek Him<br/>Be happy now in His love<br/>Let their faces look up and gaze<br/>At His gracious smile from above<br/></lines>
+    </verse>
+  </lyrics>
+</song>

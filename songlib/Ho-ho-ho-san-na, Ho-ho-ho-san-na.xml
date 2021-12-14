@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:02">
+  <properties>
+    <titles>
+      <title>Ho-ho-ho-san-na, Ho-ho-ho-san-na</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ho, hosanna!  Ho, hosanna!<br/>Ho, hosanna!  Jesus is the King.<br/>Ho, hosanna!  Ho, hosanna!<br/>Ho, hosanna!  Jesus is the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We lift You up, O Lord,<br/>For You are marvellous;<br/>Let all the nations worship You.<br/>We lift You up, O Lord,<br/>For You are marvellous;<br/>Exalt Him, all ye saints.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh sing praises to the Lord<br/>Blessed be the name of our God (x2)<br/></lines>
+    </verse>
+  </lyrics>
+</song>

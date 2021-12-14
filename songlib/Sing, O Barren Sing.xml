@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:24">
+  <properties>
+    <titles>
+      <title>Sing, O Barren Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing, O barren, sing, thou who didst not bear,<br/>You shall have a song for all men everywhere;<br/>A river of life within is flowing out to say:<br/>Sing, O barren, sing, for this is God's new day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And a nation shall be born in a day,<br/>A nation shall be born in a day,<br/>When Zion travails she shall bring forth<br/>And a nation shall be born in a day.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:13">
+  <properties>
+    <titles>
+      <title>Come Ye Thankful People Come</title>
+    </titles>
+    <authors>
+      <author>Henry Alford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, ye thankful people come,<br/>Raise the song of harvest-home!<br/>All be safely gathered in,<br/>Ere the winter storms begin.<br/>God, our Maker, doth provide<br/>For our wants to be supplied;<br/>Come to God's own temple, come:<br/>Raise the song of harvest-home!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All this world is God's own field,<br/>Fruit unto his praise to yield;<br/>Wheat and tares together sown,<br/>Unto joy or sorrow grown.<br/>First the blade and then the ear,<br/>Then the full corn shall appear.<br/>Lord of harvest, grant that we<br/>Wholesome grain and pure may be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the Lord our God shall come,<br/>And shall take his harvest home:<br/>From his field shall purge away<br/>All that doth offend to-day;<br/>Give his angels charge at last<br/>In the fire the tares to cast,<br/>But the fruitful ears to store<br/>In his barn for evermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then, thou Church triumphant, come,<br/>Raise the song of harvest-home;<br/>All be safely gathered in,<br/>Free from sorrow, free from sin.<br/>There for ever purified<br/>In God's garner to abide,<br/>Come, ten thousand angels, come,<br/>Raise the glorious harvest-home!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

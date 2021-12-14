@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:45">
+  <properties>
+    <titles>
+      <title>A New Name In Glory</title>
+    </titles>
+    <authors>
+      <author>C. Austin Miles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's a new name<br/>Written down in glory,<br/>And it's mine.<br/>O yes, it's mine!<br/>And the white-robed<br/>Angels sing the story,<br/>"A sinner has come home."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For there's a new name<br/>Written down in glory,<br/>And it's mine,<br/>O yes it's mine.<br/>With my sins forgiven<br/>I am bound for heaven,<br/>Nevermore to roam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I was once a sinner, but I came<br/>Pardon to receive from my Lord.<br/>This was freely given, and I found<br/>That He always kept His word.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I was humbly kneeling at the Cross,<br/>Fearing naught but God's angry frown,<br/>When the heavens opened and I saw<br/>That my name was written down.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In the Book 'tis written<br/>"Saved by grace."<br/>O the joy that came to my soul!<br/>Now I am forgiven and I know,<br/>By the blood I am made whole.</lines>
+    </verse>
+  </lyrics>
+</song>

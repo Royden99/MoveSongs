@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:42">
+  <properties>
+    <titles>
+      <title>I'm Goin' Home</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>I'm goin' home.<br/>Going back to the bosom of my Father.<br/>He's callin' me; He's callin' me<br/>Up to the fountain of the waters.<br/>As the salmon returns from the sea,<br/>He's callin' me; He's callin' me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Comin' out of the salt of the sea,<br/>Pressin' on through the strength of the stream,<br/>Past the fowls of the air,<br/>And the hungry bear,<br/>He's callin' me; He's callin' me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Goin' back through the veil of the flesh,<br/>Through the fire to purge out the dross.<br/>The way of the cross,<br/>Counting all else as loss.<br/>He's callin' me; He's callin' me.</lines>
+    </verse>
+  </lyrics>
+</song>

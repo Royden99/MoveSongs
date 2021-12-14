@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:01">
+  <properties>
+    <titles>
+      <title>His Favor Is In My Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His favor is in my life<br/>Weeping may endure for a night.<br/>But know, always know, that God is in control<br/>And joy cometh in the morning.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you in a situation that's impossible?<br/>Is there darkness just as far as you can see?<br/>Just hold on a little longer, put your trust in father God.<br/>In the morning you will see a victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've got joy in my soul, for God is in control.<br/>He's come through when my heart's been in despair.<br/>He's almighty and supreme, beyond what I could dream.<br/>He is the God who always answers prayer. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Su favor dura toda la vida<br/>Y el lloro durará en la noche<br/>Pero sabéis, si sabéis<br/>Que Dios tiene control<br/>Y su gozo llega en la mañana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Si estás en situaciones imposibles<br/>Y oscuridad es todo lo que puedes ver<br/>Resiste un poco más y confía en el Señor <br/>En la mañana, la victoria nos dará.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hay gozo en mi alma <br/>Pues Dios tiene control <br/>El me habla cuando desmayado estoy <br/>El es fuerza poderosa, más allá de todo ser<br/>El es Dios que oye la oración.</lines>
+    </verse>
+  </lyrics>
+</song>

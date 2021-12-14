@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:54">
+  <properties>
+    <titles>
+      <title>It's a-coming, oh hallelujah!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's a-coming, oh hallelujah!<br/>The ark is coming down the road. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>King David danced before the Lord,<br/>The ark is coming down the road,<br/>On his kinsfolk it was hard,<br/>The ark is coming down the road.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

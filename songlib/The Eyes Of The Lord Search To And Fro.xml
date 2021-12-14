@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:44">
+  <properties>
+    <titles>
+      <title>The Eyes Of The Lord Search To And Fro</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The eyes of the Lord search to and fro,<br/>Throughout the world of our hearts,<br/>Looking for someone<br/>Who longs to live with Him,<br/>In righteousness, in majesty,<br/>With voices raised to sing.<br/>Chorus:<br/>Holy, holy, holy is the Lord.<br/>Holy, holy, holy is the Lord.<br/>(Substitute Worthy and Jesus for Holy.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The heart of the heavenly Father<br/>Seeks in every man<br/>One who will worship in Spirit and truth,<br/>Living their whole life<br/>Surrendered only to Him,<br/>In righteousness, in purity,<br/>With voices raised to sing.</lines>
+    </verse>
+  </lyrics>
+</song>

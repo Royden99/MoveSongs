@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-23T03:04:59">
+  <properties>
+    <titles>
+      <title>We have an Anchor</title>
+    </titles>
+    <authors>
+      <author>Melody Moore</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are troubled on every side - but not distressed<br/>Bewildered and confused - but not in despair<br/>Persecuted and pursued - we don't stand alone<br/>We are struck down to the ground - but not overcome!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have an anchor, sure and steadfast<br/>Secure in the Presence of our God<br/>It will not give way in the tempest<br/>We hold fast to this hope; it is our anchor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Why so downcast, o my soul? -  Hope in God!<br/>Be of good courage - He will stengthen your heart<br/>Do not listen to the fears - let faith arise<br/>Hold on to your confidence - firm 'til the end</lines>
+    </verse>
+  </lyrics>
+</song>

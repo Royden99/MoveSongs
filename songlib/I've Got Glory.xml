@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:58">
+  <properties>
+    <titles>
+      <title>I've Got Glory</title>
+    </titles>
+    <authors>
+      <author>Whitestone Farms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got glory comin' at me from<br/>both sides.<br/>I've got glory fl owin' over me in tides.<br/>I've got glory shinin' on me like<br/>sunshine, it seems<br/>And it's You, my Father, beloved guide.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We speak His Word throughout the land<br/>As we sit at His right hand<br/>Our names are written in the book with His blood.<br/>As we move in unity,<br/>We shall set the captives free<br/>And we long to hear the words,<br/>“Well done, my son.”</lines>
+    </verse>
+  </lyrics>
+</song>

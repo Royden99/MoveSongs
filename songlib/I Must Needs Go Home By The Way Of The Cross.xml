@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:23">
+  <properties>
+    <titles>
+      <title>I Must Needs Go Home By The Way Of The Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I must needs go home by the way of the cross.<br/>There's no other way but this.<br/>I will ne'er gain sight of the gates of light,<br/>If the way of the cross I miss.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, the way of the cross leads home. (2x)<br/>It is sweet to know, as I onward go,<br/>The way of the cross leads home.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So I bid farewell to the ways of the world,<br/>To walk in them nevermore.<br/>For He bids me come, and I seek my home,<br/>Where He stands at the open door.</lines>
+    </verse>
+  </lyrics>
+</song>

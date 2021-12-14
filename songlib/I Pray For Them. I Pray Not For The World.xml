@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:24">
+  <properties>
+    <titles>
+      <title>I Pray For Them. I Pray Not For The World</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I pray for them. I pray not for the world,<br/>But for them which Thou has given me.<br/>(Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For all mine are Thing,<br/>And all Thine are mine.<br/>And mine are Thine and Thine are mine.<br/>(Repeat.)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I am glorified in them,<br/>That they may be one.<br/>I am glorified in them.</lines>
+    </verse>
+  </lyrics>
+</song>

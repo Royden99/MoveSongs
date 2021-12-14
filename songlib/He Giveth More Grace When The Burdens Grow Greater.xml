@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:49">
+  <properties>
+    <titles>
+      <title>He Giveth More Grace When The Burdens Grow Greater</title>
+    </titles>
+    <authors>
+      <author>Annie Johnson Flint</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>His love has no limit, His grace has no measure,<br/>His power has no boundary known unto men;<br/>For out of His infinite riches in Jesus,<br/>He giveth and giveth and giveth again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He giveth more grace as our burdens grow greater,<br/>He sendeth more strength as our labors increase;<br/>To added afflictions He addeth His mercy,<br/>To multiplied trials He multiplies peace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When we have exhausted our store of endurance,<br/>When our strength has failed ere the day is half done,<br/>When we reach the end of our hoarded resources<br/>Our Father’s full giving is only begun.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fear not that thy need shall exceed His provision,<br/>Our God ever yearns His resources to share;<br/>Lean hard on the arm everlasting, availing;<br/>The Father both thee and thy load will upbear.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

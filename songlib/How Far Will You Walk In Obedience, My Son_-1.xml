@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:08">
+  <properties>
+    <titles>
+      <title>How Far Will You Walk In Obedience, My Son?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How far will you walk in obedience, my son?<br/>All the way, all the way to the cross.<br/>I desire Thy will and not my own,<br/>All the way, all the way to the cross.<br/>My steps are ordered and planned by Thee.<br/>You know the way that I cannot see.<br/>Hold my hand, Lord, and walk with me,<br/>All the way, all the way to the cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How far will you walk in submission, my son? etc.<br/>How far will you walk in the wilderness, my son? etc.<br/>How far will you walk in forgiveness, my son? etc.</lines>
+    </verse>
+  </lyrics>
+</song>

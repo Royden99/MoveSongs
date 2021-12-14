@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:25">
+  <properties>
+    <titles>
+      <title>Every tongue in heaven and earth</title>
+    </titles>
+    <authors>
+      <author>Jamie Harvall/Gary Sadler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Every tongue in heaven and earth<br/>Shall declare Your glory,<br/>Every knee shall bow<br/>At Your throne in worship,<br/>You will be exalted, O God,<br/>And Your kingdom shall not pass away,<br/>O Ancient of Days.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessing and honour, glory and power<br/>Be unto the Ancient of Days,<br/>From every nation, all of creation,<br/>Bow before the Ancient of Days.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>BRIDGE<br/>Your kingdom shall reign<br/>Over all the earth,<br/>Sing unto the Ancient of Days,<br/>For none can compare<br/>To Your matchless worth,<br/>Sing unto the Ancient of Days,<br/></lines>
+    </verse>
+  </lyrics>
+</song>

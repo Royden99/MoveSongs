@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:36">
+  <properties>
+    <titles>
+      <title>I Will Sing To The Lord</title>
+    </titles>
+    <authors>
+      <author>Cherie Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing unto the Lord<br/>For He has dealt bountifully with me,<br/>He hath dealt bountifully with me,<br/>I will sing unto the Lord.<br/>I have trusted in Thy love,<br/>My heart shall rejoice in Thy salvation,<br/>I will sing, I will sing unto the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

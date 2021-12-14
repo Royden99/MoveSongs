@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:47">
+  <properties>
+    <titles>
+      <title>In My Heart There Is A Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In my heart there is a song that will not die,<br/>Even through the chilling fear and lonely night.<br/>I'll hold the hope until the end,<br/>That the dawn will bring a day of endless light.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my heart I sing a song that fills the night.<br/>Even through the weeping hours it gives me light<br/>To hold to the promise of my God,<br/>That he who sows in tears will reap in joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

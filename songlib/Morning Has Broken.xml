@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:37">
+  <properties>
+    <titles>
+      <title>Morning Has Broken</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Morning has broken, like the first morning.<br/>Blackbird has spoken, like the first bird.<br/>Praise for the singing, praise for the morning,<br/>Praise for them springing fresh from the Word.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sweet the rain's new fall, sunlit from heaven<br/>Like the first dewfall, on the first grass<br/>Praise for the sweetness of the wet garden<br/>Sprung in completeness where His feet pass</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mine is the sunlight, mine is the morning<br/>Born of the one light, Eden saw play<br/>Praise with elation, praise every morning<br/>God's recreation of the new day</lines>
+    </verse>
+  </lyrics>
+</song>

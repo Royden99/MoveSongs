@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:17">
+  <properties>
+    <titles>
+      <title>I Give You My Heart</title>
+    </titles>
+    <authors>
+      <author>Morgan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my desire, to honor You.<br/>Lord, with all my heart, I worship You.<br/>All I have within me, I give You praise.<br/>All that I adore is in You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord, I give You my heart;<br/>I give You my soul; I live for You alone.<br/>Every breath that I take, every moment I'm awake,<br/>Lord, have Your way in me. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Este es mi deseo <br/>Honrarte a ti<br/>Con todo mi corazón<br/>Adorarte a ti<br/>Con todo lo que hay en mi<br/>Te alabo Señor<br/>Todo lo adorable que está en ti </lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Te entrego mi corazón<br/>Mi alma yo te doy<br/>Yo vivo sólo por ti<br/>Cada vez que respiro<br/>Cada vez que me despierto<br/>Haz tu voluntad en mi/ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

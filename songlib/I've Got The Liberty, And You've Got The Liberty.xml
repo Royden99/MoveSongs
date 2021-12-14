@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:59">
+  <properties>
+    <titles>
+      <title>I've Got The Liberty, And You've Got The Liberty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got the liberty, and you've got the liberty<br/>We've all got the liberty now<br/>Jesus to me has spoken, my chains of sin are broken<br/>I've got the liberty now<br/>I've got the liberty, and you've got the liberty<br/>We've all got the liberty now. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got salvation, and you've got salvation<br/>We've all got salvation now<br/>Jesus to me has spoken, my chains of sin are broken<br/>I've got the salvation now<br/>I've got the salvation, and you've got the salvation<br/>We've all got the salvation now. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>I've got the victory, and you've got the victory<br/>We've all got the victory now<br/>Jesus to me has spoken, my chains of sin are broken<br/>I've got the victory now<br/>I've got the victory, and you've got the victory<br/>We've all got the victory now. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've got the vision, and you've got the vision<br/>We've all got the vision now<br/>Jesus to me has spoken, my chains of sin are broken<br/>I've got the vision now<br/>I've got the vision, and you've got the vision<br/>We've all got the vision now.</lines>
+    </verse>
+  </lyrics>
+</song>

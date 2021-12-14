@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:47">
+  <properties>
+    <titles>
+      <title>The life of Jesus Christ in you will rise again</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The life of Jesus Christ in you will rise again,<br/>The life of Jesus Christ in me will rise again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though floods may seem to drown it,<br/>And the fires of hell surround it,<br/>Though it may seem buried in a tomb,<br/>It can't stay down.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For it will rise again, it will rise again,<br/>Higher than the sun, it will rise;<br/>It will rise again, it will rise again,<br/>Higher than the stars in the sky;<br/>It can't stay down.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

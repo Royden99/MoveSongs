@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:15">
+  <properties>
+    <titles>
+      <title>I come before You today</title>
+    </titles>
+    <authors>
+      <author>Don Moen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I come before You today<br/>And there's just one thing that I want to say:<br/>Thank You, Lord,<br/>Thank You, Lord.<br/>For all You've given to me,<br/>For all the blessings that I cannot see,<br/>Thank You, Lord,<br/>Thank You, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With a grateful heart,<br/>With a song of praise,<br/>With an outstretched arm<br/>I will bless Your name:<br/>Thank You, Lord,<br/>I just want to thank You, Lord,<br/>Thank You, Lord,<br/>I just want to thank You, Lord,<br/>Thank You, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For all You've done in my life;<br/>You took my darkness and gave me Your light,<br/>Thank You, Lord,<br/>Thank You, Lord.<br/>You took my sin and my shame,<br/>You took my sickness and healed all my pain,<br/>Thank You, Lord,<br/>Thank You, Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

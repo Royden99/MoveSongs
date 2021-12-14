@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:05">
+  <properties>
+    <titles>
+      <title>You are the King of glory,</title>
+    </titles>
+    <authors>
+      <author>Mavis Ford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the King of glory,<br/>You are the Prince of Peace,<br/>You are the Lord of heaven and earth,<br/>You're the Sun of righteousness;<br/>Angels bow down before You,<br/>Worship and adore, for<br/>You have the words of eternal life<br/>You are Jesus Christ, the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna to the Son of David!<br/>Hosanna to the King of kings!<br/>Glory in the highest heaven<br/>For Jesus, the Messiah, reigns!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

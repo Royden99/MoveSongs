@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:57">
+  <properties>
+    <titles>
+      <title>Be Ye Holy As I Am Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Be ye holy as I am holy.<br/>Be ye holy as I am holy.<br/>Be separated unto Me<br/>Touch not the unclean thing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will receive you,<br/>And I will be a Father unto you,<br/>And ye shall be My family,<br/>Saith the Lord Almighty,<br/>Saith the Lord Almighty.</lines>
+    </verse>
+  </lyrics>
+</song>

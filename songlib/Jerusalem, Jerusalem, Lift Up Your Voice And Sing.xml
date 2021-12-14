@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:00">
+  <properties>
+    <titles>
+      <title>Jerusalem, Jerusalem, Lift Up Your Voice And Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jerusalem, Jerusalem, lift up your voice and sing<br/>Hosannah, in the highest, hosannah to your King.<br/>Jerusalem, Jerusalem, sing for the night is o'er.<br/>Hosannah in the highest, Hosannah forever more.</lines>
+    </verse>
+  </lyrics>
+</song>

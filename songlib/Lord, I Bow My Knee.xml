@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:28">
+  <properties>
+    <titles>
+      <title>Lord, I Bow My Knee</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, I bow my knee;<br/>Grant me the grace to yield to Thee.<br/>For Thy way is right; Thy way is peace.<br/>I'm willing, willing to be yielded to Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:18">
+  <properties>
+    <titles>
+      <title>Dios Toma Mi Vida</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Dios toma mi vida <br/>Haz que en ti pueda esperar <br/>Que la noche de angustia <br/>Pueda soportar en ti/ (2) <br/>/Esfuerza mi alma <br/>Levanta mi vista para ir más allá <br/>Pues toda mi confianza en ti está Señor/ (2) </lines>
+    </verse>
+  </lyrics>
+</song>

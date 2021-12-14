@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:55">
+  <properties>
+    <titles>
+      <title>It's The Hour To Be Standing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It's the hour to be standing<br/>In Gethsemane.<br/>It's the hour to cry out,<br/>My Father I come to Thee.<br/>Not my will be done,<br/>But Thy will be done.<br/>I want to reach that final hour,<br/>And overcome.</lines>
+    </verse>
+  </lyrics>
+</song>

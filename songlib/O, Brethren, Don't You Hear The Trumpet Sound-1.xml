@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:51">
+  <properties>
+    <titles>
+      <title>O, Brethren, Don't You Hear The Trumpet Sound</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, Brethren, don't you hear the trumpet sound<br/>Bringing liberty to every man that hath been bound?<br/>Don't you hear, can't you see?<br/>It's the year of Jubilee!<br/>Wave your branches high and set the captives free.</lines>
+    </verse>
+  </lyrics>
+</song>

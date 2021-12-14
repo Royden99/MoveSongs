@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:48">
+  <properties>
+    <titles>
+      <title>When the valley is deep,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When the valley is deep,<br/>When the mountain is steep,<br/>When the body is weary,<br/>When we stumble and fall,<br/>When the choices are hard,<br/>When we're battered and scarred,<br/>When we've spent our resources,<br/>When we've given our all</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Jesus' name, we press on,<br/>In Jesus' name, we press on.<br/>Dear Lord, with the prize<br/>Clear before our eyes,<br/>We find the strength to press on.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

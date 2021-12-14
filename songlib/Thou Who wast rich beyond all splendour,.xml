@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:15">
+  <properties>
+    <titles>
+      <title>Thou Who wast rich beyond all splendour,</title>
+    </titles>
+    <authors>
+      <author>F. Houghton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thou Who wast rich beyond all splendour,<br/>All for love's sake becamest poor;<br/>Thrones for a manger didst surrender<br/>Sapphire-paved courts for stable floor.<br/>Thou Who wast rich beyond all splendour,<br/>All for love's sake becamest poor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thou Who art God beyond all praising,<br/>All for love's sake becamest Man;<br/>Stooping so low, but sinners raising<br/>Heav'nwards by Thine eternal plan.<br/>Thou Who art God beyond all praising,<br/>All for love's sake becamest Man.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thou Who art love beyond all telling,<br/>Saviour and King, we worship Thee.<br/>Emmanuel, within us dwelling,<br/>Make us what Thou wouldst have us be.<br/>Thou Who art love beyond all telling,<br/>Saviour and King, we worship Thee.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

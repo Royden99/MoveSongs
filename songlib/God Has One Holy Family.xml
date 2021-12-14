@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:35">
+  <properties>
+    <titles>
+      <title>God Has One Holy Family</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God has one Holy family.<br/>God has one Holy family.<br/>God has one Holy family.<br/>And we are the members in particular.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God has one royal priesthood...<br/>God has one Holy manchild...<br/>God has one Holy nation...<br/>God has one first-fruit company... </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dios tiene una familia santa.<br/>Dios tiene una familia santa.<br/>Dios tiene una familia santa,<br/>y somos miembros cada uno<br/>Dios tiene una tierra santa…<br/>Dios tiene un cuerpo santo…</lines>
+    </verse>
+  </lyrics>
+</song>

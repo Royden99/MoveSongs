@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:59">
+  <properties>
+    <titles>
+      <title>Our God - Chris Tomin</title>
+    </titles>
+    <authors>
+      <author>Chris Tomin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Water you turned into wine<br/>Opened the eyes of the blind<br/>there's no one like you, none like you<br/>Into the darkness you shine<br/>Out of the ashes we rise<br/>There's no one like you, none like you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our God is greater, Our God is stronger<br/>God you are higher than any other<br/>Our God is healer, awesome in power, Our God, Our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And if our God is for us, then who could ever stop us<br/>And if our God is with us, then what could stand against</lines>
+    </verse>
+  </lyrics>
+</song>

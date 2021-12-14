@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:11">
+  <properties>
+    <titles>
+      <title>King David Danced Before The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>King David danced before the Lord x3<br/>On his kinsfolk it was hard,<br/>All my sins are taken away.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my sins are taken away x3<br/>I'm rejoicing night and day,<br/>All my sins are taken away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The ark is coming down the road x3<br/>Coming back to its abode,<br/>All my sins are taken away.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The praises go before the sword x3<br/>For the battle is the Lord's,<br/>All my sins are taken away.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I'm not going to listen to any more lies x3<br/>There's no room for compromise,<br/>All my sins are taken away.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There's only room for the Word of the Lord x3<br/>And the cutting of His sword,<br/>All my sins are taken away.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

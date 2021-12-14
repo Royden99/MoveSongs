@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:18">
+  <properties>
+    <titles>
+      <title>Tis the Church triumphant singing,</title>
+    </titles>
+    <authors>
+      <author>John Kent (1766-1843)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tis the Church triumphant singing,<br/>Worthy the Lamb;<br/>Heav'n throughout with praises ringing,<br/>Worthy the Lamb.<br/>Thrones and pow'rs before Him bending,<br/>Odors sweet with voice ascending<br/>Swell the chorus never ending,<br/>Worthy the Lamb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every kindred, tongue and nation,<br/>Worthy the Lamb;<br/>Join to sing the great salvation,<br/>Worthy the Lamb.<br/>Loud as mighty thunders roaring,<br/>Floods of mighty waters pouring,<br/>Prostrate at His feet adoring,<br/>Worthy the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Harps and songs forever sounding,<br/>Worthy the Lamb;<br/>Mighty grace o'er sin abounding,<br/>Worthy the Lamb.<br/>By His blood He dearly bought us;<br/>Wand'ring from the fold He sought us,<br/>And to glory safely brought us;<br/>Worthy the Lamb.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing with blest anticipation<br/>Worthy the Lamb;<br/>Through the vale of tribulation,<br/>Worthy the Lamb.<br/>Sweetest notes, all notes excelling,<br/>On the theme forever dwelling,<br/>Still untold, though ever telling,<br/>Worthy the Lamb.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

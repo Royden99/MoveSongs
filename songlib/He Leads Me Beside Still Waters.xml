@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:52">
+  <properties>
+    <titles>
+      <title>He Leads Me Beside Still Waters</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>He leads me beside still waters<br/>Somewhere in the valley below.<br/>He draws me aside<br/>To be tested and tried,<br/>But in the valley He restoreth my soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I'm low in spirit<br/>I cry, Lord, lift me up.<br/>I want to go higher with Thee.<br/>But the Lord knows I can't live on the mountain.<br/>So He picked out a valley for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It's dark as a dungeon<br/>And the sun doesn't shine,<br/>And I question, Lord, why must this be?<br/>Then He tells me to stand in my sorrow,<br/>That the victory's in trials for me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I know now in my spirit<br/>I can rejoice in every trial,<br/>Knowing my Lord is delivering me.<br/>He says, My Son, the Work's already done,<br/>And My grace is sufficient for thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The battles may be hard<br/>And the way may not be easy.<br/>He never said it would be.<br/>But now I know why I have the valleys<br/>So Christ could come forth in me.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So when you're in a valley<br/>And it seems too hard to climb<br/>To the mountain top above,<br/>Just remember you're the hope of creation.<br/>In the valley you'll come forth in love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:04">
+  <properties>
+    <titles>
+      <title>Holy Holy to the King</title>
+    </titles>
+    <authors>
+      <author>Simeon Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How can it be that I should gain<br/>Entrance into your holy place<br/>But by your hands, your feet, your sacrifice<br/>humbly I kneel bow before your throne<br/>Boldly I before your throne</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joining all the angels as they sing your praise<br/>Holy Holy to the King of Kings<br/>Now hands and hearts to you we raise <br/>Holy Holy are you Lord</lines>
+    </verse>
+  </lyrics>
+</song>

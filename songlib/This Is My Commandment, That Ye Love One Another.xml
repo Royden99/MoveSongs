@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:09">
+  <properties>
+    <titles>
+      <title>This Is My Commandment, That Ye Love One Another</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is my commandment,<br/>That ye love one another,<br/>That your joy may be full.<br/>This is my commandment,<br/>That ye love one another,<br/>That your joy may be full.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That your joy may be full.<br/>That your joy may be full!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This is my commandment,<br/>That ye love one another,<br/>That your joy may be full.</lines>
+    </verse>
+  </lyrics>
+</song>

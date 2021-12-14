@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:46">
+  <properties>
+    <titles>
+      <title>Nothing, O Nothing, I Am Nothing At All</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nothing, O Nothing, I am nothing at all.<br/>(Repeat 4x.)<br/>Mold me and make me because I am nothing at all.<br/>(Repeat 4x.)<br/>Try me and test me for I am nothing at all.<br/>(Repeat 4x.)<br/>Save me and help me; I am nothing at all.<br/>(Repeat 4x.)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:17">
+  <properties>
+    <titles>
+      <title>Seek Ye First The Kingdom Of God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seek ye first the kingdom of God and His righteousness<br/>And all these things shall be added unto you<br/>Ha-lle-lu-jah.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ask and it shall be given unto you, seek and ye shall find<br/>Knock and it shall be opened unto you<br/>Ha-lle-lu-jah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Man shall not live by bread and bread alone, but by every word<br/>That proceeds from the mouth of the Lord,<br/>Hallelu, Hallelujah.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Busca primero el reino de Dios <br/>Y su justicia perfecta. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y lo demas añadido sera, alelu-aleluya. <br/>No solo de pan el hombre vivira, </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sino de toda palabra, que sale de la boca de Dios, <br/>Alelu-aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

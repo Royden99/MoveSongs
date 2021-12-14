@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:49">
+  <properties>
+    <titles>
+      <title>All Your Anxiety (Never A Friend Like Jesus)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Is there a heart o’erbound by sorrow?<br/>Is there a life weighed down by care?<br/>Come to the cross, each burden bearing;<br/>All your anxiety—leave it there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>All your anxiety, all your care,<br/>Bring to the mercy seat, leave it there,<br/>Never a burden He cannot bear,<br/>Never a friend like Jesus!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No other friend so swift to help you,<br/>No other friend so quick to hear,<br/>No other place to leave your burden,<br/>No other one to hear your prayer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come then at once; delay no longer!<br/>Heed His entreaty kind and sweet,<br/>You need not fear a disappointment;<br/>You shall find peace at the mercy seat.</lines>
+    </verse>
+  </lyrics>
+</song>

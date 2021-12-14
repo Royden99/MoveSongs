@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:28">
+  <properties>
+    <titles>
+      <title>Fire, there's a fire,</title>
+    </titles>
+    <authors>
+      <author>Paul Oakley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fire, there's a fire,<br/>sweet fire burning in my heart.<br/>Fire, there's a fire,<br/>sweet fire burning in my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I will run with all of the passion<br/>You've put in me.<br/>I will spread the seed of the gospel everywhere.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I can feel the power of Your hand upon me.<br/>Now I know I'll never be the same again.<br/>For as long as You will give me breath<br/>My heart is so resolved<br/>Oh, to lay my life before You, Lord,<br/>Let everything I do be to Your praise.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let me feel Your tongues of fire resting upon me,<br/>Let me hear the sound of YOur mighty rushing wind.<br/>Let my life be like an offering of worship,<br/>Let me be a living sacrifice of praise.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

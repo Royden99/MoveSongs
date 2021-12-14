@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:09">
+  <properties>
+    <titles>
+      <title>How great thou art</title>
+    </titles>
+    <authors>
+      <author>Stuart K. Hine (TR) © 1953 Admin Thankyou Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord my God,<br/>When I in awesome wonder<br/>Consider all<br/>The works Thy Hand hath made,<br/>I see the stars,<br/>I hear the mighty thunder,<br/>Thy pow'r throughout<br/>The universe displayed,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When through the woods<br/>And forest glades I wander<br/>I hear the birds<br/>Sing sweetly in the trees,<br/>When I look down<br/>From lofty mountain grandeur<br/>And hear the brook<br/>And feel the gentle breeze,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then sings my soul,<br/>My Savior God, to Thee,<br/>How great Thou art!<br/>How great Thou art!<br/>Then sings my soul,<br/>My Savior God, to Thee,<br/>How great Thou art!<br/>How great Thou art!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When Christ shall come,<br/>With shouts of acclamation,<br/>And take me home,<br/>What joy shall fill my heart!<br/>Then I shall bow<br/>In humble adoration<br/>And there proclaim,<br/>"My God, how great Thou art!"</lines>
+    </verse>
+  </lyrics>
+</song>

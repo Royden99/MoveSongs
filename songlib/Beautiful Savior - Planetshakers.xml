@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:58">
+  <properties>
+    <titles>
+      <title>Beautiful Savior - Planetshakers</title>
+    </titles>
+    <authors>
+      <author>Planetshakers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Beautiful Savior <br/>God of all majesty, Risen King <br/>Lamb of God, Holy and righteous<br/>blessed redeemer, bright morning star<br/>all the heavens shout your praise<br/>All creation bows to worship you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How wonderful, how beautiful<br/>name above every name<br/>exalted high<br/>how wonderful, how beautiful<br/>Jesus your name<br/>name above every name, Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will sing forever, Jesus I love you, Jesus I love you</lines>
+    </verse>
+  </lyrics>
+</song>

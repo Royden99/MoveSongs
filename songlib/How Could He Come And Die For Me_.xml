@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:08">
+  <properties>
+    <titles>
+      <title>How Could He Come And Die For Me?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How could He come and die for me?<br/>How could He love me so?<br/>How could He hang on a cross for me?<br/>And bring Himself so low?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He looked down and He saw His life in me.<br/>He looked down and He saw what I would be.<br/>He did not die for what I am,<br/>But He died for what I would be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>How can I go and die for you?<br/>How can I love you so?<br/>How can I hand on a cross for you?<br/>And bring myself so low?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I look up and see His life in you.<br/>I look up and see what you will be.<br/>I will not die for what you are.<br/>I'll die for what you will be.</lines>
+    </verse>
+  </lyrics>
+</song>

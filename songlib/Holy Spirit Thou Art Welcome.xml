@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:06">
+  <properties>
+    <titles>
+      <title>Holy Spirit Thou Art Welcome</title>
+    </titles>
+    <authors>
+      <author>David Huntsinger</author>
+      <author>Dottie Rambo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Spirit Thou art welcome in this place<br/>Holy Spirit Thou art welcome in this place<br/>Omnipotent Father of mercy and grace<br/>Thou art welcome in this place</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord in Thy presence there's healing divine<br/>No other power can save Lord but Thine<br/>Holy Spirit Thou art welcome in this place<br/>Thou art welcome in this place</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fill all the hungry and empty within<br/>Restore us oh Father revive us again<br/>Holy Spirit Thou art welcome in this place<br/>Thou art welcome in this place</lines>
+    </verse>
+  </lyrics>
+</song>

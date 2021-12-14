@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:50">
+  <properties>
+    <titles>
+      <title>O Lord, You have been good,</title>
+    </titles>
+    <authors>
+      <author>Twila Paris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord, You have been good,<br/>You have been faithful to all generations.<br/>O Lord, Your steadfast love and tender mercy<br/>Have been our salvation.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For by Your hand we have been fed,<br/>And by Your Spirit we have been led.<br/>O Lord, You have been good,<br/>You have been faithful to all generations.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For by Your hand we have been fed,<br/>And by Your Spirit we have been led.<br/>O Lord, Almighty God,<br/>Father unchanging, upright and holy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Lord, You have been good, You have been faithful,<br/>You have been good, You have been good,<br/>You have been faithful,You have been good.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:58">
+  <properties>
+    <titles>
+      <title>I've Found A New Worship, A New Worship</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found a new worship, a new worship,<br/>A new worship in the Lord.<br/>I've found a new worship, a new worship,<br/>A new worship in the Lord.<br/>Patience is the name of the battle,<br/>Faith is the name of the walk,<br/>Love is the name of the nature,<br/>Truth is the name of the talk.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've found a new patience ... faith ... love ... truth ...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:56">
+  <properties>
+    <titles>
+      <title>One Day Closer To The Kingdom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>One day closer to the kingdom.<br/>That makes every day a little better than the day before.<br/>I can take another step, knowing that tomorrow,<br/>I'll be one day closer to the shore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes I think I just can't take another step.<br/>The storms of life keep raging o'er and o'er.<br/>But something down in my heart,<br/>makes me want to keep on walking.<br/>I'll be one step closer to the shore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's something in me that can't go back again.<br/>There's something in me that can't go back again.<br/>Well Satan can tempt, and Satan can test,<br/>And every day he will do his best,<br/>But there's something in me that can't go back again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There's something in me that's got to keep moving on.<br/>There's something in me that's got to keep moving on.<br/>The King of Kings, who reigns in me,<br/>Is singing songs of victory,<br/>And there's something in me that's got to keep moving on.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Un paso más cerca al reino<br/>Y cada día es un poco más lleno de paz,<br/>Este día puedo andar<br/>Sabiendo que mañana <br/>Estaré cerca del reino un paso más</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A veces pienso, ya no puedo andar<br/>Y quiero pararme y descansar<br/>Más algo muy adentro me hace seguir andando<br/>Y estaré cerca al Reino un paso más.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>/Hay algo en mí que no puede volver atrás/ (2)<br/>Satanás me puede tentar, me puede probar<br/>Y cada día me puede hablar<br/>Mas hay algo en mí que no puede volver atrás</lines>
+    </verse>
+    <verse name="v8">
+      <lines>/Hay algo en mí que adelante va a seguir/ (2)<br/>El Rey de reyes que reina ya<br/>Y en cada batalla cantará<br/>Más hay algo en mí que adelante va a seguir</lines>
+    </verse>
+  </lyrics>
+</song>

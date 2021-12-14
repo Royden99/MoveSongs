@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:58">
+  <properties>
+    <titles>
+      <title>Would You Be Poured Out As Wine Upon The Altar For Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Would you be poured out as wine upon the altar for me?<br/>Would you be broken as bread to feed the hungry?<br/>Would you be so one with Me that I may do just as I will?<br/>To make thee light and love and life: My word fulfilled. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tendrás que ser derramado como vino,<br/>En el altar por mí<br/>Tendrás que ser desmoronado como pan <br/>Para los hambrientos<br/>Tendrás que ser tan unido a mí<br/>Que pueda hablarte como quiero<br/>Para ser de luz, amor y vida<br/>Mi palabra cumplida.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:55">
+  <properties>
+    <titles>
+      <title>Without Him I Can Do Nothing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Without Him I can do nothing<br/>Without Him I'd surely fail<br/>Without Him I would be drifting<br/>Like a ship without a sail</lines>
+    </verse>
+    <verse name="v2">
+      <lines>With Jesus I can do all things<br/>With Jesus I cannot fail<br/>With Jesus all things are possible<br/>In His Name I shall prevail</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus, Oh Jesus, Do you know Him today<br/>Do not turn away<br/>Oh Jesus, Oh Jesus.<br/>Without Him, how lost I would be.</lines>
+    </verse>
+  </lyrics>
+</song>

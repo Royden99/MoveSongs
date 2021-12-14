@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:18">
+  <properties>
+    <titles>
+      <title>To God Be The Glory</title>
+    </titles>
+    <authors>
+      <author>Andrae Crouch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To God be the glory,<br/>To God be the glory,<br/>To God be the glory for the things He has done.<br/>With His blood He has saved me,<br/>With His power He has raised me,<br/>To God be the glory for the things He has done.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>How can I say thanks<br/>For the things You have done for me?<br/>Things so undeserved, yet You gave<br/>To prove Your love for me;<br/>The voices of a million angels<br/>Could not express my gratitude.<br/>All that I am and ever hope to be,<br/>I owe it all to Thee.<br/>To God ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Just let me live my life,<br/>Let it be pleasing, Lord, to Thee,<br/>And should I gain any praise,<br/>Let it go to Calvary,<br/>With His blood, He has saved me,<br/>with His power, He has raised me,<br/>To God be the glory for the things He has done.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:05">
+  <properties>
+    <titles>
+      <title>Build up the house of the Lord together</title>
+    </titles>
+    <authors>
+      <author> Spanish</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Build up the house of the Lord together.<br/>Build up the house of the Lord with all your heart.<br/>Labor not for those things that fade away;<br/>Labor one and all for the house.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The watchmen shall lift up the voice unto the Lord and with one heart together they shall sing in Zion<br/>They shall see eye to eye, <br/>eye to eye<br/>They shall see eye to eye</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Edificad la casa del Señor juntos,<br/>Edificadla de todo corazón.<br/>No trabajéis por lo que ha de perecer,<br/>Juntos todos la casa edificad.</lines>
+    </verse>
+  </lyrics>
+</song>

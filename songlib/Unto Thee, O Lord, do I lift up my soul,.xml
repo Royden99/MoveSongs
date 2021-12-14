@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:25">
+  <properties>
+    <titles>
+      <title>Unto Thee, O Lord, do I lift up my soul,</title>
+    </titles>
+    <authors>
+      <author>Charles F.Monroe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unto Thee, O Lord, do I lift up my soul,<br/>Unto Thee, O Lord, do I lift up my soul,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O my God, I trust in Thee;<br/>Let me not be ashamed,<br/>Let not my enemies triumph over me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Show me Thy ways, Thy ways, O Lord,<br/>Teach me Thy paths, Thy paths, O Lord, ...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yea, let none that wait on Thee be ashamed,<br/>Yea, let none that wait on Thee be ashamed, ...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>The secret of the Lord is with them that fear Him,<br/>The secret of the Lord is with them that fear Him, ...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

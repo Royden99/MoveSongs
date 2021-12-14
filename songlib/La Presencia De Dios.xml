@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:13">
+  <properties>
+    <titles>
+      <title>La Presencia De Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/La presencia de Dios está aquí <br/>yo la siento en mí/ (2) <br/>y me gozo en su luz porque en ella, hay en sí <br/>la presencia de Dios está aquí <br/>yo la siento en mí. (2) </lines>
+    </verse>
+  </lyrics>
+</song>

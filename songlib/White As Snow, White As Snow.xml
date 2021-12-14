@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:51">
+  <properties>
+    <titles>
+      <title>White As Snow, White As Snow</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>White as snow, white as snow. <br/>Though my sins were as scarlet, <br/>Lord I know, Lord I know, </lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am clean and forgiven. <br/>Through the power of Your blood, <br/>And the wonders of your love, </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Through faith in You I know <br/>That I can be white as snow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Como la nieve, limpio soy.<br/>He sido libre de el pecado.<br/>Señor, yo sé, Señor, yo sé,<br/>He sido limpio y perdonado,<br/>Por el poder que hay en Tu sangre,<br/>Y la grandeza de Tu amor,<br/>Por mi fe en Ti, Señor,<br/>Limpio soy, como la nieve.</lines>
+    </verse>
+  </lyrics>
+</song>

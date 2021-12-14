@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:21">
+  <properties>
+    <titles>
+      <title>Show Me Your Ways, That I May Walk With You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Show me Your ways, that I may walk with You.<br/> Show me Your ways, I put my hope in You. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>The cry of my heart is to love You more, <br/>To live with the touch of Your hand <br/>Stronger each day, show me Your ways.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:05">
+  <properties>
+    <titles>
+      <title>You Are So Good, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are so good, Lord.<br/>For Your mercies<br/>Are new every morning.<br/>I can awake and kneel to pray,<br/>Casting all my cares on You.<br/>You sustain me with unfailing faithfulness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are so good, Lord.<br/>For Your judgements,<br/>Reach unto heaven,<br/>Your word is daily my delight,<br/>And a light unto my path.<br/>You sustain me with unfailing faithfulness.</lines>
+    </verse>
+  </lyrics>
+</song>

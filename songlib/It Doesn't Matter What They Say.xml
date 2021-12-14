@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:51">
+  <properties>
+    <titles>
+      <title>It Doesn't Matter What They Say</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>It doesn't matter what they say:<br/>You've been called another way.<br/>To be separate and untarnished by the world.<br/>It doesn't matter what they do,<br/>If His calling is on you.<br/>Come ye out and be ye separate, saith the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We were fishing by the Sea of Galilee,<br/>Casting down our nets into the sea.<br/>When along came the Master<br/>Saying, Come and follow after me,<br/>And I will make you fishers of men.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We were dwelling in a dry and thirsty land,<br/>When the Lord said He'd destroy it by His hand.<br/>Then the Lord said, Noah, hearken,<br/>Go build yourself an ark and<br/>Take your family and each beast two of a kind.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In the land of Ur God spoke to Abraham,<br/>Arise, depart into another land.<br/>Then Abraham not knowing<br/>Just where he might be going<br/>Put his trust in God to lead him in the way.</lines>
+    </verse>
+  </lyrics>
+</song>

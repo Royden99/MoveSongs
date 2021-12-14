@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:19">
+  <properties>
+    <titles>
+      <title>Let There Be Glory And Honor And Praises</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>Let there be glory and honor and praises. <br/>Glory and honor to Jesus.<br/>Glory! Honor! Glory and honor to Him.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Who is God, if not the Lord?<br/>Who is a Rock, if not our King?<br/>A fortress and a shield,<br/>A tower of deliverance is He,<br/>To all who trust in Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Who is God, if not the Lord?<br/>Who is a Rock, if not our King?<br/>He teaches me to war,<br/>He aids me in the battle more and more,<br/>Praise to His name forevermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sea la gloria, la honra y poder, gloria y honra a Cristo.<br/>Gloria! Honra! Gloria y honra a el. (Repetir.)</lines>
+    </verse>
+  </lyrics>
+</song>

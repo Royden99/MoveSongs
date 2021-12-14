@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:09">
+  <properties>
+    <titles>
+      <title>Come And Go With Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and go with me to my Father's house,<br/>To my Father's house, to my Father's house.<br/>Come and go with me to my Father's house<br/>Where there's peace, peace, peace.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The body will be there, in my Father's house, etc.<br/>Jesus will be there, in my Father's house, etc. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh ven conmigo hermano <br/>/a la casa de mi padre/(3)<br/>donde hay paz, paz, paz.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nos darán un anillo…<br/>Nos harán un banquete…<br/>Tendremos una fiesta…<br/>Allí estaremos juntos…<br/>Allí nos gozaremos…<br/>Vida si habrá…<br/>Odio no habrá…<br/>Amor si habrá…<br/>Tropiezo no habrá…</lines>
+    </verse>
+  </lyrics>
+</song>

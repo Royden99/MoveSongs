@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:04">
+  <properties>
+    <titles>
+      <title>Jesus Loves Even Me</title>
+    </titles>
+    <authors>
+      <author>Philip Paul Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am so glad that Jesus loves me,<br/>Jesus loves me,<br/>Jesus loves me.<br/>I am so glad that Jesus loves me,<br/>Jesus loves even me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am so glad that our Father in heaven<br/>Tells of His love in the book He has giv'n.<br/>Wonderful things in the Bible I see.<br/>This is the dearest that Jesus loves me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tho' I forget Him and wander away,<br/>Still He doth love me wherever I stray.<br/>Back to His dear loving arms would I flee<br/>When I remember that Jesus loves me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, if there's only one song I can sing,<br/>When in His beauty I see the great King,<br/>This shall my song in eternity be.<br/>Oh what a wonder that Jesus love me.</lines>
+    </verse>
+  </lyrics>
+</song>

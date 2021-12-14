@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:10">
+  <properties>
+    <titles>
+      <title>Come Holy Ghost Our Hearts Inspire</title>
+    </titles>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Holy Ghost, our hearts inspire;<br/>Let us Thine influence prove:<br/>Source of the old prophetic fire,<br/>Fountain of life and love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come, Holy Ghost for moved by Thee<br/>The prophets wrote and spoke.<br/>Unlock the truth, Thyself the key;<br/>Unseal the Sacred Book.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God, through Himself, we then shall know<br/>If Thou within us shine,<br/>And sound with all Thy saints below,<br/>The depths of love divine.</lines>
+    </verse>
+  </lyrics>
+</song>

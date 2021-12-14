@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:32">
+  <properties>
+    <titles>
+      <title>I Will Celebrate, Sing Unto The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will celebrate, sing unto the Lord.<br/>I will sing to Him a new song.<br/>I will celebrate, sing unto the Lord.<br/>I will sing to Him a new song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will praise Him, for He hath triumphed gloriously.<br/>I will praise Him, for He hath triumphed gloriously.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo celebraré, cantaré a El,<br/>Cantaré un nuevo canto<br/>Yo celebraré, cantaré a El,<br/>Cantaré un nuevo canto<br/>/Alabaré a Jehová,<br/>Porque ha vencido con poder/ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

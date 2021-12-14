@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:50">
+  <properties>
+    <titles>
+      <title>He Is Able, He's Able</title>
+    </titles>
+    <authors>
+      <author>Paul E Paino</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is able, He's able. I know He's able. <br/>I know my Lord is able to carry me through.<br/>For He has healed the broken-hearted, <br/>And set the captives free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He made the lame to walk again, <br/>And caused the blind to see. <br/>For He is able, He's able. I know He's able.<br/>I know my Lord is able to carry me through.</lines>
+    </verse>
+  </lyrics>
+</song>

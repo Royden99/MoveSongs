@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:20">
+  <properties>
+    <titles>
+      <title>I Just Want To Praise You</title>
+    </titles>
+    <authors>
+      <author>Arthur Tannous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to praise You,<br/>Lift my hands and say I love You.<br/>You are everything to me.<br/>I exalt Your holy name.<br/>I exalt Your holy name.<br/>I exalt Your holy name on high.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quiero alabarle, <br/>alzar mis manos y decir Te amo, <br/>eres todo para mí<br/>/exaltar tu Santo Nombre/ (2)<br/>Ensalzar tu Santo nombre en alto.</lines>
+    </verse>
+  </lyrics>
+</song>

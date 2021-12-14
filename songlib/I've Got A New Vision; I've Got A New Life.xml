@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:58">
+  <properties>
+    <titles>
+      <title>I've Got A New Vision; I've Got A New Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've got a new vision; I've got a new life.<br/>I've got a revelation of an endless life.<br/>The old is passing away from me.<br/>I've got a new vision that sets me free.</lines>
+    </verse>
+  </lyrics>
+</song>

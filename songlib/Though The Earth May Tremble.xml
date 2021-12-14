@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:15">
+  <properties>
+    <titles>
+      <title>Though The Earth May Tremble</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though the earth may tremble,<br/>Though the crops may fail,<br/>I have been to the source of life,<br/>It's the water in the well.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>It's the well of living water,<br/>And I shall thirst no more.<br/>He's the well of living water;<br/>I've never known such joy.</lines>
+    </verse>
+  </lyrics>
+</song>

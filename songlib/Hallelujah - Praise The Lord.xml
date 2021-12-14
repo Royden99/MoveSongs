@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:42">
+  <properties>
+    <titles>
+      <title>Hallelujah - Praise The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah (7x) - Praise the Lord!<br/>Men and angels bow down before Him<br/>Hosts of heaven all adore Him<br/>World and the universe kept by His power<br/>All join together to praise the Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come and adore, worship before Him<br/>Flesh clothed in Spirit showing His name<br/>Redeemed and blood bought filled with His glory<br/>Praising forever, priests of our God.</lines>
+    </verse>
+  </lyrics>
+</song>

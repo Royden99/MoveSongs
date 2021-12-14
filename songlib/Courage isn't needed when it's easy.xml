@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:14">
+  <properties>
+    <titles>
+      <title>Courage isn't needed when it's easy</title>
+    </titles>
+    <authors>
+      <author>Matthew Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Courage isn't needed when it's easy<br/>And victories aren't won without a fight<br/>But we have One who makes the way before us<br/>And He has ever kept us by His side</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am determined, I've made up my mind<br/>I will not falter nor be left behind<br/>When there are valleys or mountains to climb<br/>Kept by new mercies, in Your strength<br/>I'll rise<br/>I will rise<br/>I will rise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now there've been times when people said it's over<br/>And in my mind I thought that they were right<br/>But nothing is impossible with Jesus<br/>I hear His voice and never leave His side</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And the chains that used to bind me<br/>Are now on the floor behind me<br/>To remind me: keep climbing<br/>And the family surrounding me<br/>Will share my burdens willingly<br/>And help me be strong<br/></lines>
+    </verse>
+  </lyrics>
+</song>

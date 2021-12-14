@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:01">
+  <properties>
+    <titles>
+      <title>His Life Within Me, Won't Leave Me The Same</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>His life within me, won't leave me the same.<br/>His life within me, knows dying is gain.<br/>His life within me, is changing my name.<br/>O glory to God, it's His life within.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His life within me, can stand every test.<br/>His life within me, gives me complete rest.<br/>His life within me, will overcome death.<br/>O glory to God, it's His life within.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>His life within me, is making us one.<br/>His life within me, our trials overcomes.<br/>His life within me, knows it is done.<br/>O glory to God, it's His life within.</lines>
+    </verse>
+  </lyrics>
+</song>

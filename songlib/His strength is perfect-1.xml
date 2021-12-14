@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:02">
+  <properties>
+    <titles>
+      <title>His strength is perfect</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I can do all things through Christ<br/>Who gives me strength, but sometimes<br/>I wonder what He can do through me.<br/>No great success to show; no glory on my own;<br/>Yet in my weakness He is there to let me know<br/>Chorus:<br/>His strength is perfect when our strength is gone.<br/>You carry us when we can't carry on.<br/>Raised in His power, the weak become strong.<br/>His strength is perfect; His strength is perfect.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We can only know the power that He holds<br/>When we truly see how deep our weakness goes.<br/>His strength in us begins when ours comes to an end.<br/>He hears our humble cry, and proves again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Su fuerza es perfecta cuando la nuestra se acaba.<br/>El nos sostiene cuando no podemos más.<br/>El nos levanta, y el débil fuerte es.<br/>Su fuerza es perfecta. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

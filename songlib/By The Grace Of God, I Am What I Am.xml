@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:06">
+  <properties>
+    <titles>
+      <title>By The Grace Of God, I Am What I Am</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By the grace of God, I am what I am.<br/>By the grace of God, I stand where I stand.<br/>By the grace of God, I'm going to the promised land.<br/>By the grace of God, the grace of God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Whither Thou goest, there will I go.<br/>Whither Thou lodgest, there will I lodge.<br/>Thy people shall be my people,<br/>And Thy God shall be my God. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por la gracia de Dios, yo soy lo que soy<br/>Por la gracia de Dios, estoy donde estoy<br/>Por la gracia de Dios, a la tierra prometida voy<br/>Por la gracia, la gracia de Dios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Donde tu vayas yo iré<br/>Donde tu mores yo moraré<br/>Tu pueblo será mi pueblo<br/>Y tu Dios será mi Dios</lines>
+    </verse>
+  </lyrics>
+</song>

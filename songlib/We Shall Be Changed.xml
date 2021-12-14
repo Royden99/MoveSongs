@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:37">
+  <properties>
+    <titles>
+      <title>We Shall Be Changed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll show you a mystery; (echo)<br/>We shall not all sleep; (echo)<br/>But we'll be changed to His image; (echo)<br/>In the twinkling of an eye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We shall be changed;<br/>We shall be changed;<br/>We're going to be changed from mortal<br/>To immortality,<br/>In the twinkling of an eye.<br/>The trumpet shall sound; (echo)<br/>The dead shall be raised; (echo)<br/>And we shall be immortal; (echo)<br/>And death is swallowed up in victory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh death, where is thy sting?<br/>Oh death, where is thy sting?<br/>Oh grave, where is thy victory?<br/>Oh death, where is thy sting?<br/>Death is swallowed up in victory.</lines>
+    </verse>
+  </lyrics>
+</song>

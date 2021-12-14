@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:16">
+  <properties>
+    <titles>
+      <title>Though the fig tree does not blossom,</title>
+    </titles>
+    <authors>
+      <author>Philip Lawson Johnston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Though the fig tree does not blossom,<br/>And there be no fruit on the vine,<br/>The produce of the olive fail,<br/>And the fields yield no fruit,<br/>Though the flock be cut off from the fold,<br/>And there be no herd in the stall,<br/>Yet will I rejoice in the Lord,         (x2)<br/>I will joy in the God of my salvation,<br/>God the Lord is my strength.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

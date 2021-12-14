@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:53">
+  <properties>
+    <titles>
+      <title>oh happy day - Jesus Culture</title>
+    </titles>
+    <authors>
+      <author>Jesus Culture</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The greatest day in history, death is beaten<br/>You have rescued me<br/>Sing it out, Jesus is alive<br/>The empty cross, the empty grave<br/>Life eternal, You have won the day<br/>Shout it all, Jesus is alive, He's alive</lines>
+    </verse>
+    <verse name="v2">
+      <lines>oh happy day, happy day<br/>you washed my sins away<br/>oh happy day, happy day<br/>i'll never be the same<br/>forever I am changed</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When i stand, in that place<br/>free at last, meeting face to face<br/>i am yours, Jesus you are mine<br/>endless joy and perfect peace<br/>earthly pain finally will cease<br/>celebrate Jesus is alive, he's alive</lines>
+    </verse>
+  </lyrics>
+</song>

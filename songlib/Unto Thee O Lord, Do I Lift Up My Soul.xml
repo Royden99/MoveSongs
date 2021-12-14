@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:24">
+  <properties>
+    <titles>
+      <title>Unto Thee O Lord, Do I Lift Up My Soul</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Unto thee oh Lord, do I lift up my soul. <br/>Unto thee oh Lord, do I lift up my soul. <br/>O my God, I trust in Thee. <br/>Let me not be ashamed, <br/>Let not mine enemies triumph over me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shew my Thy ways, Thy ways, O Lord.<br/>Teach me Thy paths, Thy paths, O Lord.<br/>O my God, I trust in Thee. <br/>Let me not be ashamed, <br/>Let not mine enemies triumph over me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Remember not, O Lord, the sins of my youth.<br/>Remember not, O Lord, the sins of my youth.<br/>O my God, I trust in Thee. <br/>Let me not be ashamed, <br/>Let not mine enemies triumph over me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ante Ti, Oh Dios, mi alma levantare. (2x) <br/>Oh mi Dios, confio en Ti, <br/>No sea yo avergonzado, ni se alegren <br/>Mis enemigos de mí.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Muéstrame, Oh Jehová, muéstrame Tus caminos. (2x) <br/>Oh mi Dios, confio en Ti, <br/>No sea yo avergonzado ni se alegren <br/>Mis enemigos de mí.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Enséñame, Oh Jehová, enséñame Tus sendas. (2x) <br/>Oh mi Dios, confio en ti, <br/>No sea yo avergonzado ni se alegren <br/>Mis enemigos de mí.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>No Te acuerdes, Oh Jehová, de mis pecados. (2x) <br/>Oh mi Dios, confio en ti, <br/>No sea yo avergonzado ni se alegren <br/>Mis enemigos de mí.</lines>
+    </verse>
+  </lyrics>
+</song>

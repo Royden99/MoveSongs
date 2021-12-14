@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:05">
+  <properties>
+    <titles>
+      <title>Brother, You Understand The Weak And The Tired</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Brother, you understand the weak and the tired,<br/>You pray for the one that's afflicted,<br/>You fight against the oppressor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sister, you understand the weak and the tired,<br/>You pray for the one that's afflicted,<br/>You fight against the oppressor. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is a place in our hearts for you; <br/>You are shepherding the flock<br/>That the Lord has given you. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Don't faint, don't let the battle hold you back.<br/>The Lord has called you, to care for the flock. <br/>Don't faint, don't let the battle hold you back.<br/>The Lord has called you, to care for the flock. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>There are green pastures, springs of everlasting waters.<br/>Take up your staff and let the Lord use you. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>/ Hermano, tu que entiendes al débil y cansado,<br/>Tu que horas por el afligido,<br/>Tu que luchas contra el opresor. / (2x)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hay un lugar en nuestros corazones.<br/>Ahí tu estas pastoreando el rebaño que el señor te ha dado.<br/>/ No desmalles, ni dejes que las pruebas te detengan,<br/>El señor te ha llamado a cuidar la red. / (2x)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>/ Hay pastos verdes, hay manantiales de vida eterna.<br/>Toma tu cayado y deja te usar por el señor. / (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

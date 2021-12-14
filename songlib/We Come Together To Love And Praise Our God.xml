@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:34">
+  <properties>
+    <titles>
+      <title>We Come Together To Love And Praise Our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We come together to love and praise our God<br/>We come together to love and to be loved.<br/>We come together to heal and be healed.<br/>Praise His name, glory hallelujah, praise His holy name. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Venimos juntos, para amarte y adorarte<br/>Venimos juntos, para amar y ser amados <br/>Venimos juntos, a sanar y ser sanados<br/>Gloria a Dios, Gloria, Aleluya<br/>Gloria al Santo Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

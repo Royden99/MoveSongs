@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:55">
+  <properties>
+    <titles>
+      <title>Oh, I could sing unending songs</title>
+    </titles>
+    <authors>
+      <author>Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, I could sing unending songs<br/>Of how You saved my soul.<br/>Well, I could dance a thousand miles<br/>Because of Your great love.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart is bursting, Lord,<br/>To tell of all You've done,<br/>Of how You changed my life<br/>And wiped away the past.<br/>I wanna shout it out,<br/>From every rooftop sing,<br/>For now I know that God is for me,<br/>Not against me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Everybody's singing now,<br/>'Cause we're so happy!<br/>Everybody's dancing now,<br/>'Cause we're so happy!<br/>If only we could see Your face,<br/>And see You smiling over us,<br/>And unseen angels celebrate,<br/>For joy is in this place!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

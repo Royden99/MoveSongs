@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:08">
+  <properties>
+    <titles>
+      <title>How can I who am dead to sin</title>
+    </titles>
+    <authors>
+      <author>Isabel Still</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How can I who am dead to sin<br/>Live any longer therein?<br/>Oh, how can I who am dead to sin<br/>Live any longer therein?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The old man says to me, "Yes you can",<br/>And I tell him that I've been made free;<br/>So how can I who am dead to sin<br/>Live any longer therein?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He comes again with more subtlety,<br/>And I wonder is this him or me;<br/>So how can I who am dead to sin<br/>Live any longer therein?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm learning to discern when he speaks to me,<br/>'Cause I know that truly I'm free;<br/>So how can I who am dead to sin<br/>Live any longer therein?<br/></lines>
+    </verse>
+  </lyrics>
+</song>

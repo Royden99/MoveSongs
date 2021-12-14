@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:06">
+  <properties>
+    <titles>
+      <title>By Thy Blood Thou Hast Redeemed Us Unto God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By Thy blood thou hast redeemed us unto God,<br/>By Thy blood You've made us priests and kings,<br/>By Thy blood You've washed us whiter than the snow.<br/>And by Thy blood, we are standing here to sing.</lines>
+    </verse>
+  </lyrics>
+</song>

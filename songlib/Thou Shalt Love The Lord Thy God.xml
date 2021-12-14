@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:15">
+  <properties>
+    <titles>
+      <title>Thou Shalt Love The Lord Thy God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>Thou shalt love the Lord thy God<br/>With all thy heart, and soul, and might,<br/>And thy neighbor as thyself.<br/>Engrave these words upon thine heart.<br/>When thy son shall ask of Thee,<br/>What do these commandments mean?<br/>You shall say, We are alive<br/>Because they taught our hearts to fear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Make them frame the works of your hands,<br/>Build up the poses of your house,<br/>Guard the vision of your eyes,<br/>Constantly watch at your gates.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teach when you sit in the house,<br/>Talk when you walk in the way.<br/>Pray at the time that you lie down,<br/>Sing when you rise up in the day.</lines>
+    </verse>
+  </lyrics>
+</song>

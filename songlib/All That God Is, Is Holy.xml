@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:49">
+  <properties>
+    <titles>
+      <title>All That God Is, Is Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All that God is, is holy.<br/>All that God is, is divine.<br/>All that God is, is eternal.<br/>All that God is, is mine. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>All that God is, is wisdom.<br/>All that God is, is light.<br/>All that God is, is righteous.<br/>All that God is, is life.<br/>Chorus:<br/>And God is my inheritance.<br/>In Christ I am His son.<br/>In Him I have my being.<br/>In Christ we have been made one.</lines>
+    </verse>
+  </lyrics>
+</song>

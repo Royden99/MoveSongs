@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:20">
+  <properties>
+    <titles>
+      <title>Let Us Give Thanks</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>Let us give thanks<br/>That our names are written,<br/>That our names are written,<br/>Written in the book of life.<br/>And inscribed upon His palms. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rejoice not that devils flee in His name.<br/>Rejoice not in the power that He gave.<br/>For He came to break the bonds of sin,<br/>Yes He did. He came to set us free,<br/>So freely we sing.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For He came to give us life,<br/>That we might have it more abundantly.<br/>He came to break the bonds of sin, He did,<br/>Yes He did. He came to set us free,<br/>So freely we sing.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ending:<br/>Let us give thanks, thanks unto the Father.<br/>Thanks unto the Son, thanks to the Holy Spirit,<br/>The Lord God, three in One.</lines>
+    </verse>
+  </lyrics>
+</song>

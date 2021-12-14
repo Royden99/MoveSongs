@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:22">
+  <properties>
+    <titles>
+      <title>Turn The Lamps Up Brighter</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'll pull my collar closer,<br/>For the night is gettin' cold.<br/>First light drawin' nearer,<br/>As this story's told.<br/>I thought this would be shorter,<br/>But I'm still sittin' here.<br/>Brothers are milling around me,<br/>And I hear their call so clear.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>Turn the lamps up brighter,<br/>Trim the wicks to see,<br/>Turn the darkness lighter,<br/>So that He can see me.<br/>Illuminate the footpath,<br/>That He is walkin' on,<br/>And join in this procession,<br/>That's gonna lead into the dawn.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So we turned our flames up higher,<br/>And the oil began to flow,<br/>But some commenced to sputter,<br/>And others wouldn't glow.<br/>Shouts went up around me,<br/>'Lend me some lamp oil,<br/>My bown is dry and my flask is done.'<br/>And I hear that call again.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The crowd began to thin,<br/>As we went out to Him.<br/>Some had to go to town for oil,<br/>Their lamps were far too dim.<br/>As sorry as I was to see them<br/>Leavin' at this hour,<br/>I couldn't lend my oil out 'cause<br/>I needed all my fire.</lines>
+    </verse>
+  </lyrics>
+</song>

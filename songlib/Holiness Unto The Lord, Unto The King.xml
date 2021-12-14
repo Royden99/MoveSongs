@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:03">
+  <properties>
+    <titles>
+      <title>Holiness Unto The Lord, Unto The King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holiness unto the Lord, unto the King. <br/>Holiness, and all my days, I will sing.<br/>Holiness unto Jesus, holiness unto You, Lord. <br/>Holiness unto Jesus, holiness unto You Lord. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love You, I love Your Name, I love Your way. <br/>I love You, and all my days I'll proclaim.<br/>Holiness unto Jesus. Holiness unto You, Lord. <br/>Holiness unto Jesus, holiness unto You, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Santidad a nuestro Dios, a nuestro Rey.<br/>Santidad a tu nombre cantare,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Santidad a Jesucristo, Santidad a ti Señor.<br/>Santidad a Jesucristo, Santidad a ti Señor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Te amo, amo tu Nombre, amo tu senda.<br/>Te amo, toda mi vida cantare,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Santidad a Jesucristo, Santidad a ti Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

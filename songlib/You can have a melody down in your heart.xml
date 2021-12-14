@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:06">
+  <properties>
+    <titles>
+      <title>You can have a melody down in your heart</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You can have a melody down in your heart<br/>When it’s aching, almost breaking.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even though the sorrow makes tear drops start<br/>You can have the melody down in your heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You can have a song in your heart in the night,<br/>After every trial, after every mile.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anyone can sing when the sun is shining bright<br/>But you need a song in your heart at night,<br/>But you need a song in your heart at night.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

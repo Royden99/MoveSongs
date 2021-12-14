@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:17">
+  <properties>
+    <titles>
+      <title>Deep and clear, the voice of instruction,</title>
+    </titles>
+    <authors>
+      <author>Moly Alvarez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Deep and clear, the voice of instruction,<br/>As you quietly cared for the sheep;<br/>You would observe<br/>Their peaceful estate<br/>As they watched your tender eyes see ...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That they were looked after<br/>As we are looked after:<br/>Your mighty hand,<br/>Your powerful arm,<br/>Your shoulder to cry on,<br/>A heart to give life ...<br/>It’s this wonderful Father of mine!<br/>It’s this wonderful Father of mine!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ruddy and Fair, with comely expression<br/>As the prophet appointed your seat,<br/>A calling to serve,<br/>A kingdom to bless<br/>As your children started to see ...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Calm and secure, in faith and devotion<br/>As you trusted your God would defeat:<br/>The giant was dead,<br/>You cut off his head<br/>As your people continued to see ...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

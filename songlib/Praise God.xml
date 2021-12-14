@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:02">
+  <properties>
+    <titles>
+      <title>Praise God</title>
+    </titles>
+    <authors>
+      <author>Emerson Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise God from whom all blessings flow<br/>praise him all creatures here below<br/>praise him above ye heavenly host<br/>praise father, son and holy ghost</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy you are holy<br/>holy is the lamb that was slain</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Worthy, worthy<br/>Worthy is our God our king who reigns.</lines>
+    </verse>
+  </lyrics>
+</song>

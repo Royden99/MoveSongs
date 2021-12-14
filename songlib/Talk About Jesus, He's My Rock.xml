@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:37">
+  <properties>
+    <titles>
+      <title>Talk About Jesus, He's My Rock</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Talk about Jesus, He's my Rock.<br/>Talk about Jesus, He's my Rock.<br/>Talk about Jesus, He's my Rock.<br/>And I know He lives within me<br/>And I know He walks beside me<br/>He's my Rock.<br/>He's my Rock.<br/>He's my Rock.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ezekiel saw Him standing<br/>Standing in the middle of the wheel<br/>John wrote about Him in the book of the seven seals<br/>They call Him the Rose of Sharon<br/>They call Him the lily of the field<br/>But I call Him Jesus<br/>He's my Rock.<br/>He's my Rock.<br/>He's my Rock.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Talk about Jesus, He's my Truth (3x)<br/>And I know He lives within me<br/>And I know He walks beside me<br/>He's my Truth (3x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Talk about Jesus, He's my Life (3x)<br/>And I know He lives within me<br/>And I know He walks beside me<br/>He's my Life (3x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Talk about Jesus, He's my Way (3x)<br/>And I know He lives within me<br/>And I know He walks beside me<br/>He's my Way (3x)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Talk about Jesus, He's my all (3x)<br/>And I know He lives within me<br/>And I know He walks beside me<br/>He's my all (3x)</lines>
+    </verse>
+  </lyrics>
+</song>

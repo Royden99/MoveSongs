@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:39">
+  <properties>
+    <titles>
+      <title>Thank God For Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>Thank God for Jesus.<br/>Thank Him for His grace and power.<br/>In the day of fire,<br/>He's coming forth in man<br/>For all the earth to see in this hour.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here we stand, bound in golden chains,<br/>Tied to the heart of the Father,<br/>Held by the love that walked up Calvary's hill<br/>To become our Lord and Master.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tell me the story of Jesus and His love.<br/>Tell me how He rose and He took us all above.<br/>Of His poured out life, our example to be.<br/>That we might share His joy<br/>And set creation free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If you think it's evil to serve the Lord,<br/>And to walk in His precepts,<br/>Choose you this day whom you will serve,<br/>And make the choice with your whole heart.</lines>
+    </verse>
+  </lyrics>
+</song>

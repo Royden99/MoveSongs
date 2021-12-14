@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:33">
+  <properties>
+    <titles>
+      <title>Majesty, Worship His Majesty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Majesty, worship His majesty. <br/>Unto Jesus, be all glory, honor and praise. <br/>Majesty, kingdom authority <br/>Flows from His throne unto His own, <br/>Who His anthem raise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So exalt, lift up on high, the name of Jesus. <br/>Magnify, come glorify, Christ Jesus the King.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majesty, worship His majesty. <br/>Jesus who died, now glorified, King of all Kings.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majestad, adora su majestad,<br/>Sea Cristo gloria honor y poder<br/>Majestad, adara su majestad</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cristo murio y resucito es Rey de reyes<br/>Exaltad, glorificad el nombre de Cristo</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Adorad, magnificad a Cristo el Rey.<br/>Majestad, adora su mejestad<br/>Cristo murio y resucito es Rey de reyes</lines>
+    </verse>
+  </lyrics>
+</song>

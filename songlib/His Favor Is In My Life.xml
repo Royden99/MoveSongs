@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:01">
+  <properties>
+    <titles>
+      <title>His Favor Is In My Life</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't give up; you're on the brink of a miracle.<br/>Don't give in; God is still on the throne.<br/>Don't give up; you're on the brink of a miracle.<br/>Don't give in; remember you're not alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Are you in a situation that's impossible?<br/>Is there darkness just as far as you can see?<br/>Just hold on a little longer,<br/>Put your trust in Father God,<br/>In the morning you will see the victory!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For His favour is in life,<br/>Weeping may endure for a night,<br/>But know, always know, our God is in control,<br/>And His joy cometh in the morning.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I've got joy in my soul, for God is in control,<br/>He came through when my heart was in despair;<br/>He is almighty and supreme,<br/>Beyond what I could dream,<br/>He is the God Who always answers prayer.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

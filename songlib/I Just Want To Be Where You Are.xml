@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:19">
+  <properties>
+    <titles>
+      <title>I Just Want To Be Where You Are</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to be where You are,<br/>dwelling daily in Your presence<br/>I don't want to worship from afar,<br/>draw me near to where You are</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I just want to be where You are,<br/>in Your dwelling place forever<br/>Take me to the place where You are,<br/>I just want to be with You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chorus:<br/>I want to be where You are,<br/>dwelling in Your presence<br/>Feasting at Your table,<br/>surrounded by Your glory<br/>In Your presence,<br/>that's where I always want to be<br/>I just want to be,<br/>I just want to be with You</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I just want to be where You are,<br/>to enter boldly in Your presence<br/>I don't want to worship from afar,<br/>draw me near to where You are</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, my God,<br/>You are my strength and my song<br/>And when I'm in Your presence<br/>Though I'm weak You're always strong.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I just want to be,<br/>I just want to be with You.</lines>
+    </verse>
+  </lyrics>
+</song>

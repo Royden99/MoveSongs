@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:28">
+  <properties>
+    <titles>
+      <title>I want to live in union with my Lord,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I want to live in union with my Lord,<br/>I want to know His presence in my life,<br/>I want to have His life lived out in mine,<br/>I want to live in union with my Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to live in submission to my Lord,<br/>I want to know the cutting of His sword,<br/>I want to walk with Him to Calvary,<br/>I want to live in submission to my Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

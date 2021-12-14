@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:28">
+  <properties>
+    <titles>
+      <title>Lord, everything I have You gave to me.</title>
+    </titles>
+    <authors>
+      <author>Simeon Giles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, everything I have You gave to me.<br/>There is nothing that compares to Your love and liberty.<br/>In my darkness You're the Light, and You shine through me.<br/>You come and break my chains, and You make me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You do all things well.<br/>Lord, this is my declaration.<br/>You can do nothing but good,<br/>When my heart belongs to You.<br/>You won't lead me astray.<br/>Where I go Your hand will guide me.<br/>Whatever my state, may my heart always say<br/>You do all things well.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And in the trial of my faith, You strengthen me.<br/>When questions arise, You hear me.<br/>When I feel like thirsty ground, You flow through me.<br/>Though I fail to understand, You help me see.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

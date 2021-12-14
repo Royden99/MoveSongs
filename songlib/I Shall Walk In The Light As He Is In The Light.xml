@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:25">
+  <properties>
+    <titles>
+      <title>I Shall Walk In The Light As He Is In The Light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I shall walk in the light as He is in the light,<br/>I shall walk in the light as He is in the light,<br/>My delight is in the law of the Lord,<br/>And in His law do I meditate day and night.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I shall be like a tree<br/>Planted by the rivers of water<br/>That bringeth forth its fruit in its season;<br/>My leaf shall not wither,<br/>Whatsoever I do shall prosper,<br/>And whatsoever I do shall prosper.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

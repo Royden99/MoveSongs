@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:53">
+  <properties>
+    <titles>
+      <title>As The Hart Panteth For The Waters</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As the hart panteth for the waters,<br/>So crieth my soul unto Thee, O Lord.<br/>Night and day, how I thirst for Thee,<br/>And only Thee, shall I seek.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fill me up, fill me up, O Lord.<br/>Give me more, more of Thy love.<br/>How I thirst, only for Thee, fill me up, O Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Como el ciervo busca por las aguas<br/>Así clama mi alma por ti Señor<br/>Día y noche yo tengo sed de ti<br/>Sólo a ti te buscaré.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lléname, lléname Señor<br/>Dame más, más de tu amor<br/>Yo tengo sed sólo de ti, lléname Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

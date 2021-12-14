@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:12">
+  <properties>
+    <titles>
+      <title>Knowing You Jesus</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All I once held dear, built my life upon<br/>All this world reveres, and wars to own<br/>All I once thought gain I have counted loss<br/>Spent and worthless now, compared to this</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Knowing you, Jesus, knowing you, <br/>There is no greater thing<br/>You're my all, you're my rest<br/>You're my joy, my righteousness<br/>And I love you, Lord</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now my heart's desire is to know you more<br/>To be found in you and known as yours<br/>To possess by faith what I could not earn<br/>All-surpassing gift of righteousness</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, to know the power of your risen life<br/>And to know You in Your sufferings<br/>To become like you in your death, my Lord<br/>So with you to live and never die</lines>
+    </verse>
+  </lyrics>
+</song>

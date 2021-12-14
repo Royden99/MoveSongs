@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:34">
+  <properties>
+    <titles>
+      <title>Gloria</title>
+    </titles>
+    <authors>
+      <author>Antonio Vivaldi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gloria, gloria, gloria,<br/>Gloria in excelsis Deo,<br/>In excelsis Deo.<br/>Gloria, gloria, gloria,<br/>Gloria in excelsis Deo.<br/>Gloria, gloria<br/>In excelsis Deo.<br/>Gloria in excelsis,<br/>Gloria in excelsis Deo.<br/>Gloria in excelsis Deo,<br/>In excelsis.<br/>gloria in excelsis Deo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glorious, glorious, glorious,<br/>Glorious, all glory be to God,<br/>Glory in the highest.<br/>Glorious, glorious, glorious,<br/>Glory be to God on high, glory.<br/>Glorious, glorious,<br/>Glory in the highest, glory.<br/>Glory to God in heaven,<br/>Glory to God in heaven, glory.<br/>Glory to God in heaven, glory.<br/>He is glorious! Glorious,<br/>Glory in the highest.</lines>
+    </verse>
+  </lyrics>
+</song>

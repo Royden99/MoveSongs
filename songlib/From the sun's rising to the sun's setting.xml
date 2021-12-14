@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:32">
+  <properties>
+    <titles>
+      <title>From the sun's rising to the sun's setting</title>
+    </titles>
+    <authors>
+      <author>Ted Sandquist</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From the sun's rising to the sun's setting<br/>In every place His name will be praised<br/>And from Mount Zion to furthest island<br/>Let the hosannas be raised.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Great is the Lord even beyond the borders of Israel,<br/>Great, great is the Lord,<br/>Great is the Lord even beyond the borders of Israel,<br/>Great, great is the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lamb is worthy to receive glory,<br/>For He has purchased man with His blood<br/>From every nation to be a kingdom<br/>Reigning on earth for our God!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Greater is His might than forces of night<br/>And in His people His power will be shown.<br/>His resurrection brought to subjection<br/>Everything under His throne.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:17">
+  <properties>
+    <titles>
+      <title>Search Me, Oh God</title>
+    </titles>
+    <authors>
+      <author>Emerson Eads</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Search me, oh God.<br/>Let Thy light so shine on me, <br/>That I can see in me,<br/>The things displeasing Thee. <br/>Lead me not, I pray, in any place <br/>That is away from Thy presence; <br/>But let Thy light so shine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For in Thy light I see the light, <br/>For in Thy light no darkness can hide. <br/>I want Thy light to shine on me. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Divide the darkness from me, <br/>Until I become Thy light, oh God; <br/>And I will be one with Thee, <br/>For all eternity.</lines>
+    </verse>
+  </lyrics>
+</song>

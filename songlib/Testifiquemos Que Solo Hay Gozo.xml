@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:39">
+  <properties>
+    <titles>
+      <title>Testifiquemos Que Solo Hay Gozo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Testifiquemos que solo hay gozo <br/>Que solo hay paz y salvación en nuestras almas <br/>Y venceremos al enemigo <br/>Cristo nos guía con victoria a la batalla. <br/>Sonará la trompeta en Sión <br/>Sonará, si sonará <br/>Sonará la trompeta en Sión, sonará sí, sonará </lines>
+    </verse>
+  </lyrics>
+</song>

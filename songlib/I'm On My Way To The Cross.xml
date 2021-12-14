@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:44">
+  <properties>
+    <titles>
+      <title>I'm On My Way To The Cross</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm on my way to the cross.<br/>I'm on my way to the cross.<br/>I've set my face like a flint.<br/>I'm going to Jerusalem.<br/>I'm dead with Christ, alive unto God.<br/>Kept and saved by His power and grace,<br/>That I might be His praise and glory.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:52">
+  <properties>
+    <titles>
+      <title>As I wait o Lord</title>
+    </titles>
+    <authors>
+      <author>Amy Wheeler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>as i wait o lord<br/>as i wait on thee<br/>As i wait o lord<br/>you will strengthen me</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For you have answered my prayer<br/>you hear my heart<br/>and in the time of trouble<br/>you will hide me, set me on a Rock.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will trust you Lord<br/>put my trust in thee<br/>let me not be moved<br/>but abide in thee</lines>
+    </verse>
+  </lyrics>
+</song>

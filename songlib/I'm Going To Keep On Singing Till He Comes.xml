@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:43">
+  <properties>
+    <titles>
+      <title>I'm Going To Keep On Singing Till He Comes</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm going to keep on singing till He comes, till He comes.<br/>There's nothing in this world worth turning around to see.<br/>My eyes are on that prize that awaits me by and by.<br/>I'm going to keep on singing till He comes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There's word to be preached and souls to be reached.<br/>There's hungry to be fed, little children to be led.<br/>There are things to be done, and battles to be won.<br/>I'm going to keep on singing till He comes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There's seed to be sown, and grace to be shown.<br/>Captives to set free, and blind eyes made to see.<br/>A race to be run, and battles to be won.<br/>I'm going to keep on singing till He comes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I'm going to keep on loving, etc.<br/>I'm going to keep on trusting, etc.<br/>I'm going to keep on believing, etc.<br/>I'm going to keep on dying, etc. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Voy a seguir cantando <br/>Hasta que venga El <br/>No hay nada en este mundo<br/>Que valga la pena mirar<br/>Mis ojos están en la meta<br/>Que pronto alcanzaré <br/>Voy a seguir cantando y le veré.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hay palabra para predicar<br/>Y almas para salvar <br/>Hambrientos para alimentar<br/>Y niños para guiar<br/>Hay cargas para llevar<br/>Y coros para cantar<br/>Voy a seguir cantando y le veré</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hay semilla para sembrar <br/>Y gracia para mostrar,<br/>Cautivos para librar<br/>Ojos ciegos para sanar<br/>Una carrera para ganar<br/>Y batallas para luchar<br/>Voy a seguir cantando y le veré.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Voy a seguir amando….<br/>Voy a seguir confiando….<br/>Voy a seguir creyendo….</lines>
+    </verse>
+  </lyrics>
+</song>

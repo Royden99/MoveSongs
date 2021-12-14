@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:43">
+  <properties>
+    <titles>
+      <title>Hallelujah! For The Lord Our God, The Almighty, Reigns</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah! For the Lord our God,<br/>The Almighty, reigns! (2x)<br/>Great is He who is King of kings,<br/>And Lord of lords.<br/>You are wonderful.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let us rejoice and be glad, giving the glory to Him.<br/>For the marriage of the Lamb has come<br/>And the bride hath made herself ready</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hallelujah! Salvation and glory,<br/>Honor and power belong to our God. (Repeat.)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Praise the Lord, ye servants of the Lord<br/>You who fear His name lift Him up<br/>Both the small and great (Repeat.).</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aleluya! porque nuestro Dios poderoso reina!<br/>Aleluya! porque nuestro Dios poderoso reina.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Grande es el Rey de reyes, Señor de señores.<br/>Admirable! (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

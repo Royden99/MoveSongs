@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:19">
+  <properties>
+    <titles>
+      <title>Let The Words Of My Mouth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the words of my mouth,<br/>and the meditation of my heart,<br/>be acceptable in thy sight, oh Lord.<br/>Thou art my strength and my Redeemer.<br/>Thou art my strength and my Redeemer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For I am poor, and in need.<br/>Yet the Lord thinketh upon me<br/>Thou art my help and my deliverer.<br/>Make no tarry, oh my God.<br/>Make no tarry, oh my God. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que los dichos de mi boca<br/>Y la meditación de mi corazón<br/> Sean gratos delante de ti.<br/>¡Oh Señor!</lines>
+    </verse>
+  </lyrics>
+</song>

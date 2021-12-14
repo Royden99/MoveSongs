@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:34">
+  <properties>
+    <titles>
+      <title>Make Me Like You, Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make me like You, Lord. Please, make me like You.<br/>For You are a servant, Lord. Make me one too.<br/>Lord, I am willing. Please, do what You must do<br/>To make me like you, Lord. Make me like you.</lines>
+    </verse>
+  </lyrics>
+</song>

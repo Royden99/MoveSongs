@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:40">
+  <properties>
+    <titles>
+      <title>Gotta Keep Pressing In, My Brother</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gotta keep pressing in, my brother, gotta keep pressing in<br/>For the way is narrow, yes, the way is hard<br/>But we've gotta enter in<br/>Hold fast to the vision, lay aside all doubt<br/>Lay aside all flesh, lay aside division<br/>For we've gotta keep pressing in, my brother<br/>Gotta keep pressing in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gotta keep pressing in, my sister, gotta keep pressing in<br/>For the way is narrow, yes, the way is hard<br/>But we've gotta enter in<br/>Hold fast to the vision, lay aside all doubt<br/>Lay aside all flesh, lay aside division<br/>For we've gotta keep pressing in, my sister<br/>Gotta keep pressing in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gotta keep pressing in, my family, gotta keep pressing in<br/>For the way is narrow, yes, the way is hard<br/>But we've gotta enter in<br/>Hold fast to the vision, lay aside all doubt<br/>Lay aside all flesh, lay aside division<br/>For we've gotta keep pressing in, my family.</lines>
+    </verse>
+  </lyrics>
+</song>

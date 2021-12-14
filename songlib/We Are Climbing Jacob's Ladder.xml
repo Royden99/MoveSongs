@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:29">
+  <properties>
+    <titles>
+      <title>We Are Climbing Jacob's Ladder</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are climbing Jacob's ladder,<br/>(Repeat 3x.)<br/>Soldiers of the cross.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are climbing higher, higher, (Etc.)<br/>Every rung goes higher, higher, (Etc.) </lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Subimos ya la escalera de Jacob/(3)<br/>Soldados de la cruz</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Ángeles ascienden, ángeles descienden/(3)<br/>Soldados de la cruz</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/Hablamos ya el idioma celestial/(3)<br/>Soldados de la cruz</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/En cada convención subimos más y más/(3)<br/>Soldados de la cruz</lines>
+    </verse>
+  </lyrics>
+</song>

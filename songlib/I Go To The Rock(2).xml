@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:17">
+  <properties>
+    <titles>
+      <title>I Go To The Rock</title>
+    </titles>
+    <authors>
+      <author>Dottie Rambo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I go to the Rock of my salvation<br/>Go to the Stone<br/>That the builder rejected<br/>Run to the Mountain<br/>And the Mountain stands by me<br/>The earth all around me is sinking sand<br/>On Christ the solid Rock I stand<br/>When I need a shelter<br/>When I need a friend<br/>I go to the Rock</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where do I go<br/>When there's no one else to turn to<br/>Who do I talk to<br/>When no one wants to listen<br/>Who do I lean on<br/>When there's no foundation stable<br/>I go to the Rock I know that's able<br/>I go to the Rock</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Where do I hide<br/>'Til the storms have all passed over<br/>Where do I run to<br/>When the winds of sorrow threaten<br/>Is there a refuge<br/>In the time of tribulation<br/>When my soul needs consolation<br/>I go to the Rock</lines>
+    </verse>
+  </lyrics>
+</song>

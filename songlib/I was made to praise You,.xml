@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:30">
+  <properties>
+    <titles>
+      <title>I was made to praise You,</title>
+    </titles>
+    <authors>
+      <author>Chris Christenson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I was made to praise You,<br/>I was made to glorify Your name,<br/>In every circumstance<br/>To find a chance to thank You,<br/>I was made to love You,<br/>I was made to worship at Your throne<br/>And to obey You,<br/>I was made for You.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>- Hecho fui para alabarte,<br/>- Hecho fui para glorificarte,<br/>- En toda situación<br/>- Y agradecerte,<br/>- Hecho fui para amarte,<br/>- Hecho fui para adorarte, Dios,<br/>- Y para obedecerte,<br/>- Hecho para Ti.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

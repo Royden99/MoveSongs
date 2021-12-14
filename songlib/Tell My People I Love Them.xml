@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:38">
+  <properties>
+    <titles>
+      <title>Tell My People I Love Them</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tell My people I love them; <br/>Tell My people I care; <br/>When they feel far away from Me, <br/>Tell My people I'm there.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'll always be with you,<br/>Because I love you, because I care.<br/>And I'll always be with you,<br/>Because I love you, because I care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dile a mi pueblo que le amo, <br/>Y que cuido de el. <br/>Cuando se sientan lejos de mi, <br/>Diles que estoy aqui.<br/>Dile a mi pueblo que le amo,<br/>Dile a mi pueblo que le cuido.<br/>Cuando se sientan lejos de mi,<br/>Dile a mi pueblo que estoy aqui.</lines>
+    </verse>
+  </lyrics>
+</song>

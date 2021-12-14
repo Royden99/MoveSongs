@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:31">
+  <properties>
+    <titles>
+      <title>Stand back, O earth, I'm coming forth.</title>
+    </titles>
+    <authors>
+      <author>Laurie Pettis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Stand back, O earth, I'm coming forth,<br/>Stand back, O earth, I'm coming forth,<br/>There is no way you can hold me back,<br/>Stand back, O earth, I'm coming forth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>This resurrection, sown in corruption.<br/>Raised incorruptible, sown in dishonour,<br/>Raised in glory, sown in weakness,<br/>Raised in power, His new life in me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

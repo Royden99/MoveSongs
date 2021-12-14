@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:03">
+  <properties>
+    <titles>
+      <title>Blessing And Honor</title>
+    </titles>
+    <authors>
+      <author>Terry MacAlmon © 2000 TMMI Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessing and honour, glory and power,<br/>Riches and wisdom and strength,<br/>Blessing and honour, glory and power,<br/>Riches and wisdom and strength,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Be unto You, unto You<br/>Who sits at the right hand of God,<br/>Be unto You, unto You<br/>Who sits at the right hand of God,<br/>Unto You.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

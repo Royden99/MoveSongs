@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:42">
+  <properties>
+    <titles>
+      <title>I'm Free, Free, Free, O Praise The Lord, I'm Free</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm free, free, free, O praise the Lord, I'm free<br/>Free, free, free, for He has given me the victory.<br/>O, yes, I'm free, free, free from Satan's condemnation.<br/>Praise the Lord forever, I'm free, free, free!</lines>
+    </verse>
+  </lyrics>
+</song>

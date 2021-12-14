@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:45">
+  <properties>
+    <titles>
+      <title>The God that Takes Me Through</title>
+    </titles>
+    <authors>
+      <author>Lori</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sometimes when I'm in trouble<br/>I can't see what's going on<br/>clouds are all around me<br/>i can't even see the sun<br/>and then i start to wondering<br/>now what am i gonna do<br/>lord help me know for certain<br/>you are the god that takes me through</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the God , the God that takes me through //<br/>In the middle of the darkness, <br/>a light comes shining through<br/>you are God, the God that takes me through</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In the middle of the battle, <br/>It's so very hard to see<br/>What's going on around me<br/>Or what you're doing in me<br/>But in the middle of the darkenss<br/>a light comes shining through<br/>and then i know for certain<br/>you are the god that takes me through</lines>
+    </verse>
+  </lyrics>
+</song>

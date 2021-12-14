@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:44">
+  <properties>
+    <titles>
+      <title>The Dawn Breaks Boldly</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The dawn breaks boldly o'er the land<br/>And God's new day is born,<br/>Revealing Sons who love their God,<br/>Who bring the kingdom forth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>Sons of God stand at Thy throne.<br/>A nation worships Thee.<br/>O, holy people, Israel<br/>Shall rule eternally.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, Lamb of God whose blood has cleansed<br/>And purified the hearts<br/>Of those who stood with Thee as one<br/>Those chosen from the start</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A chosen race of kings and priests<br/>Remind You of your Word.<br/>That You shall have a righteous Bride,<br/>That's holy, true, and sure.</lines>
+    </verse>
+  </lyrics>
+</song>

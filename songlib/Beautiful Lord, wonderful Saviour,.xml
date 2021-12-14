@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:58">
+  <properties>
+    <titles>
+      <title>Beautiful Lord, wonderful Saviour,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Beautiful Lord, wonderful Saviour,<br/>I know for sure, all of my days are held in Your hands,<br/>Crafted into Your perfect plan.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You gently call me into Your presence<br/>Guiding me by Your Holy Spirit,<br/>Teach me, dear Lord<br/>To live all of my life through Your eyes,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'm captured by Your Holy calling,<br/>Set me apart,<br/>I know You're drawing me to Yourself,<br/>Lead me, Lord, I pray.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Take me, mould me,<br/>Use me, fill me,<br/>I give my life to the Potter's hands;<br/>Hold me, guide me,<br/>Lead me, walk beside me,<br/>I give my life to the Potter's hand.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

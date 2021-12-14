@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:32">
+  <properties>
+    <titles>
+      <title>Step By Step</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God you are my God and I will ever praise You (X2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will seek you in the morning <br/>I will learn to walk in your ways</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And step by step you lead me<br/>And I will follow you all of my days <br/>I will follow you all of my days (X2)</lines>
+    </verse>
+  </lyrics>
+</song>

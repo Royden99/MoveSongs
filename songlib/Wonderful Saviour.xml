@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:55">
+  <properties>
+    <titles>
+      <title>Wonderful Saviour</title>
+    </titles>
+    <authors>
+      <author>J. M. Harris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful Savior, wonderful Savior,<br/>Thou art so near, so precious to me!<br/>Wonderful Savior, wonderful Savior<br/>My heart is filled with praises to Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, my King, my wonderful Savior,<br/>All of my life is given to Thee.<br/>I am rejoicing in Thy salvation.<br/>Thy precious blood now maketh me free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Freedom from sin, O wonderful story!<br/>All of its stains washed whiter than snow!<br/>Jesus has come to live in His temple,<br/>And with His love my heart is aglow.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus, my Lord, I'll ever adore Thee,<br/>Lay at Thy feet my treasures of love.<br/>Lead me in ways to show forth Thy glory,<br/>Ways that will end in heaven above.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When in that bright and beautiful city<br/>I shall behold Thy glories untold,<br/>I shall be like Thee, wonderful Savior,<br/>And I will sing while ages unfold.</lines>
+    </verse>
+  </lyrics>
+</song>

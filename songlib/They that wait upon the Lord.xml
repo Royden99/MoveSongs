@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-02-13T17:45:06">
+  <properties>
+    <titles>
+      <title>They that wait upon the Lord</title>
+    </titles>
+    <authors>
+      <author>Dale Jackson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They that wait upon the Lord<br/>Shall renew their strength;<br/>They shall mount up with wings as eagles,<br/>They shall run and not grow weary,<br/>They shall walk and not faint;<br/>Teach me, Lord; teach me, Lord, to wait.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

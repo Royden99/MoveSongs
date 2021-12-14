@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:07">
+  <properties>
+    <titles>
+      <title>There's No One, No One Like Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There's no one, no one like Jesus.<br/>No one, no one like Jesus,<br/>Who would die for me<br/>Just to set my spirit free.<br/>No one, no one like Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

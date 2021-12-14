@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:05">
+  <properties>
+    <titles>
+      <title>Jesus, be the centre,</title>
+    </titles>
+    <authors>
+      <author>Michael Frye</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, be the centre,<br/>Be my source, be my light,<br/>Jesus.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus be the centre,<br/>Be my hope, be my song,<br/>Jesus.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Be the fire in my heart,<br/>Be the wind in these sails,<br/>Be the reason that I live,<br/>Jesus, Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesus be my vision,<br/>Be my path, be my guide,<br/>Jesus.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Be the fire in my heart,<br/>Be the wind in these sails,<br/>Be the reason that I live,<br/>Jesus, Jesus.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

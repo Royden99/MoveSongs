@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:16">
+  <properties>
+    <titles>
+      <title>Satisfied</title>
+    </titles>
+    <authors>
+      <author>Clara Teare Williams Ralph E. Hudson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hallelujah! I have found Him<br/>Whom my soul so long has craved!<br/>Jesus satisfies my longings;<br/>Thro' His blood I now am saved.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All my lifelong I had panted,<br/>For a draught from some cool spring<br/>That I hoped would quench the burning<br/>Of the thirst I felt within.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feeding on the husks around me<br/>Till my strength was almost gone,<br/>Longed my soul for something better,<br/>Only still to hunger on.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Poor I was and sought for riches,<br/>Something that would satisfy;<br/>But the dust I gathered round me<br/>Only mocked my soul's sad cry.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Well of water, ever springing,<br/>Bread of life, so rich and free,<br/>Untold wealth that never faileth,<br/>My Redeemer is to me.</lines>
+    </verse>
+  </lyrics>
+</song>

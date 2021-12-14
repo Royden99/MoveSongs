@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:54">
+  <properties>
+    <titles>
+      <title>The Race Is Not To The Swift</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>The race is not to the swift,<br/>Nor the battle to the strong,<br/>But to him that endures to the end,<br/>So endure to the end my son.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Little children, your sins are forgiven,<br/>And you have been born again.<br/>But remember, this is just the beginning.<br/>Will you be there at the end?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Young men, you have overcome,<br/>And in you abides His word.<br/>But remember, there are much stronger ones,<br/>And you will need the strength of the Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fathers, you have known Him who is<br/>The Beginning; the Father you've known.<br/>But remember, there is no rest in this,<br/>Not till you enter your heavenly home.</lines>
+    </verse>
+  </lyrics>
+</song>

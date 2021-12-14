@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:34">
+  <properties>
+    <titles>
+      <title>Make A Joyful Noise, Unto The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Make a joyful noise, unto the Lord. <br/>Sing the glory of His name,<br/>For the Lord is good, and the Lord is great. <br/>He is greatly to be praised, <br/>My God my King, my rock and my redeemer, <br/>My strength my song, my refuge and my shelter. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cantad alegres a Jehová <br/>Cantad la gloria de su nombre<br/>Grande y bueno es Jehová <br/>Digno de suprema alabanza.<br/>Mi Dios, mi Rey, mi Roca y Redentor<br/>Mi fuerza y mi canción <br/>Mi refugio y fortaleza</lines>
+    </verse>
+  </lyrics>
+</song>

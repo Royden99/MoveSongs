@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:38">
+  <properties>
+    <titles>
+      <title>We walk in the heavenlies with Jesus,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We walk in the heavenlies with Jesus,<br/>All earthly cares are laid aside;<br/>We're seated at the right hand of the Father,<br/>All authority and power is ours.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So set your affection on things from above,<br/>With Christ at the right hand of God,<br/>For ye are dead and your new life is hid<br/>With Christ at the right hand of God.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

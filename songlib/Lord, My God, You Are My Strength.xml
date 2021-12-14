@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:30">
+  <properties>
+    <titles>
+      <title>Lord, My God, You Are My Strength</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, my God, You are my strength,<br/>And my comfort in the night time.<br/>I will not fear when adversity<br/>Overtakes me in a moment.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My rock and my refuge are only You.<br/>You order my footsteps with Your light.<br/>May we consecrate our lives to walk<br/>In obedience to Your will.<br/>So that we may love You more,<br/>And may follow You unto the end. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Señor tu eres mi fortaleza<br/>Me consuelas en la noche<br/>No temeré cuando la adversidad<br/>Sobrevenga a mi vida.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi roca y mi refugio eres tu <br/>Tu guiarás mis pasos con tu luz<br/>Que podamos consagrar nuestras vidas<br/>Y caminar en tu voluntad Señor<br/>Para así poderte amar y<br/>Seguirte hasta el final.</lines>
+    </verse>
+  </lyrics>
+</song>

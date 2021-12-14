@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:11">
+  <properties>
+    <titles>
+      <title>Come Into The King's Chambers</title>
+    </titles>
+    <authors>
+      <author>Daniel Gardner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come into the King's chamber<br/>And worship at His throne;<br/>Come into the King's chamber<br/>And His glory shall be shown;<br/>Come into His holy presence<br/>And magnify His name;<br/>Come into the King's chamber<br/>And you will never be the same.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

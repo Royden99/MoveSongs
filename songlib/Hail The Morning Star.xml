@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:42">
+  <properties>
+    <titles>
+      <title>Hail The Morning Star</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail, the morning star!<br/>Who is rising in our heart,<br/>Whose companion is the dawn,<br/>And whose light is going on...<br/>Going on!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are conquering!<br/>O now death, where is your sting?<br/>In the fragrance of their song,<br/>Rise a people going on...<br/>Going on!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We have found the place,<br/>Where the Lord unveils our face,<br/>Where the weakened heart's made strong<br/>In the light of going on...<br/>Going on!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We have overcome!<br/>As we surround Thy throne,<br/>In the morning light of praise<br/>That fills all our days...<br/>Going on!</lines>
+    </verse>
+  </lyrics>
+</song>

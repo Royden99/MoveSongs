@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:05">
+  <properties>
+    <titles>
+      <title>Praise The Name Of Jesus</title>
+    </titles>
+    <authors>
+      <author>Roy Jr. Hicks</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise the name of Jesus.<br/>Praise the name of Jesus.<br/>He's my Rock (Lord).<br/>He's my Fortress (Savior).<br/>He's my Deliverer (Master).<br/>In Him will I trust.<br/>Praise the name of Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

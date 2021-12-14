@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:47">
+  <properties>
+    <titles>
+      <title>In That Day Shall This Song Be Sung</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In that day shall this song be sung<br/>In the land of Judah.<br/>In that day shall this song be sung<br/>In the land of Judah.<br/>In that day shall this song be sung<br/>In the land of Judah.<br/>We have a strong city. <br/>Chorus:<br/>Open ye gates that the<br/>Righteous nation which keepeth the truth<br/>May enter in, may enter in.<br/>Open ye gates that the<br/>Righteous nation which keepeth the truth<br/>May enter in, may enter in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though wilt keep him in perfect peace<br/>Whose mind is stayed on Thee. (3x)<br/>Because he trusteth in Thee. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cantarán este cántico en tierra de Judá<br/>Cantarán este cántico en tierra de Judá.<br/>Cantarán este cántico en tierra de Judá,<br/>porque fuerte Ciudad tenemos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Abrid las puertas<br/>y la gente justa entrará<br/>guardadora de la verdad/ (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/Guardarás en completa paz <br/>a aquel que piensa en tí/ (3)<br/>porque en tí solo ha confiado.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/Salvación ha puesto Dios<br/>por muros y antemuros/ (3)<br/>porque fuerte ciudad tenemos</lines>
+    </verse>
+  </lyrics>
+</song>

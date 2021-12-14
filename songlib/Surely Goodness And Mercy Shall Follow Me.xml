@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:33">
+  <properties>
+    <titles>
+      <title>Surely Goodness And Mercy Shall Follow Me</title>
+    </titles>
+    <authors>
+      <author>John Peterson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Surely goodness and mercy shall follow me<br/>All the days, all the days of my life;<br/>Surely goodness and mercy shall follow me<br/>All the days, all the days of my life.<br/>And I shall dwell in the house of the Lord for ever,<br/>And I shall feast at the table set for me.<br/>Surely goodness and mercy shall follow me<br/>All the days, all the days of my life.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:08">
+  <properties>
+    <titles>
+      <title>Christ, Come Forth In Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Christ, come forth in me<br/>Till my life I no longer can see,<br/>Till the day breaks forth and the darkness is gone.<br/>Christ, come forth in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me silver till I need no more,<br/>That my redemption may be fully restored.<br/>That the whole world may know that it's no longer I,<br/>But Christ that liveth in me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me silver till I need no more,<br/>That my redemption may be fully restored.<br/>That the price may be paid, till I am overlaid<br/>Both inside and outside with gold.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>As I stand in the Name of the Song,<br/>And that work has been completely done,<br/>Lay me down on the cross, counting all else as loss,<br/>Till God comes forth in me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:46">
+  <properties>
+    <titles>
+      <title>When i see a brother</title>
+    </titles>
+    <authors>
+      <author>Anon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I see a brother standing like a mountain,<br/>When I see a sister glowing like a fire,<br/>Something inside me like a bubbling fountain,<br/>Quickens my faith, makes me want to take<br/>Just…another step higher –</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(chorus) <br/> 'Cause I know <br/>If He did it for them God will do it for me<br/>He'll break the bonds, right the wrongs and set me free,<br/>O, if He did it for them, God will do it for me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I see a brother who's been through a battle<br/>Lifting his hands in a victory song<br/>A sister who knows what it is to be shackled<br/>Stand and proclaim, that in Jesus' name<br/>She's free once again-</lines>
+    </verse>
+  </lyrics>
+</song>

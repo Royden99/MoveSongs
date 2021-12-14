@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:18">
+  <properties>
+    <titles>
+      <title>I Go To The Rock</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where do I go when there's nobody else to turn to?<br/>Who do I talk to when nobody wants to listen?<br/>Who do I lean on when there is no foundation stable?<br/>I go to the Rock; I know He's able.<br/>I go to the Rock.<br/>Chorus:<br/>I go to the Rock of my salvation.<br/>I go to the Stone that the builders rejected.<br/>I run to the Mountain,<br/>And the Mountain stands by me.<br/>The earth all around me is sinking sand;<br/>On Christ the solid Rock I stand.<br/>When I need a shelter,<br/>When I need a friend,<br/>I go to the Rock.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Where do I go when the storms of life are threatening?<br/>Who do I turn to when those winds of sorrow blow?<br/>Is there a refuge in the time of tribulation?<br/>I go to the Rock; I know He's able.<br/>I go to the Rock.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-04-17T02:49:04">
+  <properties>
+    <titles>
+      <title>My Life Is In You, Lord</title>
+    </titles>
+    <authors>
+      <author>Daniel Gardner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My life is in You, Lord. <br/>My strength is in You, Lord. <br/>My hope is in You, Lord, <br/>In You. (Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will praise You with all my life. <br/>I will praise You with all my strength. <br/>All of my life, all of my strength,<br/>All of my hope is in You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi vida esta en Ti, Dios,<br/>mi fuerza esta en Ti, Dios,<br/>Mi esperanza en Ti, Dios,<br/>en Ti (Repetir).</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Te alabo con toda mi vida, <br/>Te alabo con mis fuerzas,<br/>Toda mi vida, <br/>Todas mis fuerzas. <br/>Mi esperanza esta en Ti.</lines>
+    </verse>
+  </lyrics>
+</song>

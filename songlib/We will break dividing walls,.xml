@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:39">
+  <properties>
+    <titles>
+      <title>We will break dividing walls,</title>
+    </titles>
+    <authors>
+      <author>David Ruis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will break dividing walls,<br/>We will break dividing walls,<br/>We will break dividing walls,<br/>In the Name of Your Son.<br/>We will break dividing walls,<br/>We will break dividing walls,<br/>We will be one!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is a place of commanded blessing<br/>Where brethren in unity dwell;<br/>A place where anointing oil is flowing,<br/>And we live as one!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have called us to be a Body.<br/>You have called us as friends.<br/>Joined together in the bond of the Spirit<br/>Unto the end.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Father, we join with the prayer of Jesus,<br/>As You are, so let us be one.<br/>Joined together in unity and purpose,<br/>All for the love of Your Son.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:13">
+  <properties>
+    <titles>
+      <title>Come Ye Up And Bring Your Branches</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>From your cities come everyone,<br/>Up to Zion the chosen place;<br/>With all the brethren to dwell as one,<br/>Seeing Jesus face to face.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh come ye up and bring your branches,<br/>Come ye up, bring your wine and oil;<br/>Rejoice before Him with songs and dances,<br/>Come and live in the feast of joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Since the trumpet has sounded clear,<br/>Come be cleansed from self and sin;<br/>The celebration is drawing near,<br/>The King of glory shall come in.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

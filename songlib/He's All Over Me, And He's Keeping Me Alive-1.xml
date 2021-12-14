@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:58">
+  <properties>
+    <titles>
+      <title>He's All Over Me, And He's Keeping Me Alive</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's all over me, and He's keeping me alive,<br/>Keeping me alive, keeping me alive. <br/>Well, He's all over me, and He's keeping me alive.<br/>Jesus is keeping me alive.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've got the Holy Ghost, and He's keeping me alive, etc.<br/>The Holy Ghost has got me and He's keeping me alive, etc.<br/>I've just heard from Father and He's keeping me alive, etc.<br/>I'm in the fire with Jesus and He's keeping me alive, etc.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El esta sobre mi, me guarda con poder.<br/>Me guarda con poder, me guarda con poder. <br/>El esta sobre mi y me guarda con poder. <br/>Cristo me guarda con poder.</lines>
+    </verse>
+  </lyrics>
+</song>

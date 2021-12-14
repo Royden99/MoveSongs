@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:27">
+  <properties>
+    <titles>
+      <title>Some Trust In Chariots</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some trust in chariots<br/>and some in horses,<br/>but we will remember the name of the LORD our God (2X)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I know the LORD saves His anointed;<br/>He will hear him from his holy heaven<br/>with the saving strength of his right hand<br/>They are brought down and fallen<br/>but we rise and stand upright, oh glory!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Estos confían en carros,<br/>y aquéllos en caballos;<br/>mas nosotros confiamos en el nombre de Jehová (2X)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ahora sé que Jehová guarda a su ungido;<br/>lo oirá desde su santo cielo,<br/>con la potencia salvadora de su diestra<br/>Estos caen; mas nosotros nos levantamos, y estamos en pie bien firmes</lines>
+    </verse>
+  </lyrics>
+</song>

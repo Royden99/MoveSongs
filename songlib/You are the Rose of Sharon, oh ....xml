@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:05">
+  <properties>
+    <titles>
+      <title>You are the Rose of Sharon, oh ...</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are the Rose of Sharon, oh ...<br/>Yes, You are the Rose of Sharon, oh ...<br/>Yes, You are the Rose of Sharon,<br/>And I love You so, I love You so,<br/>I love You so, I love You so.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are the Lily of the Valley ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the King of Kings ...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>You are the fairest of ten thousand ...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sing hallelujah, sing hallelujah ...<br/></lines>
+    </verse>
+  </lyrics>
+</song>

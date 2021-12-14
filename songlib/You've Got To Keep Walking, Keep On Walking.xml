@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:10">
+  <properties>
+    <titles>
+      <title>You've Got To Keep Walking, Keep On Walking</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You've got to keep walking, keep on walking<br/>Walking in the light of the Lord,<br/>You're going to get there someday<br/>As you walk the right way, <br/>walking in the light of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You've got to keep walking, keep walking<br/>Walking in the light of the Lord, we'll free creation someday,<br/>As we walk the right way. Walking in the light of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O it's a glorious Church, without spot or wrinkle<br/>Washed in the blood of the Lamb. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:17">
+  <properties>
+    <titles>
+      <title>Let the heavens rejoice and the earth be glad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the heavens rejoice and the earth be glad<br/>Let the seas resound with a mighty roar<br/>Let the trees of the forest clap their hands<br/>Let the earth be filled with the glory of the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of creation is boldly proclaiming<br/>The wonderful things He has done<br/>Let's join with all nations in one declaration<br/>Proclaiming the goodness of God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The heavens above are declaring His splendour<br/>His power cannot be denied<br/>For all of creation is loudly confessing<br/>That Jesus our Lord is alive<br/></lines>
+    </verse>
+  </lyrics>
+</song>

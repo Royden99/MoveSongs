@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:17">
+  <properties>
+    <titles>
+      <title>Let It Rain</title>
+    </titles>
+    <authors>
+      <author>Mel Reed</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>i look to the sky,<br/> the sun blazing on high<br/>has scorched the grass,<br/> the heavens - still brass</lines>
+    </verse>
+    <verse name="v2">
+      <lines>let it rain, let it rain<br/>showers of blessing<br/>cleansing, refreshing<br/>let it rain, let it rain<br/>let it fall, heal us all, let it rain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>above the dry land<br/>a cloud like a man's hand<br/>i now can see<br/>brings hope to me.</lines>
+    </verse>
+  </lyrics>
+</song>

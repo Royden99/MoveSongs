@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:06">
+  <properties>
+    <titles>
+      <title>Praise unbroken</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise unbroken<br/>Praise unending<br/>Be Yours, be Yours forevermore</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise untainted<br/>Praise unfading<br/>Be Yours, be Yours forevermore</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unbroken praise be Yours, God, forever<br/>All my praise be Yours, God, forever<br/>Lord, take this life, let it become Your throne<br/>Unbroken praise be Yours</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My surrender<br/>My devotion<br/>Be yours, be yours forevermore<br/>Be yours, be yours forevermore</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let my deeds outrun my word<br/>And let my life outweigh my songs<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:27">
+  <properties>
+    <titles>
+      <title>Fight For The House</title>
+    </titles>
+    <authors>
+      <author>Lael Durnford</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As a people travail<br/>In the heat of the sun,<br/>There is hope in the victory of the Lord.<br/>With a heat that is groaning,<br/>The battle's begun<br/>To recover, redeem and restore.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>So we fight for our brothers<br/>And we fight for our sons,<br/>Go up for our daughters and wives.<br/>Fight for the house<br/>For the battle's begun,<br/>And cry victory in the name of our God,<br/>And cry victory in the name of our God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Though the night closes in<br/>We remain on the wall<br/>With a vision that shines like the day.<br/>Though the rubble surrounds us,<br/>Not one man shall fall,<br/>For together we work and we say:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>With a spade in one hand<br/>And a sword at our side,<br/>The sound of the trumpet will call.<br/>With our hearts trained for war<br/>As the battle draws nigh,<br/>We will fight at our place on the wall.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

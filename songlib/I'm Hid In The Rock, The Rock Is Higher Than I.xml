@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:44">
+  <properties>
+    <titles>
+      <title>I'm Hid In The Rock, The Rock Is Higher Than I</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I'm hid in the Rock, the Rock is higher than I.<br/>Jehovah guides my soul; I'm hid in the Rock.<br/>Go tell my enemies, I'm hid in the Rock.<br/>Jehovah guides my soul; I'm hid in the Rock.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm part of the Rock. The Rock is all of my life.<br/>Jehovah guides my soul; I'm part of the Rock.<br/>Go tell my enemies, I'm part of the Rock.<br/>Jehovah guides my soul; I'm part of the Rock.</lines>
+    </verse>
+  </lyrics>
+</song>

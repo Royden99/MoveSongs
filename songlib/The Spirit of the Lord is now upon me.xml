@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:56">
+  <properties>
+    <titles>
+      <title>The Spirit of the Lord is now upon me</title>
+    </titles>
+    <authors>
+      <author>Eunice Stacey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Spirit of the Lord is now upon me<br/>To heal the broken heart<br/>and set the captive free,<br/>To open prison doors<br/>and make the blind to see;<br/>The Spirit of the Lord is now on me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:42">
+  <properties>
+    <titles>
+      <title>That's All Right</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>That's all right. (Repeat 4x.)<br/>For I know that I have a seat in the Kingdom,<br/>And that's all right; that's all right.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sometimes I wonder why<br/>Good things, they seem to pass me by.<br/>But, I know I've got a seat in the Kingdom;<br/>That's all right; that's all right.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>It gets sweeter as the days go by,<br/>And that's all right; that's all right, etc.</lines>
+    </verse>
+  </lyrics>
+</song>

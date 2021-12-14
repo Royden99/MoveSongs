@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:57">
+  <properties>
+    <titles>
+      <title>Here's my cup</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here's my cup Lord, I lift it up Lord<br/>	Come and quench this thirsting of my soul<br/>	Bread of heaven, feed me till I want no more<br/>	Fill my cup, fill it up and make me whole.</lines>
+    </verse>
+  </lyrics>
+</song>

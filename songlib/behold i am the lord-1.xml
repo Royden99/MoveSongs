@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:59">
+  <properties>
+    <titles>
+      <title>behold i am the lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold, I am the Lord, the God of all flesh<br/>         Is there anything? Is there anything? Too hard for me?<br/>         Is there anything, anything, anything,<br/>         Too hard for thee?<br/>         (Repeat last two lines)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Behold, You are the Lord, The God of all flesh<br/>There is nothing! There is nothing! too hard for thee.<br/>There is nothing, nothing, nothing, <br/>Too hard for thee.<br/>(Repeat last two lines)</lines>
+    </verse>
+  </lyrics>
+</song>

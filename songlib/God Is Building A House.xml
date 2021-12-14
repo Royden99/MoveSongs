@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:35">
+  <properties>
+    <titles>
+      <title>God Is Building A House</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God is building a house.<br/>God is building a house.<br/>God is building a house, that will stand.<br/>For the Lord of all creation has pre-laid a firm foundation.<br/>God is building a house that will stand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Find your place in that house.<br/>Find your place in that house.<br/>Find your place in that house, that will stand.<br/>For the Lord of all creation has pre-laid a firm foundation.<br/>Find your place in that house that will stand.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are part of the house, etc.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dios construye la casa (3x)<br/>Para quedar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>El Señor del universo El a puesto un fundanento.<br/>Dios construye la casa para quedar.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Somos parte de la casa (3x) para quedar, etc.</lines>
+    </verse>
+  </lyrics>
+</song>

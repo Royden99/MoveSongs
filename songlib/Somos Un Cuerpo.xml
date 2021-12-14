@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:29">
+  <properties>
+    <titles>
+      <title>Somos Un Cuerpo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Somos un cuerpo, una familia, <br/>Un hijo, una nación <br/>Aprendemos viviendo juntos <br/>El uno al otro a soportar <br/>Doquiera que tus pasos vayan <br/>Doquiera que tus pies estén <br/>Somos familia, la familia de Dios </lines>
+    </verse>
+  </lyrics>
+</song>

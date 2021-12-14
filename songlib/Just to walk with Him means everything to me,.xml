@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:10">
+  <properties>
+    <titles>
+      <title>Just to walk with Him means everything to me,</title>
+    </titles>
+    <authors>
+      <author>Steve Richardson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just to walk with Him means everything to me,<br/>Just to know He's there, His hand is leading me;<br/>Though the world pass me by, go thy way, let me be,<br/>Just to walk with Him means everything to me.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

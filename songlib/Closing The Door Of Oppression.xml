@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:09">
+  <properties>
+    <titles>
+      <title>Closing The Door Of Oppression</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Closing the door of oppression,<br/>A new door is open unto me.<br/>Learning the power of expression,<br/>Showing the world what is to be.<br/>Living the life of a reigning king,<br/>Thrilling to all that is in store.<br/>Changing the atmosphere around me,<br/>I'm walking through a brand new door. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si cierro la puerta a la opresión<br/>Una nueva puerta se abre ante mí<br/>Aprendiendo el poder de la expresión<br/>Mostrando al mundo lo que ha de ser<br/>Viviendo la vida de un Rey que reina<br/>Gozándome por lo que dentro hay <br/>Cambiando la atmósfera a mi alrededor <br/>Por esa nueva puerta entrando estoy</lines>
+    </verse>
+  </lyrics>
+</song>

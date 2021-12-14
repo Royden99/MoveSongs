@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:21">
+  <properties>
+    <titles>
+      <title>Show Me A Kingdom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Show me a kingdom where righteous men meet.<br/>Show me a highway that is straight for their feet.<br/>And I'll show you a place where God's All in all.<br/>The Spirit is reigning, for they've answered His call.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Show me a brother in whom self has no part.<br/>Show me a sister who is pure in her heart.<br/>And I'll show you a person to whom God's All in all.<br/>The Spirit is reigning, for they've answered His call.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Show me a family where the sons are at peace.<br/>Show me a home in which love will increase.<br/>And I'll show you a dwelling where God's All in all.<br/>The Spirit is reigning, for they've answered His call.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Show me a church who have learned how to give.<br/>Show me a people who know how to live.<br/>And I'll show you a bride to who God's All in all.<br/>The Spirit is reigning, for they've answered His call.</lines>
+    </verse>
+  </lyrics>
+</song>

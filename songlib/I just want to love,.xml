@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:19">
+  <properties>
+    <titles>
+      <title>I just want to love,</title>
+    </titles>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I just want to love,<br/>I just want to sing<br/>To the One above<br/>Who has touched this thirsty soul.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now I'll never be the same.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll always love You,<br/>I'll always sing to You, Jesus.<br/>I long to worship You in spirit and in truth.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Every day I'll come,<br/>Spend my life with You,<br/>Learning of Your heart<br/>And what You're calling me to do.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>My every breath belongs to You.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And with this song<br/>We'll lift the name of Jesus higher,<br/>And with a shout<br/>We'll raise up one voice.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

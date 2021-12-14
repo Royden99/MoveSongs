@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:52">
+  <properties>
+    <titles>
+      <title>Who Can Say, What Doest Thou, Oh Lord?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Who can say, What doest Thou, Oh Lord?<br/>Thou that madest the heavens and the earth,<br/>Thou that set the sun upon its line,<br/>Who can say, What doest Thou, Oh Lord?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quién dirá qué haces Señor <br/>Quién hizo la tierra y el mar <br/>Quién levantó al sol en su lugar <br/>Quién dirá que haces Señor? <br/>Qué es el hombre, para que lo engrandezcas <br/>Y pongas sobre el tu corazón <br/>Y lo visites todas las mañanas <br/>Y todo el tiempo lo pruebes. <br/>Eres sabio de corazón y poderoso en fortaleza <br/>Entonces hablaré y no temeré <br/>Porque no estoy en mí. </lines>
+    </verse>
+  </lyrics>
+</song>

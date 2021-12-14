@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:49">
+  <properties>
+    <titles>
+      <title>O Hallelujah! His Kingdom Is Come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Hallelujah! His kingdom is come.<br/>O Hallelujah! His work is getting done.<br/>O Hallelujah! We'll shout the victory<br/>For the Kingdom is come and it's within you and me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will rejoice for this is the day<br/>The Kingdom has come and all fear is gone away.<br/>So I will sing and shout the victory<br/>For the Kingdom is come and it's within you and me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So just like David in the days of old<br/>We've danced before the Lord, and so the story's told.<br/>So we too must join in the fight<br/>And dance before the Lord and praise with all our might!</lines>
+    </verse>
+  </lyrics>
+</song>

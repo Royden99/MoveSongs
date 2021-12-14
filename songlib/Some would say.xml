@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:27">
+  <properties>
+    <titles>
+      <title>Some would say</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Some would say that you can not be found<br/>some would say that you are far away<br/>but i know you're the God who lives in me<br/>and i know that you always have my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are good and your love endures forever x2<br/>You are good, you are good</lines>
+    </verse>
+  </lyrics>
+</song>

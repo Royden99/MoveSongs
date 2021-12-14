@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:01">
+  <properties>
+    <titles>
+      <title>Jesus Esta Aquí</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>/Jesús está aquí, Aleluya <br/>pide lo que quieras/ (2) <br/>El tiene poder, El te lo dará <br/>Jesús está aquí, Aleluya <br/>Pide lo que quieras. <br/>Así nosotros por la fe <br/>Nos acercamos, Señor a ti <br/>Y aunque tu rostro no se ve <br/>Pero sabemos que estás aquí. </lines>
+    </verse>
+  </lyrics>
+</song>

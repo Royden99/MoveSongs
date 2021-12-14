@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:32">
+  <properties>
+    <titles>
+      <title>Love Of God, Greater Far</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Love of God, greater far <br/>Than any earthly treasure, <br/>Higher than the highest star, <br/>Deeper than the sea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love of God, greater far <br/>Than any trial or testing, <br/>Stronger than the strongest foe, <br/>Love that sets you free. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love of God shape and mold me, <br/>Love of God enfold me, <br/>Love of God consume me, Love of God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amor de Dios, más grande que cualquier tesoro terrenal,<br/>Más alto que los astros, más hondo que el mar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amor de Dios, más grande que cualquier prueba,<br/>Más que el enemigo, amor que te libera.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amor de Dios, moldéame, amor de Dios envuélveme,<br/>Amor de Dios, consúmeme, amor de Dios.<br/>Amor de Dios, moldéame, amor de Dios envuélveme,<br/>Amor de Dios, consúmeme, amor de Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

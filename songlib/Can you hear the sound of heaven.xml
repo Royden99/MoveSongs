@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:07">
+  <properties>
+    <titles>
+      <title>Can you hear the sound of heaven</title>
+    </titles>
+    <authors>
+      <author>Terry McAlmon © 2000 TMMI Music</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Can you hear the sound of heaven<br/>Like the sound of many waters?<br/>It's the sound of worship<br/>Coming from the throne:<br/>Cries of adoration<br/>As men from every nation<br/>Lift their voice to make His glory known, singing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, holy, holy are You, Lord,<br/>Holy, holy, holy are You, Lord;<br/>The elders and angels bow,<br/>The redeemed worship You now;<br/>Holy, holy, holy are You, Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

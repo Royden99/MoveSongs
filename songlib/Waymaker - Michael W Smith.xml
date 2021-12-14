@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:28">
+  <properties>
+    <titles>
+      <title>Waymaker - Michael W Smith</title>
+    </titles>
+    <authors>
+      <author>Michael W Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are here, moving in our midst<br/>I worship You, I worship You<br/>You are here, working in this place<br/>I worship You, I worship You<br/>You are here, moving in our midst<br/>I worship You, I worship You<br/>You are here, working in this place<br/>I worship You, I worship You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Waymaker, miracle worker<br/>Promise keeper, light in the darkness<br/>My God, that is who You are<br/>Waymaker, miracle worker<br/>Promise keeper, light in the darkness<br/>My God, that is who You are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are here, touching every heart<br/>I worship You, I worship You<br/>You are here, healing every heart<br/>I worship You, I worship You<br/>You are here, mending every heart<br/>I worship You, I worship You<br/>You are here, turning lives around<br/>I worship You, I worship You</lines>
+    </verse>
+  </lyrics>
+</song>

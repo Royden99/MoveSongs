@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:36">
+  <properties>
+    <titles>
+      <title>I Will Sing Unto The Lord, For He Has Triumphed Gloriously</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will sing unto the Lord, for He has triumphed gloriously<br/>The horse and the rider are thrown into the sea (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord my God, me strength and my song.<br/>Now He is my victory. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Lord is God and I will praise Him.<br/>My father's God and I will exalt Him. (2x) </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cantaré a Jehová en gloria el ha triunfado<br/>Y ha echado al mar al ejército de Faraón</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/El Señor mi Dios, mi fuerza y mi gozo<br/>ha llegado a ser mi salvación/ (2)<br/>El Señor es Dios, sí, yo le alabaré<br/>Es Dios de mis padres yo le exaltaré</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:18">
+  <properties>
+    <titles>
+      <title>I have heard so many songs,</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have heard so many songs,<br/>Listened to a thousand tongues,<br/>But there is one<br/>That sounds above them all:<br/>The Father's song,<br/>The Father's love,<br/>You sung it over me, and for eternity<br/>It's written on my heart.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heaven's perfect melody,<br/>The Creator's symphony,<br/>You are singing over me<br/>The Father's song.<br/>Heaven's perfect mystery,<br/>The King of love has sent for me,<br/>And now You're singing over me<br/>The Father's song.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Ending)<br/>The Father's song,<br/>The Father's love,<br/>You sung it over me, and for eternity<br/>It's written on my heart.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

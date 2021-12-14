@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:17">
+  <properties>
+    <titles>
+      <title>Let me be a little kinder</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let me be a little kinder, let me be a little blinder,<br/>To the faults of those around me, let me praise a little  more.<br/>Let me be when I am weary, just a little bit more cheery<br/>Think a little more of others, and a little less of me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me be a little braver, when temptation bids me waver,<br/>Let me strive a little harder, to be all I should be.<br/>Let me be a little meeker, with my brother that may be weaker,<br/>Let me think more of my neighbor, and a whole lot less of me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let me be when I am weary, just a little bit more cheery<br/>Let me serve a whole lot better, those that I am praying for<br/>Let me be a little meeker, with my brother who is weaker<br/>Let me think more of others, and a whole lot less of me</lines>
+    </verse>
+  </lyrics>
+</song>

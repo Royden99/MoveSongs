@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:04">
+  <properties>
+    <titles>
+      <title>You are merciful to me,</title>
+    </titles>
+    <authors>
+      <author>Author</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are merciful to me,<br/>You are merciful to me, my Lord.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Every day my disobedience<br/>Grieves Your loving heart;<br/>But then redeeming love breaks through,<br/>And causes me to worship You.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Redeemer (Redeemer),<br/>Saviour (Saviour),<br/>Healer (Healer)<br/>And Friend (And Friend).<br/>Every day (Every day)<br/>Renew my ways (Renew my ways),<br/>Fill me with love (Fill me with love)<br/>That never ends (That never ends).<br/></lines>
+    </verse>
+  </lyrics>
+</song>

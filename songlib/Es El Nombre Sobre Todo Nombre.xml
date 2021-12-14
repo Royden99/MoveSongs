@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:23">
+  <properties>
+    <titles>
+      <title>Es El Nombre Sobre Todo Nombre</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Es el nombre sobre todo nombre <br/>Lo declararemos, lo declararemos <br/>Es el nombre sobre todo nombre <br/>Lo declararemos a un mundo muerto ya. <br/>Yo soy Jehová, Yo soy el que Soy <br/>Mi trompeta está sonando ya <br/>Formé este mundo con un silbo <br/>Me estoy preparando, me estoy preparando <br/>Me estoy preparando para gritar. <br/>Es el nombre sobre todo nombre <br/>Lo declararemos, lo declararemos <br/>Es el nombre sobre todo nombre <br/>Lo declararemos a un mundo muerto ya. <br/>Quién declarará mi nombre <br/>Quién lo gritará en medio de los pueblos <br/>Con la espada de la palabra <br/>Y el escudo de la fe, mostrándome <br/>A un mundo agonizante. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Quién me haya declarado así <br/>Andará en mayor poder <br/>Las arenas del tiempo ya se van <br/>Y mi nombre es declarado <br/>en esta hora final. </lines>
+    </verse>
+  </lyrics>
+</song>

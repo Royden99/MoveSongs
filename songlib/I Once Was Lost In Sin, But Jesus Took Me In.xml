@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:24">
+  <properties>
+    <titles>
+      <title>I Once Was Lost In Sin, But Jesus Took Me In</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I once was lost in sin, but Jesus took me in <br/>And then a little light from heaven filled my soul <br/>It bathed my heart in love and wrote my name above<br/>And just a little talk with Jesus made me whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now let us have a little talk with Jesus<br/>Let us tell Him all about our troubles<br/>He will hear our faintest cry<br/>And He will answer by and by.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now when you feel a little prayer wheel turning<br/>And you know a little fire is burning<br/>You will find a little talk with Jesus makes it right.</lines>
+    </verse>
+  </lyrics>
+</song>

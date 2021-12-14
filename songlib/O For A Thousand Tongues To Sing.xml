@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:48">
+  <properties>
+    <titles>
+      <title>O For A Thousand Tongues To Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O for a thousand tongues to sing <br/>my great Redeemer's praise, <br/>the glories of my God and King, <br/>the triumphs of his grace! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>My gracious Master and my God, <br/>assist me to proclaim, <br/>to spread through all the earth abroad <br/>the honors of thy name. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesus! the name that charms our fears, <br/>that bids our sorrows cease; <br/>'tis music in the sinner's ears, <br/>'tis life, and health, and peace. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>He breaks the power of canceled sin, <br/>he sets the prisoner free; <br/>his blood can make the foulest clean; <br/>his blood availed for me. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>He speaks, and listening to his voice, <br/>new life the dead receive; <br/>the mournful, broken hearts rejoice, <br/>the humble poor believe. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hear him, ye deaf; his praise, ye dumb, <br/>your loosened tongues employ; <br/>ye blind, behold your savior come, <br/>and leap, ye lame, for joy.</lines>
+    </verse>
+  </lyrics>
+</song>

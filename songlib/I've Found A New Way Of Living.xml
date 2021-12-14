@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:58">
+  <properties>
+    <titles>
+      <title>I've Found A New Way Of Living</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've found a new way of living<br/>I've found a life that's divine<br/>I've got the fruit of the Spirit<br/>As I'm abiding, abiding in the vine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abiding in the vine, abiding in the vine<br/>Love, joy, health, peace, He has made them mine<br/>I've got prosperity, power and victory<br/>Abiding, abiding in the vine. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo encontré vida nueva<br/>Vida divina hallé<br/>El fruto del Espíritu tengo<br/>Al estar morando,<br/>Morando en la vid.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Morando en la vid/ (2)<br/>Amor, gozo, paz, salud, <br/>Todo recibí<br/>Tengo prosperidad<br/>Poder, victoria y libertad<br/>Al estar morando <br/>Morando en la vid.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:20">
+  <properties>
+    <titles>
+      <title>Together, Alone</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abraham was called, alone<br/>Climbed the mountain top, alone<br/>Offered up his son, alone<br/>Together, alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>Together, alone. <br/>Alone together.  ----- <br/>Alone together. <br/>Together, alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Isaac roamed the land, alone.<br/>He redug the wells, alone<br/>Kept the promised seed, alone<br/>Together alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Joseph in the pit, alone<br/>Hanna in the church, alone<br/>Mary great with Child, alone<br/>Together, alone</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Spotless Lamb of God, alone<br/>Nailed apon the tree, alone<br/>In an empty tomb, alone<br/>But He wasn't, alone</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Raised from the dead, alone<br/>With power and majesty, alone<br/>Has the victory, alone<br/>For He isn't alone</lines>
+    </verse>
+    <verse name="v7">
+      <lines>God will not forsake His own<br/>Though it seems we're all, alone<br/>E'en in hell His light is shown<br/>Se we're never, alone.</lines>
+    </verse>
+  </lyrics>
+</song>

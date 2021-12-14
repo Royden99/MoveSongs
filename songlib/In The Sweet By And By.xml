@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:48">
+  <properties>
+    <titles>
+      <title>In The Sweet By And By</title>
+    </titles>
+    <authors>
+      <author>Elsie Leslie</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the sweet by and by,<br/>In the sweet by and by,<br/>I'll have a mansion so bright and fair,<br/>Won't it be glorious when I get there,<br/>In the sweet by and by,<br/>In the sweet by and by,<br/>When the battle is done,<br/>And the vict'ry is won,<br/>In the sweet by and by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the sweet by and by,<br/>In the sweet by and by,<br/>I'll stand at last on the street of pure gold,<br/>Wonders and glory of heav'n behold,<br/>In the sweet by and by,<br/>In the sweet by and by,<br/>Joy will be so complete when my Savior I meet,<br/>In the sweet by and by.</lines>
+    </verse>
+  </lyrics>
+</song>

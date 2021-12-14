@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:17">
+  <properties>
+    <titles>
+      <title>Let our praise to You be as incense,</title>
+    </titles>
+    <authors>
+      <author>Brent Chambers © 1979 Scripture in Song</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let our praise to You be as incense,<br/>Let our praise to You be as pillars of Your throne,<br/>Let our praise to You be as incense,<br/>As we come before You and worship You alone,<br/>As we see You in Your splendour,<br/>As we gaze upon Your majesty,<br/>As we join the hosts of angels,<br/>And proclaim together Your holiness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, holy, holy,<br/>Holy is the Lord;<br/>Holy, holy, holy,<br/>Holy is the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:07">
+  <properties>
+    <titles>
+      <title>You gave Your only Son</title>
+    </titles>
+    <authors>
+      <author>Martyn Layzell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You gave Your only Son<br/>Came down from heaven above<br/>Endured the cross so I might know<br/>This love that reached for me<br/>A love that sets me free<br/>Your sacrifice has saved my soul</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Today I'm reminded of Your grace<br/>Always living now to sing Your praise, Your praise</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise You, Jesus I praise You<br/>I lift my hands and sing<br/>Embrace You, I will embrace You<br/>Saviour and my King, my King</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I could not earn this love<br/>Such undeserved love<br/>Jesus, I know You are the way,<br/>You paid the price for me,<br/>Your blood was shed for me<br/>And in Your mercy took my place<br/></lines>
+    </verse>
+  </lyrics>
+</song>

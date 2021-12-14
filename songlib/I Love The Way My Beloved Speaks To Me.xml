@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:22">
+  <properties>
+    <titles>
+      <title>I Love The Way My Beloved Speaks To Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love the way my Beloved speaks to me. <br/>Chases away my fears, <br/>He leads me down the paths of truth, <br/>And He keeps me ever near. <br/>He comforts me, sets me free, <br/>Makes me to understand; <br/>And every time I say I can't, <br/>He tells me that I can.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me encanta la manera en que mi Amado me habla a mi. <br/>Espanta mis temores si.<br/>Por camino de verdad me hace andar. <br/>Su amor me cuida a mi, <br/>Me consuela, me libera y me hace entender.<br/>Que cada vez que yo digo no puedo, <br/>El dice tu puedes si. <br/>Cada vez que yo digo no puedo, <br/>El dice tu puedes si.</lines>
+    </verse>
+  </lyrics>
+</song>

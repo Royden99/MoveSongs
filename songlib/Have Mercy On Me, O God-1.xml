@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:45">
+  <properties>
+    <titles>
+      <title>Have Mercy On Me, O God</title>
+    </titles>
+    <authors>
+      <author>Gerrit Gustafson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Have mercy on me, Oh God,<br/>According to Your unfailing love.<br/>According to Your great compassion,<br/>Blot out my transgression.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Have mercy on me, Oh God,<br/>According to Your unfailing love.<br/>Wash away my iniquity,<br/>Cleanse me from my sin.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And I will be whiter than snow,<br/>Yes I will be whiter than snow.<br/>I will be whiter than snow.<br/>I will be whiter than snow. (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

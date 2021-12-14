@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:35">
+  <properties>
+    <titles>
+      <title>Glory To God He Lifted Me Up</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory to God!  He lifted me up!<br/>He lifted me up, I know!<br/>He reached out His hand, and He lifted me up,<br/>And that's why I love Him so.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Him more and more,<br/>I love Him more and more,<br/>And when at last I reach the other shore,<br/>I'll praise Him more and more.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

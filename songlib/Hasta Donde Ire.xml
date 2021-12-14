@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:45">
+  <properties>
+    <titles>
+      <title>Hasta Donde Ire</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Hasta donde iré en obediencia a ti <br/>A la cruz, todo el camino a la cruz <br/>Deseo tu voluntad y no la mía Jesús <br/>A la cruz, todo el camino a la cruz. <br/>Todos mis pasos has ordenado ya, <br/>conoces el camino y me lo mostrarás <br/>Toma mi mano y guíame Jesús <br/>A la cruz todo el camino a la cruz. </lines>
+    </verse>
+  </lyrics>
+</song>

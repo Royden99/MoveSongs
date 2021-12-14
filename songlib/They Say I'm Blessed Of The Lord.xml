@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:08">
+  <properties>
+    <titles>
+      <title>They Say I'm Blessed Of The Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>They say I'm blessed of the Lord<br/>Oh yes I'm blessed of the Lord<br/>I've been rescued out of sin<br/>I've got God's Spirit deep within<br/>I'm partaking of His grace<br/>I'm seeing Jesus face to face<br/>Yes I'm blessed, blessed of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They say I'm blessed of the Lord<br/>Oh yes I'm blessed of the Lord<br/>There's a manchild deep within<br/>There's a new way to begin<br/>Jesus said come follow me<br/>Only then can we really see<br/>That we're blessed, blessed of the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:12">
+  <properties>
+    <titles>
+      <title>Rejoice In The Lord, Lift Up Your Heart And Sing</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rejoice in the Lord, lift up your heart and sing.<br/>Rejoice in the Lord, always. <br/>Happy is the man who makes the Lord his choice.<br/>Rejoice in the Lord and again I say rejoice. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Regocijaos en el Señor<br/>Levantad tu voz cantad<br/>Regocijaos en el Señor para siempre.<br/>Alegre es el hombre <br/>cuyo Dios es Jehová<br/>regocijaos en el Señor <br/>otra vez regocijaos.</lines>
+    </verse>
+  </lyrics>
+</song>

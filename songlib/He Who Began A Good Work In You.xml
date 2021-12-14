@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:54">
+  <properties>
+    <titles>
+      <title>He Who Began A Good Work In You</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He who began a good work in you. (2x)<br/>He will be faithful to complete it. (2x)<br/>He who started the good work, <br/>Will be faithful to complete it in you. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>If the struggle you're facing <br/>Is slowly replacing your hope with despair. <br/>For the process is long, and <br/>You're losing your song in the night. <br/>You can be sure that the Lord has His hand on you,<br/>Safe and secure, He will never abandon you. <br/>You are His treasure, and He has His pleasure in you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aquel que la buena obra empezo.<br/>Aquel que la buena obra empezo<br/>Sera fiel en completarla.<br/>El es fiel en compltarla.<br/>El que la comenzo, sera fiel en completarla en ti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Si la lucha que enfrentas lentamente te lleva a desesperar.<br/>Si al durar el proceso y en la noche le dejas de alabar.<br/>Debes saber, que Su mano El ha puesto en ti.<br/>Salvo y seguro, El nunca te dejara.<br/>Eres Su tesoro y en ti se complace el Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

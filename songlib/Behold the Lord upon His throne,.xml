@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:59">
+  <properties>
+    <titles>
+      <title>Behold the Lord upon His throne,</title>
+    </titles>
+    <authors>
+      <author>Gerald Coates</author>
+      <author>Noel Richards</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold the Lord upon His throne,<br/>His face is shining like the sun<br/>With eyes blazing fire<br/>And feet glowing bronze,<br/>His voice like mighty waters roar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holy, Holy, Lord God Almighty,<br/>Holy, Holy, we stand in awe of you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The first, the last, the living One<br/>Laid down His life for all the world;<br/>Behold He now lives<br/>For evermore,<br/>And holds the keys of death and hell.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Holy, Holy, Lord God Almighty,<br/>Holy, Holy, we bow before Your throne.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>So let our praises ever ring<br/>To Jesus Christ, our glorious King;<br/>All heaven and earth<br/>Resound as we cry<br/>Worthy is the Son of God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Holy, Holy, Lord God Almighty,<br/>Holy, Holy, we fall down at your feet.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

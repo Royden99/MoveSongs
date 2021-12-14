@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:50">
+  <properties>
+    <titles>
+      <title>And They Sang As It Were A New Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And they sang as it were a new song<br/>Before the throne, the throne of God.<br/>And they sang as it were a new song<br/>Before the throne of the living God.<br/>And no man can learn that new song<br/>But the redeemed from the earth,<br/>And no man can learn that new song<br/>But the redeemed from the earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>These are they which were not defiled with women,<br/>For the are known as virgins,<br/>These are they which follow the Lamb wherever He goeth,<br/>They are the firstfruits unto God and unto the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>These are they which were redeemed from among men,<br/>And in their mouth was found no guile.<br/>For they are without fault before the throne of God;<br/>They are the firstfruits unto God and unto the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

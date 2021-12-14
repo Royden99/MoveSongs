@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:53">
+  <properties>
+    <titles>
+      <title>He paid a debt He did not owe,</title>
+    </titles>
+    <authors>
+      <author>Ellis J.Crum</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He paid a debt He did not owe,<br/>I owed a debt I could not pay,<br/>I needed someone to wash my sins away;<br/>And now I sing a brand new song,<br/>Amazing grace the whole day long,<br/>Christ Jesus paid a debt that I could never pay.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

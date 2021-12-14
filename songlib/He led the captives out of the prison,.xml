@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:52">
+  <properties>
+    <titles>
+      <title>He led the captives out of the prison,</title>
+    </titles>
+    <authors>
+      <author>Whitestone Farms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He led the captives out of the prison,<br/>He preached good tidings unto the weak.<br/>He gave the oil of joy for mourning<br/>He set the captives free,<br/>He set the captives free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will greatly rejoice, rejoice in my God,<br/>My soul shall be joyful, joyful in my God,<br/>He has covered me o'er with the robes of righteousness,<br/>He has clothed me with robes of salvation,<br/>He has clothed me with robes of salvation.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:41">
+  <properties>
+    <titles>
+      <title>We're Overcoming By The Word Of Our Testimony</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We're overcoming by the word of our testimony.<br/>What is your testimony today?<br/>Is it a word of faith or a word of doubt?<br/>What is your testimony today.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We're overcoming by the word of our testimony.<br/>This is my testimony today.<br/>It's a word of faith, not a word of doubt.<br/>This is my testimony today.</lines>
+    </verse>
+  </lyrics>
+</song>

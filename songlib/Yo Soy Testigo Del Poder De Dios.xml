@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:58:01">
+  <properties>
+    <titles>
+      <title>Yo Soy Testigo Del Poder De Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Yo soy testigo del poder de Dios <br/>Por el milagro que ha hecho en mi <br/>Yo era ciego, y ahora veo la luz <br/>La luz gloriosa que me dio Jesús <br/>Nunca, nunca, nunca me ha dejado <br/>nunca, nunca me ha desamparado <br/>en la noche oscura y en el día de prueba <br/>Jesucristo nunca me desamparará </lines>
+    </verse>
+  </lyrics>
+</song>

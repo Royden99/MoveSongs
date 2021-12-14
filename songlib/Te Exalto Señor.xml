@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:38">
+  <properties>
+    <titles>
+      <title>Te Exalto Señor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines/>
+    </verse>
+    <verse name="v2">
+      <lines>Te exalto Señor <br/>Sobre todos los pueblos <br/>Cantaré salmos a ti entre las naciones <br/>Porque tu grande amor <br/>Es mayor que los cielos <br/>Y por siempre, y por siempre <br/>Tu eres fiel. <br/>Te exalto Señor, sobre los cielos <br/>De tu gloria la tierra se llenará <br/>Te exalto Señor, sobre los cielos <br/>De tu gloria, de tu gloria, de tu gloria <br/>La tierra se llenará. </lines>
+    </verse>
+  </lyrics>
+</song>

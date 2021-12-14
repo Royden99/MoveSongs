@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:10">
+  <properties>
+    <titles>
+      <title>Come and see, come and see</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come and see, come and see<br/>Come and see the King of love;<br/>See the purple robe and crown of thorns he wears.<br/>Soldiers mock, rulers sneer<br/>As he lifts the cruel cross,<br/>Lone and friendless now he climbs towards the hill</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We worship at your feet<br/>Where wrath and mercy meet,<br/>And a guilty world is washed<br/>By love's pure stream;<br/>For us he was made sin,<br/>Oh, help me take it in,<br/>Deep wounds of love cry out 'Father, forgive',<br/>I worship, I worship<br/>The Lamb who was slain.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come and weep, come and mourn<br/>For your sin that pierced him there<br/>So much deeper than the wounds of thorn and nail;<br/>All our pride, all our greed,<br/>All our fallenness and shame<br/>And the Lord has laid the punishment on Him</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Man of heaven, born to earth<br/>To restore us to Your heaven,<br/>Here we bow in awe beneath<br/>Your searching eyes;<br/>From Your tears comes our joy,<br/>From Your death our life shall spring,<br/>By Your resurrection power we shall rise<br/></lines>
+    </verse>
+  </lyrics>
+</song>

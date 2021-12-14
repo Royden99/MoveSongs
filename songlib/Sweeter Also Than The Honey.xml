@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:35">
+  <properties>
+    <titles>
+      <title>Sweeter Also Than The Honey</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chorus:<br/>More to be desired are they than gold,<br/>Yea, than much fine gold.<br/>Sweeter also than the honey<br/>And the honey comb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The law of the Lord is perfect,<br/>Converting the soul.<br/>The testimony of the Lord is sure,<br/>Making wise the simple.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The statutes of the Lord are right,<br/>Rejoicing the heart.<br/>The commandment of the Lord is pure,<br/>Enlightening the eyes.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The fear of the Lord is clean,<br/>Enduring forever.<br/>The judgments of the Lord are true,<br/>And righteous altogether.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:04">
+  <properties>
+    <titles>
+      <title>Holy Ground</title>
+    </titles>
+    <authors>
+      <author>Christopher Beatty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is holy ground. <br/>We're standing on holy ground. <br/>For the Lord is present <br/>And where he is, is holy. (Repeat.) </lines>
+    </verse>
+    <verse name="v2">
+      <lines>These are holy lips. <br/>We're singing through holy lips. <br/>For the Lord is singing <br/>Through these, and they are holy. (Repeat.)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>These are holy hands. <br/>Were lifting up holy hands. <br/>For the Lord is working <br/>Through these and they are holy. (Repeat.)</lines>
+    </verse>
+  </lyrics>
+</song>

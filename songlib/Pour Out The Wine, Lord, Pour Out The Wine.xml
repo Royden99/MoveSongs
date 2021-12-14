@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:02">
+  <properties>
+    <titles>
+      <title>Pour Out The Wine, Lord, Pour Out The Wine</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pour out the wine, Lord, pour out the wine.<br/>We are the branches, You are the Vine.<br/>You are the one that crushes all that's mine.<br/>And we will say amen, Lord, pour out the wine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Break us as bread, Lord, break us as bread<br/>We are the Body, You are the Head<br/>True bread by which the corporate man is fed<br/>And we shall say amen, Lord, break us as bread.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give us your life, Lord, give us your life<br/>You are the husband, we are the wife<br/>We'll keep submitting till there's no more strife<br/>And we shall say amen, Lord, give us your life.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pour out your fire, Lord, pour out your fire<br/>You are the only one we desire<br/>It's by Your love that we will rise up higher<br/>And we shall say amen, Lord, pour out your fire.</lines>
+    </verse>
+  </lyrics>
+</song>

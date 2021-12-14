@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:52">
+  <properties>
+    <titles>
+      <title>O, heaven is in my heart</title>
+    </titles>
+    <authors>
+      <author>Graham Kendrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, heaven is in my heart<br/>O, heaven is in my heart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The kingdom of our God is here (Leader)<br/>Heaven is in my heart (All)<br/>The presence of his majesty (Leader)<br/>Heaven is in my heart (All)<br/>And in his presence joy abounds (Leader)<br/>Heaven is in my heart (All)<br/>The light of holiness surrounds (Leader)<br/>Heaven is in my heart (All)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O, heaven is in my heart<br/>O, heaven is in my heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His precious life on me he spent (All)<br/>Heaven is in my heart<br/>To give me life without an end<br/>Heaven is in my heart<br/>In Christ is all my confidence<br/>Heaven is in my heart<br/>The hope of my inheritance<br/>Heaven is in my heart</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O, heaven is in my heart<br/>O, heaven is in my heart</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We are a temple for his throne (Women)<br/>Heaven is in my heart (All)<br/>And Christ is the foundation stone (Women)<br/>Heaven is in my heart (All)<br/>He will return to take us home (Women)<br/>Heaven is in my heart (All)<br/>The Spirit and the Bride say 'Come!' (Women)<br/>Heaven is in my heart</lines>
+    </verse>
+    <verse name="v7">
+      <lines>God is so good<br/>God is so good<br/>God is so good<br/>He's so good to me (Repeat)</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ldr: Amazing grace, how sweet the sound<br/>All: That saved a wretch like me<br/>Ldr: I once was lost but now I'm found<br/>All: Was blind but now I see<br/></lines>
+    </verse>
+  </lyrics>
+</song>

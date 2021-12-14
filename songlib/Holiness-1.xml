@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:03">
+  <properties>
+    <titles>
+      <title>Holiness</title>
+    </titles>
+    <authors>
+      <author>Danny Daniels</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holiness unto our God, unto our King,<br/>Holiness, and all my days I will sing:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Holiness unto Jesus, Holiness unto You, Lord;<br/>Holiness unto Jesus, Holiness unto You, Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I love You, I love Your ways, I love Your name,<br/>I love You, and all my days I'll proclaim:<br/></lines>
+    </verse>
+  </lyrics>
+</song>
