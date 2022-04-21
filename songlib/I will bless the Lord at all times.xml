@@ -10,7 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I will bless the Lord at all times.<br/> His praise shall continually be in my mouth<br/>My soul shall make her boast in Thee, Lord. <br/>The humble shall hear thereof and be glad.<br/> O magnify the Lord with me<br/> And let us exalt His name together.<br/> I sought the Lord and He heard me <br/>And delivered me from alI of my fears.</lines>
+      <lines>I will bless the Lord at all times. <br/>His praise shall continually be in my mouth. <br/>My soul shall make her boast in Thee, Lord. <br/>The humble shall hear thereof and be glad. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, magnify the Lord with me, <br/>And let us exalt His name together.<br/>I sought the Lord and He heard me, <br/>And delivered me from all my fears. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bendeciré a Jehová en todo tiempo.<br/>Su alabanza en mi boca estará.<br/>En Jehová se gloriará mi alma,<br/>Los lo oirán mansos y se alegrarán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Engradeced a Jehová conmigo.<br/>Y exaltemos a una Su Nombre.<br/>Busqué a Jehová, y Él me oyó,<br/>Y de todos mis temores me libró.</lines>
     </verse>
   </lyrics>
 </song>

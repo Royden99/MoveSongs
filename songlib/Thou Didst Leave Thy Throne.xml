@@ -5,24 +5,30 @@
       <title>Thou Didst Leave Thy Throne</title>
     </titles>
     <authors>
-      <author>E.E.Steele Elliott</author>
+      <author>Emily E.S. Elliott Timothy Richard Matthews</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Thou didst leave Thy throne and Thy kingly crown,<br/>When Thou camest to earth for me;<br/>But in Bethlehem's home there was found no room<br/>For Thy holy nativity.<br/>O come to my heart, Lord Jesus!<br/>There is room in my heart for Thee.</lines>
+      <lines>O come to my heart, Lord Jesus.<br/>There is room in my heart for Thee.</lines>
     </verse>
     <verse name="v2">
-      <lines>Heaven's arches rang when the angels sang<br/>Proclaiming Thy royal degree;<br/>But of lowly birth cam'st Thou, Lord, on earth<br/>And in great humility.<br/>O come to my heart, Lord Jesus!<br/>There is room in my heart for Thee.</lines>
+      <lines>My heart shall rejoice, Lord Jesus,<br/>When Thou comest and callest for me.</lines>
     </verse>
     <verse name="v3">
-      <lines>The foxes found rest, and the birds had their nest<br/>In the shade of the cedar tree;<br/>But Thy couch was the sod, O Thou Son of God<br/>In the deserts of Galilee.<br/>O come to my heart, Lord Jesus!<br/>There is room in my heart for Thee.</lines>
+      <lines>Thou didst leave Thy throne<br/>And Thy kingly crown,<br/>When Thou camest to earth for me.<br/>But in Bethlehem's home<br/>Was there found no room<br/>For Thy holy nativity.</lines>
     </verse>
     <verse name="v4">
-      <lines>Thou camest, O Lord, with the living word<br/>That should set Thy children free;<br/>But with mocking scorn, and with crown of thorn<br/>They bore Thee to Calvary.<br/>O come to my heart, Lord Jesus!<br/>Thy cross is my only plea.</lines>
+      <lines>Heaven's arches rang,<br/>When the angels sang,<br/>Proclaiming Thy royal decree;<br/>But of lowly birth,<br/>Didst Thou come to earth<br/>And in great humility.</lines>
     </verse>
     <verse name="v5">
-      <lines>When heaven's arches shall ring, and her choirs shall sing,<br/>At Thy coming to victory,<br/>Let Thy voice call me home, saying "Yet there is room,<br/>There is room at My side for thee."<br/>And my heart shall rejoice, Lord Jesus,<br/>When Thou comest and callest for me.<br/></lines>
+      <lines>The foxes found rest<br/>And the birds their nest,<br/>In the shade of the forest tree;<br/>But Thy couch was the sod,<br/>O Thou Son of God,<br/>In the deserts of Galilee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Thou camest, O Lord,<br/>With the living word,<br/>That should set Thy people free;<br/>But with mocking scorn<br/>And with crown of thorn,<br/>They bore Thee to Calvary.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When the heaven's shall ring<br/>And the angels sing,<br/>At Thy coming to victory;<br/>Let Thy voice call me home,<br/>Saying, "Yet there is room,<br/>There is room at My side for thee."</lines>
     </verse>
   </lyrics>
 </song>

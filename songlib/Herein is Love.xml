@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-02-20T22:39:02">
+  <properties>
+    <titles>
+      <title>Herein is Love</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Herein is love, not that we loved God,<br/>But that he loved us, and sent his Son.<br/>Beloved, if God so loved us,<br/>We ought also to love one another.</lines>
+    </verse>
+  </lyrics>
+</song>

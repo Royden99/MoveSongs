@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-02-20T22:35:15">
+  <properties>
+    <titles>
+      <title>Glory Beyond the Cross</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is glory beyond the cross for me,<br/>There is life for all eternity:<br/>For the joy that's set before, Lord,<br/>I'll quietly endure;<br/>Of one thing I am sure as I can be:<br/>There's glory beyond the cross for me.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -10,7 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Holy, holy, holy Lord<br/>	God of power and might.<br/>	Heaven and earth are filled with Your glory.<br/>	– Repeat –<br/>	Hosannah! Hosannah! In the highest.<br/>	– Repeat</lines>
+      <lines>Holy, holy, holy Lord.<br/>God of power and might.<br/>Heaven and earth are filled with Your glory.<br/>(Repeat.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosannah! Hosannah! In the highest.<br/>(Repeat.)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Santo, santo, santo Dios<br/>Señor de gloria y poder<br/>Los cielos y tierra están llenos de Tu gloria</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hosanna (2)<br/>En las alturas</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Who is on the Lord's side, stand and be counted,<br/>Who is on the Lord's side, walk with me,<br/>Who is on the Lord's side, stand and be counted<br/>For eternity.<br/>As for me and my house, we will serve Him,<br/>As for me and my house, we will stand,<br/>Who is on the Lord's side, stand and be counted<br/>For the promised land.<br/></lines>
+      <lines>Who is on the Lord's side,<br/>Stand and be counted.<br/>Who is on the Lord's side,<br/>Walk with me! <br/>Who is on the Lord's side,<br/>Stand and be counted, for eternity.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As for me and my house, we shall serve Him, <br/>As for me and my house we shall stand. <br/>Who is on the Lord's side stand and be counted, <br/>For the promised land!</lines>
     </verse>
   </lyrics>
 </song>

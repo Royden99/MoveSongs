@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:01">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:02">
   <properties>
     <titles>
       <title>Blessed be the Lord God Almighty</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Father in heaven, how  we love You;<br/>We lift Your Name in all the earth.<br/>May Your kingdom be established in our praises<br/>As Your people declare Your mighty worth.</lines>
+      <lines>Father in heaven, how we love You,<br/>We lift Your name in all the earth;<br/>May Your kingdom be established in our praises,<br/>As Your people declare Your mighty works.</lines>
     </verse>
     <verse name="v2">
-      <lines>Blessed be the Lord God Almighty<br/>Who was, and is, and is to come.<br/>Blessed be the Lord God Almighty<br/>Who reigns forever more.</lines>
+      <lines>Blessed be the Lord God Almighty,<br/>Who was and is and is to come;<br/>Blessed be the Lord God Almighty,<br/>Who reigns for evermore.<br/></lines>
     </verse>
   </lyrics>
 </song>

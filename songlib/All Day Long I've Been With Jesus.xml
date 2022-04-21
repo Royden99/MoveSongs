@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>All day long I've been with Jesus,<br/>It has been a wonderful day.<br/>I have climbed up one step higher<br/>In that new and living way.<br/>I have spoken words of kindness,<br/>O Lord, You know if I've done wrong.<br/>I'll go back and make it right<br/>So I can testify tonight:<br/>"I've been with Jesus all day long!"<br/></lines>
+      <lines>All day long I've been with Jesus,<br/>It has been a wonderful day.<br/>I have climbed up one step higher<br/>In a new and living way<br/>I have spoken words of kindness,<br/>Lord, you know if I've done wrong<br/>I'll go back and make it right, so I can testify tonight.<br/>I've been with Jesus all day long. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todo el día anduve con Cristo <br/>Que hermoso el día de hoy<br/>He subido un paso más alto<br/>En el camino de la verdad <br/>He hablado palabras de vida<br/>Di Señor si hago mal<br/>Volveré y lo arreglaré<br/>Y esta noche testificaré<br/>Que hoy con Cristo caminé</lines>
     </verse>
   </lyrics>
 </song>

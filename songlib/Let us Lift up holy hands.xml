@@ -10,7 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>We have come into this house<br/>        To magnify His name and worship Him.<br/>         –Repeat -<br/>We have come into this house <br/>To magnify His name <br/>And worship Christ the Lord, <br/>Worship Him, Jesus Christ the Lord.<br/>Let's just lift up holy hands <br/>And magnify His name and worship Him.<br/>      -Repeat -<br/>Let us just lift up holy hands <br/>To magnify His name <br/>And worship Christ the Lord, <br/>Worship Him, Jesus Christ the Lord.<br/>Let's forget about ourselves,<br/> And concentrate on Him and worship Him.<br/>- Repeat -<br/>Let's forget about ourselves,<br/>And concentrate on Him,<br/>And worship Christ the Lord,<br/> Worship Him, Jesus Christ the Lord</lines>
+      <lines>We have come into this house,<br/>And gathered in His name to worship Him, (x2)<br/>We have come into this house,<br/>And gathered in His name to worship Christ the Lord,<br/>Worship Christ the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He is all my righteousness,<br/>I stand complete in Him and worship Him...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let's forget about ourselves,<br/>And concentrate on Him and worship Him...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let us open up to Him,<br/>And let the river flow and worship Him...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Let us lift up holy hands,<br/>And magnify His name and worship Him...<br/></lines>
     </verse>
   </lyrics>
 </song>

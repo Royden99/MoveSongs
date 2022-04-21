@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:32">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:33">
   <properties>
     <titles>
       <title>We Bow Down We Lay Our Crown</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>We Bow Down, we lay our crown<br/>at the feet of Jesus<br/>The greatness of His mercy and love<br/>at the feet of Jesus</lines>
+      <lines>We fall down,<br/>We lay our crowns<br/>At the feet of Jesus.<br/>The greatness of mercy and love<br/>At the feet of Jesus.</lines>
     </verse>
     <verse name="v2">
-      <lines>We cry holy, holy, holy (3x)<br/>is the Lamb.</lines>
+      <lines>We cry holy, holy, holy,<br/>We cry holy, holy, holy,<br/>We cry holy, holy, holy,<br/>Is the Lamb.<br/></lines>
     </verse>
   </lyrics>
 </song>

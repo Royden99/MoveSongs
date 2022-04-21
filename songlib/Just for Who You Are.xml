@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-01-23T19:08:01">
+  <properties>
+    <titles>
+      <title>Just for Who You Are</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, Jesus <br/>More than anything You've done for me.<br/>Though You were tried for me <br/>and You died for me,<br/>And set me free,<br/>though You first loved me so.<br/>And Your love, I know, is more by far,<br/>I love You Jesus, just for Who You are</lines>
+    </verse>
+  </lyrics>
+</song>

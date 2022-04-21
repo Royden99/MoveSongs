@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Emmanuel, Emmanuel,<br/>Your name is called Emmanuel;<br/>God with us, revealed in us,<br/>Your name is called Emmanuel.<br/></lines>
+      <lines>Emmanuel, Emmanuel, <br/>His Name is called Emmanuel.<br/>God with us, revealed in us. <br/>His Name is called Emmanuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Emanuel, Emanuel.<br/>Su Nombre es Emanuel.<br/>Dios en nosotros, revelado es.<br/>Su Nombre es Emanuel.</lines>
     </verse>
   </lyrics>
 </song>

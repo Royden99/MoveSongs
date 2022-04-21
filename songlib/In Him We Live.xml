@@ -10,7 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>In Him we live, and move, and have our being, in Him we live,<br/>  In Him we live, and move, and have our being , in Him we live, (2x)<br/> In Him we're beautiful, lovely, marvelous, wonderful. <br/> Because in Him we live</lines>
+      <lines>In Him we live, and move, and have our being.<br/>In Him we live. (3x) </lines>
+    </verse>
+    <verse name="v2">
+      <lines>In Him we're beautiful, lovely, marvelous, wonderful,<br/>Because in Him we live.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In him we're fore-ordained, called of God, justified, and glorified,<br/>Because in Him we live.</lines>
     </verse>
   </lyrics>
 </song>

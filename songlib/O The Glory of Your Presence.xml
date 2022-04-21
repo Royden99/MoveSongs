@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:50">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-01-23T18:37:50">
   <properties>
     <titles>
       <title>O The Glory of Your Presence</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O the glory of Your presence.<br/>We Your temple give You reverence.<br/>Come and rise from Your rest<br/>And be blessed by our praise<br/>As we glory in Your embrace,<br/>As Your presence now fills this place.</lines>
+      <lines>Oh, the glory of Your presence<br/>We Your temple give You reverence<br/>Come and rise from Your rest<br/>And be blessed by our praise<br/>As we glory in Your embrace<br/>As Your presence now fills this place</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus all glorious,<br/>Create in us a temple <br/>Called as living stones <br/>Where You're enthroned.<br/>As You rose from death in power, <br/>So rise within our worship. <br/>Rise within our praise<br/>And let the hand that saw You raised <br/>Clothe us with Your glory, <br/>Draw us by Your grace.</lines>
+      <lines>Jesus, all glorious, create in us a temple<br/>Called as living stones where you're enthroned<br/>As you rose from death in power<br/>So rise within our worship<br/>Rise upon our praise<br/>And let the hand that saw you raised<br/>Clothe us in your glory<br/>Draw us by your grace</lines>
     </verse>
   </lyrics>
 </song>

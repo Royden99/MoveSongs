@@ -10,10 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>You are beautiful beyond description<br/>Too marvelous for words<br/>Too wonderful for comprehension<br/>Like nothing ever seen or heard<br/>Who can grasp you infinite wisdom<br/>Who can fathom the depth of your love<br/>You are beautiful beyond description<br/>Majesty enthroned above</lines>
+      <lines>You are beautiful beyond description.<br/>Too marvelous for words.<br/>Too wonderful for comprehension,<br/>Like nothing ever seen or heard.<br/>Who can grasp your infinite wisdom?<br/>Who can fathom the depths of your love?<br/>You are beautiful beyond description,<br/>Majesty enthroned above.</lines>
     </verse>
     <verse name="v2">
-      <lines>And I stand, I stand in awe of you<br/>I stand, I stand in awe of you<br/>Holy God to whom all praise is due<br/>I stand in awe of you</lines>
+      <lines>I stand, I stand in awe of You.<br/>And I stand, I stand in awe of you<br/>Holy God to whom all praise is due<br/>I stand, in awe of you. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu belleza es indescriptible<br/>Difícil de expresar<br/>Tus obras son incomprensibles<br/>No hay nadie como Tú, Señor<br/>¡Quien podrá entender Tu sabiduría!<br/>¡Quien podrá medir tu profundo amor!<br/>Tu belleza es indescriptible<br/>Majestad en el trono está</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maravillado estoy de Tí<br/>Maravillado estoy de Tí<br/>Santo Dios, de quien la gloria es<br/>Maravillado estoy de Tí</lines>
     </verse>
   </lyrics>
 </song>

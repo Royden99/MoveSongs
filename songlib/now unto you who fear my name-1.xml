@@ -10,10 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>To you who fear My name,<br/>The Son of Righteousness shall rise,<br/>With healing in His wings,<br/>With healing in His wings.<br/>(x2)</lines>
+      <lines>To you who fear My name, the Son of<br/>Righteousness shall rise,<br/>With healing in His wings;<br/>With healing in His wings. </lines>
     </verse>
     <verse name="v2">
-      <lines>And you shall skip about for joy,<br/>Like calves led from the stall;<br/>And you shall tread the wicked down,<br/>Thus says the Lord of Hosts!<br/></lines>
+      <lines>And you shall skip about for joy<br/>Like calves led from the stall,<br/>And you shall tread the wicked down,<br/>Thus saith the Lord of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A los que temen Mi nombre, nacera el sol de justicia,<br/>Y en Sus alas traerá sanidad y salvacion.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cual becerros de la manada de gozo saltaréis,<br/>Y hollaréis a el maligno, ha dicho el Señor.</lines>
     </verse>
   </lyrics>
 </song>

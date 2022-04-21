@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Be bold, be strong, for the Lord thy God is with thee,<br/>Be bold, be strong, for the Lord thy God is with thee.<br/>I am not afraid, I am not dismayed,<br/>'Cos I'm walking in faith and victory,<br/>Come on and walk in faith and victory,<br/>For the Lord thy God is with thee!<br/></lines>
+      <lines>Be bold! *Be bold! <br/>Be strong! *Be strong! <br/>For the Lord Thy God is with thee. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am not afraid, *I am not afraid. <br/>I am not dismayed, *I am not dismayed. <br/>I'm walking in faith and victory.<br/>Come on, let's walk in faith and victory. <br/>For the Lord Thy God is with thee.</lines>
     </verse>
   </lyrics>
 </song>

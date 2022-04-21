@@ -10,10 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I will sing unto the Lord as long as I live.<br/>  I will sing praise to my God while I have my being.<br/>   My meditation of Him shall be sweet  <br/>  I will be glad, I will be glad in the Lord.</lines>
+      <lines>I will sing unto the Lord as long as I live. <br/>I will sing praise to my God <br/>While I have my being. - <br/>My meditation of Him shall be sweet. <br/>I will be glad, I will be glad in the Lord. </lines>
     </verse>
     <verse name="v2">
-      <lines>Bless thou the Lord, O my soul praise ye the Lord. <br/>Bless thou the Lord, O my soul praise ye the Lord. <br/>Bless thou the Lord, O my soul praise ye the Lord. <br/>  Bless thou the Lord, O my soul praise ye the Lord</lines>
+      <lines>Bless thou the Lord, O my soul; praise ye the Lord.<br/>Bless thou the Lord, O my soul; praise ye the Lord.<br/>Bless thou the Lord, O my soul; praise ye the Lord.<br/>Bless thou the Lord, O my soul; praise ye the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Jehová cantaré en mi vida.<br/>Y a mi Dios cantaré salmos mientras viva.<br/>Dulce sera mi meditacion en Él.<br/>Yo me regocijaré en Jehová.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bendice, alma mía, a Jehová.(4x)</lines>
     </verse>
   </lyrics>
 </song>

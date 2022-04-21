@@ -10,13 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Father, we love You, we worship and adore You,<br/>Glorify Your name in all the earth.<br/>Glorify Your name, glorify Your name,<br/>Glorify Your name in all the earth.</lines>
+      <lines>Father we love You, we worship and adore You.<br/> Glorify Thy name in all the earth. </lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus, we love you...</lines>
+      <lines>Glorify Thy name, glorify Thy name. <br/>Glorify Thy name in all the earth. </lines>
     </verse>
     <verse name="v3">
-      <lines>Spirit, we love you...<br/></lines>
+      <lines>Padre te amo, te adoro y te alabo.<br/>En Tu nombre glorificate.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glorificate, glorificate.<br/>En Tu nombre glorificate.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-01-23T18:42:44">
+  <properties>
+    <titles>
+      <title>The Habitation of Thy House</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, how I love the habitation of Thy house,<br/>How I love the place where Your honor dwells.<br/>And in this congregation will I bless the Lord.<br/>How I love the habitation of Thy house.</lines>
+    </verse>
+  </lyrics>
+</song>

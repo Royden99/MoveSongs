@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-02-20T18:22:51">
   <properties>
     <titles>
       <title>Thou O Lord art a shield about me</title>
@@ -9,11 +9,14 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1">
+    <verse name="v1a">
       <lines>Thou O Lord art a shield about me<br/>You're my glory<br/>You're the lifter of my head<br/>Thou O Lord art a shield about me<br/>You're my glory<br/>You're the lifter of my head</lines>
     </verse>
     <verse name="v2">
       <lines>Hallelujah<br/>Hallelujah<br/>Hallelujah<br/>You're the lifter of my head<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Senor eres un escudo a mi alrededor<br/>eres la Gloria y quien levanta mi cabeza<br/>Aleluya, aleluya, aleluya<br/>eres quien levanta mi cabeza<br/></lines>
     </verse>
   </lyrics>
 </song>

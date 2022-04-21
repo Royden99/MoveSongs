@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I will justify the Lord most High<br/>In every situation;<br/>I'll proclaim His love and righteousness<br/>Within the congregation,<br/>For within His hand He has a plan<br/>To build a holy nation;<br/>I will justify the Lord most High<br/>In every situation.<br/></lines>
+      <lines>I will justify the Lord most high<br/>In every situation. <br/>I'll proclaim His love and righteousness<br/>Within the congregation.<br/>For within His hand He has a plan<br/>To build a Holy nation. <br/>I will justify the Lord most high<br/>In every situation. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Justificaré a Jehová en cada situación<br/>Declararé su justicia<br/>en la congregación<br/>Pues en Sus manos tiene un plan<br/>para crear santa nación<br/>Justificaré a Jehová<br/>en cada situación.</lines>
     </verse>
   </lyrics>
 </song>

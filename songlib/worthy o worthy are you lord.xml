@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:57">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:58">
   <properties>
     <titles>
       <title>worthy o worthy are you lord</title>
@@ -10,10 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Worthy, O worthy are You Lord.<br/>	Worthy to be thanked and praised<br/>	And worshipped and adored.<br/>                -Repeat-</lines>
+      <lines>Worthy, Oh worthy are You Lord,<br/>Worthy to be thanked and praised<br/>And worshiped and adored. (Repeat.)</lines>
     </verse>
     <verse name="v2">
-      <lines>Singing Hallelujah, Lamb upon the throne <br/>We worship and adore You. <br/>As You make Your glory known <br/>Singing Hallelujah, glory to the King. <br/>You're  more than a conqueror. <br/>You're Lord of everything.</lines>
+      <lines>Singing Hallelujah, Lamb upon the throne,<br/>We worship and adore You,<br/>As You make Your glory known.<br/>Singing Hallelujah, glory to the King.<br/>You're more than a conqueror;<br/>You're Lord of everything. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Digno, digno eres Señor<br/>Digno de alabanza, acción de gracias<br/>Y honor.</lines>
     </verse>
   </lyrics>
 </song>

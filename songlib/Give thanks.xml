@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Give thanks with a grateful heart. <br/>         Give thanks to the Holy One. <br/>         Give thanks because He's given Jesus Christ, <br/>         His Son.<br/>  -Repeat –<br/>         And now let the weak say,” I am strong.!" <br/>         Let the poor say, “I am rich!"<br/>         Because of what the Lord has done for us.<br/>-Repeat –         <br/> - (Ending) We give thanks.</lines>
+      <lines>Give thanks with a grateful heart,<br/>Give thanks to the Holy One,<br/>Give thanks because He's given Jesus Christ His Son.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And now let the weak say, "I am strong",<br/>Let the poor say, "I am rich"<br/>Because of what the Lord has done for us;<br/>Give thanks.<br/></lines>
     </verse>
   </lyrics>
 </song>

@@ -10,7 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Holy, holy is the Lamb;<br/>He is the great I AM without end;<br/>I know that my Redeemer liveth,<br/>And some day soon I'll be like Him.<br/>Oh glory, glory, hallelujah,<br/>I will praise His holy name;<br/>For He brought me out of bondage,<br/>And He set me free again.<br/></lines>
+      <lines>Holy, holy, is the lamb. <br/>He is the great I Am without end.<br/>I know that my Redeemer liveth, <br/>And someday soon, I'll be like Him. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>I'm singing glory, glory, hallelujah. <br/>I will praise His holy name, <br/>For He brought me out of bondage, <br/>And He set me free again.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Santo, Santo es el Señor. <br/>El es el gran Yo Soy, sin fin.<br/>Y mi Redentor si vive.<br/>Y pronto yo sere como el. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh gloria, gloria aleluya. <br/>Alabad Su nombre si, <br/>Me saco de las tinieblas y me libro a mi.</lines>
     </verse>
   </lyrics>
 </song>

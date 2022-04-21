@@ -10,7 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I'm happy, I'm healthy, I'm blessed, and anointed;<br/>         I'm filled with the power of God.<br/>            - (Repeat)-<br/>         Hallelujah! Hallelujah! I'm filled with <br/>        The power of God, hallelujah! hallelujah! <br/>         I'm filled with the power of God.</lines>
+      <lines>I'm happy, I'm healthy, I'm blessed and anointed; <br/>I'm filled with the power of God. (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hallelujah! Hallelujah! I'm filled with the power of God. (2x) </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soy Feliz, Bendicido, sanado y ungido,<br/>Lleno soy del poder del Senor(2x)</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:30">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:31">
   <properties>
     <titles>
       <title>I will arise and enter in</title>
@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I will arise and enter in,<br/>To the house of the Lord,<br/>I will arise and enter in,<br/>To the house of the Lord.<br/>For He has called me,<br/>Out of this world,<br/>Into a holy place.<br/>And I have chosen,<br/>To be separate,<br/>And I will see His face.</lines>
+      <lines>Chorus:<br/>I will arise and enter in,<br/>To the house of the Lord.<br/>I will arise and enter in,<br/>To the house of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He has called me<br/>Out of this world<br/>Into a holy place.<br/>And I have chosen<br/>To be separate,<br/>And I will see His face.</lines>
     </verse>
   </lyrics>
 </song>
