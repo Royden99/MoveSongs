@@ -9,11 +9,14 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1">
+    <verse name="v1a">
       <lines>God's not dead, He is alive. <br/>God's not dead, He is alive. <br/>God's not dead, He is alive. <br/>I feel Him in my hands, I feel Him in my feet, <br/>I feel Him in my heart, I feel Him in my soul, <br/>I feel Him all over me.</lines>
     </verse>
     <verse name="v2">
       <lines>Dios no ha muerto, viviendo esta. (3x) <br/>Lo siento en mis manos, lo siento en mis pies,<br/>Lo siento en mi alma, lo siento en mi ser, <br/>Lo siento sobre mi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He woke me up this morning, He is alive<br/>He woke me up this morning, He is alive<br/>He woke me up this morning, He is alive<br/>I feel Him in my hands, I feel Him in my feet, <br/>I feel Him in my heart, I feel Him in my soul, <br/>I feel Him all over me.</lines>
     </verse>
   </lyrics>
 </song>

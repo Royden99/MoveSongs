@@ -9,14 +9,17 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1">
-      <lines>That which survives the sword of Your word<br/>Is given grace in the wilderness.<br/>You have drawn close by Your kindness and love,<br/>So You rebuild the barren place.<br/>Chorus:<br/>And there'll be watchmen on that day,<br/>And they will call out from the hills,<br/>Arise, let us go up to the Lord our God.</lines>
+    <verse name="v1a">
+      <lines>That which survives the sword of Your word<br/>Is given grace in the wilderness.<br/>You have drawn close by Your kindness and love,<br/>So You rebuild the barren place.<br/></lines>
     </verse>
     <verse name="v2">
       <lines>Now we will come from the ends of the earth,<br/>Blind, halt, and lame, and laboring,<br/>And as our tears are turned into praise,<br/>Shouting out loud, we will return!</lines>
     </verse>
     <verse name="v3">
       <lines>Now we will take up our tambourine,<br/>And we'll go out to dance and sing.<br/>Now we will plant our vines on the hills,<br/>And offer fruit for all to eat!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And there'll be watchmen on that day,<br/>And they will call out from the hills,<br/>Arise, let us go up to the Lord our God.</lines>
     </verse>
   </lyrics>
 </song>

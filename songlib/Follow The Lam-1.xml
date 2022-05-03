@@ -10,10 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I will listen for Your voice<br/>I will call upon Your name<br/>For there's only now one choice<br/>That's to follow the Lamb</lines>
+      <lines>I will listen for Your Voice<br/>I will call upon Your Name<br/>For there's only now one choice<br/>And that's to follow the Lamb<br/>Chorus:<br/>Follow the Lamb (2x)<br/>There's only now one choice<br/>And that's to follow the Lamb (Repeat)</lines>
     </verse>
     <verse name="v2">
-      <lines>Follow the Lamb!<br/>Follow the Lamb!<br/>There's only now one choice<br/>That's to follow the Lamb<br/></lines>
+      <lines>A tu Voz yo voy a oir<br/>A tu nombre clamare<br/>Una cosa debo hacer:<br/>Al Cordero seguir.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Coro:<br/>A El seguir (2x)<br/>Una cosa debo hacer</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,10 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>One thing have I desired of the Lord<br/>         That will I seek after<br/>         That I may dwell in the house of the Lord<br/>         All the days, all the days of my life<br/>         To behold the beauty of the Lord and to enquire in His temple <br/>         To behold the beauty of the Lord and to enquire in His temple.</lines>
+      <lines>One thing have I desired of the Lord,<br/>That will I seek after,<br/>That I may dwell in the house of the Lord,<br/>All the days, all the days of my life:</lines>
     </verse>
     <verse name="v2">
-      <lines>For in the time of trouble<br/>He shall hide me in His pavilion<br/>In the secret of His tabernacle shall He hide me<br/>He shall set me up upon a rock<br/>To behold the beauty of the Lord and to enquire in His temple  <br/>To behold the beauty of the Lord and to enquire in His temple.</lines>
+      <lines>To behold the beauty of the Lord,<br/>And to enquire in His temple,<br/>To behold the beauty of the Lord,<br/>And to enquire in His temple.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For in the time of trouble,<br/>He shall hide me in His pavilion,<br/>In the secret of His tabernacle He shall hide me,<br/>He shall set me up upon a rock:<br/></lines>
     </verse>
   </lyrics>
 </song>

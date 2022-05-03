@@ -10,9 +10,12 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I'm so glad, I'm a part of the family of God<br/>	I've been washed in the fountain<br/>	Cleansed by His blood<br/>         Joint–heirs with Jesus as we travel this sod<br/>	For I'm part of the family, the family of God<br/>.<br/>	Now you notice we say brother and sister round here<br/>	It's because we're a family and these folks are so dear<br/>	When one has a heartache, we all shed a tear<br/>	And rejoice in each victory of this family so dear.</lines>
+      <lines>I'm so glad, I'm a part of the family of God<br/>	I've been washed in the fountain<br/>	Cleansed by His blood<br/>         Joint–heirs with Jesus as we travel this sod<br/>	For I'm part of the family, the family of God<br/>.</lines>
     </verse>
-    <verse name="v2">
+    <verse name="v2a">
+      <lines><br/>	Now you notice we say brother and sister round here<br/>	It's because we're a family and these folks are so dear<br/>	When one has a heartache, we all shed a tear<br/>	And rejoice in each victory of this family so dear.</lines>
+    </verse>
+    <verse name="v2b">
       <lines>From the door of an orphanage to the house of a King<br/>	No longer an outcast, a new song I sing<br/>	From rags to riches, from the weak to the strong<br/>	I'm not worthy to be here, but praise God I belong.</lines>
     </verse>
   </lyrics>
