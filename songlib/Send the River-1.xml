@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Send the River</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the springtime of Your word,<br/>Precious promises we heard.<br/>Seeds of hope were sprouting,<br/>watered by Your hand.<br/>Then hot summer lingered on,<br/>Now the harvest come and gone.<br/>Sometimes, we feel a dry and thirsty land.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chorus:<br/>Send the river.<br/>Send it flowing deep and wide.<br/>Fill our hearts with grace, with faith,  With praise, an ever-rising tide.<br/>Overflowing, with Thy Spirit's mighty power.<br/>Send the river rushing through our hearts right now.</lines>
+    </verse>
+  </lyrics>
+</song>

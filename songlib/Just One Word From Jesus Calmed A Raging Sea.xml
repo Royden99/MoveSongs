@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Just One Word From Jesus Calmed A Raging Sea</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Just one word from Jesus calmed a raging sea,<br/>Just one word made a blind man see;<br/>His word holds all creation,<br/>For He caused it all to be,<br/>And with just one word He sets me free.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

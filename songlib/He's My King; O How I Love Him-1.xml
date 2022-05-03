@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's My King; O How I Love Him</title>
+    </titles>
+    <authors>
+      <author>Virgil Meares</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's my King; O how I love Him<br/>He's my King, and there is none above him<br/>All day long you can hear me singing<br/>Glory Hallelujah! He's my King.</lines>
+    </verse>
+  </lyrics>
+</song>

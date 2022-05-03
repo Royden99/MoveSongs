@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:32">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Stand Up! And Bless The Lord, Your God</title>
@@ -10,10 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Stand up! and bless the Lord, your God<br/>From everlasting to everlasting.<br/>Stand up! and bless the Lord, your God<br/>From everlasting to everlasting.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Blessed be Your glorious name, O Lord,<br/>Which is exalted above all blessings and praise.<br/>Blessed be Your glorious name, O Lord,<br/>Which is exalted, which is exalted.<br/>(Repeat.)</lines>
+      <lines>Stand up and bless the Lord your God<br/>From everlasting to everlasting;<br/>Stand up and bless the Lord your God<br/>From everlasting to everlasting.<br/>And blessed be Your glorious name, O Lord<br/>Which is exalted above all blessing and praise;<br/>And blessed be Your glorious name, O Lord<br/>Which is exalted, which is exalted.<br/></lines>
     </verse>
   </lyrics>
 </song>

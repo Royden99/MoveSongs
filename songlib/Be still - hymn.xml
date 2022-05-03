@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Be still - hymn</title>
+    </titles>
+    <authors>
+      <author>hymn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>be still for the presence of the Lord<br/>the Holy one is here<br/>come bow before him now<br/>with reverence and fear<br/>in him no sin is found<br/>we stand on holy groud<br/>be still for the presence of the Lord <br/>the holy one is here</lines>
+    </verse>
+  </lyrics>
+</song>

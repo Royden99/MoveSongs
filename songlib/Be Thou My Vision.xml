@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:52:57">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Be Thou My Vision</title>
@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Be Thou my Vision, O Lord of my heart;<br/>Naught be all else to me, save that Thou art;<br/>Thou my best Thought, by day or by night,<br/>Waking or sleeping, Thy presence my light.</lines>
+      <lines>Be Thou my vision, O Lord of my heart;<br/>Naught be all else to me, save that Thou art -<br/>Thou my best thought, by day or by night,<br/>Waking or sleeping, Thy presence my light.</lines>
     </verse>
     <verse name="v2">
-      <lines>Be Thou my Wisdom, and Thou my true Word;<br/>I ever with Thee and Thou with me, Lord;<br/>Thou my great Father, I Thy true son;<br/>Thou in me dwelling, and I with Thee one.</lines>
+      <lines>Be Thou my wisdom, and Thou my true Word;<br/>I ever with Thee, and Thou with me, Lord;<br/>Thou my great Father, I Thy true son;<br/>Thou in me dwelling, and I with Thee one.</lines>
     </verse>
     <verse name="v3">
-      <lines>Be Thou my battle Shield, Sword for the fight;<br/>Be Thou my Dignity, Thou my Delight;<br/>Thou my soul’s Shelter, Thou my high Tow’r:<br/>Raise Thou me heav’nward, O Pow’r of my pow’r.</lines>
+      <lines>Be Thou my battle-shield, sword for the fight;<br/>Be Thou my dignity, Thou my delight;<br/>Thou my soul's shelter, Thou my high tower:<br/>Raise Thou me heavenward, O Power of my power.</lines>
     </verse>
     <verse name="v4">
-      <lines>Riches I heed not, nor man’s empty praise,<br/>Thou mine Inheritance, now and always:<br/>Thou and Thou only, first in my heart,<br/>High King of Heaven, my Treasure Thou art.</lines>
+      <lines>Riches I heed not, nor man's empty praise,<br/>Thou mine inheritance, now and always:<br/>Thou and Thou only, first in my heart,<br/>High King of heaven, my treasure Thou art.</lines>
     </verse>
     <verse name="v5">
-      <lines>High King of Heaven, my victory won,<br/>May I reach Heaven’s joys, O bright Heav’n’s Sun!<br/>Heart of my own heart, whatever befall,<br/>Still be my Vision, O Ruler of all.</lines>
+      <lines>High King of heaven, after victory won,<br/>May I reach heaven's joys, O bright heaven's Sun!<br/>Heart of my own heart, whatever befall,<br/>Still be my vision, O ruler of all.<br/></lines>
     </verse>
   </lyrics>
 </song>

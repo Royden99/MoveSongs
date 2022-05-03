@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Worthy is the Lamb</title>
+    </titles>
+    <authors>
+      <author>Lori Pettis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Worthy is the Lamb<br/>For all sinners slain<br/>Worthy is the Lamb<br/>Who died and rose again<br/>who was and is and is to come<br/>the beginning and the end<br/>worthy, worthy is the Lamb.</lines>
+    </verse>
+  </lyrics>
+</song>

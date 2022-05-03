@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-03-13T02:31:19">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>From the ends of the earth</title>
@@ -10,13 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>From the ends of the earth,<br/> (From the ends of the earth,)<br/>From the depth of the sea,<br/> (From the depth of the sea,)<br/>From the height of the heaven,<br/> (From the height of the heaven,)<br/>Your name be praised.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>From the hearts of the weak,<br/> (From the hearts of the weak,)<br/>From the shouts of the strong,<br/> (From the shouts of the strong,)<br/>From the lips of all people,<br/> (From the lips of all people,)<br/>Your song be raised.</lines>
-    </verse>
-    <verse name="c1">
-      <lines>Chorus:<br/>Throughout the endless ages,<br/>You will be crowed with praises,<br/>Lord most high.<br/>Exalted in every nation,<br/>Sovereign of all creation,<br/>Lord most high.<br/>Be magnified.</lines>
+      <lines>From the ends of the earth, (From the ends of the earth,)<br/>From the depth of the sea, (From the depth of the sea,)<br/>From the height of the heaven, (From the height of the heaven,)<br/>Your name be praised.<br/>From the hearts of the weak, (From the hearts of the weak,)<br/>From the shouts of the strong, (From the shouts of the strong,)<br/>From the lips of all people, (From the lips of all people,)<br/>Your song be raised.<br/>Chorus:<br/>Throughout the endless ages,<br/>You will be crowed with praises,<br/>Lord most high.<br/>Exalted in every nation,<br/>Sovereign of all creation,<br/>Lord most high.<br/>Be magnified.</lines>
     </verse>
   </lyrics>
 </song>

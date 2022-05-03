@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:37">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>God says were the Children</title>
@@ -10,16 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>God says we're the children of the morning; <br/>God says we're the children of the day.<br/>God says we're the children of the morning; <br/>God says don't you turn your heart away. </lines>
+      <lines>God says we're the children of the morning<br/>            God says we're the children of the day<br/>            God says we're the children of the morning<br/>            God says don't you turn your heart away.</lines>
     </verse>
     <verse name="v2">
-      <lines>Eagle saints, arise and soar the heavenlies. <br/>You know this earthly realm is not your destiny. <br/>I've called you to go out and set creation free. <br/>My love for you will last throughout eternity.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Dice Dios que somos hijos de la luz, <br/>Hijos del dia somos, dice Dios. <br/>Dice Dios que somos hijos de la luz <br/>Y que no volvamos, dice Dios. </lines>
-    </verse>
-    <verse name="v4">
-      <lines>Santos aguilas suban a lo celestial, <br/>Pues sabemos que lo terrenal no es el final.<br/>La creacion nos ha llamado a liberar. <br/>Su amor hacia nosotros no terminara.</lines>
+      <lines>Eagle saints, arise and soar the heavenlies <br/>  You know this earthly realm is not your destiny<br/>  I've called you to go out and set creation free<br/>  My love for you will last throughout eternity.</lines>
     </verse>
   </lyrics>
 </song>

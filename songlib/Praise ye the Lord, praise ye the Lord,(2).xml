@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Praise ye the Lord, praise ye the Lord,</title>
+    </titles>
+    <authors>
+      <author>Claire Wilson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise ye the Lord, praise ye the Lord,<br/>Praise ye the Lord, praise ye the Lord.<br/>Let everything that hath breath praise the Lord.<br/>Praise Him in the firmament of His power.<br/>Praise Him with the sound of the trumpet,<br/>Praise Him with the psaltry and harp,<br/>Praise Him with the timbrel and dance,<br/>With stringed instruments and organs,<br/>And upon the high-sounding cymbals,<br/>Let everything, let everything,<br/>Let everything that hath breath praise the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

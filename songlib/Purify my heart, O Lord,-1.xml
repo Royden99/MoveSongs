@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Purify my heart, O Lord,</title>
+    </titles>
+    <authors>
+      <author>Brain Doerksen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Purify my heart, O Lord;<br/>For the pure in heart shall see God.<br/>Holy Spirit come, convince my soul,<br/>Make me holy, make me whole.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:55">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Hear Me When I Call</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hear me when I call, O God of my righteousness.<br/>Thou hast preserved me when I was in distress.<br/>Have mercy upon me and hear my prayer.<br/>Hear me when I call, when I call, O God!</lines>
+      <lines>Hear me when I call<br/>O God of my righteousness!<br/>Thou hast preserved me when I was in distress<br/>Have mercy upon me,<br/>And hear my prayer.<br/>Have me when I call,<br/>When I call, O God.<br/></lines>
     </verse>
   </lyrics>
 </song>

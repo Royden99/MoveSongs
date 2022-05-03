@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Create In Me A Clean Heart, O God</title>
@@ -10,16 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Create in me a clean heart, O God. <br/>And renew a right spirit within me. (2x)</lines>
+      <lines>Create in me a clean heart, O God<br/>And renew a right spirit within me;<br/>Create in me a clean heart, O God,<br/>And renew a right spirit within me.</lines>
     </verse>
     <verse name="v2">
-      <lines>Cast me not away from Thy presence, O Lord. <br/>And take not thy Holy Spirit from me.<br/>Restore unto me the joy of Thy salvation.<br/> And renew a right spirit within me.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Crea en mi un corazon limpio, Oh Dios, <br/>Y renueva un espiritu recto en mi. (2x) </lines>
-    </verse>
-    <verse name="v4">
-      <lines>No me eches de ti, ni de tu presencia, <br/>No quites tu Santo Espiritu de mi,<br/>Devuelveme el gozo de Tu salvacion <br/>Y renueva un espiritu recto en mi.</lines>
+      <lines>Cast me not away from Thy presence, O Lord,<br/>Take not Thy Holy Spirit from me;<br/>Restore unto me the joy of my salvation<br/>And renew a right spirit within me.<br/></lines>
     </verse>
   </lyrics>
 </song>

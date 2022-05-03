@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Say Yes</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I say yes, yes, yes.<br/>I say yes, yes, yes.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I say yes, Lord.<br/>I say yes, Lord.<br/>I say yes, yes yes. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Yo digo sí, sí, sí/ (2)<br/>Yo digo si Señor<br/>Haz tu voluntad<br/>Yo digo sí, sí, sí.</lines>
+    </verse>
+  </lyrics>
+</song>

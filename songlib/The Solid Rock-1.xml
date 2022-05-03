@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Solid Rock</title>
+    </titles>
+    <authors>
+      <author>Edward Mote William B. Bradbury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My hope is built on nothing less<br/>Than Jesus' blood and righteousness.<br/>I dare not trust the sweetest frame,<br/>But wholly lean on Jesus' name.<br/>Chorus:<br/>On Christ the solid Rock I stand;<br/>All other ground is sinking sand.<br/>All other ground is sinking sand.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>His oath, His covenant, His blood,<br/>Support me in the whelming flood.<br/>When all around my soul gives way,<br/>He then is all my hope and stay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When darkness seeks to hide His face,<br/>I rest on His unchanging grace.<br/>Through every high and stormy gale,<br/>My anchor holds within the veil.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When He shall come with trumpet sound,<br/>O, may I then in Him be found,<br/>Dressed in His righteousness alone,<br/>Faultless to stand before the throne.</lines>
+    </verse>
+  </lyrics>
+</song>

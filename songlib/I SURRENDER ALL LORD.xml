@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>I SURRENDER ALL LORD</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I surrender all, Lord,<br/>I surrender all, Lord,<br/>For I have heard Your call<br/>To lay my life down before You.<br/>I surrender all, Lord,<br/>I surrender all, Lord,<br/>Be glorified,<br/>Lord Jesus, I surrender all.<br/></lines>
+      <lines>I surrender all, Lord<br/>I surrender all, Lord<br/>For I have heard your call<br/>To lay my life down before you<br/>I surrender all, Lord (2x)<br/>Be glorified, Lord Jesus, <br/>I surrender all.</lines>
     </verse>
   </lyrics>
 </song>

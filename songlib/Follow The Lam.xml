@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Follow The Lam</title>
+    </titles>
+    <authors>
+      <author>Terry Posey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will listen for your voice<br/>I will call upon your name<br/>For there's only now one choice<br/>That's to follow the Lamb  (REPEAT)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Follow the Lamb <br/>Follow the Lamb<br/>There's only now one choice<br/>that's to follow the Lamb  (REPEAT)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessed be the name of the Lord, he is worthy</title>
+    </titles>
+    <authors>
+      <author>Don Moen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessed be the name of the Lord,<br/>He is worthy to be praised and adored,<br/>So let's lift up holy hands with one accord<br/>Singing blessed be the name,<br/>Blessed be the name,<br/>Blessed be the name of the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Ascribe Greatness To our God</title>
+    </titles>
+    <authors>
+      <author>P West/M Kirkbride/M Locke</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ascribe greatness to our God, the rock. <br/>His work is perfect and all his ways are just. (2x) </lines>
+    </verse>
+    <verse name="v2">
+      <lines>A God of faithfulness, and without injustice. <br/>Good and upright is He.<br/>A God of faithfulness, and without injustice. <br/>Good and upright is He.</lines>
+    </verse>
+  </lyrics>
+</song>

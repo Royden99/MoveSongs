@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>wait for the lord</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Wait for the Lord, all you who are righteous,<br/>Despise not the wicked for they have their reward.<br/>Wait for the Lord, all you who are righteous,<br/>Despise not the wicked for they have their reward.</lines>
+      <lines>Wait for the Lord, all ye who are righteous<br/>Despise not the wicked for they have their reward.<br/>                (Repeat)</lines>
     </verse>
     <verse name="v2">
-      <lines>And you shall ride on the heights of the earth,<br/>And taste of things not seen or heard;<br/>And you shall declare the greatness of the Lord,<br/>Wait, oh wait for your reward.<br/></lines>
+      <lines>For you shall rise on the heights of the earth<br/>Taste of things not seen nor heard,<br/>And you shall declare the greatness of the Lord.<br/>Wait, O wait, for your reward.</lines>
     </verse>
   </lyrics>
 </song>

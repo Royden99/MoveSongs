@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:01">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>His Glory Shall Fill This House</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>His glory shall fill this house<br/>Oh, His glory shall fill this house<br/>Oh, Come let us praise the Lord <br/>Come let us praise the Lord <br/>Worship Him, all Ye His house (2x)</lines>
+      <lines>His glory shall fill this house,<br/>His glory shall fill this house,<br/>Come, let us praise the Lord,<br/>Come, let us praise the Lord,<br/>Worship Him, all ye His house,<br/>Worship Him, all ye His house.<br/></lines>
     </verse>
   </lyrics>
 </song>

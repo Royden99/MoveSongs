@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Arise, Shine, For Thy Light Is Come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arise, shine, for thy light is come, (2x). <br/>For the glory of the Lord is risen.<br/>The glory of the Lord is come.<br/>The glory of the Lord is risen upon thee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We come together to love and praise our God,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We come together to love and praise our God,<br/>We come together to love and to be loved.<br/>We come together to heal and to be healed;<br/>Praise His name, glory hallelujah,<br/>Praise His holy name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Seek ye first the Kingdom of God and His righteous</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Seek ye first the Kingdom of God and His righteousness<br/>And all these things shall be added unto you alelujah.<br/>Ask, and it shall be given unto you, seek, and ye shall find <br/>Knock, and it shall be opened unto you alelujah</lines>
+    </verse>
+  </lyrics>
+</song>

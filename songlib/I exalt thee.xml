@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>I exalt thee</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>For Thou, O Lord, art high above the earth;<br/>Thou art exalted far above all gods.<br/>For Thou, O Lord, art high above the earth,<br/>Thou art exalted far above all gods.</lines>
+      <lines>For Thou, O Lord, art high above the earth.<br/>         Thou art exalted above all gods.<br/>         For thou, O Lord, art high above the earth.<br/>         Thou art exalted above all gods.</lines>
     </verse>
     <verse name="v2">
-      <lines>I exalt Thee, I exalt Thee, I exalt Thee, O Lord;<br/>I exalt Thee, I exalt Thee, I exalt Thee, O Lord.<br/></lines>
+      <lines>I exalt Thee, I exalt Thee, I exalt Thee, O Lord.  (2)</lines>
     </verse>
   </lyrics>
 </song>

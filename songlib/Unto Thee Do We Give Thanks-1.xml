@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
-      <title>Unto thee do we give thanks</title>
+      <title>Unto Thee Do We Give Thanks</title>
     </titles>
     <authors>
       <author>Author Unknown</author>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>We give thanks to Thee, <br/>O Lord, we give thanks, <br/>We give thanks to Thee, <br/>O Lord, we give thanks. </lines>
+      <lines>Unto Thee do we give thanks. <br/>Unto Thee do we give thanks. <br/>For Thy name is near, <br/>Thy wondrous works declare it. <br/>Unto Thee do we give thanks.</lines>
     </verse>
     <verse name="v2">
-      <lines>For Thy Name is near, <br/>Thy wondrous works do declare <br/>We give thanks to Thee, <br/>O Lord, we give thanks.</lines>
+      <lines>Ante ti damos, damos gracias (2x) <br/>Pues tu nombre esta aqui, <br/>Tus obras lo declaran. <br/>Ante ti damos, damos gracias.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>God is Good Bethel</title>
+    </titles>
+    <authors>
+      <author>J Johnson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, Lord<br/>For Your mercy never fails me<br/>All my days, I've been held in Your hands<br/>From the moment that I wake up<br/>Until I lay my head<br/>I will sing of the goodness of God<br/>All my life You have been faithful<br/>All my life You have been so, so good<br/>With every breath that I am able<br/>I will sing of the goodness of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love Your voice<br/>You have led me through the fire<br/>And in darkest night You are close like no other<br/>I've known You as a Father<br/>I've known You as a Friend<br/>I have lived in the goodness of God, yeah!<br/>Your goodness is running after, it's running after me<br/>Your goodness is running after, it's running after me<br/>With my life laid down, I'm surrendered now, I give You everything<br/>Your goodness is running after, it's running after me<br/></lines>
+    </verse>
+  </lyrics>
+</song>

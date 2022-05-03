@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:34">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Glory and Honor</title>
@@ -10,22 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Glory and honor are in His presence, <br/>Strength and gladness are in His place.<br/>Come and worship before the Lord,<br/>In the beauty of holiness. </lines>
-    </verse>
-    <verse name="v2">
-      <lines>Let the sea roar, let the fields rejoice, <br/>Let the trees of the woods sing out, <br/>Let the heavens be glad, let the earth rejoice, <br/>And let men of all nations shout: </lines>
-    </verse>
-    <verse name="v3">
-      <lines>The Lord reigns! The Lord reigns! <br/>The Lord reigns! </lines>
-    </verse>
-    <verse name="v4">
-      <lines>Gloria y honra en Su presencia.<br/>Fuerza y gozo en este lugar.<br/>Venid, adoremos ante el Señor,<br/>En la belleza de Su santidad.</lines>
-    </verse>
-    <verse name="v5">
-      <lines>Que ruja el mar y se gocen los campos.<br/>Que los arboles canten ya.<br/>Que se gocen los cielos y la tierra se alegre.<br/>Que clamen las naciones asi:</lines>
-    </verse>
-    <verse name="v6">
-      <lines>Reina Dios!... Reina Dios!...<br/>Reina Dios!</lines>
+      <lines>Glory and honor are in His presence;<br/>Strength and gladness are in His place.<br/>Come and worship before the Lord<br/>In the beauty of holiness.<br/>Let the sea roar; let the fields rejoice,<br/>Let the trees of the woods sing out.<br/>Let the heavens be glad; let the earth rejoice,<br/>And let men of all nations shout,<br/>The Lord reigns! –– The Lord reigns!<br/>The Lord reign –––––––– s</lines>
     </verse>
   </lyrics>
 </song>

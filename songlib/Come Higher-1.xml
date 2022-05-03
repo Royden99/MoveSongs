@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Higher</title>
+    </titles>
+    <authors>
+      <author>Renee Selvaggio</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Spirit of the Lord quenches the fire.<br/>The Spirit of the Lord causes all wars to cease.<br/>The Spirit of the Lord stops the confusion of my mind.<br/>The Spirit of the Lord calls to you and me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come higher, come higher.<br/>Make Me your habitation. <br/>Come higher, come higher.<br/>The Spirit of the Lord says come.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El Espíritu de Dios apaga todo fuego<br/>El Espíritu de Dios cesa toda guerra<br/>El Espíritu de Dios cesa toda confusión<br/>El Espíritu de Dios te llama a tí y a mí</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ven más alto, ven más alto<br/>Haz me tu habitación<br/>Ven más alto, ven más alto<br/>El Espíritu de Dios dice ven</lines>
+    </verse>
+  </lyrics>
+</song>

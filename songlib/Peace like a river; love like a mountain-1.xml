@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Peace like a river; love like a mountain</title>
+    </titles>
+    <authors>
+      <author>John Watson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peace like a river,<br/>Love like a mountain,<br/>The wind of Your Spirit<br/>Is blowing everywhere;<br/>Joy like a fountain,<br/>Healing spring of life,<br/>Come, Holy Spirit,<br/>Let Your fire fall.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

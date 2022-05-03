@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Great is the Lord, and greatly to be praised</title>
+    </titles>
+    <authors>
+      <author>Robert Ewing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Great is the Lord and greatly to be praised,<br/>In the city of our God,<br/>In the mountain of His holiness.<br/>Beautiful for situation, the joy of the whole earth<br/>Is mount Zion on the sides of the north,<br/>The city of the great King;<br/>Is mount Zion on the sides of the north,<br/>The city of the great King.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

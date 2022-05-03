@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>This Is The Acceptable Time</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>This is the acceptable time.<br/>Today is the day of salvation.<br/>This is the acceptable time.<br/>Today is the day of Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Spirit of the Lord is now upon us.<br/>To open the prison to them that are bound.<br/>He has called us to preach and to proclaim.<br/>The acceptable year of the Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now is the time to walk in perfection.<br/>Now is the time to walk without sin.<br/>Now is the time to submit to His workings.<br/>Now is the time to go in.</lines>
+    </verse>
+  </lyrics>
+</song>

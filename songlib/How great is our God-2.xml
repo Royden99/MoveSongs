@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How great is our God</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The splendor of the King, clothed in majesty<br/>Let all the earth rejoice, all the earth rejoice.<br/>He wraps Himself in light, and darkness tries to hide<br/>And trembles at His voice, trembles at His voice.<br/>Chorus:<br/>How great is our God, sing with me how great is our God<br/>All will see how great, how great is our God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Age to age He stands and time is in His hands<br/>Beginning and the end, beginning and the end.<br/>The Godhead three in one, Father, Spirit, Son<br/>The Lion and the Lamb, the Lion and the Lamb.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Your the name above all names, worthy of all praise<br/>My heart will sing how great is our God.</lines>
+    </verse>
+  </lyrics>
+</song>

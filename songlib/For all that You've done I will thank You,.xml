@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:29">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>For all that You've done I will thank You,</title>
@@ -10,13 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>For all that You've done I will thank You,<br/>For all that You're going to do,<br/>For all that You've promised and all that You are<br/>Is all that has carried me through,<br/>Jesus, I thank You.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>And I thank You, thank You, Lord,<br/>I thank You, thank You, Lord.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Thank You for loving and setting me free,<br/>Thank You for giving Your life just for me,<br/>Now I thank You, Jesus, I thank You,<br/>Gratefully thank You, and I thank You.<br/></lines>
+      <lines>For all that You've done I will thank You,<br/>For all that You're going to do.<br/>For all that You've promised; and all that You are<br/>Is all that has carried me through<br/>Jesus, I thank You<br/>And I thank You; thank You, Lord<br/>And I thank You, thank You, Lord<br/>Thank You for loving and setting me free;<br/>Thank You for giving Your life just for me.<br/>Now I thank You, Jesus, I thank You,<br/>Gratefully thank You, and I thank You.</lines>
     </verse>
   </lyrics>
 </song>

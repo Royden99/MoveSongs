@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-04-09T02:38:50">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Watchmen</title>
@@ -10,10 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>That which survives the sword of Your word<br/>Is given grace in the wilderness.<br/>You have drawn close by Your kindness and love,<br/>So You rebuild the barren place.</lines>
-    </verse>
-    <verse name="c1">
-      <lines>Chorus:<br/>And there'll be watchmen on that day,<br/>And they will call out from the hills,<br/>Arise, let us go up to the Lord our God.</lines>
+      <lines>That which survives the sword of Your word<br/>Is given grace in the wilderness.<br/>You have drawn close by Your kindness and love,<br/>So You rebuild the barren place.<br/>Chorus:<br/>And there'll be watchmen on that day,<br/>And they will call out from the hills,<br/>Arise, let us go up to the Lord our God.</lines>
     </verse>
     <verse name="v2">
       <lines>Now we will come from the ends of the earth,<br/>Blind, halt, and lame, and laboring,<br/>And as our tears are turned into praise,<br/>Shouting out loud, we will return!</lines>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Love You, Lord, Just Because Of Who You Are</title>
+    </titles>
+    <authors>
+      <author>Russ Pickett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I love You, Lord, just because of who You are<br/>You are the Prince of Peace, the bright and morning star.<br/>You rule and reign over all the universe<br/>In glory, power, and might. I love You, Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love You, Lord, Lord of lords, King of kings;<br/>Who was and is to come; You make my heart to sing.<br/>Almighty God, who desires to form, and fill,<br/>And dwell within my heart. I love You, Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

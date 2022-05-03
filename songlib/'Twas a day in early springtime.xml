@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>'Twas a day in early springtime</title>
+    </titles>
+    <authors>
+      <author>Anon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>'Twas a day in early springtime<br/>By an ancient wayside well,<br/>Eliezer paused to rest his camel train;<br/>He had found a bride for Isaac<br/>Ere the evening shadows fell,<br/>And his weary journey had not been in vain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh get ready, the evening shadows fall,<br/>Don't you hear the Eliezer call?<br/>There's going to be a wedding,<br/>Our joy will soon begin, in the evening<br/>When the camel train comes in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So he took the fair Rebekah<br/>Decked with jewels rich and rare,<br/>Back to Abraham and Isaac far away;<br/>Where Rebekah loved her Isaac<br/>And he loved Rebekah fair,<br/>Oh it must have been a happy wedding day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Now the blessed Holy Spirit<br/>From our Father God above,<br/>Has come back to earth to find a worthy bride;<br/>And our Isaac over yonder<br/>Has prepared His tents of love,<br/>And He wants His fair Rebekah by His side.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>We have left our kinsfolk gladly,<br/>We have bade the world goodbye,<br/>We are going to a land beyond the sky;<br/>Where we'll soon behold our Isaac<br/>In that blessed eternity,<br/>What a happy, happy wedding that will be!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

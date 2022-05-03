@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Trust in the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trust in the Lord with all your heart,<br/>And lean not on thine own understanding,<br/>In all thy ways acknowledge Him<br/>And He shall direct thy path,<br/>Trust, therefore, in the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

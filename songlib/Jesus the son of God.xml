@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-12-19T18:26:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Jesus the son of God</title>
@@ -12,11 +12,8 @@
     <verse name="v1">
       <lines>Jesus the son of God<br/>Born to be our saviour<br/>Jesus the son of God<br/>Born to be our Lord</lines>
     </verse>
-    <verse name="v2a">
+    <verse name="v2">
       <lines>Bow down and worship Him, worship Him, worship Him<br/>Bow down and worship Him, worship Jesus our Lord<br/></lines>
-    </verse>
-    <verse name="v2b">
-      <lines>Jesus el hijo de Dios<br/>Jesus el hijo de Dios<br/>Inclinate y adorale<br/><br/>Inclinate y adorale<br/>Inclinate y adorale<br/>Cristo nuestro Senor<br/></lines>
     </verse>
   </lyrics>
 </song>

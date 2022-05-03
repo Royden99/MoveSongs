@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>So, Lift High The Banner</title>
+    </titles>
+    <authors>
+      <author>Whitestone Farms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>So, lift high the banner of love,<br/>Hallelujah!<br/>Song the trumpets of war.<br/>Christ has given us the victory,<br/>Hallelujah!<br/>Jericho must fall!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In the name of God the Father,<br/>In the name of Jesus His Son,<br/>And in the name of the Spirit,<br/>We will fight till we are called one!</lines>
+    </verse>
+  </lyrics>
+</song>

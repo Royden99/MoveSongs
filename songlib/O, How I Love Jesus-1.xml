@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O, How I Love Jesus</title>
+    </titles>
+    <authors>
+      <author>Frederick Whitfield</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, how I love Jesus.<br/>Oh, how I love Jesus.<br/>Oh, how I love Jesus,<br/>Because He first loved me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To me, He is so wonderful (and I love Him).<br/>To me, He is so wonderful (and I love Him).<br/>To me, He is so wonderful (and I love Him),<br/>Because He first love me.</lines>
+    </verse>
+  </lyrics>
+</song>

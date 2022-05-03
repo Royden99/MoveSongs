@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:13">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Rejoice the steps</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Rejoice! For the steps of a righteous man <br/>They are ordered of God. <br/>They are ordered of God.<br/>Rejoice! For the steps of a righteous man, <br/>They are ordered of God. </lines>
+      <lines>Rejoice for the steps<br/>Of a righteous man<br/>They are ordered of God(x2)<br/>Rejoice for the steps<br/>Of a righteous man<br/>They are ordered of God(x2)</lines>
     </verse>
     <verse name="v2">
-      <lines>In the time of trouble, God will uphold him. <br/>God will preserve him, God will sustain him. <br/>In the time of trouble, God will lift him up.<br/>So, rejoice; your steps are ordered of God.</lines>
+      <lines>In the time of trouble<br/>God will uphold you<br/>God will preserve you<br/>God will sustain you<br/>In the time of trouble<br/>God will lift you up<br/>So rejoice your steps<br/>Are ordered of God<br/></lines>
     </verse>
   </lyrics>
 </song>

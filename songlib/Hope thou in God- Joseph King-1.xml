@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hope thou in God- Joseph King</title>
+    </titles>
+    <authors>
+      <author>Joseph King</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hope thou in God, O my soul,<br/>Be not disquieted,<br/>Be not cast down.<br/>Lift up your head,<br/>Lift up your voice,<br/>There is no other choice,<br/>The rocks shall not take my place.<br/>O my soul, bless the Lord,<br/>O my soul, bless the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

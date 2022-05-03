@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:01">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
-      <title>People Of God, It Is Time To Arise</title>
+      <title>People of God, it is time to arise</title>
     </titles>
     <authors>
       <author>Author Unknown</author>
@@ -10,34 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Chorus:<br/>People of God, it is time to arise<br/>And proclaim to creation, We're not going to die.<br/>Let it ring from the valleys and the mountains to high,<br/>God's people proclaiming We're not going to die!<br/>All heaven's rejoicing, now hear them all sing,<br/>Grave where's thy victory and death, where's thy sting?</lines>
-    </verse>
-    <verse name="v2">
-      <lines>The saints of the centuries have all come to pass<br/>With each one fulfilling their God-given task.<br/>But to the Sons God has spoken, and we witness His cry.<br/>Proclaim to creation you're not going to die.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Now the prophets of the Lord had a line that they laid<br/>And though they were steadfast, these all died in faith.<br/>But they spoke of a people who would one day arise<br/>And proclaim to creation, they're not going to die.</lines>
-    </verse>
-    <verse name="v4">
-      <lines>Take courage now brethren, close in your ranks.<br/>Stand on the promise, giving God thanks.<br/>For Satan will fight us, or surely will try,<br/>But he can't beat a people who aren't going to die.</lines>
-    </verse>
-    <verse name="v5">
-      <lines>We're not going to sin.<br/>We're not going to sin.<br/>People of God it is time to begin,<br/>To proclaim to creation we're not going to sin.<br/>I'm washed in the blood and filled with His Spirit,<br/>I love the Father and I want to show it.<br/>I say No to me, and I'll say Yes to Him.<br/>I'm not going to die, 'cause I'm not going to sin.</lines>
-    </verse>
-    <verse name="v6">
-      <lines>Now Herb, Gary, Sam-had a line that they laid,<br/>And just like the Lamb they all died in faith,<br/>But they preached to a people who are entering in,<br/>Who never will die, because they're not going to sin. </lines>
-    </verse>
-    <verse name="v7">
-      <lines>Pueblo de Dios pues la hora llegó <br/>Proclamad a la tierra que no morirá.</lines>
-    </verse>
-    <verse name="v8">
-      <lines>Que suenen de los valles, las cumbres también <br/>Un pueblo proclama que no morirá <br/>Los cielos se regocijan, oídlos cantar  <br/>La muerte y el sepulcro son vencidos ya</lines>
-    </verse>
-    <verse name="v9">
-      <lines>Los profetas antiguos pusieron su renglón <br/>Eran firmes más murieron conforme a la fe <br/>Más hablaron de un pueblo que se iba a levantar <br/>A proclamar a la tierra que no morirá  </lines>
-    </verse>
-    <verse name="v10">
-      <lines>Animaos hermanos, las filas juntad <br/>Creed en las promesas, dad gracias a Dios<br/>Satanás luchará sin embargo no podrá <br/>Derrotar a un pueblo que no morirá</lines>
+      <lines>People of God, it is time to arise<br/>And proclaim to creation, “We're not going to die.”<br/>Let it ring from the valleys and mountains so high,<br/>God's people proclaiming, “We're not going to die!”<br/>All heaven's rejoicing, now hear them all sing,<br/>“Grave, where's thy victory and death, where's thy sting?”<br/>The saints of the centuries have all come to pass<br/>With each one fulfi lling their God-given task.<br/>But to the Sons God has spoken, and we witness His cry.<br/>“Proclaim to Creation, you're not going to die!”<br/>Now the prophets of old had a line that they laid<br/>And though they were steadfast, these all died in faith.<br/>But they spoke of a people who would one day arise<br/>And proclaim to creation, they're not going to die.<br/>Take courage now brethren, close in your ranks.<br/>Stand on the promise, giving God thanks.<br/>For Satan will fi ght us, or surely will try,<br/>But he can't beat a people who are not going to die.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:22">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Trust in the Lord</title>
@@ -10,10 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Trust in the Lord with all thy heart, <br/>And lean not to thine own understanding, <br/>In all thy ways acknowledge Him, <br/>He shall direct thy paths, <br/>Trust therefore in the Lord. </lines>
-    </verse>
-    <verse name="v2">
-      <lines>Confía en él y él hará.<br/>Y no te apoyes en su seguridad.<br/>Establece lo en su caminar,<br/> y él te dirigirá.<br/>Confía en él y él hará.</lines>
+      <lines>Trust in the Lord with all thy heart<br/> And lean not to thine own understanding.<br/> In all thy ways acknowledge Him<br/> And He shall direct thy paths.<br/>Trust therefore in the Lord</lines>
     </verse>
   </lyrics>
 </song>

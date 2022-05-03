@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Have You Counted The Cost To Walk This Way</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Have you counted the cost to walk this way?<br/>Have you paid the price to behold my face?<br/>For to behold the living God means to walk away from yourself,<br/>To die to self, to leave yourself behind you,<br/>To be nothing, to be empty<br/>That Christ in you may be all in all.</lines>
+      <lines>Have you counted the cost to walk this way?<br/>Have you paid the price to behold My face?<br/>For to behold the living God is to walk away from yourself,<br/>To die to self, to leave yourself behind you,<br/>To be nothing, to be empty,<br/>That Christ in you may be all in all.<br/></lines>
     </verse>
   </lyrics>
 </song>

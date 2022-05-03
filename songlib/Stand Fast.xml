@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:31">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Stand Fast</title>
@@ -10,19 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Stand fast in the liberty,<br/>Wherein Christ Jesus has set you free,<br/>Take every thought into captivity,<br/>Stand fast in the liberty.</lines>
+      <lines>Stand fast in the liberty,<br/>Wherein Christ Jesus hath set us free,<br/>Take every thought into captivity<br/>Stand fast in the liberty.</lines>
     </verse>
     <verse name="v2">
-      <lines>Though we stumble we yet shall arise,<br/>We'll forsake all the enemy's lies,<br/>God will surely answer our cries<br/>As we stand in the liberty.</lines>
+      <lines>Though we stumble, we yet shall arise;<br/>We'll forsake all the enemy's lies;<br/>God will surely answer our cries<br/>As we stand in the liberty.</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus has proclaimed a year of release,<br/>Now we can walk in love, joy and peace,<br/>Our bondage to sin and death shall cease<br/>As we stand in the liberty.</lines>
+      <lines>Jesus has proclaimed the year of release;<br/>Now we can walk in love, joy and peace;<br/>The bondage of sin and death shall cease<br/>As we stand in the liberty.</lines>
     </verse>
     <verse name="v4">
-      <lines>Now we behold with an open face,<br/>The One who called us by His glory and grace,<br/>From glory to glory a change takes place<br/>As we stand in the liberty.</lines>
-    </verse>
-    <verse name="v5">
-      <lines>Why should I look with the natural eye<br/>Without beholding Him who is higher than I?<br/>With wings of an eagle He'll cause me to fly<br/>As I stand in the liberty.<br/></lines>
+      <lines>Now we behold with an open face;<br/>The One who's called us by His glory and grace;<br/>From glory to glory a change takes place<br/>As we stand in the liberty.</lines>
     </verse>
   </lyrics>
 </song>

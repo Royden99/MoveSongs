@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>All Hail The Lamb</title>
+    </titles>
+    <authors>
+      <author>Dave Bilborough</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All hail the Lamb, enthroned on high,<br/>His praise shall be our battle cry.<br/>He reigns victorious, forever glorious,<br/>His name is Jesus, He is the Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

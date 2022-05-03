@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>O, Will You Dance On This Side Of The Sea?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O, will you dance on this side of the sea?<br/>O will you dance before your eyes can see?<br/>Before your eyes can see, before the victory,<br/>Will you dance on this side of the sea?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O, yes, I'll dance on this side of the sea.<br/>O, yes, I'll dance before my eyes can see.<br/>Before my eyes can see, before the victory,<br/>Yes, I'll dance on this side of the sea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And if you'll dance on this side of the sea,<br/>And if you'll dance before your eyes can see,<br/>You'll find new faith in who I Am;<br/>I'll be the God who really can,<br/>And then you'll dance on both sides of the sea.</lines>
+    </verse>
+  </lyrics>
+</song>

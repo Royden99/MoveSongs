@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>My Life is in you</title>
+    </titles>
+    <authors>
+      <author>Daniel Gardner</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My life is in You, Lord,<br/>My strength is in You, Lord,<br/>My hope is in You, Lord, in You. (x2)<br/>I'll praise You with all of my life,<br/>I'll praise You with all of my strength;<br/>All of my life,<br/>All of my strength,<br/>All of my hope is in You.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>LET YOUR GLORY FILL THIS HOUSE</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let Your glory fill this house;<br/>Let Your presence fill this place.<br/>Let each vessel offer up to You<br/>The sacrifice of praise.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You alone are holy;<br/>And You alone are worthy;<br/>And You deserve the glory,<br/>For, Jesus, You are Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For You alone are holy;<br/>And You alone are worthy;<br/>And You deserve the glory,<br/>Jesus, You are Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

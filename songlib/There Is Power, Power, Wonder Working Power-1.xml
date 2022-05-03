@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There Is Power, Power, Wonder Working Power</title>
+    </titles>
+    <authors>
+      <author>Lewis E. Jones</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is power, power, wonder working power<br/>In the blood of the Lamb. <br/>There is power, power wonder working power<br/>In the precious blood of the Lamb.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Would you be free from the burden of sin?<br/>There's power in the blood, power in the blood.<br/>Would you o'er evil the victory win?<br/>There's wonderful power in the blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Would you be free from your passion and pride?<br/>There’s pow’r in the blood, power in the blood;<br/>Come for a cleansing to Calvary’s tide;<br/>There’s wonderful power in the blood.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Would you be whiter, much whiter than snow?<br/>There’s power in the blood, power in the blood;<br/>Sin-stains are lost in its life-giving flow;<br/>There’s wonderful power in the blood.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Would you do service for Jesus your King?<br/>There’s power in the blood, power in the blood;<br/>Would you live daily His praises to sing?<br/>There’s wonderful power in the blood.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Cleanse Thou my heart, oh God</title>
+    </titles>
+    <authors>
+      <author>Author</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cleanse Thou my heart, oh God<br/>For Thou alone art able<br/>To deliver me<br/>From all my despair,<br/>Save me for Thy great name's sake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Grace, grace, I cry to Thee,<br/>Grace, shout grace to the Lord.<br/>Save me for Thy mercy's sake,<br/>Encompass me, oh Holy One,<br/>With Thy songs of deliverance.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Make haste to deliver me,<br/>According to Thy word oh God,<br/>Purge away my sins,<br/>For Thy mercy is good,<br/>Be pleased oh Lord, to deliver me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teach Thou my heart to fear,<br/>For Thou alone art able<br/>To draw me near,<br/>To Thy throne of grace,<br/>To deliver me for Thy great name's sake.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

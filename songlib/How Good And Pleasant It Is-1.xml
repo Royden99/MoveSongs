@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>How Good And Pleasant It Is</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>How good and pleasant it is <br/>For brethren to dwell together in unity!<br/>It's like the anointing oil so rich and rare, <br/>This dwelling in unity.<br/>It's like the dew on Mt. Hermon <br/>Falling fresh on you and me. <br/>Oh, how good it is, <br/>How pleasant it is to dwell in unity.</lines>
+    </verse>
+  </lyrics>
+</song>

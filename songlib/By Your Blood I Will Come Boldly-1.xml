@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>By Your Blood I Will Come Boldly</title>
+    </titles>
+    <authors>
+      <author>Chris Christensen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>By Your blood I will come boldly. <br/>Run into Your presence, <br/>Bow in humble reverence before Your throne. <br/>For the blood of Christ has spoken;<br/>The power of sin's been broken; <br/>The gates of heaven are open, by Your blood.</lines>
+    </verse>
+  </lyrics>
+</song>

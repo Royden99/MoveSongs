@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Don't Give Up</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Don't give up, <br/>You're on the brink of a miracle.<br/>Don't give in, <br/>God is still on the throne.<br/>Don't give up, <br/>You're on the brink of a miracle.<br/>Don't give in, <br/>Remember you're not alone. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>No desmayes estamos al borde de un milagro<br/>Anímate, Dios todavía está es su trono<br/>No desmayes, estamos al borde de un milagro<br/>Anímate y recuerda que no estás solo.</lines>
+    </verse>
+  </lyrics>
+</song>

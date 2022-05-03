@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Lord I want to hear</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Lord I want to hear you say: well done<br/>Lord I'm dying to hear you say: well done<br/>When I've done my best, in thy bosom let me rest<br/>Lord I want to hear you say: well done<br/></lines>
+      <lines>Lord, I want to hear You say, "well done" (2)<br/>         When I've done my best<br/>         In Thy bosom let me rest<br/>         Lord, I want to hear You say, "well done."</lines>
     </verse>
   </lyrics>
 </song>

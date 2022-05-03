@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I delight to do thy will</title>
+    </titles>
+    <authors>
+      <author>Chris Austin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I delight to do Thy will,O God,<br/>I delight to do Thy will;<br/>In the volume of the book it is written of me:<br/>I delight to do Thy will.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I love righteousness<br/>And I hate iniquity x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I delight to do Thy will,O God,<br/>I delight to do Thy will;<br/>The oil of gladness is poured out on me,<br/>I delight to do Thy will.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

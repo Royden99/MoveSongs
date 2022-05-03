@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Don't you settle for the prison floor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Listen, brother, to the trumpet sound;<br/>We are free, we're no longer bound.<br/>When the Son has set you free<br/>Rise up and proclaim your liberty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Don't you settle for the prison floor,<br/>When the Lord has offered you so much more.<br/>Shed your shackles of sin and doubt,<br/>Let faith arise, walk on out.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When the enemy seeks to bind,<br/>Plays captivity on your mind,<br/>Telling you that you can't be free,<br/>And there's no such thing as jubilee.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

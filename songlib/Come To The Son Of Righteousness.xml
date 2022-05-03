@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come To The Son Of Righteousness</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to the Son of Righteousness, He has healing in His wings. (2x) <br/>He has healing in His wings. (2x) </lines>
+    </verse>
+    <verse name="v2">
+      <lines>He has healing in His wings. (2x) <br/>Come to the Son of righteousness, <br/>He has healing in His wings. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come to the Bread, the Bread of Life, <br/>And the hungry shall be filled. (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And the hungry shall be filled. (2x) <br/>Come to the Bread, the Bread of Life <br/>And the hungry shall be filled.</lines>
+    </verse>
+  </lyrics>
+</song>

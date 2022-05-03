@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>where the spirit of the lord is</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Where the Spirit of the Lord is, there is liberty. (2x) <br/>For the Lord is that Spirit <br/>That sets the captive free. <br/>Where the Spirit of the Lord is, there is liberty.</lines>
+    </verse>
+  </lyrics>
+</song>

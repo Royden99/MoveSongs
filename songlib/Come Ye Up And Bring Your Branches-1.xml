@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Ye Up And Bring Your Branches</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come ye up and bring your branches.<br/>Come ye up, bring your wine and oil.<br/>Rejoice before Him with songs and dances.<br/>Come and live in the feast of joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Since the trumpet has sounded clear,<br/>Come be cleansed from self and and sin.<br/>The celebration is drawing near.<br/>The King of glory shall come in.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From your cities, come every one,<br/>Up to Zion, the chosen place.<br/>With all the brethren to live as one,<br/>Seeing Jesus face to face. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh ven y sube, trae tus ramas<br/>Con tu aceite y vino ven <br/>Regocijémonos con canto y danza<br/>A la fiesta de gozo ven.<br/>Cada uno venga de la ciudad <br/>El lugar escogido es Sión<br/>Viviendo en uno con los hermanos <br/>Cara a cara a Cristo ver<br/>Suena trompeta, suena claro ya <br/>De ser limpio de sí mismo y pecado <br/>La celebración cercana está <br/>Y el Rey de gloria entrará</lines>
+    </verse>
+  </lyrics>
+</song>

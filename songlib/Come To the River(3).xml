@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come To the River</title>
+    </titles>
+    <authors>
+      <author>Lori</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to the River<br/>That never will run dry<br/>Come to the River<br/>Of an endless supply<br/>You will draw water from the Wells of Salvation<br/>Come to the River that never will run dry</lines>
+    </verse>
+  </lyrics>
+</song>

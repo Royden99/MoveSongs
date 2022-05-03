@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:56">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Here I am to Worship here i am to bow down</title>
@@ -10,19 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Light of the world,<br/>You stepped down into darkness<br/>Opened my eyes, let me see.<br/>Beauty that made this heart adore you.<br/>Hope of a life spent with you.</lines>
+      <lines>Light of the World, You stepped down into darkness.<br/>	Opened my eyes, let me see.<br/>Beauty that made this heart adore You,<br/>Hope of a life spent with You.</lines>
     </verse>
     <verse name="v2">
-      <lines>Here I am to worship,<br/>Here I am to bow down,<br/>Here I am to say that you're my God.</lines>
+      <lines>So, here I am to worship, here I am to bow down,<br/>Here I am to say that You're my God.<br/>And You're altogether lovely, altogether worthy,<br/>Altogether wonderful to me.</lines>
     </verse>
     <verse name="v3">
-      <lines>You're altogether lovely,<br/>Altogether worthy,<br/>Altogether wonderful to me.</lines>
+      <lines>King of all days, oh so highly exalted,<br/>Glorious in heaven above.<br/>Humbly You came to the Earth You created,<br/>All for love's sake became poor.</lines>
     </verse>
     <verse name="v4">
-      <lines>King of all days O so highly exalted,<br/>Glorious in heaven above.<br/>Humbly you came to the earth you created<br/>All for love's sake became poor.</lines>
-    </verse>
-    <verse name="v5">
-      <lines>I'll never know how much it cost <br/>To see my sin upon that cross.</lines>
+      <lines>And I'll never know how much it cost<br/>To see my sin upon that cross.</lines>
     </verse>
   </lyrics>
 </song>

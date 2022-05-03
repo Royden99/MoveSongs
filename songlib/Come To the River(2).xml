@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come To the River</title>
+    </titles>
+    <authors>
+      <author>Laurie Pettis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come to the river that never will run dry<br/>Come to the river of endless supply<br/>You will draw water from the wells of salvation<br/>Come to the river that never will run dry<br/></lines>
+    </verse>
+  </lyrics>
+</song>

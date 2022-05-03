@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:04">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Breathe Your breath of life in me</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O breathe Your breath of life in me.<br/>Take away the darkness that You see.<br/>Enter into the secret chambers of my soul.<br/>Lord, I want to be made whole.</lines>
+      <lines>breathe Your breath of life on me.<br/>Take away the darkness that You see.<br/>enter into the secret chambers of my soul.<br/>Lord, I want to be made whole.</lines>
     </verse>
   </lyrics>
 </song>

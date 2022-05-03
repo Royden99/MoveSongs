@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>We bring the sacrifice</title>
+    </titles>
+    <authors>
+      <author>Kirk Dearman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bring a sacrifice of praise<br/>Into the house of the Lord;<br/>We bring a sacrifice of praise<br/>Into the house of the Lord;<br/>And we offer unto You<br/>The sacrifices of thanksgiving;<br/>And we offer unto You<br/>The sacrifices of joy.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He's Alive</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's alive. He's alive.<br/>He has conquered death, we shall do the same.<br/>He's alive. He's alive, and He lives in you and me.</lines>
+    </verse>
+  </lyrics>
+</song>

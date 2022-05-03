@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>come let us worship and bow</title>
+    </titles>
+    <authors>
+      <author>Dave Doherty</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come let us worship and bow down<br/>Let us kneel before the Lord our God and maker<br/>Come let us worship and bow down<br/>Let us kneel before the Lord our God and maker</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For He is our God<br/>And we are the people of His pasture<br/>And the sheep of His hand<br/>Just the sheep of His hand</lines>
+    </verse>
+  </lyrics>
+</song>

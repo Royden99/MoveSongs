@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:57">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>HERE I AM WAITING</title>
@@ -10,16 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Here I am waiting; abide in me I pray.<br/>Here I am longing for you.<br/>Hide me in your love; bring me to my knees.<br/>May I know Jesus more and more.</lines>
+      <lines>Here I am waiting, abide in me I pray<br/>Here I am longing for you<br/>Hide me in Your love<br/>Bring me to my knees <br/>May I know Jesus more and more</lines>
     </verse>
     <verse name="v2">
-      <lines>Come live in me; all my life take over.<br/>Come breathe in me and I will rise <br/>On eagle's wings.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Aqui te espero, mora en mi Señor.<br/>Eres mi deseo, oh Dios.<br/>Refugio es tu amor,<br/>Hazme humillar.<br/>Deseo a Cristo mas y mas.</lines>
-    </verse>
-    <verse name="v4">
-      <lines>Ven, vive en mi,<br/>Toda mi vida es tuya.<br/>Ven, vive en mi,<br/>Me levantare como aguila.</lines>
+      <lines>Come live in me, all my life take over<br/>Come breathe in me,<br/> I will rise on Eagle's wings<br/>     (Repeat)</lines>
     </verse>
   </lyrics>
 </song>

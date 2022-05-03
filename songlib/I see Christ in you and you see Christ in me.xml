@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>I see Christ in you and you see Christ in me</title>
@@ -10,31 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I see Christ in you; and you see Christ in me. <br/>Praise the Lord, praise the Lord. (2x)</lines>
+      <lines>I see Christ in you and you see Christ in me<br/>Praise the Lord, praise the Lord.(2)<br/>This is life,all other things are death,<br/>Praise the Lord, praise the Lord.(2)</lines>
     </verse>
     <verse name="v2">
-      <lines>This is life; all other things are death.<br/>Praise the Lord, praise the Lord. (2x)</lines>
-    </verse>
-    <verse name="v3">
-      <lines>I will pray for you; and you will pray for me, etc. (2x)<br/>God will hear us by His Holy Ghost, etc. (2x)</lines>
-    </verse>
-    <verse name="v4">
-      <lines>I will live in you and you will live in me, etc. (2x)<br/>This is life, all other things are death, etc. (2x)</lines>
-    </verse>
-    <verse name="v5">
-      <lines>Perfection is my goal, my Jesus told me so, etc. (2x)<br/>Sons of God, lift your vision high, etc. (2x) </lines>
-    </verse>
-    <verse name="v6">
-      <lines>Yo veo a Cristo en ti<br/>Tu ves a Cristo en mi<br/>/Gloria a Dios/ (2) </lines>
-    </verse>
-    <verse name="v7">
-      <lines>Esto es vida y lo demás es muerte<br/>/Gloria a Dios/ (2)</lines>
-    </verse>
-    <verse name="v8">
-      <lines>Yo voy a orar por ti,<br/>Tu vas a orar por mí <br/>/Gloria a Dios/ (2)</lines>
-    </verse>
-    <verse name="v9">
-      <lines>Yo veo vida en ti…<br/>Yo veo un cambio en ti…<br/>Yo veo amor en ti…</lines>
+      <lines>I will pray for you and you will pray for me ... (2)<br/>God will hear us by His Holy Ghost ... (2)<br/>I will live in you and you will live in me ... (2)<br/>This is life, all other things are death ... (2)<br/>Perfection is my goal, my Jesus told me so...(2)<br/>Sons of God, lift your vision high ... (2)</lines>
     </verse>
   </lyrics>
 </song>

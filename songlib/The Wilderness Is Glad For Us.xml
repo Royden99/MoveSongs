@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Wilderness Is Glad For Us</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The wilderness is glad for us<br/>Hear the desert rejoice<br/>For the sounds of joy and singing we bring<br/>For we can see the glory<br/>The glory of the Lord<br/>In the wilderness waters are breaking out</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Strengthen the weak hands<br/>Confirm the feeble knees<br/>Say to them that are of a fearful heart “Be strong”<br/>For streams are flowing in the desert<br/>Streams are flowing in the desert<br/>And in the wilderness waters are breaking out!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now the eyes of the blind are opened<br/>And the ears of the deaf unstopped<br/>Now the lame men leap<br/>And the tongue of the dumb can sing<br/>And in a land so parched and thirsty<br/>Springs of water now abound<br/>For in the wilderness waters are breaking out.</lines>
+    </verse>
+  </lyrics>
+</song>

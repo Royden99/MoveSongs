@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Know ye not</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Know ye not, know ye not, ye are the temple (3)<br/>        Ye are the temple of the Holy Ghost.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Filled with power, filled with praise, filled with glory. (3)<br/>        Ye are the temple of the Holy Ghost.</lines>
+    </verse>
+  </lyrics>
+</song>

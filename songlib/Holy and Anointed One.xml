@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Holy and Anointed One</title>
+    </titles>
+    <authors>
+      <author>John Barnett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, Jesus <br/>Holy and anointed one, Jesus<br/>Jesus, Jesus <br/>Risen and exalted one, Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your name is like honey on my lips<br/>Your spirit like water to my soul<br/>Your word is a lamp unto my feet<br/>Jesus, I love You, I love You</lines>
+    </verse>
+  </lyrics>
+</song>

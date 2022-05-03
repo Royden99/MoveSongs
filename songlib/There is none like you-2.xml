@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>There is none like you</title>
+    </titles>
+    <authors>
+      <author>Lenny LeBlanc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is none like You;<br/>No one else can touch my heart like You do.<br/>I could search for all eternity long,<br/>And find, there is none like You.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>He who began a good work</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>He who began a good work in you,<br/>He who began a good work in you,<br/>He who began a good work in you<br/>Will be faithful to complete it,<br/>He will be faithful to complete it<br/>He who started the work<br/>Will be faithful to complete it in you.</lines>
+      <lines>He who began a good work in you,<br/>         He who began a good work in you,<br/>         He will be faithful to complete it,<br/>         He will be faithful to complete it,<br/> He who started the work<br/> Will be faithful to complete it in you.</lines>
     </verse>
     <verse name="v2">
-      <lines>If the struggle you're facing<br/>Is slowly replacing your hope with despair,<br/>Or the process is long<br/>And you're losing your song in the night;<br/>You can be sure that the Lord<br/>Has His hand on you,<br/>Safe and secure,<br/>He will never abandon you,<br/>You are His treasure<br/>And He finds His pleasure in you<br/></lines>
+      <lines>If the struggle you're facing is slowly replacing<br/>Your hope with despair.<br/>For the process is long and you're losing<br/>Your song in the night.<br/>For you can be sure that the Lord has His hand on you.<br/>Safe and secure, He will never abandon you;<br/>         You are His treasure and He has His pleasure in you.</lines>
     </verse>
   </lyrics>
 </song>

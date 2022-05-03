@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lord I am so Grateful - Dan R</title>
+    </titles>
+    <authors>
+      <author>Dan R</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord i am so grateful, grateful, grateful to thee<br/>For you have been faithful, faithful, faithful to me</lines>
+    </verse>
+  </lyrics>
+</song>

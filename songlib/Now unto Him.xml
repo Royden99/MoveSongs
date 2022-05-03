@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:46">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Now unto Him</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Now unto Him who is able to keep you from falling,<br/>And to present you faultless<br/>Before the presence<br/>Of His glory with exceeding joy,<br/>To the only wise God, our Saviour,<br/>Be glory and majesty, dominion and power,<br/>Now and ever, amen.<br/></lines>
+      <lines>Now unto Him that is able to keep you from falling<br/>	    And to present you faultless before the presence<br/>	    Of his glory with exceeding joy<br/>	    To the only wise God our Saviour<br/>	    Be glory and majesty, dominion and power<br/>	    Now and ever, amen.</lines>
     </verse>
   </lyrics>
 </song>

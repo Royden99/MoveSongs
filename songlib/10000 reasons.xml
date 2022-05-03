@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>10000 reasons</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bless the lord oh my soul, Oh my soul<br/>Worship his holy name<br/>Sing like never before, Oh my soul<br/>I worship your holy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sun comes up<br/>Its a new day dawning<br/>Its time to sing your song again<br/>What ever may pass and whatever lies before me<br/>Let me be singing when the evening comes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're rich in love and you're slow to anger<br/>Your name is great and your heart is kind<br/>For all your goodness I will keep on singing<br/>10,000 reasons for my heart to find</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And on that day when my strength is failing<br/>The end draws near and my time has come<br/>Soon my soul will sing your praise un-ending<br/>10,000 years and there forever more</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I will rejoice and wave my hands,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will rejoice and wave my hands,<br/>Giving the glory to my God;<br/>He has been merciful to me,<br/>I will proclaim His love forever,<br/>Proclaim His love forever.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In my life He has done wondrous things,<br/>In His love I've been born again,<br/>I will exalt His name forever and ever.  Amen!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

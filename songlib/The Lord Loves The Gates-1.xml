@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>The Lord Loves The Gates</title>
+    </titles>
+    <authors>
+      <author>Amanda Brown</author>
+      <author>Nannette Timothy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord love the gates of Zion.<br/>He dwells in her courts of praise,<br/>In them are stirring.<br/>The songs of deliverance.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Walk all around her,<br/>Go through her palaces.<br/>Inscribe what you see <br/>In the hearts of your children.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My lines are in pleasant places,<br/>Oh say to the Lord,<br/>My heritage is beautiful to me,<br/>Is beautiful to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glorious things are spoken.<br/>Oh city of our great King,<br/>God in his Temple<br/>Is known as a stronghold.</lines>
+    </verse>
+  </lyrics>
+</song>

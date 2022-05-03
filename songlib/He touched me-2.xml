@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He touched me</title>
+    </titles>
+    <authors>
+      <author>William Gaither</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He touched me, Oh, He touched me.<br/>And oh! The joy that floods my soul! <br/>Something happened and now I know. <br/>He touched me and made me whole.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me ha tocado.<br/>Oh si, me ha tocado.<br/>Y ahora se que es Salvador. <br/>Salva, sana y viene en mi. <br/>Me ha tocado, Cristo el Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

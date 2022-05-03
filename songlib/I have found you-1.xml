@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I have found you</title>
+    </titles>
+    <authors>
+      <author>Amy Wheeler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I have found You faithful, O Lord,<br/>Faithful unto me.<br/>I have found You faithful, O King,<br/>Complete this work, this work in me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My heart is fixed, O Lord, I will praise Thee,<br/>My mind is set, O Lord, to give Thee thanks.<br/>No matter how You deal, we see You faithful<br/>For we are holding fast to Thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thy lovingkindness, Lord, reached the heavens<br/>And now it reaches where we stand,<br/>And though You give and choose to take away<br/>We will not cease to bless Your name.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lead Me Lord</title>
+    </titles>
+    <authors>
+      <author>Samuel Sebastian Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead me, Lord,<br/>Lead me in Thy righteousness;<br/>Make Thy way plain before my face.<br/>For it is Thou, Lord,<br/>Thou, Lord, only,</lines>
+    </verse>
+  </lyrics>
+</song>

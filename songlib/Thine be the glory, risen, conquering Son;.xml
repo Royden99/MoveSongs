@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Thine be the glory, risen, conquering Son;</title>
+    </titles>
+    <authors>
+      <author>Edmund Budry</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Thine be the glory, risen, conquering Son;<br/>Endless is the victory, Thou o'er death hast won;<br/>Angels in bright raiment rolled the stone away,<br/>Kept the folded grave clothes where Thy body lay.<br/>Thine be the glory, risen conquering Son,<br/>Endless is the vict'ry, Thou o'er death hast won.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo! Jesus meets us, risen from the tomb;<br/>Lovingly He greets us, scatters fear and gloom;<br/>Let the Church with gladness, hymns of triumph sing;<br/>For her Lord now liveth, death hath lost its sting.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No more we doubt Thee, glorious Prince of life;<br/>Life is naught without Thee; aid us in our strife;<br/>Make us more than conquerors, through Thy deathless love:<br/>Bring us safe through Jordan to Thy home above.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

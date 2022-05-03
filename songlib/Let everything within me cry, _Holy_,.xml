@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Let everything within me cry, "Holy",</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let everything within me cry, "Holy",<br/>Let everything within me cry, "Holy,<br/>Holy, holy, holy is the Lamb that was slain".<br/></lines>
+    </verse>
+  </lyrics>
+</song>

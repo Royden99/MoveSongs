@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>JESUS ALL FOR JESUS</title>
+    </titles>
+    <authors>
+      <author>Robin Mark/Jennifer Atkinson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, all for Jesus,<br/>All I am and have and ever hope to be.<br/>Jesus, all for Jesus,<br/>All I am and have and ever hope to be.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All of my ambitions, hopes and plans<br/>I surrender these into Your hands.<br/>All of my ambitions, hopes and plans<br/>I surrender these into Your hands.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For it's only in Your will that I am free,<br/>For it's only in Your will that I am free,<br/>Jesus, all for Jesus,<br/>All I am and have and ever hope to be.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

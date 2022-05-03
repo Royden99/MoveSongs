@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:10">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>KEEP LORD BY THY POWER</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Keep, Lord, by Your power<br/>All who are called by Your Name;<br/>Keep, Lord, by Your power<br/>All who are called by Your Name.<br/>Fall upon them, Almighty God.<br/>Fall upon them with Your strength;<br/>Keep, Lord, by Your power<br/>All who are called by Your Name.<br/></lines>
+      <lines>Keep Lord, by Thy power<br/>All who are called by Thy name.<br/>Keep Lord, by Thy power<br/>All who are called by Thy name.<br/>Fall upon them O mighty God<br/>Fall upon them with Your strength<br/>Keep Lord, by Thy power<br/>All who are called by Thy name.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Therefore With Joy, Shall Ye Draw Water</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Therefore with joy, shall ye draw water<br/>Out of the well of salvation,<br/>And in that day shall ye say, Praise the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

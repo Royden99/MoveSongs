@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:03">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>There's a deep down cry, there's a cry in my heart</title>
@@ -10,22 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>There's a deep down cry; <br/>There's a cry in my heart, <br/>To be free from sin and death. (2x)</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Open my eyes to behold <br/>The things Your doing in the earth. <br/>Open my ears that I might hear<br/>Your voice so still. <br/>Open my eyes to behold <br/>The things You're doing in the earth. <br/>There's a deep down cry to be free. </lines>
-    </verse>
-    <verse name="v3">
-      <lines>To be free, to be free, <br/>There's a deep down cry to be free (2x).</lines>
-    </verse>
-    <verse name="v4">
-      <lines>Hay un profundo clamor, un clamor en mi ser, <br/>Por ser libre de la muerte y el mal. (2x) </lines>
-    </verse>
-    <verse name="v5">
-      <lines>Abre mis ojos para ver lo que haces Señor, <br/>Dame oidos para oir tu apacible voz. <br/>Abre mis ojos para ver lo que haces Señor. <br/>Hay un profundo clamor en mi ser; </lines>
-    </verse>
-    <verse name="v6">
-      <lines>Ser libre, por ser libre, <br/>Hay un profundo clamor en mi ser. (2x)</lines>
+      <lines>There's a deep down cry, there's a cry in my heart<br/>To be free from sin and death.  (2)<br/>Open my eyes to behold the things you're doing in the earth<br/>Open my ears that I might hear Your voice so still<br/>Open my eyes to behold the things You're doing in the earth<br/>There's a deep down cry to be free, <br/>To be free, to be free,  There's a deep down cry to be free.(2)</lines>
     </verse>
   </lyrics>
 </song>

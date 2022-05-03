@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:02">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Jesus i am thirsty</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jesus, I am thirsty,<br/>Won't You come and fill me?<br/>Earthly things have left me dry,<br/>Only You can satisfy,<br/>All I want is more of You.</lines>
+      <lines>Jesus, I am thirsty, won't you come and fill me<br/>earthly things have left me dry<br/>only you can Satisfy<br/>All i want is more of you</lines>
     </verse>
     <verse name="v2">
-      <lines>All I want is more of You,<br/>All I want is more of You,<br/>Nothing I desire, Lord,<br/>But more of You,<br/>More of You.<br/></lines>
+      <lines>All i want is more of you x2<br/>Nothing i desire Lord, but more you   (repeat)<br/>...More of you.</lines>
     </verse>
   </lyrics>
 </song>

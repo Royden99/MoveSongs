@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glory and Honor</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory and honour are in His presence,<br/>Strength and gladness are in this place;<br/>Come and worship before the Lord<br/>In the beauty of holiness.<br/>Let the seas roar, let the fields rejoice,<br/>Let the trees of the woods sing out,<br/>Let the heavens be glad, let the earth rejoice,<br/>Let the men of all nations shout:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Lord reigns! The Lord reigns! The Lord reigns!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

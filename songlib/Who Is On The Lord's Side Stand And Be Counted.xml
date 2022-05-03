@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:52">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Who Is On The Lord's Side Stand And Be Counted</title>
@@ -10,10 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Who is on the Lord's side,<br/>Stand and be counted.<br/>Who is on the Lord's side,<br/>Walk with me! <br/>Who is on the Lord's side,<br/>Stand and be counted, for eternity.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>As for me and my house, we shall serve Him, <br/>As for me and my house we shall stand. <br/>Who is on the Lord's side stand and be counted, <br/>For the promised land!</lines>
+      <lines>Who is on the Lord's side, stand and be counted,<br/>Who is on the Lord's side, walk with me,<br/>Who is on the Lord's side, stand and be counted<br/>For eternity.<br/>As for me and my house, we will serve Him,<br/>As for me and my house, we will stand,<br/>Who is on the Lord's side, stand and be counted<br/>For the promised land.<br/></lines>
     </verse>
   </lyrics>
 </song>

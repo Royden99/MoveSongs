@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Take me into the holy of holies</title>
+    </titles>
+    <authors>
+      <author>Dave Browning © 1987 Dayspring Music Inc</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Take me past the outer courts,<br/>And through the Holy Place,<br/>Past the brazen altar,<br/>Lord, I want to see Your face.<br/>Pass me by the crowds of people,<br/>And the priests who sing Your praise.<br/>I hunger and thirst for Your righteousness,<br/>But it's only found one place.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take me in to the Holy of Holies.<br/>Take me in by the blood of the Lamb.<br/>Take me in to the Holy of Holies;<br/>Take the coal, touch my lips,<br/>Hear I am.</lines>
+    </verse>
+  </lyrics>
+</song>

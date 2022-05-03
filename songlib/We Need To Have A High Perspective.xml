@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:36">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>We Need To Have A High Perspective</title>
@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>We need to have a high perspective<br/>Of the life we life,<br/>Getting our heads up out of the sand;<br/>Living each day as the Father above<br/>Has planned for us,<br/>And rising above on eagle's wings.</lines>
+      <lines>Living each day in the palm of the Master's hand,<br/>Letting the Holy Spirit guide us in His way.<br/>Looking at each situation with God's divine insight,<br/>And rising above on eagles' wings.</lines>
     </verse>
     <verse name="v2">
-      <lines>We need to rise on eagle's wings;<br/>Soaring over the earth in the heavenlies.<br/>We need to rise on eagle's wings,<br/>Getting the Father's perspective on life and things.</lines>
+      <lines>We need to rise on eagles' wings<br/>Soaring over the earth in the heavenlies.<br/>We need to rise on eagles' wings<br/>Getting the Father's perspective on life and things.</lines>
     </verse>
     <verse name="v3">
-      <lines>Living each day in the palm of the Father's hand,<br/>Letting the Holy Spirit guide us in His ways.<br/>Looking at each situation with God's divine insight,<br/>And rising above on eagle's wings.</lines>
+      <lines>We need to have a high perspective of the life we live,<br/>Getting our heads up out of the sand.<br/>Living each day as the Father above has planned for us,<br/>And rising above on eagles' wings.<br/></lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:55">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Heart of worship</title>
@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>When the music fades,<br/>All is stripped away,<br/>And I simply come;<br/>Longing just to bring<br/>Something that's of worth<br/>That will bless Your heart.</lines>
+      <lines>When the music fades, and all is stripped away and I simply come<br/>Longing just to bring, something that's of worth<br/>That will bless Your heart</lines>
     </verse>
     <verse name="v2">
-      <lines>I'll bring You more than a song,<br/>For a song in itself<br/>Is not what You have required.<br/>You search much deeper within<br/>Through the way things appear;<br/>You're looking into my heart.</lines>
+      <lines>I'll bring you more than a song, for a song in itself<br/>     Is not what You have required<br/>    You search much deeper within, through the way things appear<br/>    You're looking into my heart…</lines>
     </verse>
     <verse name="v3">
-      <lines>I'm coming back to the heart of worship,<br/>And it's all about You,<br/>All about You, Jesus.<br/>I'm sorry, Lord, for the thing I've made it,<br/>When it's all about You,<br/>All about You, Jesus.</lines>
+      <lines>I'm coming back to the heart of worship<br/>	And it's all about You, it's all about You, Jesus<br/>   	I'm sorry Lord for the things I've made it<br/>	When it's all about You , it's all about You, Jesus</lines>
     </verse>
     <verse name="v4">
-      <lines>King of endless worth,<br/>No one could express<br/>How much You deserve.<br/>Though I'm weak and poor,<br/>All I have is Yours,<br/>Ev'ry single breath.<br/></lines>
+      <lines>King of endless worth, no once could express<br/>How much you deserve.  Though I'm weak and poor<br/>And all I have is yours, every single breath</lines>
     </verse>
   </lyrics>
 </song>

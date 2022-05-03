@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come, Let us Sing - Simeon</title>
+    </titles>
+    <authors>
+      <author>Simeon</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come let us sing unto the Lord<br/>let us make a joyful noise to the rock of our salvation<br/>come let us sing unto the Lord<br/>Let us come before his presence with thanksgiving in our hearts</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the Lord is a great God<br/>and a great king over all gods<br/>in his hands are the land and the sea<br/>for the lord is a great god <br/>and a great king over allgods<br/>in the beauty of his sanctuary <br/>we know his strength and majesty<br/>for the lord he is a great god</lines>
+    </verse>
+  </lyrics>
+</song>

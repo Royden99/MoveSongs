@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:57:46">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>When I look into your holiness</title>
@@ -10,13 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>When I look into Your holiness<br/>When I gaze into Your loveliness<br/>When all things that surround<br/>Become shadows in the light of You ...</lines>
+      <lines>When I look into Your holiness, when I gaze into Your loveliness,<br/>	 When all things that surround me,<br/>           Become shadows in the light of You,<br/>	When I find the joy of reaching Your heart , <br/>           And my will becomes enthroned in Your love, <br/>           And the things that surround me, <br/>           Become shadows in the light of You,</lines>
     </verse>
     <verse name="v2">
-      <lines>I worship You, I worship You.<br/>The reason I live is to worship You.<br/>I worship You, I worship You.<br/>The reason I live is to worship You.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>When I've found the joy of reaching Your heart<br/>When my will becomes enthralled in Your love<br/>When all things that surround<br/>Become shadows in the light of You ...<br/></lines>
+      <lines>I worship You, I worship You. <br/>The reason I live is to worship You.<br/>I worship You, I worship You. <br/>The reason I live is to worship You.</lines>
     </verse>
   </lyrics>
 </song>

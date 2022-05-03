@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-02-20T18:18:49">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>FAther we love You</title>
@@ -9,17 +9,8 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1a">
-      <lines>Father, we love You, we worship and adore You,<br/>Glorify Your name in all the earth.<br/>Glorify Your name, glorify Your name,<br/>Glorify Your name in all the earth.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Jesus, we love you...</lines>
-    </verse>
-    <verse name="v3">
-      <lines>Spirit, we love you...<br/></lines>
-    </verse>
-    <verse name="v1b">
-      <lines>Padre te amo, te adoro y te alabo.<br/>En Tu nombre glorificate.<br/><br/>Glorificate, glorificate.<br/>En Tu nombre glorificate.<br/></lines>
+    <verse name="v1">
+      <lines>Father we love You,<br/>We worship and adore You.<br/>Glorify Thy name in all the earth.<br/>Glorify Thy name, glorify Thy name.<br/>Glorify Thy name in all the earth.<br/> (Substitute Jesus and Spirit for Father.)</lines>
     </verse>
   </lyrics>
 </song>

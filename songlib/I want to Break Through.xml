@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-02-20T22:09:34">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
-      <title>I Want to Break Through</title>
+      <title>I want to Break Through</title>
     </titles>
     <authors>
       <author>Dan Ricciardelli</author>
@@ -10,25 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>You opened the gate to a brand new life <br/>When I came to the altar.<br/>You opened the door and Your Spirit<br/>Filled me through and through. <br/>But now my heart still longs for something deeper, <br/>And I can see light, <br/>Through a veil that You have torn in two.</lines>
+      <lines>You opened the gate to a brand new  life<br/>	When I came to the altar.<br/>	You opened the door and Your Spirit,<br/>	Filled me through and through.<br/>	But now my heart still longs for something deeper.<br/>	And I can see light<br/>	Through a veil that You have torn in two.</lines>
     </verse>
     <verse name="v2">
-      <lines>I want to break through, I want to break through, <br/>To know as I'm known,<br/>To know You alone; I want to break through. <br/>To where no sin may stand in the way, <br/>Let me enter in with boldness I pray: <br/>Oh show me Thy glory, show me thy way, <br/>I want to break through.</lines>
-    </verse>
-    <verse name="v5">
-      <lines>Abriste la puerta a neuva vida cuando vine a tu altar,<br/>Y tu Santo Espiritu me ha llenado más y más.<br/>Mas hoy, anhelo algo más profundo,<br/>A través del velo roto puedo ver Tu luz.</lines>
-    </verse>
-    <verse name="v6">
-      <lines>Yo quiero vencer, yo quiero vencer.<br/>Para conocerte sólo a Ti, yo quiero vencer.<br/>No quiero que haya pecado en mí;<br/>Deseo entrar confiado en Ti.<br/>Muestra Tu gloria, es mí oracíon.<br/>Yo quiero vencer.</lines>
-    </verse>
-    <verse name="v7">
-      <lines>(Alternativa)</lines>
-    </verse>
-    <verse name="v8">
-      <lines>La puerta abriste a una vida nueva<br/>Cuando vine a tu altar<br/>La puerta abriste y tu Espíritu Santo me llenó<br/>Pero algo más profundo desea mi alma <br/>Puedo ver luz a través del velo que ha roto en dos.</lines>
-    </verse>
-    <verse name="v9">
-      <lines>Yo quiero entrar, yo quiero entrar<br/>Para verte  a ti, como me ves a mí<br/>Yo quiero entrar,<br/>Donde confiado yo pueda estar <br/>Que no haya pecado que me impida <br/>Donde vea tu gloria, tu gracia alcanzar<br/>Yo quiero entrar.</lines>
+      <lines>I want to break through. <br/>I want to break through, <br/>To know as I'm known to know You alone.<br/> I want to break through, <br/>To where no sin can stand in the way. <br/>Let me enter in with boldness I pray. <br/>O show me Thy glory, show me Thy way.<br/> I want to break through.</lines>
     </verse>
   </lyrics>
 </song>

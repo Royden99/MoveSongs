@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Lead On O King Eternal</title>
+    </titles>
+    <authors>
+      <author>Ernest W. Shurtleff Henry Smart</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lead on, O King eternal,<br/>the day of march has come;<br/>henceforth in fields of conquest<br/>your tents will be our home.<br/>Through days of preparation<br/>your grace has made us strong;<br/>and now, O King eternal,<br/>we lift our battle song.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lead on, O King eternal,<br/>till sin's fierce war shall cease,<br/>and holiness shall whisper<br/>the sweet amen of peace.<br/>For not with swords' loud clashing<br/>or roll of stirring drums<br/>with deeds of love and mercy<br/>the heavenly kingdom comes.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lead on, O King eternal;<br/>we follow, not with fears,<br/>for gladness breaks like morning<br/>where'er your face appears.<br/>Your cross is lifted o'er us,<br/>we journey in its light;<br/>the crown awaits the conquest;<br/>lead on, O God of might.</lines>
+    </verse>
+  </lyrics>
+</song>

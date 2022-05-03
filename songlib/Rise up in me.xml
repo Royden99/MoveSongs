@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:14">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Rise up in me</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Rise up in me, O Son of God, <br/>Make my countenance to shine. <br/>As the dawning breaks the night sky,<br/>Rise up in me, rise up in me, <br/>Make me to be like Thee, a son.</lines>
+      <lines>Rise up in me, 0 Son of God;<br/>  Make my countenance to shine.<br/>  As the dawning breaks the night sky.<br/>  Rise up in me, rise up in me;<br/>  Make me to be like Thee, a son</lines>
     </verse>
   </lyrics>
 </song>

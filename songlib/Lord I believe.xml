@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:25">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Lord I believe</title>
@@ -10,22 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Lord, I believe; help my unbelief.<br/>Lord, I receive; help my eyes to see<br/>That You have power over death and darkness,<br/>That You have power over death and darkness.<br/>Lord, I believe.</lines>
+      <lines>Lord, I believe, help my unbelief.<br/>	Lord, I receive, help my eyes to see.<br/>	That You have power over death and darkness.<br/>	That You have power over death and darkness.<br/>	Lord, I believe.</lines>
     </verse>
     <verse name="v2">
-      <lines>The faithless will be true, and the blind shall see.<br/>The dumb shall speak to You, and their song shall say<br/>That You have power over death and darkness,<br/>That You have power over death and darkness.<br/>Lord, I believe.</lines>
+      <lines>The faithless will be true, and the blind shall see.<br/> The dumb shall speak to You, and their song shall say <br/>That You have power over death and darkness<br/>That You have power over death and darkness.<br/>Lord I believe.</lines>
     </verse>
     <verse name="v3">
-      <lines>The bitter will be sweet, and the lame shall walk.<br/>The hardened heart will bow, and the deaf shall hear<br/>That You have power over death and darkness,<br/>That You have power over death and darkness.<br/>Lord, I believe.</lines>
-    </verse>
-    <verse name="v4">
-      <lines>Señor, creo en Ti. Ayúdame a creer<br/>Señor, necesito de Ti. Has mis ojos ver.<br/>Tienes poder sobre la muerte.<br/>Tienes poder sobre las tinieblas.<br/>Señor, creo en Ti.</lines>
-    </verse>
-    <verse name="v5">
-      <lines>El desleal será leal, y el ciego verá.<br/>El mudo cantará, y clamará:<br/>Tienes poder sobre la muerte.<br/>Tienes poder sobre las tinieblas.<br/>Señor, creo en Ti.</lines>
-    </verse>
-    <verse name="v6">
-      <lines>Lo amargo cambiará, el cojo saltará.<br/>El orgullo se romperá, y el sordo oirá:<br/>Tienes poder sobre la muerte.<br/>Tienes poder sobre las tinieblas.<br/>Señor, creo en Ti.</lines>
+      <lines>The bitter will be clean.  And the lame shall walk.<br/>The hardened heart will bow<br/>And the deaf will hear <br/>That You have power over death and darkness.<br/>That You have power over death and darkness.<br/> Lord I believe.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Faithful is He who has started a good work in me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Faithful is He who has started a good work in me<br/>Every promise He will keep<br/>Every work He will complete<br/>Faithful is He<br/>Faithful is He<br/></lines>
+    </verse>
+  </lyrics>
+</song>

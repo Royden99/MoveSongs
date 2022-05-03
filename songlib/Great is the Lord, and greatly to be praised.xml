@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Great is the Lord, and greatly to be praised</title>
@@ -10,13 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Great is the Lord and greatly to be praised. <br/>In the city of our God, <br/>In the mountain of His Holiness. <br/>Beautiful for situation, joy of the whole earth.<br/>Is Mount Zion, on the sides of the north, <br/>The city of the great King.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Grande es Jehova y digno de ser alabado. <br/>En la ciudad de nuestro Dios, en su monte santo. </lines>
-    </verse>
-    <verse name="v3">
-      <lines> Hermosa provincia, el gozo de toda la tierra.</lines>
+      <lines>Great is the Lord, and greatly to be praised<br/>   In the city of our God <br/>  In the mountain of His Holiness<br/>  Beautiful for situation, joy of the whole earth<br/>  Is Mount Zion, on the sides of the north <br/>  The city of the great King.</lines>
     </verse>
   </lyrics>
 </song>

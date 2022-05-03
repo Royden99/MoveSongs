@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:56:45">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>The greatest thing in all my life</title>
@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>The greatest thing in all my life<br/>Is knowing You.<br/>The greatest thing in all my life<br/>Is knowing You.<br/>I want to know You, Lord.<br/>I want to know You, Lord.<br/>The greatest thing in all my life<br/>Is knowing You.<br/>(Substitute loving and praising for knowing.)</lines>
+      <lines>The greatest thing in all my life<br/>Is knowing You.<br/>            Repeat<br/>I want to know You, Lord.<br/>           Repeat<br/>The greatest thing in all my life<br/>Is knowing You.<br/>           (Substitute loving and praising for knowing)</lines>
     </verse>
   </lyrics>
 </song>

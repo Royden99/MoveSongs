@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Hide Me In your holiness</title>
+    </titles>
+    <authors>
+      <author>Steve Ragsdale</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hide me, Lord, in Your holiness,<br/>Every sin I now confess;<br/>Praise to Thee, forgiving Lord,<br/>Hide me in Your holiness,<br/>Hide me in Your holiness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hide me, hide me, hide me, Lord,<br/>Won't You hide me, hide me,<br/>Hide me in Your holiness,<br/>Hide me in Your holiness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take my life an offering,<br/>All of me to You I bring;<br/>Praise to Thee, O spotless Lamb,<br/>Hide me in Your holiness,<br/>Hide me in Your holiness.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

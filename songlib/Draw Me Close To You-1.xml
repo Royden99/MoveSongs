@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:19">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Draw Me Close To You</title>
@@ -10,10 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><br/>Draw me close to You; Never let me go.<br/>I lay it all down again<br/>To hear You say that I'm Your friend.<br/>You are my desire; no one else will do.<br/>'Cause nothing else can take Your place<br/>To feel the warmth of Your embrace.<br/>Help me find a way; bring me back to You.</lines>
+      <lines>Draw me close to You,<br/>Never let me go.<br/>I lay it all down again,<br/>To hear You say that I'm Your friend.</lines>
     </verse>
     <verse name="v2">
-      <lines>You're all I want.<br/>You're all I've ever needed.<br/>You're all I want.<br/>Help me know You are near.</lines>
+      <lines>You are my desire,<br/>No one else will do,<br/>'Cause nothing else could take Your place,<br/>To feel the warmth of Your embrace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Help me find the way,<br/>Bring me back to You.<br/>You're all I want,<br/>You're all I've ever needed.<br/>You're all I want,<br/>Help me know You are near.<br/></lines>
     </verse>
   </lyrics>
 </song>

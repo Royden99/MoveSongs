@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Then sings my soul, my Saviour God, to Thee,</title>
+    </titles>
+    <authors>
+      <author>Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Then sings my soul, my Saviour God, to Thee,<br/>How great Thou art! How great Thou art!<br/>Then sings my soul, my Saviour God, to Thee,<br/>How great Thou art! How great Thou art!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

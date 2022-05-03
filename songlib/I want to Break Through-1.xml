@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I want to Break Through</title>
+    </titles>
+    <authors>
+      <author>Dan Ricciardelli</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You opened the gate to a brand new life<br/>When I came to the altar;<br/>You opened the door<br/>And Your Spirit filled me through and through;<br/>But now my heart still longs for something deeper,<br/>And I can see light through a veil<br/>That You have torn in two.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I want to break through,<br/>I want to break through;<br/>To know as I'm known, to know You alone,<br/>I want to break through.<br/>To where no sin may stand in the way,<br/>Let me enter in with boldness, I pray,<br/>Show me Thy glory, show me Thy way,<br/>I want to break through.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

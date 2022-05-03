@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>At the cross, at the cross,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>At the cross, at the cross,<br/>Where I first saw the light,<br/>And the burden of my heart rolled away,<br/>It was there by faith<br/>I received my sight,<br/>And now I am happy all the day.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

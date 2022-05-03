@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>John saw the multitude of the overcomers</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>John saw the multitude of the overcomers<br/>All of them were worshiping the Lord<br/>Some of them were singing<br/>Some of them were shouting<br/>But all of them were worshiping the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh praise the Lord (x2)<br/>Singing glory, hallelujah, praise the Lord<br/>Hallelujah (x5), praise the Lord<br/>Hallelujah (x5), praise the Lord<br/></lines>
+    </verse>
+  </lyrics>
+</song>

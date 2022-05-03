@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Behold, bless ye the Lord,</title>
+    </titles>
+    <authors>
+      <author>Uknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold, bless ye the Lord,<br/>All ye servants of the Lord,<br/>Which by night stand<br/>In the house of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lift up your hands in the sanctuary,<br/>And bless the Lord.<br/>The Lord that made heaven and earth,<br/>Bless thee out of Zion.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

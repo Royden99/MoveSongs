@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Surely Goodness And Mercy Shall Follow Me</title>
+    </titles>
+    <authors>
+      <author>John Peterson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Surely goodness and mercy shall follow me<br/>All the days, all the days of my life. (2x)<br/>And I shall dwell in the house of the Lord forever<br/>And I shall feast at the table prepared for me<br/>Surely goodness and mercy shall follow me<br/>All the days, all the days of my life.</lines>
+    </verse>
+  </lyrics>
+</song>

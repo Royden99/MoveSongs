@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Will Rejoice In You And Be Glad</title>
+    </titles>
+    <authors>
+      <author>Chorus by Shirley Powell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I will rejoice in You and be glad. <br/>I will extol Your love more than wine. <br/>Draw me unto Thee and let us run together.<br/>I will rejoice in You and be glad. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>More than when the corn and the new wine abound. <br/>Thou hast put gladness in my heart. (Repeat.) </lines>
+    </verse>
+    <verse name="v3">
+      <lines>So lift up the light of Thy countenance upon us, O Lord.<br/>Lift up the light of Thy countenance upon us, O Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

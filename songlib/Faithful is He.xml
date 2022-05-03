@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:53:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Faithful is He</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Faithful is He<br/>Who has started His good work in me.<br/>Every promise He will keep.<br/>Every work He will complete.<br/>Faithful is He.<br/>Faithful is He.</lines>
+      <lines>Faithful is He, <br/>Who has started his good work <br/>in me,  <br/>every promise He will keep, <br/>every work He will complete, <br/>Faithful is He, Faithful is He.</lines>
     </verse>
     <verse name="v2">
-      <lines>Time after time, we falter,<br/>And time after time, God is there,<br/>Sharing His grace sufficient that we<br/>Over sin might prevail.<br/>And I wonder that He loves us<br/>And still delights in treasures encased<br/>In vessels of clay,<br/>Demonstrating God's unfailing faithfulness.</lines>
+      <lines>Time after time we falter <br/>and time after time <br/>God is there for us, <br/>Sharing His grace sufficient <br/>that we over sin might prevail, <br/>and I wonder that He loves us <br/>and still delights <br/>in treasure encased <br/>in vessels of clay. <br/>Demonstrating God's unfailing faithfulness.</lines>
     </verse>
   </lyrics>
 </song>

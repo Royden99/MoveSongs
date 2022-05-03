@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:55:33">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>Magnify the Lord</title>
@@ -10,10 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Magnify the Lord, sing His praises,<br/>Magnify the Lord, sing His praises;<br/>For He has done great things, we are glad;<br/>We rejoice in You, our God.</lines>
+      <lines>Magnify the Lord, Sing His Praises  (2x)</lines>
     </verse>
     <verse name="v2">
-      <lines>Magnify the Lord, sing His praises,<br/>Magnify the Lord, sing His praises;<br/>For He has brought us forth with His right arm<br/>And He shall lead us on.<br/></lines>
+      <lines>1)	He has done great things, <br/>We are Glad<br/>We Rejoice in you Our God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2)	He has brought us forth, <br/>With His Right Arm<br/>And He will Lead Us On.</lines>
     </verse>
   </lyrics>
 </song>

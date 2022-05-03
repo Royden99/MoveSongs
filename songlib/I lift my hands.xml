@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2021-01-09T02:54:21">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
       <title>I lift my hands</title>
@@ -10,10 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I lift my hands to the coming King,<br/>To the great I AM, to You I sing,<br/>For You're the One Who reigns within my heart. (x2)</lines>
-    </verse>
-    <verse name="v2">
-      <lines>And I will serve no foreign gods,<br/>Nor any other treasure;<br/>You are my heart's desire,<br/>Your Spirit without measure;<br/>And to Your name I will bring my sacrifice.<br/></lines>
+      <lines>I  lift my hands to the coming King;<br/>To the great  I Am  to You I sing.<br/>For You're the One that reigns within my heart.<br/>And I will serve no foreign god nor any other treasure.<br/>You are my heart's desire, Your Spirit without  measure.<br/>And to Your Name I will bring my sacrifice.</lines>
     </verse>
   </lyrics>
 </song>

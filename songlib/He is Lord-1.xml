@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>He is Lord</title>
+    </titles>
+    <authors>
+      <author>Marvin Frey</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is Lord, He is Lord;<br/>He is risen from the dead and He is Lord;<br/>Every knee shall bow, every tongue confess,<br/>That Jesus Christ is Lord.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

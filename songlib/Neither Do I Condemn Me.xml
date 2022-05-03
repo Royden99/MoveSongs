@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Neither Do I Condemn Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neither do I condemn thee, precious words divine, <br/>            From the lips of mercy, like the sweetest chime<br/>            Wonderful words of Jesus, sing them o'er and o'er <br/>            Neither do I condemn Thee, go and sin no more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By a crowd of worshippers sorry for their sins <br/>            Came a lowly stranger, rudely brought in  <br/>            Scribes  came and Pharisees anxious to see <br/>            What that meek Nazarene's verdict  would be.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>They told of her wanderings marking each flaw <br/>            Spoke of her punishment, quoting the law <br/>            Writing upon the ground, sadly and slow <br/>            Spoke He unheedingly, head bended low.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Still cried the Pharisees, Pray, master pray <br/>            What shall we do with her, what dost thou say <br/>            Then said He rebuking them let the first throw<br/>            Come from the sinless hand, he that sins no more.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Cheeks blushing with the shame, turning about <br/>            And from His presence walked slowly out <br/>           Then they saw Him standing there, head bended low <br/>            He whom the world despised bade her sin no more.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Spoke He most tenderly, Pray, woman pray<br/>            Hast thou no accusers? Nay, master nay<br/>            Neither do I condemn thee, soul sick and sore <br/>            Go forth I have pardoned thee, go and sin no more.</lines>
+    </verse>
+  </lyrics>
+</song>

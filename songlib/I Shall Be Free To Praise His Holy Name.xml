@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>I Shall Be Free To Praise His Holy Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I shall be free to praise His holy name.<br/>I shall be free, to walk in His pure love.<br/>I shall be free, to do His perfect will.<br/>I shall be free, so you can be free.</lines>
+    </verse>
+  </lyrics>
+</song>
