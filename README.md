@@ -49,7 +49,7 @@ To contribute any changes made using some other program than OpenLP, the process
 
 Instead of sending your files back to me in an email, you could instead use Git or the tools provided by GitHub if you know how.  Fork this project, make your changes, and submit a pull request.
 
-### Sharing an OpenLP database with DrobBox
+### Sharing an OpenLP database with DropBox
 OpenLP has the ability to store its database anywhere you like on your computer.  To learn how to do that, refer to the manual [here](https://manual.openlp.org/configure.html#advanced).  If you store it in a DropBox folder, it can be shared with other people or other devices.  On another computer, then, someone else can use OpenLP to use and modify the exact same database.  Any changes that one person makes are synced with everyone else that uses the shared DropBox folder, as long as everyone has an internet connection.
 This is a quick way to collaborate among a few people, or to access the songs from more than one church computer, perhaps.
 This method may have a few drawbacks if used on a large scale; for example, all the people using the shared folder have to share the same Themes and Bibles in OpenLP as well as the songs.
