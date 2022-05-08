@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Glorify Your Name</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus we love you<br/>We worship and adore you<br/><br/>Glorify Your Name<br/>Glorify Your Name<br/>Glorify Your Name<br/>In all the earth</lines>
+    </verse>
+  </lyrics>
+</song>

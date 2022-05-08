@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Tremble</title>
+    </titles>
+    <authors>
+      <author>Mosaic</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Peace, bring it all to peace<br/>The storm surrounding me<br/>Let it break at Your name</lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>Still, call the sea to still<br/>The rage in me to still<br/>Every wave at Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>[Chorus]<br/>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus, You silence fear<br/>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Breathe, call these bones to live<br/>Call these lungs to sing<br/>Once again, I will praise</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>[Chorus]<br/>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus, You silence fear<br/>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus<br/>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus, You silence fear<br/>Jesus, Jesus, You make the darkness tremble<br/>Jesus, Jesus</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Your name is a light that the shadows can’t deny<br/>Your name cannot be overcome    <br/>Your name is alive forever lifted high<br/>Your name cannot be overcome</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Yours is the kingdom<br/>Yours is the power<br/>Yours is the glory <br/>Forever your name shall reign</lines>
+    </verse>
+  </lyrics>
+</song>

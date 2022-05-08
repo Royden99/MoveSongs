@@ -2,18 +2,15 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
-      <title>Jesus Is Singing</title>
+      <title>Jesus is singing</title>
     </titles>
     <authors>
-      <author>Dan Ricciardelli</author>
+      <author>Author Unknown</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jesus is singing, Jesus is singing;<br/>In the midst of the Church, He's singing for joy;<br/>Jesus is singing when we are singing<br/>So let us together lift our voice.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Praise ye the Lord, for it is good,<br/>Good to sing praises unto our God,<br/>He healeth the broken in heart<br/>And binds up their wounds;<br/>He telleth the number of the stars,<br/>He calleth them all by their names.<br/>The Lord lifteth up the meek,<br/>Praise ye the Lord!</lines>
+      <lines>1Jesus is singing, Jesus is singing.<br/> In the midst of the church<br/> He's singing for joy.<br/> Jesus is singing while we are singing<br/> So let us together lift our voice</lines>
     </verse>
   </lyrics>
 </song>

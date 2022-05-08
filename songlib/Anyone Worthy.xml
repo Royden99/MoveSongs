@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anyone Worthy</title>
+    </titles>
+    <authors>
+      <author>Andrew Paterson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do you feel the world is broken? (We do)<br/>Do you feel the shadows deepen? (We do)<br/>But do you know that all the dark won't stop the light from getting through? (We do)<br/>Do you wish that you could see it all made new? (We do)<br/><br/>Is all creation groaning? (It is)<br/>Is a new creation coming? (It is)<br/>Is the glory of the Lord to be the light within our midst? (It is)<br/>Is it good that we remind ourselves of this? (It is)</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Is anyone worthy? Is anyone whole?<br/>Is anyone able to break the seal and open the scroll?<br/>The Lion of Judah who conquered the grave<br/>He is David's root and the Lamb who died to ransom the slave<br/><br/>Is He worthy? Is He worthy<br/>Of all blessing and honor and glory?<br/>Is He worthy of this?<br/>He is</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Does the Father truly love us? (He does)<br/>Does the Spirit move among us? (He does)<br/>And does Jesus, our Messiah, hold forever those He loves? (He does)<br/>Does our God intend to dwell again with us? (He does)<br/><br/>Is anyone worthy? Is anyone whole?<br/>Is anyone able to break the seal and open the scroll?<br/>The Lion of Judah who conquered the grave<br/>He is David's root and the Lamb who died to ransom the slave</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>From every people and tribe (People and tribe)<br/>Every nation and tongue (Every nation and tongue)<br/>He has made us a kingdom and priests to God<br/>To reign with the Son</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>Is He worthy? Is He worthy<br/>Of all blessing and honor and glory?<br/>Is He worthy? Is He worthy?<br/>Is He worthy of this?<br/><br/>He is, He is<br/>Is He worthy? Is He worthy?<br/>He is, He is<br/>He is worthy, He is worthy<br/>He is</lines>
+    </verse>
+  </lyrics>
+</song>

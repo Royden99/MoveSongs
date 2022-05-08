@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hosanna! Hosanna! Hosanna in the highest. <br/>Hosanna! Hosanna! Hosanna in the highest. </lines>
+      <lines>Hosanna! Hosanna! Hosanna in the highest. <br/>           Hosanna! Hosanna! Hosanna in the highest.</lines>
     </verse>
     <verse name="v2">
-      <lines>Lord we lift up Your name, <br/>With our hearts full of praise.<br/>Be exalted, Oh Lord our God. <br/>Hosanna in the highest.</lines>
+      <lines>Lord we lift up Your name, <br/> With our hearts full of praise.<br/> Be exalted O Lord our God. <br/> Hosanna in the highest.</lines>
     </verse>
     <verse name="v3">
-      <lines>Glory! Glory! Glory to the King of Kings. <br/>Glory! Glory! Glory to the King of Kings.</lines>
+      <lines>Glory! Glory! Glory to the King of kings. <br/>Glory! Glory! Glory to the King of kings.</lines>
     </verse>
     <verse name="v4">
-      <lines>Lord we lift up Your name, <br/>With our hearts full of praise. <br/>Be exalted, Oh Lord our God. <br/>Glory to the King of Kings.</lines>
+      <lines>Lord we lift up Your name. <br/>With our hearts full of praise.<br/>Be exalted O Lord our God.<br/>Glory to the King of kings.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,10 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>For the Lamb, Who is in the midst<br/>Of the throne will be their Shepherd<br/>And He will guide them to the spring<br/>Of the waters of life.<br/>And God will wipe every tear<br/>From their eyes.<br/>And they shall cry, Amen.<br/>Glorify the Living God.<br/>Alleluia, sing unto His name,<br/>Forever more...</lines>
+      <lines>For the Lamb Who is in the midst<br/>Of the throne will be their shepherd,<br/>And He will guide them to the springs<br/>Of the water of life,<br/>And God will wipe every tear from their eyes.</lines>
     </verse>
     <verse name="v2">
-      <lines>Porque el cordero, que en el trono esta.<br/>El pastor de ellos sera.<br/>Y junto a fuentes de agua de vida<br/>El Señor los guiara.<br/>Y enjuagara toda lagrima de sus ojos.<br/>Y clamaran, Amen.<br/>Glorificando a el Señor.<br/>Allelujah! Cantaran a Dios,<br/>Por eternidad.</lines>
+      <lines>And they shall cry, "Amen!<br/>Glorify the Living God.<br/>Alleluia, sing unto His name<br/>Forevermore."<br/>And they shall cry, "Amen!<br/>Glorify the Living God.<br/>Alleluia sing unto His name<br/>Forevermore."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alleluia...<br/></lines>
     </verse>
   </lyrics>
 </song>

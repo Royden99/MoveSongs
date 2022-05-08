@@ -10,16 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Ah, Lord God, Thou hast made the heavens<br/>And the earth, by Thy great power.<br/>Ah, Lord God, Thou hast made the heavens<br/>And the earth, by Thine outstretched arm.</lines>
+      <lines>Ah, Lord God, Thou hast made the heavens,<br/>	         And the earth, by Thy great power.<br/>              Ah, Lord God, Thou hast made the heavens,<br/>              And the earth, by Thine outstretched arm.</lines>
     </verse>
     <verse name="v2">
-      <lines>Nothing is too difficult for Thee (2x)<br/>Ah, great and mighty God, great in counsel,<br/>And mighty in deed. Nothing! Nothing!<br/>Absolutely nothing! Nothing is too difficult for Thee. </lines>
-    </verse>
-    <verse name="v3">
-      <lines>Oh Señor Jehová, creaste los cielos <br/>Y la tierra con tu gran poder<br/>Oh Señor Jehová <br/>Creaste los cielos y la tierra<br/>Con tu brazo extendido </lines>
-    </verse>
-    <verse name="v4">
-      <lines>/Nada es imposible para ti/(2) <br/>grande y fuerte es Dios, grande en consejo<br/>magnífico en hechos, nada, nada, absolutamente <br/>nada es imposible para ti</lines>
+      <lines>Nothing is too difficult for Thee.(2x) <br/>              Ah, great and mighty God, great in counsel,  <br/>              And mighty in deed. Nothing! nothing! <br/>              Absolutely nothing! Nothing is too difficult for Thee.</lines>
     </verse>
   </lyrics>
 </song>

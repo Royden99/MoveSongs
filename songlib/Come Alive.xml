@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Come Alive</title>
+    </titles>
+    <authors>
+      <author>Lauren Daigle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>[Verse 1]<br/>Through the eyes of men it seems there's so much we have lost<br/>As we look down the road where all the prodigals have walked<br/>One by one the enemy has whispered lies and led them off as slaves</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>[Verse 2]<br/>But we know that You are God, Yours is the victory<br/>We know there is more to come that we may not yet see<br/>So with the faith You've given us, we step into the valley unafraid, yeah</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>[Chorus]<br/>As we call out to dry bones, "Come alive, come alive"<br/>We call out to dead hearts, "Come alive, come alive"<br/>Up out of the ashes, let us see an army rise<br/>We call out to dry bones, "Come alive"</lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>[Verse 3]<br/>God of endless mercy, God of unrelenting love<br/>Rescue every daughter, bring us back the wayward sons<br/>And by Your spirit breathe upon them<br/>Show the world that You alone can save<br/>You alone can save</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>[Bridge]<br/>So breathe, oh breath of God<br/>Now breathe, oh breath of God<br/>Breathe, oh breath of God<br/>Now breathe<br/>Breathe, oh breath of God<br/>Now breathe, oh breath of God<br/>Breathe, oh breath of God<br/>Now breathe</lines>
+    </verse>
+  </lyrics>
+</song>

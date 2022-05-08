@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Only the blood of Jesus<br/>Can satisfy<br/>Only the blood of Jesus<br/>Will do<br/>Only the blood of Jesus<br/>Can wash away my sin<br/>Only the blood of Jesus<br/>Will do<br/>Only the blood of Jesus<br/>Will do<br/></lines>
+      <lines>only the blood of jesus <br/>can satisfy<br/>only the blood of jesus <br/>will do<br/>only the blood of jesus <br/>can wash away our sin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>only the blood of jesus will do //</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Let Israel be glad in her Maker.<br/>Let the sons of Zion rejoice in their King.<br/>Let us praise His Name with dancing!<br/>Let us praise Him as we sing!<br/>Let us praise His name with dancing!<br/>Let us praise Him as we sing!<br/>For the Lord has His joy in His people,<br/>And we have our joy in our King. </lines>
+      <lines>Let Israel be glad in her Maker,<br/>Let the sons of Zion rejoice in their King,<br/>Let us praise His name with dancing,<br/>Let us praise Him as we sing.</lines>
     </verse>
     <verse name="v2">
-      <lines>Que los hijos de Sión regocijen <br/>Que Israel se alegre en su Hacedor<br/>Alabemos su nombre con la danza<br/>Alabémosle cantando.<br/>Alabemos su nombre con la danza <br/>Alabémosle cantando<br/>Porque Dios tiene gozo en su pueblo <br/>y tenemos nuestro gozo en el Rey.</lines>
+      <lines>Let us praise His name with dancing,<br/>Let us praise Him as we sing,<br/>For the Lord has His joy in His people,<br/>And we have our joy in our King.<br/></lines>
     </verse>
   </lyrics>
 </song>

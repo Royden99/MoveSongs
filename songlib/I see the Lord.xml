@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I see the Lord, high and lifted up,<br/>Seated on the throne of my life.    (x2)<br/>For You are holy,<br/>You are holy,<br/>You are holy,<br/>Seated on the throne of my life.<br/></lines>
+      <lines>i see the lord high and lifted up<br/>seated on the throne of my life  x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For you are holy<br/>You are holy x2<br/>Seated on the throne of my life</lines>
     </verse>
   </lyrics>
 </song>

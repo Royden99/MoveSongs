@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>City, O city of our God,<br/>All my springs of joy are in you.<br/>City, O city, of our God,<br/>All my springs of joy are in you.<br/>All my springs of joy are in you.<br/>City, O city, of our God,<br/>All my springs of joy are in you.</lines>
+      <lines>City, O city of our God,<br/>All my springs of joy are in you.<br/>City, O city, of our God,<br/>All my springs of joy are in you.</lines>
     </verse>
-    <verse name="v2">
-      <lines>This one and that one was born in her,<br/>All my springs of joy are in you.</lines>
+    <verse name="v2a">
+      <lines><br/>All my springs of joy are in you.<br/>City, O city, of our God,<br/>All my springs of joy are in you.</lines>
     </verse>
-    <verse name="v3">
-      <lines>Singers and dancers together say<br/>All my springs of joy are in you.</lines>
+    <verse name="v2b">
+      <lines>This one and that one was born in her,<br/>All my springs of joy are in you.<br/>Singers and dancers together say<br/>All my springs of joy are in you.</lines>
     </verse>
     <verse name="v4">
       <lines>City, O city of our God,<br/>Glorious things are spoken of you.<br/>City, O city, of our God,<br/>Glorious things are spoken of you.<br/>Glorious things are spoken of you.<br/>City, O city, of our God,<br/>Glorious things are spoken of you. </lines>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Oh how he loves you</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh How He loves you and me <br/>Oh How He loves you and me <br/>He gave His life what more could He give<br/>Oh How he loves you<br/>Oh how he loves me<br/>Oh how he loves you and me</lines>
+    </verse>
+  </lyrics>
+</song>

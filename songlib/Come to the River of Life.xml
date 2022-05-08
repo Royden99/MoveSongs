@@ -2,21 +2,15 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
   <properties>
     <titles>
-      <title>Come To The River Of Life</title>
+      <title>Come to the River of Life</title>
     </titles>
     <authors>
-      <author>© 1995 Integrity's Hosanna! Music Word Music</author>
+      <author>Author Unknown</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Come to the river of life,<br/>You will find healing here;<br/>Come to the river of life,<br/>Come and drink freely here,<br/>Come, if your heart is searching,<br/>Come, if your soul is thirsty,<br/>Draw near and drink<br/>Of the mercy of Jesus Christ<br/>At the river of life.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>There is a river whose streams<br/>Make glad the city of God,<br/>The city of God;<br/>So come if you're wounded or sad,<br/>There is a river,<br/>There is a river.</lines>
-    </verse>
-    <verse name="v3">
-      <lines>It flows from the land<br/>Of eternal light<br/>Where there's no more sorrow<br/>And no more night<br/>Into the hearts<br/>That are lifted to Him,<br/>Filling His children<br/>Again and again.<br/></lines>
+      <lines>Come to the River of Life<br/>You will find healing here<br/>Come to the River of Life<br/>You can drink freely here<br/>Come if your heart is searching<br/>Come if your soul is thirsting<br/>Draw near and drink from the mercies<br/>of Jesus Christ <br/>At the River of Life</lines>
     </verse>
   </lyrics>
 </song>

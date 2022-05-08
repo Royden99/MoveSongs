@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>You did not wait for me to draw near to You,<br/>But You clothed Yourself With frail humanity;<br/>You did not wait for me to cry out to You,<br/>But You let me hear your voice calling me.<br/>I'm forever grateful to You,<br/>I'm forever grateful for the cross,<br/>I'm forever grateful to You,<br/>That You came to seek and save the lost.<br/></lines>
+      <lines>You did not wait for me, to draw near to You.<br/>But You clothed Yourself in frail humanity.<br/>You did not wait for me, to cry out to You.<br/>But You let me hear Your voice calling me.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And I'm forever grateful to You.<br/>	And I'm forever grateful for the cross.<br/>	And I'm forever grateful to You<br/>	That You came to seek and save the lost.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I sing praises to Your name, O Lord,<br/>Praises to Your name, O Lord;<br/>For Your name is great and<br/>Greatly to be praised. (Repeat)</lines>
+      <lines>I sing praises to your name, oh Lord, praises to your name oh Lord<br/>For your name is great and greatly to be praised<br/>**<br/>I sing holy is your name, oh Lord, holy is your name oh Lord<br/>For your name is great and greatly to be praised</lines>
     </verse>
     <verse name="v2">
-      <lines>I give glory to Your name, O Lord,<br/>Glory to Your name, O Lord;<br/>For Your name is great and<br/>Greatly to be praised. (Repeat)</lines>
-    </verse>
-    <verse name="v3">
-      <lines>I give worship to Your name, O Lord,<br/>Worship to Your name, O Lord;<br/>For Your name is great and<br/>Greatly to be praised. (Repeat)<br/></lines>
+      <lines>(I sing worthy is your name...)<br/>(We sing glory to your name..)</lines>
     </verse>
   </lyrics>
 </song>

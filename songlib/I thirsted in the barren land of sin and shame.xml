@@ -10,13 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I thirsted in the barren land of sin and shame<br/>And nothing satisfying there I found.<br/>But to the blessed cross of Christ one day I came<br/>Where springs of living water did abound.<br/>Chorus:<br/>Drinking at the springs of living water,<br/>Happy now am I. My soul is satisfied<br/>Drinking at the springs of living water,<br/>O wonderful and bountiful supply.</lines>
+      <lines>I thirsted in the barren land of sin and shame<br/>          And nothing satisfying there I found.<br/>          But to the blessed cross of Christ one day I came<br/>          Where springs of living water did abound.</lines>
     </verse>
     <verse name="v2">
-      <lines>How sweet the living water from the hills of God,<br/>It makes me glad and happy all the way.<br/>Now glory, grace, and blessing mark the path I've trod.<br/>I'm shouting, Hallelujah! every day.</lines>
+      <lines>Drinking at the springs of living water,<br/> Happy now am I.  My soul is satisfied<br/> Drinking at the springs of living water, <br/> O wonderful and bountiful supply.</lines>
     </verse>
     <verse name="v3">
-      <lines>O sinner, won't you come today to Calvary?<br/>A fountain there is flowing deep and wide.<br/>The Savior now invites you to the water free<br/>Where thirsting spirits can be satisfied.</lines>
+      <lines>How sweet the living water from the hills of God, <br/> It makes me glad and happy all the way. <br/> Now glory, grace, and blessing, mark the path I've trod. <br/> I'm shouting, "Hallelujah!" every day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>0 sinner, won't you come today to Calvary? <br/> A fountain there is flowing deep and wide.<br/> The Savior now invites you to the water free <br/> Where thirsting spirits can   be satisfied.</lines>
     </verse>
   </lyrics>
 </song>

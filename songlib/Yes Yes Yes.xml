@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Yes Yes Yes</title>
+      <title>Unkonown</title>
+    </titles>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yes! Yes! Yes!<br/>The Lord God Liveth<br/>Yes! Yes! Yes!<br/>The Lord God Liveth<br/>Yes! Yes! Yes!<br/>The Lord God Liveth<br/><br/>He's about to do great and wonderful things<br/></lines>
+    </verse>
+  </lyrics>
+</song>

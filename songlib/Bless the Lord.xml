@@ -9,7 +9,7 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1a">
+    <verse name="v1">
       <lines>Bless the Lord, O my soul,<br/>And all that is within me bless His holy name.</lines>
     </verse>
     <verse name="v2">
@@ -17,9 +17,6 @@
     </verse>
     <verse name="v3">
       <lines>Whereof we are glad (x3)<br/>Bless His holy name.<br/></lines>
-    </verse>
-    <verse name="v1b">
-      <lines>Bendecid a Jehová, mí alma.<br/>Y todo lo que hay en mí bendecid su santo nombre.<br/>Bendecid a Jehová, mí alma.<br/>Y todo lo que hay en mí bendecid su santo nombre.<br/>Pues, grandes cosas ha hecho Él.<br/>Grandes cosas ha hecho Él.<br/>Grandes cosas ha hecho Él.<br/>Bendecid su santo nombre.<br/></lines>
     </verse>
   </lyrics>
 </song>
